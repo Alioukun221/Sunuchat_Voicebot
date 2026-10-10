@@ -32,8 +32,6 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name
 log = logging.getLogger("sunuchat")
 
 MSG_POSITION = "Je viens de partager ma position. Où est le poste de santé le plus proche ?"
-# Texte obligatoire du message à bouton : la personne entend la consigne dans le vocal juste
-# avant, le bouton suffit.
 MSG_DEMANDE_POSITION = "📍"
 # Formats lus comme une ordonnance.
 ORDONNANCE_TYPES = ("image/jpeg", "image/png", "image/webp", "application/pdf")

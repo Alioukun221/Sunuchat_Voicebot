@@ -73,7 +73,6 @@ def _setup_env() -> None:
     """ADK lit la clé Gemini dans les variables d'environnement."""
     s = get_settings()
     if s.google_api_key:
-        # On écrase toujours : une variable vide héritée du terminal bloquerait ADK.
         os.environ["GOOGLE_API_KEY"] = s.google_api_key
     elif not os.environ.get("GOOGLE_API_KEY"):
         log.error("GOOGLE_API_KEY manquante dans le .env : l'agent Gemini ne peut pas répondre")
@@ -527,8 +526,7 @@ def _translation_config(s) -> types.GenerateContentConfig:
 
 @functools.cache
 def _genai_client() -> genai.Client:
-    # Client gardé en vie : un client temporaire peut être libéré (et sa session HTTP
-    # fermée) pendant la requête, d'où « assert self._connector is not None ».
+    # Client gardé en vie : un client temporaire peut être libéré (et sa session HTTP)
     return genai.Client()
 
 
@@ -639,7 +637,6 @@ def build_app() -> App:
         instruction=traduction_instruction,
         include_contents="none",
         output_key="reponse_finale",
-        # Réflexion minimale (128, le plancher de 2.5 Pro) : une traduction n'en a pas besoin.
         generate_content_config=_translation_config(s),
         on_model_error_callback=translation_fallback,
     )
@@ -710,7 +707,6 @@ async def answer(
     langue = user_language(state)
     actions = _pending_actions.setdefault(user_id, [])
     if not actions and state.get("demander_position"):
-        # Le modèle n'a pas pensé au bouton : on l'envoie quand même.
         actions.append({"type": "location_request"})
     if state.get("alertes"):
         actions.append({"type": "samu"})  # fiche contact : appel au SAMU en un appui

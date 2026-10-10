@@ -108,7 +108,7 @@ def list_reminders(to: str) -> list[str]:
 
 
 # ---------- Rappels de vaccins ----------
-VACCINE_REMINDER_TIME = time(10, 0)  # la veille du rendez-vous, à 10 h (heure de Dakar)
+VACCINE_REMINDER_TIME = time(10, 0)  
 
 
 async def send_vaccine_reminder(to: str, age: str, due: str, vaccins: str) -> None:

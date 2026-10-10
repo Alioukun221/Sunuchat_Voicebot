@@ -368,7 +368,6 @@ relais) peuvent aussi s'en servir comme appui.
 
 **Prochaines étapes**
 - Faire valider les textes et les réponses par des locuteurs natifs et des professionnels de santé.
-- Ajouter d'autres langues nationales (sérère, diola, mandinka, soninké).
 - Rappels vocaux hors de la fenêtre de 24 h grâce à des modèles Meta avec en-tête vidéo.
 - Tableau de bord anonymisé pour le suivi épidémiologique (questions fréquentes par zone).
 - Partenariats avec les districts sanitaires et les programmes nationaux (PNLP, PEV).

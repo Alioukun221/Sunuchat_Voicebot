@@ -56,7 +56,6 @@ def _client() -> httpx.AsyncClient:
         base_url=s.speech_api_base_url,
         headers={
             "Authorization": f"Bearer {s.speech_api_key}",
-            # Sans User-Agent, le proxy de l'hébergeur bloque la requête.
             "User-Agent": "sunuchat/0.1",
         },
         timeout=60,

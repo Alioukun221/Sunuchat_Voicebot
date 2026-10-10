@@ -272,8 +272,7 @@ async def collect_passages(kb_dir: Path, web: bool = True) -> list[Passage]:
 
 # ---------- Embeddings (modèle local) et base vectorielle ChromaDB ----------
 #
-# Les embeddings sont calculés sur le Mac avec un modèle local (par défaut BAAI/bge-m3,
-# multilingue, très bon en français) : pas de quota, pas de coût. Le modèle est téléchargé
+# Le modèle est téléchargé
 # une seule fois depuis Hugging Face (environ 2,3 Go) puis gardé en cache.
 # Les passages et leurs vecteurs sont stockés dans ChromaDB (data/chroma/).
 
@@ -360,7 +359,7 @@ def build_index(passages: list[Passage], limit: int | None = None, reset: bool =
 
 
 def load_index() -> bool:
-    """Ouvre ChromaDB et charge le modèle au démarrage du serveur (pas au premier message)."""
+    """Ouvre ChromaDB et charge le modèle au démarrage du serveur"""
     try:
         n = collection().count()
     except Exception:

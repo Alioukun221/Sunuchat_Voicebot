@@ -10,7 +10,6 @@ ROOT = Path(__file__).resolve().parents[2]
 
 class Settings(BaseSettings):
     # env_ignore_empty : une variable vide dans le terminal (ex. GOOGLE_API_KEY=)
-    # ne doit pas écraser la valeur du .env.
     model_config = SettingsConfigDict(env_file=ROOT / ".env", extra="ignore", env_ignore_empty=True)
 
     # WhatsApp Cloud API (Meta)
