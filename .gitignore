@@ -21,3 +21,6 @@ data/raw/sources/
 data/chroma/
 
 .DS_Store
+
+# Notes privées
+DEPLOIEMENT.md

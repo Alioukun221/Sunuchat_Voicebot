@@ -322,7 +322,6 @@ rsync -avz --exclude .venv --exclude .git --exclude __pycache__ --exclude .env \
 ssh -i ~/.ssh/<cle>.pem ubuntu@<ip> "cd ~/sunuchat && docker compose up -d --build"
 ```
 
-Le guide pas à pas est dans [DEPLOIEMENT.md](DEPLOIEMENT.md).
 
 ## 📁 Structure du code
 
