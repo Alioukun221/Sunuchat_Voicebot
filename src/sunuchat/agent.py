@@ -439,6 +439,7 @@ def _web_search_tool():
             instruction=WEB_PROMPT,
             tools=[google_search],
             generate_content_config=_config(s.translation_model or s.fast_model, temperature=0.2),
+            on_model_error_callback=model_fallback,
         )
     )
 
@@ -531,30 +532,44 @@ def _genai_client() -> genai.Client:
     return genai.Client()
 
 
+async def _generate_with_fallback(model: str, error: Exception, contents, config) -> LlmResponse:
+    """Le modèle `model` a refusé (quota gratuit épuisé, surcharge…) : on essaie les modèles de
+    secours un par un. Si tous échouent, l'erreur d'origine remonte et main.py envoie le
+    message d'excuse en vocal."""
+    for other in get_settings().models_after(model):
+        log.warning("%s indisponible (%s) : essai avec %s", model, str(error)[:120], other)
+        try:
+            r = await _genai_client().aio.models.generate_content(
+                model=other, contents=contents, config=config
+            )
+            return LlmResponse.create(r)
+        except Exception as e:
+            error = e
+    log.error("Aucun modèle de secours n'a répondu")
+    raise error
+
+
+async def model_fallback(
+    callback_context: CallbackContext, llm_request, error: Exception
+) -> LlmResponse:
+    """Même requête (consignes, outils, format de sortie) envoyée à un modèle de secours."""
+    config = llm_request.config.model_copy() if llm_request.config else None
+    if config is not None:
+        config.thinking_config = None  # chaque modèle a ses propres réglages de réflexion
+    return await _generate_with_fallback(llm_request.model, error, llm_request.contents, config)
+
+
 async def translation_fallback(
     callback_context: CallbackContext, llm_request, error: Exception
 ) -> LlmResponse:
-    """Modèle de traduction indisponible (quota épuisé, lenteur, erreur) : on retraduit avec
-    FAST_MODEL. Si lui aussi échoue, l'erreur remonte et main.py envoie le message d'excuse
-    (jamais de réponse en français à quelqu'un qui parle wolof ou pulaar)."""
-    s = get_settings()
-    log.warning(
-        "Traduction avec %s impossible (%s) : repli sur %s",
-        s.translation_model,
+    """Traduction impossible : la consigne est reconstruite depuis l'état, en un seul message,
+    et envoyée aux modèles de secours (jamais de réponse en français)."""
+    return await _generate_with_fallback(
+        llm_request.model,
         error,
-        s.fast_model,
+        traduction_instruction(callback_context),
+        types.GenerateContentConfig(temperature=0.2),
     )
-    try:
-        # La consigne de traduction est reconstruite depuis l'état, en un seul message.
-        r = await _genai_client().aio.models.generate_content(
-            model=s.fast_model,
-            contents=traduction_instruction(callback_context),
-            config=types.GenerateContentConfig(temperature=0.2),
-        )
-        return LlmResponse.create(r)
-    except Exception:
-        log.exception("Traduction de secours impossible : message d'excuse envoyé")
-        raise
 
 
 # ---------- Assemblage ----------
@@ -572,6 +587,7 @@ def build_app() -> App:
         output_key="comprehension",
         generate_content_config=_config(s.fast_model, temperature=0),
         after_agent_callback=after_comprehension,
+        on_model_error_callback=model_fallback,
     )
     sante = LlmAgent(
         name="sante",
@@ -591,6 +607,7 @@ def build_app() -> App:
         output_key="reponse_fr",
         generate_content_config=_config(s.agent_model),
         after_agent_callback=after_sante,
+        on_model_error_callback=model_fallback,
     )
     traduction = LlmAgent(
         name="traduction",
@@ -600,7 +617,7 @@ def build_app() -> App:
         output_key="reponse_finale",
         # Réflexion minimale (128, le plancher de 2.5 Pro) : une traduction n'en a pas besoin.
         generate_content_config=_translation_config(s),
-        on_model_error_callback=translation_fallback if s.translation_model else None,
+        on_model_error_callback=translation_fallback,
     )
     pipeline = SequentialAgent(name="sunuchat", sub_agents=[comprehension, sante, traduction])
     return App(

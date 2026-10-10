@@ -32,6 +32,9 @@ class Settings(BaseSettings):
     # Modèle de traduction (wolof, pulaar). Vide : FAST_MODEL. gemini-flash-latest écrit un
     # wolof plus juste que la version lite, pour un coût un peu plus élevé.
     translation_model: str = ""
+    # Modèles de secours, essayés dans l'ordre quand un modèle refuse (quota gratuit épuisé,
+    # surcharge…) : chaque modèle a son propre quota, séparés par des virgules.
+    fallback_models: str = "gemini-3.5-flash-lite,gemini-3.1-flash-lite,gemini-flash-lite-latest"
     # Modèle d'embeddings local (sentence-transformers) pour le RAG.
     embedding_model: str = "BAAI/bge-m3"
     # "mps" (GPU du Mac), "cpu" ou "cuda". Vide : choix automatique.
@@ -58,6 +61,11 @@ class Settings(BaseSettings):
     template_rappel_vaccin: str = ""  # corps avec 3 variables : âge, date, vaccins
     template_alerte_saison: str = ""  # sans variable, en-tête image facultatif
     template_language: str = "fr"
+
+    def models_after(self, model: str) -> list[str]:
+        """Modèles de secours à essayer quand `model` refuse."""
+        names = [m.strip() for m in self.fallback_models.split(",") if m.strip()]
+        return [m for m in dict.fromkeys(names) if m != model]
 
     @property
     def graph_url(self) -> str:

@@ -129,17 +129,18 @@ def test_translation_fallback_raises_when_everything_fails(monkeypatch):
 
     from sunuchat import agent
 
-    class Broken:
-        def __init__(self, *a, **k):
-            raise RuntimeError("pas de réseau")
+    async def broken(model, contents, config):
+        raise RuntimeError("pas de réseau")
 
-    monkeypatch.setattr(agent.genai, "Client", Broken)
+    client = SimpleNamespace(aio=SimpleNamespace(models=SimpleNamespace(generate_content=broken)))
+    monkeypatch.setattr(agent, "_genai_client", lambda: client)
     ctx = SimpleNamespace(state={"reponse_fr": "Va au poste de santé.", "user:langue": "wolof"})
+    req = SimpleNamespace(model="gemini-3.5-flash-lite")
     with pytest.raises(RuntimeError):
-        asyncio.run(agent.translation_fallback(ctx, None, RuntimeError("429 quota")))
+        asyncio.run(agent.translation_fallback(ctx, req, RuntimeError("429 quota")))
 
 
-def test_translation_fallback_retranslates_with_fast_model(monkeypatch):
+def test_translation_fallback_retranslates_with_another_model(monkeypatch):
     import asyncio
     from types import SimpleNamespace
 
@@ -160,11 +161,10 @@ def test_translation_fallback_retranslates_with_fast_model(monkeypatch):
                 ]
             )
 
-    class Client:
-        aio = SimpleNamespace(models=Models())
-
-    monkeypatch.setattr(agent.genai, "Client", Client)
+    client = SimpleNamespace(aio=SimpleNamespace(models=Models()))
+    monkeypatch.setattr(agent, "_genai_client", lambda: client)
     ctx = SimpleNamespace(state={"reponse_fr": "Va au poste de santé.", "user:langue": "wolof"})
-    r = asyncio.run(agent.translation_fallback(ctx, None, RuntimeError("404")))
+    req = SimpleNamespace(model="gemini-3.5-flash-lite")
+    r = asyncio.run(agent.translation_fallback(ctx, req, RuntimeError("404")))
     assert r.content.parts[0].text == "Dem ci"
     assert "Va au poste de santé." in calls[0][1]

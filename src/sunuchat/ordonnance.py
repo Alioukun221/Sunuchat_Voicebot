@@ -49,15 +49,23 @@ def _client() -> genai.Client:
 async def read(data: bytes, mime_type: str) -> Ordonnance:
     """Lit l'ordonnance (image ou PDF)."""
     s = get_settings()
-    r = await _client().aio.models.generate_content(
-        model=s.translation_model or s.fast_model,
-        contents=[types.Part.from_bytes(data=data, mime_type=mime_type), PROMPT],
-        config=types.GenerateContentConfig(
-            temperature=0,
-            response_mime_type="application/json",
-            response_schema=Ordonnance,
-        ),
+    model = s.translation_model or s.fast_model
+    config = types.GenerateContentConfig(
+        temperature=0, response_mime_type="application/json", response_schema=Ordonnance
     )
+    contents = [types.Part.from_bytes(data=data, mime_type=mime_type), PROMPT]
+    models = [model, *s.models_after(model)]
+    for i, m in enumerate(models):
+        try:
+            r = await _client().aio.models.generate_content(
+                model=m, contents=contents, config=config
+            )
+            break
+        except Exception:
+            # Quota épuisé, surcharge… : modèle suivant ; le dernier échec remonte.
+            if i == len(models) - 1:
+                raise
+            log.warning("%s indisponible pour l'ordonnance : modèle suivant", m)
     if isinstance(r.parsed, Ordonnance):
         return r.parsed
     return Ordonnance.model_validate_json(r.text or "{}")

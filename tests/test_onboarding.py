@@ -196,3 +196,41 @@ def test_images_uploaded_once(monkeypatch, tmp_path):
     assert asyncio.run(images.media_id("paludisme")) == "media-1"
     assert uploads == [("image/jpeg", "paludisme.jpg")]
     assert asyncio.run(images.media_id("dengue")) is None
+
+
+def test_models_after_skips_failed_model():
+    from sunuchat.config import Settings
+
+    s = Settings(fallback_models="a, b ,a,,c")
+    assert s.models_after("b") == ["a", "c"]
+
+
+def test_model_fallback_tries_next_model(monkeypatch):
+    import asyncio
+    from types import SimpleNamespace
+
+    from google.genai import types
+
+    from sunuchat import agent
+
+    calls = []
+
+    async def generate_content(model, contents, config):
+        calls.append(model)
+        if model == "b":
+            raise RuntimeError("429")
+        return types.GenerateContentResponse(
+            candidates=[
+                types.Candidate(content=types.Content(role="model", parts=[types.Part(text="ok")]))
+            ]
+        )
+
+    client = SimpleNamespace(
+        aio=SimpleNamespace(models=SimpleNamespace(generate_content=generate_content))
+    )
+    monkeypatch.setattr(agent, "_genai_client", lambda: client)
+    monkeypatch.setattr(agent.get_settings(), "fallback_models", "a,b,c")
+    req = SimpleNamespace(model="a", contents=[], config=types.GenerateContentConfig())
+    r = asyncio.run(agent.model_fallback(None, req, RuntimeError("429")))
+    assert calls == ["b", "c"]
+    assert r.content.parts[0].text == "ok"
