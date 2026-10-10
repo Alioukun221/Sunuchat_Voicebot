@@ -13,6 +13,14 @@
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Lightsail-FF9900?logo=amazonaws&logoColor=white)
 
+<br/>
+
+<a href="https://wa.me/221769329923"><img src="https://img.shields.io/badge/💬_Essayer_SunuChat-%2B221_76_932_99_23-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Essayer SunuChat sur WhatsApp"/></a>
+
+<a href="https://wa.me/221769329923"><img src="assets/qr_whatsapp.png" width="220" alt="QR code SunuChat sur WhatsApp"/></a>
+
+*Scanne le QR code ou clique sur le bouton, puis envoie un vocal en wolof ou en pulaar.*
+
 </div>
 
 ---
