@@ -20,44 +20,137 @@ def _capture(monkeypatch):
 
 def test_buttons_list_contact_template_payloads(monkeypatch):
     sent = _capture(monkeypatch)
-    asyncio.run(whatsapp.send_buttons("221", "Choisis", textes.BOUTONS_LANGUE, "img1"))
-    asyncio.run(whatsapp.send_list("221", "Menu", "Tànnal", textes.MENU["wolof"]))
+    boutons = [("langue_wolof", "Wolof"), ("langue_pulaar", "Pulaar")]
+    lignes = [("menu_palu", "Sibiru", "Màndarga yi"), ("menu_dengue", "Dengue", "Màndarga yi")]
+    asyncio.run(whatsapp.send_buttons("221", "Choisis", boutons, "img1"))
+    asyncio.run(whatsapp.send_list("221", "Menu", "Tànnal", lignes))
     asyncio.run(whatsapp.send_contact("221", "SAMU", "1515"))
     asyncio.run(whatsapp.send_template("221", "rappel_vaccin", "fr", ["6 semaines"], "img2"))
     buttons, menu, contact, template = sent
     assert [b["reply"]["id"] for b in buttons["interactive"]["action"]["buttons"]] == [
         "langue_wolof",
         "langue_pulaar",
-        "langue_francais",
     ]
     assert buttons["interactive"]["header"]["image"]["id"] == "img1"
     rows = menu["interactive"]["action"]["sections"][0]["rows"]
-    assert len(rows) == 5 and rows[0]["id"] == "menu_palu"
+    assert len(rows) == 2 and rows[0]["id"] == "menu_palu"
     assert contact["contacts"][0]["phones"][0]["phone"] == "1515"
     assert template["template"]["components"][1]["parameters"][0]["text"] == "6 semaines"
 
 
-def test_whatsapp_limits_respected_in_texts():
-    for _, title in textes.BOUTONS_LANGUE:
-        assert len(title) <= 20
+def test_texts_only_in_wolof_and_pulaar():
+    assert textes.LANGUES == ("wolof", "pulaar")
+    for nom in (
+        "ERREUR",
+        "VOCAL_KO",
+        "TYPE_NON_GERE",
+        "ORDONNANCE_ILLISIBLE",
+        "RAPPEL_MEDICAMENT",
+        "RAPPEL_VACCIN",
+        "DESINSCRIT",
+        "REINSCRIT",
+    ):
+        assert set(getattr(textes, nom)) == {"wolof", "pulaar"}, nom
     for langue in textes.LANGUES:
-        assert len(textes.MENU_BOUTON[langue]) <= 20
-        for rid, title, desc in textes.MENU[langue]:
-            assert len(title) <= 24 and len(desc) <= 72
-            assert rid in textes.QUESTIONS_MENU or rid == "menu_urgence"
-        assert textes.BIENVENUE[langue] and textes.URGENCE[langue]
+        assert "{medicament}" in textes.RAPPEL_MEDICAMENT[langue]
+        assert "{jour}" in textes.RAPPEL_VACCIN[langue]
 
 
-def test_greetings_and_commands():
-    assert onboarding.is_greeting("Salam")
-    assert onboarding.is_greeting("Asalaa maalekum")
-    assert onboarding.is_greeting("No mbaɗ-ɗaa ?")
-    assert not onboarding.is_greeting(
-        "Salam, mon enfant a de la fièvre depuis hier soir, que faire ?"
-    )
-    assert onboarding.command("Menu") == "menu"
+def test_commands_and_language():
     assert onboarding.command("STOP") == "stop"
+    assert onboarding.command("Alerte.") == "alerte"
     assert onboarding.command("j'ai mal") is None
+    # Un ancien profil en français repasse en wolof : SunuChat ne parle plus français.
+    assert onboarding.language_of({"langue": "francais"}) == "wolof"
+    assert onboarding.language_of({"langue": "pulaar"}) == "pulaar"
+
+
+def _reminder_fakes(monkeypatch, sent, langue="pulaar"):
+    async def fake_profile(user):
+        return {"langue": langue}
+
+    async def fake_synthesize(text, language):
+        sent.append(("voix", language, text))
+        return b"wav"
+
+    async def fake_video(wav, animation):
+        sent.append(("animation", animation.name))
+        return b"mp4"
+
+    async def fake_send_video(to, mp4):
+        sent.append(("video", to))
+
+    monkeypatch.setattr(reminders.memory, "get_profile", fake_profile)
+    monkeypatch.setattr(reminders.speech, "synthesize", fake_synthesize)
+    monkeypatch.setattr(reminders.speech, "voice_video", fake_video)
+    monkeypatch.setattr(reminders.whatsapp, "send_video", fake_send_video)
+
+
+def test_medication_reminder_is_spoken_on_animation(monkeypatch):
+    sent = []
+    _reminder_fakes(monkeypatch, sent)
+    asyncio.run(reminders.send_medication_reminder("221", "Coartem"))
+    texte = textes.RAPPEL_MEDICAMENT["pulaar"].format(medicament="Coartem")
+    assert sent == [
+        ("voix", "pulaar", texte),
+        ("animation", "rappel_medicament.mp4"),
+        ("video", "221"),
+    ]
+
+
+def test_old_text_reminder_jobs_still_spoken(monkeypatch):
+    sent = []
+    _reminder_fakes(monkeypatch, sent, langue="wolof")
+    asyncio.run(reminders.send_reminder("221", "c'est l'heure de prendre Coartem."))
+    assert sent[0] == (
+        "voix",
+        "wolof",
+        textes.RAPPEL_MEDICAMENT["wolof"].format(medicament="Coartem"),
+    )
+
+
+def test_vaccine_reminder_falls_back_to_template_outside_window(monkeypatch):
+    sent = []
+    _reminder_fakes(monkeypatch, sent)
+
+    async def refused(to, mp4):
+        raise RuntimeError("131047 : fenêtre de 24 h fermée")
+
+    async def fake_template(to, name, language, params, image_id=None):
+        sent.append(("modele", name, params))
+
+    async def no_image(name):
+        return None
+
+    monkeypatch.setattr(reminders.whatsapp, "send_video", refused)
+    monkeypatch.setattr(reminders.whatsapp, "send_template", fake_template)
+    monkeypatch.setattr(images, "media_id", no_image)
+    monkeypatch.setattr(get_settings(), "template_rappel_vaccin", "rappel_vaccin")
+    asyncio.run(reminders.send_vaccine_reminder("221", "6 semaines", "2026-10-12", "Penta 1"))
+    assert sent[-1] == ("modele", "rappel_vaccin", ["6 semaines", "12/10/2026", "Penta 1"])
+
+
+def test_prescription_text_for_agent():
+    from sunuchat import ordonnance
+
+    o = ordonnance.Ordonnance(
+        est_ordonnance=True,
+        lisible=True,
+        medicaments=[
+            ordonnance.Medicament(
+                nom="Amoxicilline",
+                dosage="500 mg",
+                posologie="1 gélule matin et soir",
+                duree="7 jours",
+            ),
+            ordonnance.Medicament(nom="Doliprane", incertain=True),
+        ],
+        consignes="Après le repas",
+    )
+    texte = ordonnance.as_text(o)
+    assert "Amoxicilline : 500 mg, 1 gélule matin et soir, 7 jours" in texte
+    assert "Doliprane (difficile à lire)" in texte
+    assert "Consignes : Après le repas" in texte
 
 
 def test_vaccine_reminders_scheduled_day_before(monkeypatch):

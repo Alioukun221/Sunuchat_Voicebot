@@ -1,7 +1,7 @@
-"""Visuels envoyés sur WhatsApp (accueil, paludisme, dengue, vaccins…).
+"""Visuels envoyés sur WhatsApp (accueil, alerte d'hivernage).
 
 Il suffit de déposer les images dans assets/images/ avec ces noms (jpg ou png) :
-  accueil, paludisme, dengue, vaccins, poste, urgence, hivernage
+  accueil (dessin du bouton micro), hivernage
 Une image absente est simplement sautée. Chaque image est envoyée une fois à Meta, puis
 son identifiant est réutilisé (gardé 25 jours dans data/images.json : Meta les garde 30).
 """

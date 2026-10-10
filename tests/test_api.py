@@ -93,186 +93,194 @@ def test_post_rejects_bad_signature(client):
     assert client.post("/webhook", content=body, headers=headers).status_code == 403
 
 
-def test_post_text_message_answers(client, monkeypatch):
-    sent = []
+@pytest.fixture
+def sent(monkeypatch):
+    """Tout ce que le bot envoie sur WhatsApp. Un vocal est noté ("vocal", texte lu)."""
+    out = []
 
     async def fake_send_text(to, text):
-        sent.append((to, text))
+        out.append(("texte", text))
 
-    async def fake_typing(message_id):
-        return None
-
-    async def fake_answer(user, text):
-        return f"réponse à {text}", "wolof"
-
-    from sunuchat import agent
-
-    monkeypatch.setattr(main.whatsapp, "send_text", fake_send_text)
-    monkeypatch.setattr(main.whatsapp, "mark_read_and_typing", fake_typing)
-    monkeypatch.setattr(agent, "answer", fake_answer)
-    body, headers = _signed(_text_payload("Salam"))
-    assert client.post("/webhook", content=body, headers=headers).status_code == 200
-    # Le même message renvoyé par Meta n'est traité qu'une fois.
-    client.post("/webhook", content=body, headers=headers)
-    assert sent == [("221700000000", "réponse à Salam")]
-
-
-def test_agent_error_sends_friendly_message(client, monkeypatch):
-    sent = []
-
-    async def fake_send_text(to, text):
-        sent.append(text)
-
-    async def fake_typing(message_id):
-        return None
-
-    async def broken_answer(user, text):
-        raise RuntimeError("quota")
-
-    from sunuchat import agent
-
-    monkeypatch.setattr(main.whatsapp, "send_text", fake_send_text)
-    monkeypatch.setattr(main.whatsapp, "mark_read_and_typing", fake_typing)
-    monkeypatch.setattr(agent, "answer", broken_answer)
-    body, headers = _signed(_text_payload("Salam", "wamid.2"))
-    client.post("/webhook", content=body, headers=headers)
-    assert sent == [main.MSG_ERREUR]
-
-
-def test_location_message_sends_nearest_health_post(client, monkeypatch):
-    sent = []
-
-    async def fake_send_text(to, text):
-        sent.append(("text", text))
-
-    async def fake_send_location(to, lat, lon, name="", address=""):
-        sent.append(("location", name))
-
-    async def fake_typing(message_id):
-        return None
-
-    from sunuchat import agent
-
-    async def fake_answer(user, text, position=None):
-        assert position == {"lat": 14.755, "lon": -17.39}
-        agent._pending_actions[user] = [
-            {
-                "type": "location",
-                "lat": 14.76,
-                "lon": -17.39,
-                "nom": "Poste de Santé",
-                "adresse": "",
-            }
-        ]
-        return "Le poste le plus proche est à 600 mètres.", "wolof"
-
-    monkeypatch.setattr(main.whatsapp, "send_text", fake_send_text)
-    monkeypatch.setattr(main.whatsapp, "send_location", fake_send_location)
-    monkeypatch.setattr(main.whatsapp, "mark_read_and_typing", fake_typing)
-    monkeypatch.setattr(agent, "answer", fake_answer)
-    payload = _text_payload("", "wamid.loc")
-    msg = payload["entry"][0]["changes"][0]["value"]["messages"][0]
-    msg.pop("text")
-    msg.update(type="location", location={"latitude": 14.755, "longitude": -17.39})
-    body, headers = _signed(payload)
-    client.post("/webhook", content=body, headers=headers)
-    assert sent == [
-        ("text", "Le poste le plus proche est à 600 mètres."),
-        ("location", "Poste de Santé"),
-    ]
-
-
-def _audio_payload(msg_id):
-    payload = _text_payload("", msg_id)
-    msg = payload["entry"][0]["changes"][0]["value"]["messages"][0]
-    msg.pop("text")
-    msg.update(type="audio", audio={"id": "media.1"})
-    return payload
-
-
-def _voice_fakes(monkeypatch, sent, tts_ok=True):
-    from sunuchat import agent
-
-    async def fake_send_text(to, text):
-        sent.append(("text", text))
+    async def fake_tts(text, langue):
+        return f"{langue}:{text}".encode()
 
     async def fake_send_audio(to, ogg):
-        sent.append(("audio", ogg))
+        out.append(("vocal", ogg.decode()))
+
+    async def fake_send_location(to, lat, lon, name="", address=""):
+        out.append(("carte", name))
 
     async def fake_send_location_request(to, text):
-        sent.append(("bouton", text))
+        out.append(("bouton position", text))
+
+    async def fake_send_contact(to, name, phone):
+        out.append(("fiche", phone))
 
     async def fake_typing(message_id):
         return None
 
     async def fake_download(media_id):
-        return b"ogg"
+        return b"media"
 
     async def fake_transcribe(audio):
         return "Fan la poste de santé bi gën a jege nekk ?"
 
-    async def fake_tts(text, langue):
-        if not tts_ok:
-            raise RuntimeError("TTS indisponible")
-        return b"voix"
-
-    async def fake_answer(user, text, position=None):
-        agent._pending_actions[user] = [{"type": "location_request"}]
-        return "Bësal bouton bi ngir yónnee sa position.", "wolof"
-
     monkeypatch.setattr(main.whatsapp, "send_text", fake_send_text)
+    monkeypatch.setattr(main.speech, "text_to_voice_note", fake_tts)
     monkeypatch.setattr(main.whatsapp, "send_audio", fake_send_audio)
+    monkeypatch.setattr(main.whatsapp, "send_location", fake_send_location)
     monkeypatch.setattr(main.whatsapp, "send_location_request", fake_send_location_request)
+    monkeypatch.setattr(main.whatsapp, "send_contact", fake_send_contact)
     monkeypatch.setattr(main.whatsapp, "mark_read_and_typing", fake_typing)
     monkeypatch.setattr(main.whatsapp, "download_media", fake_download)
     monkeypatch.setattr(main.speech, "transcribe", fake_transcribe)
-    monkeypatch.setattr(main.speech, "text_to_voice_note", fake_tts)
-    monkeypatch.setattr(agent, "answer", fake_answer)
+    main.onboarding._voice_cache.clear()
+    return out
 
 
-def test_voice_message_gets_voice_only_then_button(client, monkeypatch):
-    sent = []
-    _voice_fakes(monkeypatch, sent)
-    body, headers = _signed(_audio_payload("wamid.voice1"))
-    client.post("/webhook", content=body, headers=headers)
-    assert sent == [("audio", b"voix"), ("bouton", main.MSG_DEMANDE_POSITION)]
+def _set_answer(monkeypatch, fn):
+    from sunuchat import agent
+
+    monkeypatch.setattr(agent, "answer", fn)
+    return agent
 
 
-def test_voice_falls_back_to_text_when_tts_fails(client, monkeypatch):
-    sent = []
-    _voice_fakes(monkeypatch, sent, tts_ok=False)
-    body, headers = _signed(_audio_payload("wamid.voice2"))
-    client.post("/webhook", content=body, headers=headers)
-    assert sent[0] == ("text", "Bësal bouton bi ngir yónnee sa position.")
-    assert ("audio", b"voix") not in sent
-
-
-def test_location_after_voice_answers_in_voice(client, monkeypatch):
-    sent = []
-    _voice_fakes(monkeypatch, sent)
-    body, headers = _signed(_audio_payload("wamid.voice3"))
-    client.post("/webhook", content=body, headers=headers)
-    sent.clear()
-    payload = _text_payload("", "wamid.voice3.loc")
-    msg = payload["entry"][0]["changes"][0]["value"]["messages"][0]
-    msg.pop("text")
-    msg.update(type="location", location={"latitude": 14.7, "longitude": -17.4})
+def _post(client, payload):
     body, headers = _signed(payload)
-    client.post("/webhook", content=body, headers=headers)
-    assert sent[0] == ("audio", b"voix")
-    assert not any(kind == "text" for kind, _ in sent)
+    return client.post("/webhook", content=body, headers=headers)
 
 
-def _interactive_payload(reply_id, msg_id):
+def _media_payload(msg_id, kind, media):
     payload = _text_payload("", msg_id)
     msg = payload["entry"][0]["changes"][0]["value"]["messages"][0]
     msg.pop("text")
-    kind = "button_reply" if reply_id.startswith("langue_") else "list_reply"
-    msg.update(type="interactive", interactive={"type": kind, kind: {"id": reply_id}})
+    msg.update({"type": kind, kind: media})
     return payload
 
 
-def test_first_greeting_gets_language_card_only(client, monkeypatch):
+def test_text_message_answered_in_voice_once(client, monkeypatch, sent):
+    async def fake_answer(user, text):
+        return f"réponse à {text}", "wolof"
+
+    _set_answer(monkeypatch, fake_answer)
+    assert _post(client, _text_payload("Salam")).status_code == 200
+    # Le même message renvoyé par Meta n'est traité qu'une fois.
+    _post(client, _text_payload("Salam"))
+    assert sent == [("vocal", "wolof:réponse à Salam")]
+
+
+def test_voice_falls_back_to_text_when_tts_fails(client, monkeypatch, sent):
+    async def fake_answer(user, text):
+        return "Jërëjëf.", "wolof"
+
+    async def broken_tts(text, langue):
+        raise RuntimeError("TTS indisponible")
+
+    _set_answer(monkeypatch, fake_answer)
+    monkeypatch.setattr(main.speech, "text_to_voice_note", broken_tts)
+    _post(client, _text_payload("Salam", "wamid.tts"))
+    assert sent == [("texte", "Jërëjëf.")]
+
+
+def test_agent_error_sends_spoken_apology(client, monkeypatch, sent):
+    async def broken_answer(user, text):
+        raise RuntimeError("quota")
+
+    _set_answer(monkeypatch, broken_answer)
+    _post(client, _text_payload("Salam", "wamid.2"))
+    assert sent == [("vocal", "wolof:" + main.textes.ERREUR["wolof"])]
+
+
+def test_location_message_sends_nearest_health_post(client, monkeypatch, sent):
+    async def fake_answer(user, text, position=None):
+        assert position == {"lat": 14.755, "lon": -17.39}
+        agent._pending_actions[user] = [
+            {"type": "location", "lat": 14.76, "lon": -17.39, "nom": "Poste", "adresse": ""}
+        ]
+        return "Poste bi mi gën a jege, 600 m la.", "wolof"
+
+    agent = _set_answer(monkeypatch, fake_answer)
+    loc = {"latitude": 14.755, "longitude": -17.39}
+    _post(client, _media_payload("wamid.loc", "location", loc))
+    assert sent == [("vocal", "wolof:Poste bi mi gën a jege, 600 m la."), ("carte", "Poste")]
+
+
+def test_voice_question_gets_voice_then_location_button(client, monkeypatch, sent):
+    async def fake_answer(user, text):
+        agent._pending_actions[user] = [{"type": "location_request"}]
+        return "Bësal bouton bi ci suuf.", "wolof"
+
+    agent = _set_answer(monkeypatch, fake_answer)
+    _post(client, _media_payload("wamid.voice1", "audio", {"id": "media.1"}))
+    assert sent == [
+        ("vocal", "wolof:Bësal bouton bi ci suuf."),
+        ("bouton position", main.MSG_DEMANDE_POSITION),
+    ]
+
+
+def test_spoken_stop_unsubscribes(client, monkeypatch, sent):
+    async def fake_transcribe(audio):
+        return "Stop."
+
+    async def no_answer(user, text):
+        raise AssertionError("« stop » ne passe pas par l'agent")
+
+    calls = []
+    _set_answer(monkeypatch, no_answer)
+    monkeypatch.setattr(main.speech, "transcribe", fake_transcribe)
+    monkeypatch.setattr(main.onboarding.campaigns, "unsubscribe", calls.append)
+    _post(client, _media_payload("wamid.stop", "audio", {"id": "media.2"}))
+    assert calls == ["221700000000"]
+    assert sent == [("vocal", "wolof:" + main.textes.DESINSCRIT["wolof"])]
+
+
+def test_unreadable_voice_gets_spoken_message(client, monkeypatch, sent):
+    async def silent(audio):
+        return ""
+
+    monkeypatch.setattr(main.speech, "transcribe", silent)
+    _post(client, _media_payload("wamid.vide", "audio", {"id": "media.3"}))
+    assert sent == [("vocal", "wolof:" + main.textes.VOCAL_KO["wolof"])]
+
+
+def test_prescription_photo_explained_in_voice(client, monkeypatch, sent):
+    from sunuchat import ordonnance
+
+    async def fake_read(data, mime):
+        assert mime == "image/jpeg"
+        return ordonnance.Ordonnance(
+            est_ordonnance=True,
+            lisible=True,
+            medicaments=[
+                ordonnance.Medicament(
+                    nom="Paracétamol", dosage="500 mg", posologie="1 comprimé 3 fois par jour"
+                )
+            ],
+        )
+
+    async def fake_answer(user, text, keep_language=False):
+        assert keep_language and "Paracétamol : 500 mg, 1 comprimé 3 fois par jour" in text
+        return "Paracétamol, benn comprimé ñetti yoon ci bés bi.", "pulaar"
+
+    monkeypatch.setattr(main.ordonnance, "read", fake_read)
+    _set_answer(monkeypatch, fake_answer)
+    photo = {"id": "media.4", "mime_type": "image/jpeg"}
+    _post(client, _media_payload("wamid.ordo", "image", photo))
+    assert sent == [("vocal", "pulaar:Paracétamol, benn comprimé ñetti yoon ci bés bi.")]
+
+
+def test_unreadable_prescription_gets_spoken_message(client, monkeypatch, sent):
+    from sunuchat import ordonnance
+
+    async def fake_read(data, mime):
+        return ordonnance.Ordonnance(est_ordonnance=True, lisible=False)
+
+    monkeypatch.setattr(main.ordonnance, "read", fake_read)
+    _post(client, _media_payload("wamid.flou", "image", {"id": "media.5"}))
+    assert sent == [("vocal", "wolof:" + main.textes.ORDONNANCE_ILLISIBLE["wolof"])]
+
+
+def test_first_contact_subscribes_without_scripted_welcome(client, monkeypatch, sent):
     calls = []
 
     async def new_user(user):
@@ -281,91 +289,23 @@ def test_first_greeting_gets_language_card_only(client, monkeypatch):
     async def fake_update(user, **values):
         calls.append(("profil", values))
 
-    async def fake_card(user):
-        calls.append(("carte", user))
-
-    async def fake_typing(message_id):
-        return None
-
-    async def no_answer(user, text, **kw):
-        raise AssertionError("pas de réponse de l'agent à une simple salutation")
-
-    from sunuchat import agent
+    async def fake_answer(user, text):
+        return "Dalal ak jàmm ! Maa ngi tudd SunuChat.", "wolof"
 
     monkeypatch.setattr(main, "_profile", new_user)
     monkeypatch.setattr(main.memory, "update_profile", fake_update)
-    monkeypatch.setattr(main.onboarding, "send_language_card", fake_card)
-    monkeypatch.setattr(main.whatsapp, "mark_read_and_typing", fake_typing)
-    monkeypatch.setattr(agent, "answer", no_answer)
-    body, headers = _signed(_text_payload("Salam", "wamid.hello"))
-    client.post("/webhook", content=body, headers=headers)
-    assert calls == [("profil", {"accueilli": True}), ("carte", "221700000000")]
+    monkeypatch.setattr(main.campaigns, "subscribe", lambda u, langue: calls.append(langue))
+    _set_answer(monkeypatch, fake_answer)
+    _post(client, _text_payload("Salam", "wamid.hello"))
+    assert calls == [("profil", {"accueilli": True}), "wolof"]
+    assert sent == [("vocal", "wolof:Dalal ak jàmm ! Maa ngi tudd SunuChat.")]
 
 
-def test_language_button_and_menu_choice(client, monkeypatch):
-    sent = []
-
-    async def fake_choose(user, langue):
-        sent.append(("langue", langue))
-
-    async def fake_typing(message_id):
-        return None
-
-    async def fake_answer(user, text, **kw):
-        sent.append(("question", text, kw))
-        return "Sibiru dafay indi feebar.", "wolof"
-
-    async def fake_image(user, name, caption=""):
-        sent.append(("image", name))
-
-    async def fake_tts(text, langue):
-        return b"voix"
-
-    async def fake_audio(to, ogg):
-        sent.append(("audio", ogg))
-
-    from sunuchat import agent
-
-    monkeypatch.setattr(main.onboarding, "choose_language", fake_choose)
-    monkeypatch.setattr(main.whatsapp, "mark_read_and_typing", fake_typing)
-    monkeypatch.setattr(main.images, "send", fake_image)
-    monkeypatch.setattr(main.speech, "text_to_voice_note", fake_tts)
-    monkeypatch.setattr(main.whatsapp, "send_audio", fake_audio)
-    monkeypatch.setattr(agent, "answer", fake_answer)
-    body, headers = _signed(_interactive_payload("langue_pulaar", "wamid.b1"))
-    client.post("/webhook", content=body, headers=headers)
-    body, headers = _signed(_interactive_payload("menu_palu", "wamid.b2"))
-    client.post("/webhook", content=body, headers=headers)
-    assert sent == [
-        ("langue", "pulaar"),
-        ("question", main.textes.QUESTIONS_MENU["menu_palu"], {"language": "wolof"}),
-        ("image", "paludisme"),
-        ("audio", b"voix"),
-    ]
-
-
-def test_red_flag_sends_samu_contact(client, monkeypatch):
-    sent = []
-
-    async def fake_send_text(to, text):
-        sent.append(("text", text))
-
-    async def fake_contact(to, name, phone):
-        sent.append(("contact", phone))
-
-    async def fake_typing(message_id):
-        return None
-
-    from sunuchat import agent
-
-    async def fake_answer(user, text, **kw):
+def test_red_flag_sends_samu_contact(client, monkeypatch, sent):
+    async def fake_answer(user, text):
         agent._pending_actions[user] = [{"type": "samu"}]
-        return "Va tout de suite à l'hôpital.", "francais"
+        return "Demal léegi lopitaal bi.", "wolof"
 
-    monkeypatch.setattr(main.whatsapp, "send_text", fake_send_text)
-    monkeypatch.setattr(main.whatsapp, "send_contact", fake_contact)
-    monkeypatch.setattr(main.whatsapp, "mark_read_and_typing", fake_typing)
-    monkeypatch.setattr(agent, "answer", fake_answer)
-    body, headers = _signed(_text_payload("Mon fils convulse", "wamid.samu"))
-    client.post("/webhook", content=body, headers=headers)
-    assert sent == [("text", "Va tout de suite à l'hôpital."), ("contact", "1515")]
+    agent = _set_answer(monkeypatch, fake_answer)
+    _post(client, _text_payload("Sama doom dafay tiit", "wamid.samu"))
+    assert sent == [("vocal", "wolof:Demal léegi lopitaal bi."), ("fiche", "1515")]

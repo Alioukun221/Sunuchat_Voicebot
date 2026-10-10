@@ -10,8 +10,10 @@ import io
 import logging
 import re
 import sys
+import tempfile
 import unicodedata
 import wave
+from pathlib import Path
 
 import httpx
 import imageio_ffmpeg
@@ -361,3 +363,45 @@ async def wav_to_ogg(wav: bytes) -> bytes:
 async def text_to_voice_note(text: str, language: str) -> bytes:
     """Texte → vocal WhatsApp (OGG/Opus)."""
     return await wav_to_ogg(await synthesize(text, language))
+
+
+async def voice_video(wav: bytes, animation: Path) -> bytes:
+    """Vocal posé sur une courte animation en boucle (MP4 H.264 + AAC, accepté par WhatsApp) :
+    la vidéo dure exactement le temps du vocal."""
+    with wave.open(io.BytesIO(wav)) as w:
+        duration = w.getnframes() / w.getframerate() + 0.5  # petite marge après la voix
+    with tempfile.TemporaryDirectory() as tmp:
+        voice, out = Path(tmp) / "voix.wav", Path(tmp) / "rappel.mp4"
+        voice.write_bytes(wav)
+        proc = await asyncio.create_subprocess_exec(
+            imageio_ffmpeg.get_ffmpeg_exe(),
+            "-loglevel",
+            "error",
+            "-stream_loop",
+            "-1",
+            "-i",
+            str(animation),
+            "-i",
+            str(voice),
+            "-map",
+            "0:v",
+            "-map",
+            "1:a",
+            "-c:v",
+            "copy",
+            "-c:a",
+            "aac",
+            "-b:a",
+            "64k",
+            "-t",
+            f"{duration:.2f}",
+            "-movflags",
+            "+faststart",
+            str(out),
+            stdout=asyncio.subprocess.PIPE,
+            stderr=asyncio.subprocess.PIPE,
+        )
+        _, err = await proc.communicate()
+        if proc.returncode != 0:
+            raise SpeechError(f"Vidéo impossible : {err.decode(errors='ignore')}")
+        return out.read_bytes()

@@ -1,9 +1,14 @@
 """Rappels sur WhatsApp : médicaments (à heure fixe) et vaccins (la veille de chaque
 rendez-vous du PEV), plus les alertes de saison (voir campaigns.py).
 
+Chaque rappel part en vocal, dans la langue de l'utilisateur, posé sur une courte animation
+(assets/animations/<nom>.mp4) : une petite vidéo que l'on comprend sans savoir lire. Sans
+animation, il part en simple vocal.
+
 Les rappels sont gardés dans data/reminders.db : ils survivent à un redémarrage du serveur.
 Attention : hors de la fenêtre de 24 h après le dernier message de l'utilisateur, WhatsApp
-exige un modèle de message approuvé. Le rappel texte simple ne marche que dans ces 24 h.
+n'accepte qu'un modèle de message approuvé par Meta (texte ou image, pas de vocal). Pour les
+vaccins, le modèle TEMPLATE_RAPPEL_VACCIN prend alors le relais s'il est configuré.
 """
 
 import logging
@@ -12,11 +17,13 @@ from datetime import date, datetime, time, timedelta
 from apscheduler.jobstores.sqlalchemy import SQLAlchemyJobStore
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
-from sunuchat.config import get_settings
+from sunuchat import memory, onboarding, speech, textes, whatsapp
+from sunuchat.config import ROOT, get_settings
 
 log = logging.getLogger(__name__)
 
 _scheduler: AsyncIOScheduler | None = None
+ANIMATIONS_DIR = ROOT / "assets" / "animations"
 
 
 def scheduler() -> AsyncIOScheduler:
@@ -40,13 +47,40 @@ def shutdown() -> None:
         _scheduler.shutdown(wait=False)
 
 
-async def send_reminder(to: str, text: str) -> None:
-    from sunuchat import whatsapp
-
+async def send_voice_reminder(to: str, texts: dict[str, str], animation: str, **params) -> None:
+    """Rappel lu à voix haute dans la langue de l'utilisateur, sur l'animation si elle existe.
+    Lève une exception si WhatsApp refuse (fenêtre de 24 h fermée)."""
     try:
-        await whatsapp.send_text(to, f"⏰ Rappel : {text}")
+        langue = onboarding.language_of(await memory.get_profile(to))
     except Exception:
-        log.exception("Rappel non envoyé à %s", to)
+        log.exception("Profil illisible : rappel en wolof")
+        langue = "wolof"
+    wav = await speech.synthesize(texts[langue].format(**params), langue)
+    path = ANIMATIONS_DIR / f"{animation}.mp4"
+    if path.exists():
+        try:
+            video = await speech.voice_video(wav, path)
+        except Exception:
+            log.exception("Animation non générée : rappel en simple vocal")
+        else:
+            await whatsapp.send_video(to, video)
+            return
+    await whatsapp.send_audio(to, await speech.wav_to_ogg(wav))
+
+
+async def send_medication_reminder(to: str, medicament: str) -> None:
+    try:
+        await send_voice_reminder(
+            to, textes.RAPPEL_MEDICAMENT, "rappel_medicament", medicament=medicament
+        )
+    except Exception:
+        log.exception("Rappel de médicament non envoyé à %s", to)
+
+
+async def send_reminder(to: str, text: str) -> None:
+    """Anciens rappels déjà programmés (texte « c'est l'heure de prendre X. »)."""
+    medicament = text.removeprefix("c'est l'heure de prendre ").rstrip(".")
+    await send_medication_reminder(to, medicament)
 
 
 def add_reminder(to: str, medicament: str, heures: list[str], jours: int) -> list[str]:
@@ -56,12 +90,12 @@ def add_reminder(to: str, medicament: str, heures: list[str], jours: int) -> lis
     for heure in heures:
         hour, minute = (int(x) for x in heure.split(":"))
         job = scheduler().add_job(
-            send_reminder,
+            send_medication_reminder,
             "cron",
             hour=hour,
             minute=minute,
             end_date=end,
-            args=[to, f"c'est l'heure de prendre {medicament}."],
+            args=[to, medicament],
             id=f"{to}-{medicament}-{heure}".replace(" ", "_"),
             replace_existing=True,
         )
@@ -78,29 +112,29 @@ VACCINE_REMINDER_TIME = time(10, 0)  # la veille du rendez-vous, à 10 h (heure 
 
 
 async def send_vaccine_reminder(to: str, age: str, due: str, vaccins: str) -> None:
-    """Rappel de vaccin : modèle Meta si configuré (obligatoire hors fenêtre de 24 h),
-    sinon simple texte (ne passe que si l'utilisateur a écrit dans les dernières 24 h)."""
-    from sunuchat import images, whatsapp
+    """Rappel de vaccin en vocal sur animation ; hors fenêtre de 24 h, modèle Meta s'il est
+    configuré (WhatsApp n'accepte rien d'autre)."""
+    from sunuchat import images
 
     s = get_settings()
     jour = date.fromisoformat(due).strftime("%d/%m/%Y")
     try:
-        if s.template_rappel_vaccin:
-            await whatsapp.send_template(
-                to,
-                s.template_rappel_vaccin,
-                s.template_language,
-                [age, jour, vaccins],
-                image_id=await images.media_id("vaccins"),
-            )
-        else:
-            await whatsapp.send_text(
-                to,
-                f"💉 Rappel : demain {jour}, ton enfant a rendez-vous pour ses vaccins "
-                f"de {age} ({vaccins}). Va au poste de santé avec son carnet.",
-            )
+        await send_voice_reminder(to, textes.RAPPEL_VACCIN, "rappel_vaccin", jour=jour, age=age)
+        return
     except Exception:
-        log.exception("Rappel de vaccin non envoyé à %s", to)
+        log.exception("Rappel de vaccin vocal non envoyé à %s", to)
+    if not s.template_rappel_vaccin:
+        return
+    try:
+        await whatsapp.send_template(
+            to,
+            s.template_rappel_vaccin,
+            s.template_language,
+            [age, jour, vaccins],
+            image_id=await images.media_id("vaccins"),
+        )
+    except Exception:
+        log.exception("Modèle de rappel de vaccin non envoyé à %s", to)
 
 
 def add_vaccine_reminders(to: str, birth: date, today: date | None = None) -> list[str]:

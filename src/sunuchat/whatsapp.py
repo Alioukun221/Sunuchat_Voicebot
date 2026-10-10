@@ -89,7 +89,8 @@ async def mark_read_and_typing(message_id: str) -> None:
 
 
 async def download_media(media_id: str) -> bytes:
-    """Télécharge un média (vocal) reçu : on récupère d'abord son URL, puis le fichier."""
+    """Télécharge un média reçu (vocal, photo) : on récupère d'abord son URL, puis le
+    fichier."""
     s = get_settings()
     async with httpx.AsyncClient(timeout=30) as client:
         r = await client.get(f"{s.graph_url}/{media_id}", headers=_headers())
@@ -123,6 +124,18 @@ async def send_audio(to: str, ogg_data: bytes) -> None:
             "to": to,
             "type": "audio",
             "audio": {"id": media_id},
+        }
+    )
+
+
+async def send_video(to: str, mp4_data: bytes) -> None:
+    media_id = await upload_media(mp4_data, "video/mp4", "rappel.mp4")
+    await _post(
+        {
+            "messaging_product": "whatsapp",
+            "to": to,
+            "type": "video",
+            "video": {"id": media_id},
         }
     )
 

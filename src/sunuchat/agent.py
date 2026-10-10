@@ -1,16 +1,19 @@
 """Agent Google ADK : un SequentialAgent en trois étapes, avec le français comme langue pivot.
+SunuChat parle seulement wolof et pulaar : ses utilisateurs ne savent souvent pas lire, toutes
+ses réponses partent en vocal.
 
-1. comprehension : détecte la langue (wolof, pulaar, français) et traduit en français
+1. comprehension : détecte la langue (wolof ou pulaar) et traduit en français
    (sortie structurée). Un callback mémorise la langue, lance les règles de gravité sur le
    texte français et cherche tout de suite les passages des sources officielles (RAG).
 2. sante : raisonne en français. Prompt dynamique construit à chaque tour (profil, alertes,
    passages). Outils : recherche RAG, calendrier PEV, profil, rappels, mémoire longue, et le
    MCP Google Maps si la clé est présente. En cas d'alerte, un callback ajoute toujours le
    message d'urgence, quoi que réponde le modèle.
-3. traduction : traduit la réponse dans la langue de l'utilisateur (sautée en français).
+3. traduction : traduit la réponse en wolof ou en pulaar.
 """
 
 import asyncio
+import functools
 import logging
 import os
 import re
@@ -35,7 +38,15 @@ from sunuchat.config import get_settings
 
 log = logging.getLogger(__name__)
 
-LANGUES = ("wolof", "pulaar", "francais")
+LANGUES = ("wolof", "pulaar")
+
+
+def user_language(state) -> str:
+    """Langue de l'utilisateur, toujours wolof ou pulaar (un ancien profil peut dire
+    « francais » : SunuChat ne répond plus en français)."""
+    langue = state.get("user:langue") or get_settings().default_language
+    return langue if langue in LANGUES else "wolof"
+
 
 # Actions WhatsApp décidées pendant un tour (carte du poste de santé, bouton « partager ma
 # position », fiche contact du SAMU) : main.py les envoie après la réponse.
@@ -101,24 +112,22 @@ def _config(
 
 
 class Comprehension(BaseModel):
-    langue: Literal["wolof", "pulaar", "francais"] = Field(
-        description="Langue du message de l'utilisateur."
-    )
+    langue: Literal["wolof", "pulaar"] = Field(description="Langue du message de l'utilisateur.")
     texte_fr: str = Field(description="Traduction fidèle du message en français.")
 
 
 COMPREHENSION_PROMPT = """Tu reçois le message d'un utilisateur WhatsApp au Sénégal. Il peut être en
 wolof, en pulaar (peul), en français, ou un mélange (beaucoup de mots français en wolof).
 Il peut venir d'une transcription vocale imparfaite.
-1. Détermine la langue principale : "wolof", "pulaar" ou "francais".
-   Indices pulaar : ɓ ɗ ƴ ŋ, "no mbaɗ-ɗaa", "jam tan", "mi", "ko". Indices wolof : "na nga def",
-   "dama", "dafa", "lan", "ndax", "yaangi". En cas de doute entre wolof et pulaar, choisis {langue}.
+1. Détermine la langue de réponse : "wolof" ou "pulaar" (SunuChat ne parle que ces deux
+   langues). Indices pulaar : ɓ ɗ ƴ ŋ, "no mbaɗ-ɗaa", "jam tan", "mi", "ko". Indices wolof :
+   "na nga def", "dama", "dafa", "lan", "ndax", "yaangi". Si le message est en français, dans
+   une autre langue, ou si tu hésites, choisis {langue}.
 2. Traduis fidèlement le message en français, sans rien ajouter ni répondre."""
 
 
 def comprehension_instruction(ctx: ReadonlyContext) -> str:
-    langue = ctx.state.get("user:langue") or get_settings().default_language
-    return COMPREHENSION_PROMPT.replace("{langue}", langue)
+    return COMPREHENSION_PROMPT.replace("{langue}", user_language(ctx.state))
 
 
 async def after_comprehension(callback_context: CallbackContext) -> None:
@@ -128,10 +137,11 @@ async def after_comprehension(callback_context: CallbackContext) -> None:
         result = Comprehension.model_validate_json(result).model_dump()
     langue = result.get("langue") if result.get("langue") in LANGUES else None
     texte_fr = result.get("texte_fr", "")
-    if state.get("langue_forcee"):  # choix dans le menu : la langue choisie à l'accueil
-        state["user:langue"] = state["langue_forcee"]
-    elif langue and not state.get("position_partagee"):  # une position n'a pas de langue
+    # Une position ou une ordonnance n'a pas de langue : on garde celle de l'utilisateur.
+    if langue and not state.get("langue_connue"):
         state["user:langue"] = langue
+    else:
+        state["user:langue"] = user_language(state)
     state["texte_fr"] = texte_fr
     # Poste de santé demandé sans position ni localité : il faut le bouton de partage.
     state["demander_position"] = (
@@ -151,33 +161,53 @@ async def after_comprehension(callback_context: CallbackContext) -> None:
 
 # ---------- Étape 2 : agent santé ----------
 
-SANTE_PROMPT = """Tu es SunuChat, un assistant santé sur WhatsApp pour les familles au Sénégal.
-Tu aides sur le paludisme, la dengue, la vaccination des enfants (PEV) et les rappels de
-médicaments. Tu réponds en français simple : la réponse sera traduite en {langue} et souvent lue
-à voix haute.
+SANTE_PROMPT = """Tu es SunuChat, l'assistant santé des familles du Sénégal sur WhatsApp. Tu parles
+uniquement wolof et pulaar : beaucoup de tes utilisateurs ne savent pas lire, alors toutes tes
+réponses partent en vocal. Tu réponds en français simple : ta réponse sera traduite en {langue}
+puis lue à voix haute.
+
+Qui tu es : un agent de santé communautaire bienveillant, patient, qui parle simplement, comme
+à quelqu'un de sa famille. Tu ne juges jamais, tu rassures, tu encourages.
+
+Ce que tu sais faire (présente-le quand on te salue pour la première fois, quand on te
+demande qui tu es ou ce que tu sais faire, en 3 ou 4 phrases et sans liste) :
+- répondre aux questions sur toutes les maladies et la santé de la famille : paludisme,
+  dengue, vaccins des enfants, mais aussi cancer, diabète, hypertension, grossesse, nutrition,
+  santé des femmes (Octobre rose : dépistage du cancer du sein), etc. ;
+- expliquer une ordonnance : la personne t'envoie une photo, tu lui dis quels médicaments
+  prendre, combien de fois par jour et pendant combien de jours ;
+- lui rappeler, en vocal, l'heure de ses médicaments et les vaccins de ses enfants ;
+- trouver le poste de santé le plus proche ;
+- en cas d'urgence, lui donner le numéro du SAMU, le 1515.
+On te parle en vocal : invite la personne à appuyer sur le micro et à te parler dans sa langue.
+Si on te demande quelles langues tu parles : wolof et pulaar, rien d'autre. Si on t'écrit en
+français, tu réponds quand même en wolof ou en pulaar.
 
 Règles :
-- Appuie-toi sur les passages des sources officielles ci-dessous (Ministère de la Santé, PNLP,
-  OMS, UNICEF). Si l'information n'y est pas, utilise l'outil rechercher_sources. Si tu ne
-  trouves rien, dis-le et conseille le poste de santé. N'invente jamais.
-- Tu ne poses pas de diagnostic et tu ne prescris pas de dose. Pour un traitement, oriente vers
-  le poste de santé (test de diagnostic rapide du paludisme gratuit).
-- Réponses courtes : 3 à 5 phrases (400 caractères environ, pour que le vocal soit lu d'un
-  seul tenant), sans listes longues, sans markdown. Écris les nombres et
-  les numéros de téléphone en chiffres (ex. 1515) : la voix les lit en français.
-- Ton : parle comme un agent de santé communautaire bienveillant qui connaît la famille, pas
-  comme une notice. Si la personne a mal ou s'inquiète, commence par une courte phrase qui
-  montre que tu as compris (« Je comprends, ça doit être fatigant. »). Phrases courtes, une idée
-  par phrase, avec des points : la réponse est lue à voix haute et chaque point fait une pause.
-  Termine par un mot d'encouragement ou une petite question pour la suite.
-- La base officielle ci-dessous est ta référence pour les consignes de santé, mais elle date de
-  la publication des documents. recherche_web la complète : appelle-la quand la question porte
-  sur l'actualité ou la situation du moment (épidémie en cours, cas récents, campagne de
-  vaccination, nouveau vaccin ou traitement, chiffres de l'année, alerte), quand l'utilisateur
-  demande des nouvelles, ou quand les passages ne répondent pas ou seulement en partie. Combine
-  les deux : la consigne officielle d'abord, puis le complément ou la nouvelle trouvée, avec sa
-  date et sa source (« d'après le Ministère de la Santé, en septembre 2026… »). Si le web
-  contredit la base, garde la source officielle la plus récente et dis-le simplement.
+- Paludisme, dengue et vaccins : appuie-toi sur les passages des sources officielles ci-dessous
+  (Ministère de la Santé, PNLP, OMS, UNICEF) ; si l'information n'y est pas, utilise l'outil
+  rechercher_sources.
+- Pour tous les autres sujets de santé (cancer, diabète, hypertension, VIH, tuberculose,
+  grossesse, Octobre rose, Movember…), et pour l'actualité (épidémie en cours, campagne de
+  vaccination ou de dépistage, nouveau traitement, chiffres de l'année), utilise recherche_web.
+  Combine les deux quand c'est utile : la consigne officielle d'abord, puis le complément,
+  avec sa date et sa source (« d'après le Ministère de la Santé, en octobre 2026… »). Si tu
+  ne trouves rien de fiable, dis-le et conseille le poste de santé. N'invente jamais.
+- Tu ne poses pas de diagnostic et tu ne changes jamais une dose prescrite. Pour un traitement,
+  oriente vers le poste de santé (test de diagnostic rapide du paludisme gratuit).
+- Ordonnance : quand le message contient ce qui est écrit sur une ordonnance, explique chaque
+  médicament simplement : son nom, à quoi il sert en général (en une courte phrase), combien
+  de fois par jour, à quel moment (matin, midi, soir, avant ou après le repas) et pendant
+  combien de jours, exactement comme écrit. Si un passage est illisible ou incertain, dis-le
+  et conseille de demander au pharmacien. Termine en proposant un rappel vocal pour chaque
+  prise ; si la personne accepte, programme-le avec programmer_rappel.
+- Réponses courtes : 3 à 5 phrases (400 caractères environ ; jusqu'à 700 pour une ordonnance),
+  sans listes, sans markdown. Écris les nombres et les numéros en chiffres (ex. 1515) : la voix
+  les lit en français.
+- Ton oral : si la personne a mal ou s'inquiète, commence par une courte phrase qui montre que
+  tu as compris (« Je comprends, ça doit être fatigant. »). Phrases courtes, une idée par
+  phrase, avec des points : chaque point fait une pause dans le vocal. Termine par un mot
+  d'encouragement ou une petite question pour la suite.
 - Pour trouver un poste de santé : si la position GPS ou la localité est connue, utilise
   postes_de_sante_proches. Sinon, appelle demander_position (un bouton s'affiche sur WhatsApp
   juste après ton message) et invite la personne à appuyer dessus, sans citer le texte du
@@ -186,9 +216,9 @@ Règles :
   est envoyée automatiquement. En cas d'urgence, rappelle aussi le SAMU (1515).
 - Si l'utilisateur donne sa localité ou la date de naissance d'un enfant, enregistre-la avec
   memoriser_profil. Pour les vaccins, utilise calendrier_vaccins. Dès qu'une date de
-  naissance est enregistrée, un rappel part automatiquement la veille de chaque vaccin :
+  naissance est enregistrée, un rappel vocal part automatiquement la veille de chaque vaccin :
   dis-le. Si l'utilisateur veut des rappels sans avoir donné la date, demande-la.
-- Pour un rappel de médicament, utilise programmer_rappel.
+- Pour un rappel de médicament, utilise programmer_rappel : le rappel arrive en vocal.
 {maps}
 Date du jour : {date}
 Profil de l'utilisateur : {profil}
@@ -230,9 +260,7 @@ def sante_instruction(ctx: ReadonlyContext) -> str:
         else ""
     )
     return (
-        SANTE_PROMPT.replace(
-            "{langue}", state.get("user:langue") or get_settings().default_language
-        )
+        SANTE_PROMPT.replace("{langue}", user_language(state))
         .replace("{maps}", maps)
         .replace("{date}", date.today().strftime("%d/%m/%Y"))
         .replace("{profil}", str(profil or "inconnu"))
@@ -364,9 +392,10 @@ def demander_position(tool_context: ToolContext) -> dict:
 WEB_PROMPT = """Tu fais une recherche Google pour SunuChat, un assistant santé au Sénégal.
 Privilégie les sources fiables : Ministère de la Santé et de l'Hygiène publique du Sénégal,
 PNLP, OMS, UNICEF, Institut Pasteur de Dakar, presse sénégalaise reconnue.
-Cherche d'abord les informations les plus récentes concernant le Sénégal (actualité des 12
-derniers mois en priorité), puis les recommandations générales si la question n'est pas liée
-à l'actualité.
+La question peut porter sur n'importe quel sujet de santé (cancer, diabète, hypertension,
+grossesse, Octobre rose…). Cherche d'abord les informations les plus récentes concernant le
+Sénégal (actualité des 12 derniers mois en priorité), puis les recommandations générales
+(OMS, Ministère de la Santé) si la question n'est pas liée à l'actualité.
 Réponds en français, en 3 à 6 phrases factuelles, avec la date de l'information et le nom du
 site. Si tu ne trouves rien de fiable, dis-le simplement."""
 
@@ -383,8 +412,9 @@ def _web_search_tool():
             name="recherche_web",
             model=s.fast_model,
             description=(
-                "Recherche sur le web (Google) une information de santé récente ou absente "
-                "des documents officiels : épidémie en cours, campagne, actualité."
+                "Recherche sur le web (Google) une information de santé absente des documents "
+                "officiels : toute maladie (cancer, diabète…), Octobre rose, épidémie en cours, "
+                "campagne, actualité."
             ),
             instruction=WEB_PROMPT,
             tools=[google_search],
@@ -451,7 +481,7 @@ tirets ni de guillemets. Relis-toi avant de répondre : chaque mot doit être bi
 
 
 def traduction_instruction(ctx: ReadonlyContext) -> str:
-    langue = ctx.state.get("user:langue") or get_settings().default_language
+    langue = user_language(ctx.state)
     alphabet = (
         "Écris en pulaar du Fuuta Tooro, tel qu'on le parle au Sénégal (vallée du fleuve : "
         "Podor, Matam, Kanel…), avec ses salutations (« No mbaɗ-ɗaa ? », « Jam tan »). "
@@ -474,6 +504,13 @@ def _translation_config(s) -> types.GenerateContentConfig:
     return _config(s.translation_model or s.fast_model, temperature=0.2, thinking=128)
 
 
+@functools.cache
+def _genai_client() -> genai.Client:
+    # Client gardé en vie : un client temporaire peut être libéré (et sa session HTTP
+    # fermée) pendant la requête, d'où « assert self._connector is not None ».
+    return genai.Client()
+
+
 async def translation_fallback(
     callback_context: CallbackContext, llm_request, error: Exception
 ) -> LlmResponse:
@@ -489,7 +526,7 @@ async def translation_fallback(
     )
     try:
         # La consigne de traduction est reconstruite depuis l'état, en un seul message.
-        r = await genai.Client().aio.models.generate_content(
+        r = await _genai_client().aio.models.generate_content(
             model=s.fast_model,
             contents=traduction_instruction(callback_context),
             config=types.GenerateContentConfig(temperature=0.2),
@@ -498,14 +535,6 @@ async def translation_fallback(
     except Exception:
         log.exception("Traduction de secours impossible : message d'excuse envoyé")
         raise
-
-
-async def skip_if_french(callback_context: CallbackContext) -> types.Content | None:
-    state = callback_context.state
-    if state.get("user:langue") == "francais":
-        state["reponse_finale"] = state.get("reponse_fr", "")
-        return types.Content(role="model", parts=[types.Part(text=state["reponse_finale"])])
-    return None
 
 
 # ---------- Assemblage ----------
@@ -551,7 +580,6 @@ def build_app() -> App:
         output_key="reponse_finale",
         # Réflexion minimale (128, le plancher de 2.5 Pro) : une traduction n'en a pas besoin.
         generate_content_config=_translation_config(s),
-        before_agent_callback=skip_if_french,
         on_model_error_callback=translation_fallback if s.translation_model else None,
     )
     pipeline = SequentialAgent(name="sunuchat", sub_agents=[comprehension, sante, traduction])
@@ -581,19 +609,19 @@ def runner() -> Runner:
 
 
 async def answer(
-    user_id: str, text: str, position: dict | None = None, language: str | None = None
+    user_id: str, text: str, position: dict | None = None, keep_language: bool = False
 ) -> tuple[str, str]:
     """Fait tourner l'agent sur un message. Renvoie (réponse, langue de l'utilisateur).
 
     `position` : {"lat", "lon"} quand l'utilisateur vient de partager sa position WhatsApp.
-    `language` : langue imposée (choix dans le menu), sans détection sur le texte.
+    `keep_language` : le texte n'est pas de l'utilisateur (lecture d'une ordonnance) : on
+    garde sa langue au lieu de la détecter.
     """
     session = await memory.get_or_create_session(user_id)
     _pending_actions.pop(user_id, None)
     message = types.Content(role="user", parts=[types.Part(text=text)])
     delta = {"reponse_fr": "", "reponse_finale": "", "alertes": [], "passages": ""}
-    delta["position_partagee"] = bool(position)
-    delta["langue_forcee"] = language or ""
+    delta["langue_connue"] = bool(position) or keep_language
     if position:
         delta["user:position"] = position
     # Jamais d'attente infinie (modèle bloqué) : au-delà, main.py envoie un message d'excuse.
@@ -618,7 +646,7 @@ async def answer(
     if state.get("alertes"):
         # Le numéro reste en chiffres en fin de message, quelle que soit la langue.
         reply += f"\n\n🚑 SAMU : {get_settings().samu_number}"
-    langue = state.get("user:langue") or get_settings().default_language
+    langue = user_language(state)
     actions = _pending_actions.setdefault(user_id, [])
     if not actions and state.get("demander_position"):
         # Le modèle n'a pas pensé au bouton : on l'envoie quand même.
