@@ -234,3 +234,21 @@ def test_model_fallback_tries_next_model(monkeypatch):
     r = asyncio.run(agent.model_fallback(None, req, RuntimeError("429")))
     assert calls == ["b", "c"]
     assert r.content.parts[0].text == "ok"
+
+
+def test_web_search_failure_does_not_break_answer(monkeypatch):
+    import asyncio
+    from types import SimpleNamespace
+
+    from google.genai import types
+
+    from sunuchat import agent
+
+    async def quota(model, contents, config):
+        raise RuntimeError("429")
+
+    client = SimpleNamespace(aio=SimpleNamespace(models=SimpleNamespace(generate_content=quota)))
+    monkeypatch.setattr(agent, "_genai_client", lambda: client)
+    req = SimpleNamespace(model="a", contents=[], config=types.GenerateContentConfig())
+    r = asyncio.run(agent.web_fallback(None, req, RuntimeError("429")))
+    assert "indisponible" in r.content.parts[0].text

@@ -439,7 +439,7 @@ def _web_search_tool():
             instruction=WEB_PROMPT,
             tools=[google_search],
             generate_content_config=_config(s.translation_model or s.fast_model, temperature=0.2),
-            on_model_error_callback=model_fallback,
+            on_model_error_callback=web_fallback,
         )
     )
 
@@ -536,15 +536,17 @@ async def _generate_with_fallback(model: str, error: Exception, contents, config
     """Le modèle `model` a refusé (quota gratuit épuisé, surcharge…) : on essaie les modèles de
     secours un par un. Si tous échouent, l'erreur d'origine remonte et main.py envoie le
     message d'excuse en vocal."""
+    failed = model
     for other in get_settings().models_after(model):
-        log.warning("%s indisponible (%s) : essai avec %s", model, str(error)[:120], other)
+        log.warning("%s indisponible (%r) : essai avec %s", failed, str(error)[:120], other)
         try:
             r = await _genai_client().aio.models.generate_content(
                 model=other, contents=contents, config=config
             )
             return LlmResponse.create(r)
         except Exception as e:
-            error = e
+            failed, error = other, e
+    log.warning("%s indisponible (%r)", failed, str(error)[:120])
     log.error("Aucun modèle de secours n'a répondu")
     raise error
 
@@ -557,6 +559,28 @@ async def model_fallback(
     if config is not None:
         config.thinking_config = None  # chaque modèle a ses propres réglages de réflexion
     return await _generate_with_fallback(llm_request.model, error, llm_request.contents, config)
+
+
+async def web_fallback(
+    callback_context: CallbackContext, llm_request, error: Exception
+) -> LlmResponse:
+    """La recherche Google a son propre quota, vite épuisé en gratuit. Si aucun modèle ne
+    peut chercher, l'agent santé répond quand même avec ce qu'il sait."""
+    try:
+        return await model_fallback(callback_context, llm_request, error)
+    except Exception:
+        log.warning("Recherche web indisponible : réponse sans le web")
+        return LlmResponse(
+            content=types.Content(
+                role="model",
+                parts=[
+                    types.Part(
+                        text="Recherche web indisponible pour le moment. Réponds avec les "
+                        "documents officiels et tes connaissances médicales générales."
+                    )
+                ],
+            )
+        )
 
 
 async def translation_fallback(
