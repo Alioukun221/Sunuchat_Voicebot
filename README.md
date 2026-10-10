@@ -1,173 +1,386 @@
-# SunuChat
+<div align="center">
 
-Assistant santé vocal sur WhatsApp, en **wolof** et en **pulaar** seulement, pour des personnes
-qui ne savent souvent pas lire : toutes les réponses partent en vocal. Il répond sur toutes les
-maladies (paludisme, dengue et vaccins à partir des sources officielles : Ministère de la Santé,
-PNLP, OMS, UNICEF ; cancer, diabète, Octobre rose… grâce à la recherche web), explique une
-ordonnance envoyée en photo, envoie des rappels vocaux de médicaments et de vaccins sur une
-petite animation, et oriente tout de suite vers le poste de santé ou le SAMU (1515) en cas de
-signe de gravité.
+# 🩺 SunuChat
 
-## Démarrer
+**L'assistant santé vocal sur WhatsApp, en wolof et en pulaar, pour celles et ceux qui ne savent pas lire.**
 
-Après `uv sync`, dans VS Code : `Cmd+Shift+P` → « Python: Select Interpreter » →
-`.venv/bin/python`. Sinon les imports restent soulignés en jaune.
+*On parle, il écoute. Il répond en vocal, dans notre langue.*
 
-```bash
-uv sync                      # installe Python 3.12 et les dépendances
-cp .env.example .env         # (déjà fait si .env existe) puis remplir les secrets
-uv run sunuchat              # serveur sur http://localhost:8000
-ngrok http 8000              # URL publique pour le webhook Meta
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-webhook-009688?logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google-Gemini%20%2B%20ADK-4285F4?logo=google&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Cloud%20API-25D366?logo=whatsapp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Lightsail-FF9900?logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+## Sommaire
+
+1. [Le problème](#-le-problème)
+2. [Notre solution](#-notre-solution)
+3. [Fonctionnalités](#-fonctionnalités)
+4. [Démo : ce que vit l'utilisateur](#-démo--ce-que-vit-lutilisateur)
+5. [Architecture](#-architecture)
+6. [Stack technique](#-stack-technique)
+7. [Fiabilité et sécurité](#-fiabilité-et-sécurité)
+8. [Installation](#-installation)
+9. [Déploiement](#-déploiement)
+10. [Structure du code](#-structure-du-code)
+11. [Impact et suite du projet](#-impact-et-suite-du-projet)
+
+---
+
+## 🎯 Le problème
+
+Au Sénégal, une grande partie des adultes ne lit pas le français, et beaucoup ne lisent aucune
+langue. Pourtant, presque toute l'information de santé est **écrite, et en français** : affiches de
+prévention, notices, ordonnances, carnets de vaccination.
+
+Conséquences concrètes :
+
+- une ordonnance mal comprise, et le traitement est mal pris ;
+- un rendez-vous de vaccin oublié, et l'enfant n'est pas protégé ;
+- un signe de gravité (paludisme grave, déshydratation) qui n'est pas reconnu à temps ;
+- un poste de santé qu'on ne sait pas trouver.
+
+Mais presque tout le monde a **WhatsApp** et envoie des **messages vocaux** tous les jours.
+
+## 💡 Notre solution
+
+**SunuChat** est un numéro WhatsApp à qui l'on parle comme à un agent de santé communautaire :
+
+> 🎙️ *« Sama doom am na yaram bu tàng ci guddi gi, lan laa wara def ? »*
+> 🔊 Réponse vocale en wolof : ce qu'il faut faire tout de suite, les remèdes sûrs à la maison,
+> les signes qui doivent faire partir au poste de santé.
+
+- **100 % vocal** : aucune lecture nécessaire, ni menu ni bouton à lire.
+- **Wolof et pulaar** (Fuuta) : la langue est reconnue automatiquement.
+- **Fiable** : les réponses s'appuient d'abord sur les documents officiels (Ministère de la
+  Santé, PNLP, OMS, UNICEF), puis sur une recherche web pour les autres sujets.
+- **Utile pour de vrai** : le bot aide au maximum (gestes, remèdes sûrs, médicaments sans
+  ordonnance) et n'oriente vers le médecin que lorsque c'est nécessaire.
+
+## ✨ Fonctionnalités
+
+| | Fonctionnalité | Description |
+|---|---|---|
+| 🎙️ | **Conversation vocale** | Vocal en entrée, vocal en sortie, en wolof ou en pulaar. |
+| 📚 | **RAG sur sources officielles** | 47 documents officiels, 2 303 passages indexés : paludisme, dengue, vaccination (PEV), nutrition… |
+| 🌍 | **Toutes les maladies** | Recherche Google intégrée pour le reste : cancer, diabète, hypertension, Octobre rose, épidémies en cours. |
+| 📄 | **Lecture d'ordonnance** | Photo ou PDF d'une ordonnance → médicaments, doses, prises et durée expliqués en vocal. |
+| ⏰ | **Rappels de médicaments** | Rappel vocal à l'heure de chaque prise, sur une petite animation vidéo. |
+| 💉 | **Rappels de vaccins** | Calendrier PEV calculé à partir de la date de naissance ; rappel la veille de chaque rendez-vous. |
+| 🚑 | **Détection d'urgence** | Règles fixes sur les signes de gravité → message d'urgence + fiche contact **SAMU 1515** en un appui. |
+| 📍 | **Poste de santé le plus proche** | À partir de la position WhatsApp ou du nom du quartier (OpenStreetMap). |
+| 🌧️ | **Alertes d'hivernage** | Campagnes de prévention paludisme / dengue envoyées aux inscrits. |
+| 🧠 | **Mémoire** | Se souvient de la langue, de la localité et des enfants d'une conversation à l'autre. |
+
+## 🎬 Démo : ce que vit l'utilisateur
+
+```mermaid
+sequenceDiagram
+    actor U as Awa (ne lit pas)
+    participant W as WhatsApp
+    participant S as SunuChat
+    U->>W: 🎙️ Vocal en wolof : « mon enfant a de la fièvre »
+    W->>S: Webhook (audio)
+    S->>S: Transcription → compréhension → réponse → traduction
+    S-->>W: 🔊 Vocal en wolof : gestes, remèdes sûrs, signes d'alerte
+    W-->>U: Écoute la réponse
+    U->>W: 📷 Photo de l'ordonnance
+    S-->>W: 🔊 « Paracétamol : 1 comprimé matin, midi et soir pendant 3 jours… »
+    S-->>W: 🔊 « Je te rappelle chaque prise ? »
+    Note over S,U: À l'heure de la prise
+    S-->>W: 🎬 Petite vidéo animée + voix : « C'est l'heure de ton médicament »
 ```
 
-Dans Meta (developers.facebook.com → ton app → WhatsApp → Configuration) :
-URL de rappel `https://<ton-url-ngrok>/webhook`, jeton de vérification = `WHATSAPP_VERIFY_TOKEN`
-du `.env`, puis abonner le champ **messages**. La page de confidentialité demandée par Meta est
-servie sur `https://<ton-url-ngrok>/confidentialite`.
+## 🏗️ Architecture
 
-Le guide complet pour le numéro WhatsApp est dans [docs/whatsapp_setup.md](docs/whatsapp_setup.md).
+### Vue d'ensemble
 
-## Index RAG (sources officielles)
+```mermaid
+flowchart LR
+    U(["👤 Utilisateur<br/>WhatsApp"]) <--> META["Meta<br/>WhatsApp Cloud API"]
+    META -- "webhook HTTPS" --> CADDY["Caddy<br/>HTTPS automatique"]
+    CADDY --> API["FastAPI<br/>main.py"]
 
-Les embeddings sont calculés **en local** avec `BAAI/bge-m3` (multilingue, très bon en
-français, pas de quota) et stockés dans **ChromaDB** (`data/chroma/`). Au premier lancement, le
-modèle est téléchargé depuis Hugging Face (environ 2,3 Go), puis il reste en cache. Sur un Mac
-Apple Silicon, il tourne sur le GPU (MPS).
+    subgraph SERVEUR["☁️ AWS Lightsail · Docker Compose"]
+        CADDY
+        API
+        AGENT["Agent Google ADK<br/>agent.py"]
+        RAG[("ChromaDB<br/>+ bge-m3")]
+        DB[("SQLite<br/>sessions · mémoire · rappels")]
+        SCHED["APScheduler<br/>rappels · alertes"]
+    end
+
+    API --> AGENT
+    AGENT --> RAG
+    AGENT --> DB
+    SCHED --> DB
+    API <--> KIRIKU["🔊 Kiriku<br/>STT / TTS wolof · pulaar"]
+    AGENT <--> GEMINI["✨ Gemini<br/>raisonnement · traduction · vision"]
+    AGENT --> OSM["🗺️ OpenStreetMap<br/>postes de santé"]
+    SCHED --> META
+    API --> META
+```
+
+### Le pipeline de l'agent
+
+Le cœur de SunuChat est un **agent séquentiel en trois étapes** (Google ADK), avec le
+**français comme langue pivot** : les documents officiels et les modèles sont les plus fiables en
+français, et la traduction finale est confiée au meilleur modèle disponible.
+
+```mermaid
+flowchart TB
+    IN["🎙️ Vocal ou texte<br/>wolof / pulaar"] --> STT["Transcription<br/>Kiriku STT"]
+    IMG["📷 Photo d'ordonnance"] --> VISION["Lecture d'ordonnance<br/>Gemini vision · sortie structurée"]
+    STT --> C
+    VISION --> S
+
+    subgraph PIPE["Agent séquentiel Google ADK"]
+        direction TB
+        C["1 · Compréhension<br/>détecte la langue, traduit en français"]
+        R{{"Règles de gravité<br/>rules.py"}}
+        S["2 · Santé<br/>raisonne en français avec ses outils"]
+        T["3 · Traduction<br/>français → wolof / pulaar"]
+        C --> R --> S --> T
+    end
+
+    S <--> TOOLS["🧰 Outils<br/>• sources officielles (RAG)<br/>• recherche web Google<br/>• calendrier PEV<br/>• rappels<br/>• postes de santé proches<br/>• profil et mémoire"]
+    T --> TTS["Synthèse vocale<br/>Kiriku TTS"]
+    TTS --> OUT["🔊 Vocal WhatsApp"]
+    R -. "signe de gravité" .-> SAMU["🚑 Message d'urgence<br/>+ fiche SAMU 1515"]
+```
+
+| Étape | Rôle | Modèle conseillé |
+|---|---|---|
+| **Compréhension** | Langue, traduction vers le français, intention | `gemini-flash-lite-latest` (rapide) |
+| **Santé** | Raisonnement médical, appels d'outils, réponse en français | `gemini-3.8-flash` |
+| **Traduction** | Texte final lu par la voix, en wolof ou en pulaar | `gemini-3.1-pro-preview` (qualité maximale) |
+| **Ordonnance** | Lecture d'écriture manuscrite, sortie JSON | même modèle que la traduction |
+
+### Le RAG : des réponses ancrées dans les sources officielles
+
+```mermaid
+flowchart LR
+    PDF["📑 47 documents officiels<br/>MSAS · PNLP · OMS · UNICEF"] --> CLEAN["Nettoyage<br/>scripts/nettoyer_kb.py"]
+    CLEAN --> CHUNK["2 303 passages<br/>titre · source · année · page"]
+    CHUNK --> EMB["Embeddings locaux<br/>BAAI/bge-m3"]
+    EMB --> CHROMA[("ChromaDB")]
+    Q["Question en français"] --> EMB2["bge-m3"] --> CHROMA
+    CHROMA --> TOP["Passages pertinents<br/>+ citation de la source"] --> AGENT["Agent santé"]
+```
+
+Les embeddings tournent **en local** (aucun quota, aucune donnée envoyée à un tiers) avec
+`bge-m3`, un modèle multilingue performant en français.
+
+### Rappels vocaux animés
+
+```mermaid
+flowchart LR
+    ORD["Ordonnance expliquée"] --> PR["Outil programmer_rappel"]
+    NAIS["Date de naissance d'un enfant"] --> PEV["Calendrier PEV"]
+    PR --> JOB[("APScheduler<br/>jobs SQLite")]
+    PEV --> JOB
+    JOB -- "à l'heure" --> TTS["Voix Kiriku<br/>dans la langue de la personne"]
+    TTS --> FF["ffmpeg<br/>voix + animation en boucle"]
+    FF --> VID["🎬 Vidéo WhatsApp<br/>H.264 + AAC"]
+```
+
+## 🧰 Stack technique
+
+| Couche | Technologies |
+|---|---|
+| **Canal** | WhatsApp Cloud API (Meta) : vocaux, vidéos, fiches contact, positions |
+| **Backend** | Python 3.12, FastAPI, Uvicorn, httpx, Pydantic Settings |
+| **IA et agents** | Google ADK (agent séquentiel, outils, mémoire, compression du contexte), Google Gemini (texte, vision, recherche Google intégrée) |
+| **Voix** | API Kiriku : reconnaissance et synthèse vocale en wolof et en pulaar |
+| **RAG** | ChromaDB, sentence-transformers, `BAAI/bge-m3`, pypdf, BeautifulSoup |
+| **Données** | SQLite (sessions ADK, mémoire longue, rappels), SQLAlchemy |
+| **Planification** | APScheduler (rappels de médicaments, vaccins, campagnes) |
+| **Médias** | ffmpeg (imageio-ffmpeg) : conversion audio OGG/Opus, vidéos de rappel |
+| **Géolocalisation** | OpenStreetMap (Nominatim + Overpass), sans clé |
+| **Infra** | Docker, Docker Compose, Caddy (HTTPS Let's Encrypt), AWS Lightsail (Paris) |
+| **Qualité** | pytest (55 tests), Ruff, GitHub Actions |
+| **Outils** | uv (dépendances et environnement Python) |
+
+## 🛡️ Fiabilité et sécurité
+
+**Sécurité médicale**
+- Les signes de gravité sont détectés par des **règles fixes** (`rules.py`), pas seulement par le
+  modèle : le message d'urgence et la fiche SAMU partent toujours.
+- Le bot ne pose jamais de diagnostic certain, ne propose jamais d'antibiotique sans ordonnance
+  et ne modifie jamais une dose prescrite.
+- Les réponses citent d'abord les documents officiels.
+
+**Résilience**
+- **Bascule automatique entre modèles** : si un modèle Gemini est saturé ou à court de quota
+  (erreurs 429 / 503), le suivant de `FALLBACK_MODELS` prend le relais, sans que l'utilisateur
+  ne s'en rende compte.
+- Si la recherche web est indisponible, l'agent répond quand même avec ses sources.
+- En cas d'échec, l'utilisateur reçoit toujours un **vocal d'excuse clair**, jamais le silence.
+
+**Données personnelles**
+- Signature Meta vérifiée sur chaque webhook.
+- Secrets uniquement dans `.env`, jamais dans le code.
+- Embeddings calculés en local.
+- Désinscription des alertes en disant simplement « stop ».
+- Page de confidentialité servie sur `/confidentialite`.
+
+## ⚙️ Installation
+
+**Prérequis** : Python 3.12, [uv](https://docs.astral.sh/uv/), une clé Gemini, un numéro
+WhatsApp Business (Meta), un accès à l'API Kiriku.
 
 ```bash
-uv run python -m sunuchat.knowledge list                # documents gardés du corpus kb
+git clone https://github.com/Alioukun221/Sunuchat_Voicebot.git
+cd Sunuchat_Voicebot
+uv sync                       # Python 3.12 + dépendances
+cp .env.example .env          # puis remplir les clés
+uv run python -m sunuchat.knowledge build   # construit l'index RAG
+uv run sunuchat               # serveur sur http://localhost:8000
+ngrok http 8000               # URL publique pour le webhook Meta
+```
+
+Dans Meta (developers.facebook.com → ton app → WhatsApp → Configuration) : URL de rappel
+`https://<url>/webhook`, jeton de vérification = `WHATSAPP_VERIFY_TOKEN`, puis abonner le champ
+**messages**.
+
+<details>
+<summary><b>Variables d'environnement principales</b></summary>
+
+| Variable | Rôle |
+|---|---|
+| `GOOGLE_API_KEY` | Clé Gemini |
+| `AGENT_MODEL` | Modèle de l'étape santé |
+| `FAST_MODEL` | Modèle de l'étape compréhension |
+| `TRANSLATION_MODEL` | Modèle de traduction et de lecture d'ordonnance |
+| `FALLBACK_MODELS` | Modèles de secours, dans l'ordre |
+| `WHATSAPP_ACCESS_TOKEN`, `WHATSAPP_PHONE_NUMBER_ID`, `WHATSAPP_VERIFY_TOKEN`, `WHATSAPP_APP_SECRET` | Accès WhatsApp Cloud API |
+| `SPEECH_API_BASE_URL`, `SPEECH_API_KEY` | Accès à l'API vocale Kiriku |
+| `EMBEDDING_MODEL` | Modèle d'embeddings (`BAAI/bge-m3`) |
+| `TEMPLATE_RAPPEL_VACCIN`, `TEMPLATE_ALERTE_SAISON` | Modèles de messages Meta (hors fenêtre de 24 h) |
+
+La liste complète est dans [`.env.example`](.env.example).
+</details>
+
+<details>
+<summary><b>Commandes du RAG</b></summary>
+
+```bash
+uv run python -m sunuchat.knowledge list                # documents du corpus
 uv run python -m sunuchat.knowledge build --limit 300   # petit index pour tester vite
-uv run python -m sunuchat.knowledge build               # index complet
-uv run python -m sunuchat.knowledge build --reset       # tout réindexer (après changement de modèle)
+uv run python -m sunuchat.knowledge build --reset       # tout réindexer
 uv run python -m sunuchat.knowledge search "comment entretenir la moustiquaire"
 ```
 
-Le corpus est lu dans `KB_DIR` (par défaut `data/kb/`) : `chunks.jsonl` contient les passages
-déjà nettoyés et découpés (titre, source, année, page), `textes/` un texte propre par document et
-`manifest.csv` le catalogue. Pour le régénérer depuis le dossier brut `~/Downloads/kb`
-(il faut `pdftotext` : `brew install poppler`) :
+Le corpus nettoyé est dans `data/kb/` : `chunks.jsonl` (passages), `textes/` (un texte par
+document) et `manifest.csv` (catalogue). Pour le régénérer depuis les PDF bruts :
+`python3 scripts/nettoyer_kb.py ~/Downloads/kb data/kb` (nécessite `pdftotext`).
+</details>
 
-```bash
-python3 scripts/nettoyer_kb.py ~/Downloads/kb data/kb
-uv run python -m sunuchat.knowledge build --reset
+<details>
+<summary><b>Modèles de messages Meta (rappels hors des 24 h)</b></summary>
+
+Hors des 24 h qui suivent le dernier message d'une personne, WhatsApp n'accepte que des modèles
+approuvés, sans vocal. Le rappel de vaccin passe alors par un modèle texte + image :
+
+- `TEMPLATE_RAPPEL_VACCIN=rappel_vaccin` (Utilité) : « 💉 Rappel SunuChat : demain {{2}}, ton
+  enfant a rendez-vous pour ses vaccins de {{1}} ({{3}}). Va au poste de santé avec son carnet. »
+- `TEMPLATE_ALERTE_SAISON=alerte_hivernage` (Marketing) : « 🦟 C'est l'hivernage : le paludisme
+  et la dengue reviennent… Écris stop pour ne plus recevoir d'alertes. »
+
+Images d'en-tête à déposer dans `assets/images/` (`vaccins`, `hivernage`, carré 1080 × 1080).
+</details>
+
+## 🚀 Déploiement
+
+```mermaid
+flowchart LR
+    DEV["💻 Développeur"] -- "git push" --> GH["GitHub<br/>Sunuchat_Voicebot"]
+    GH --> CI["GitHub Actions<br/>Ruff + pytest"]
+    CI -- "tests verts · SSH + rsync" --> SRV["AWS Lightsail<br/>Ubuntu 24.04 · 4 Go"]
+    SRV --> DC["docker compose up -d --build"]
+    DC --> APP["app : FastAPI + agent"]
+    DC --> CAD["caddy : HTTPS"]
 ```
 
-On peut aussi ajouter des PDF officiels dans `data/raw/manuel/`. Relancer `build` n'ajoute que les nouveaux passages. Pour changer de
-modèle, mettre `EMBEDDING_MODEL=...` dans le `.env` puis `build --reset`.
+- **Serveur** : AWS Lightsail (région Paris), Ubuntu 24.04, 4 Go de RAM, IP fixe.
+- **HTTPS** : Caddy obtient le certificat Let's Encrypt tout seul (domaine `sslip.io`).
+- **Persistance** : `data/` (bases, index) et le cache du modèle `bge-m3` sont des volumes Docker,
+  conservés entre les mises à jour.
+- **CI/CD** : à chaque push sur `master`, GitHub Actions lance les tests puis met le serveur à jour.
 
-## Recherche web et postes de santé
+Mise à jour manuelle :
 
-- **Recherche web** : pour toutes les maladies hors du corpus officiel (cancer, diabète,
-  hypertension, Octobre rose…) et pour l'actualité (épidémie en cours, campagne), l'agent
-  santé appelle l'outil `recherche_web` (recherche Google intégrée à Gemini, sans clé en plus).
-- **Poste de santé le plus proche** : l'utilisateur partage sa position WhatsApp
-  (📎 → Position), ou l'agent lui envoie un bouton « Envoyer la position ». Les structures
-  proches viennent d'OpenStreetMap ; le bot répond avec les plus proches et envoie la carte
-  du premier. Sans position, il se sert de la localité (« Pikine », « Podor »).
+```bash
+rsync -avz --exclude .venv --exclude .git --exclude __pycache__ --exclude .env \
+  -e "ssh -i ~/.ssh/<cle>.pem" ./ ubuntu@<ip>:~/sunuchat/
+ssh -i ~/.ssh/<cle>.pem ubuntu@<ip> "cd ~/sunuchat && docker compose up -d --build"
+```
 
-## Personnalité, ordonnances, SAMU, rappels et alertes
+Le guide pas à pas est dans [DEPLOIEMENT.md](DEPLOIEMENT.md).
 
-- **Tout en vocal, en wolof et en pulaar** : la langue est reconnue dans ce que la personne
-  dit ; un message en français reçoit une réponse en wolof (ou en pulaar si c'est sa langue).
-  Il n'y a ni bouton ni menu écrit : à « Salam » ou « qu'est-ce que tu sais faire ? », l'agent
-  se présente lui-même (sa personnalité et ce qu'il sait faire sont dans `SANTE_PROMPT`,
-  `agent.py`). Les messages fixes (erreurs, « stop »…) sont dans `src/sunuchat/textes.py`,
-  brouillons à faire relire par des locuteurs.
-- **Ordonnance** : une photo (ou un PDF) d'ordonnance est lue par Gemini (`ordonnance.py`) :
-  médicaments, dose, nombre de prises, durée. L'agent l'explique en vocal et propose un
-  rappel pour chaque prise. Une photo illisible reçoit un vocal qui demande d'en refaire une.
-- **SAMU** : dès qu'un signe de gravité est détecté, la réponse est suivie d'une fiche
-  contact SAMU 1515 : un appui sur « Appeler » lance l'appel.
-- **Rappels de médicaments et de vaccins** : en vocal dans la langue de la personne, posé sur
-  une courte animation en boucle (`assets/animations/rappel_medicament.mp4` et
-  `rappel_vaccin.mp4`) : WhatsApp reçoit une petite vidéo. Les vaccins sont rappelés la veille
-  de chaque rendez-vous du PEV, à 10 h, dès qu'une date de naissance d'enfant est donnée.
-- **Alertes d'hivernage** : envoyées le 15 juillet et le 15 septembre à 10 h à toutes les
-  personnes inscrites (inscription au premier message, « stop » écrit ou dit à voix haute
-  pour se désinscrire, « alerte » pour revenir). Envoi manuel :
-  `uv run python -m sunuchat.campaigns` (ou suivi d'un numéro pour tester).
-
-### Modèles de messages Meta (obligatoires pour les rappels et alertes)
-
-Hors des 24 h qui suivent le dernier message d'une personne, WhatsApp n'accepte que des
-modèles approuvés, qui ne peuvent pas contenir de vocal : le rappel de vaccin passe alors
-par le modèle ci-dessous (texte et image), le rappel de médicament ne part pas. À créer dans WhatsApp Manager → Modèles de message, langue Français,
-avec un en-tête **Image** si tu mets l'image correspondante dans `assets/images/`, puis à
-reporter dans le `.env` :
-
-- `TEMPLATE_RAPPEL_VACCIN=rappel_vaccin` (catégorie Utilité) :
-  « 💉 Rappel SunuChat : demain {{2}}, ton enfant a rendez-vous pour ses vaccins de {{1}}
-  ({{3}}). Va au poste de santé avec son carnet de vaccination. »
-- `TEMPLATE_ALERTE_SAISON=alerte_hivernage` (catégorie Marketing) :
-  « 🦟 C'est l'hivernage : le paludisme et la dengue reviennent. Dors sous une moustiquaire
-  imprégnée, vide les eaux stagnantes et va au poste de santé dès la première fièvre.
-  Réponds à ce message pour poser tes questions. Écris stop pour ne plus recevoir d'alertes. »
-
-### Images
-
-Déposer dans `assets/images/` (JPG ou PNG, carré 1080 × 1080, moins de 5 Mo) :
-`vaccins` (en-tête du modèle de rappel) et `hivernage`. Une image
-absente est simplement sautée. Chaque image n'est envoyée qu'une fois à Meta (identifiant
-gardé 25 jours dans `data/images.json`).
-
-## Structure
+## 📁 Structure du code
 
 ```
 src/sunuchat/
-  main.py        serveur FastAPI : /health, /confidentialite et webhook WhatsApp
-  whatsapp.py    envoyer messages, vocaux et vidéos, télécharger les médias reçus
-  agent.py       agent Google ADK (compréhension → santé → traduction) et ses outils
-  rules.py       règles fixes : signes de gravité, calendrier PEV
-  speech.py      voix : transcription et synthèse wolof / pulaar (API Kiriku), vidéo de rappel
-  ordonnance.py  lecture d'une ordonnance en photo (Gemini)
-  knowledge.py   sources officielles : nettoyage, index, recherche
-  places.py      postes de santé proches (OpenStreetMap : Nominatim + Overpass, sans clé)
-  reminders.py   rappels vocaux de médicaments et de vaccins, sur animation
-  onboarding.py  messages fixes en vocal, « stop » / « alerte », fiche SAMU
-  textes.py      textes fixes en wolof et en pulaar
-  campaigns.py   inscrits et alertes de saison (hivernage)
-  images.py      visuels de assets/images/, envoyés une fois à Meta puis réutilisés
-  memory.py      sessions et mémoire longue par numéro WhatsApp
-  config.py      variables d'environnement (.env)
-tests/
-data/            bases SQLite et ChromaDB (non committés), corpus nettoyé data/kb/
-scripts/         nettoyer_kb.py : nettoyage du corpus brut kb → data/kb/
-docs/
+├── main.py         Serveur FastAPI : webhook WhatsApp, /health, /confidentialite
+├── agent.py        Agent Google ADK (compréhension → santé → traduction), outils, bascule de modèles
+├── rules.py        Règles fixes : signes de gravité, calendrier vaccinal PEV
+├── knowledge.py    RAG : nettoyage, indexation ChromaDB, recherche
+├── ordonnance.py   Lecture d'ordonnance (Gemini vision, sortie structurée)
+├── speech.py       Voix Kiriku (STT / TTS), conversion audio, vidéo de rappel
+├── whatsapp.py     Envoi de vocaux, vidéos, fiches contact ; téléchargement des médias
+├── reminders.py    Rappels vocaux de médicaments et de vaccins
+├── campaigns.py    Inscriptions et alertes d'hivernage
+├── places.py       Postes de santé proches (OpenStreetMap)
+├── memory.py       Sessions et mémoire longue par numéro
+├── onboarding.py   Messages fixes en vocal, commandes « stop » / « alerte », fiche SAMU
+├── textes.py       Textes fixes en wolof et en pulaar
+├── images.py       Visuels envoyés une fois à Meta puis réutilisés
+└── config.py       Configuration (.env)
+assets/animations/  Animations des rappels (médicament, vaccin)
+data/kb/            Corpus officiel nettoyé
+deploy/             Caddyfile, script d'installation du serveur
+tests/              55 tests (pytest)
 ```
 
-## Chemin d'un message
-
-1. Meta envoie le message sur `POST /webhook` (`main.py`). La signature est vérifiée, on répond
-   200 tout de suite et le message passe en coches bleues avec « en train d'écrire ».
-2. Si c'est un vocal, il est téléchargé (`whatsapp.py`) et transcrit par Kiriku (`speech.py`).
-   Si c'est une photo d'ordonnance, Gemini la lit (`ordonnance.py`).
-3. L'agent (`agent.py`) tourne en trois étapes, avec le français comme langue pivot :
-   - **comprehension** : Gemini détecte la langue (wolof ou pulaar) et traduit en français. Les règles de gravité
-     (`rules.py`) et la recherche dans les sources (`knowledge.py`) tournent sur ce texte.
-   - **sante** : Gemini raisonne en français avec les passages trouvés, le profil de
-     l'utilisateur et ses outils (sources, calendrier PEV, profil, rappels, mémoire longue,
-     Google Maps si la clé est là). En cas d'alerte, le message d'urgence est toujours ajouté.
-   - **traduction** : la réponse est traduite en wolof ou en pulaar.
-4. La réponse part toujours en vocal (en texte seulement si la synthèse vocale échoue).
-
-Sessions : une par numéro et par jour (`DatabaseSessionService`, SQLite). Le profil
-(`user:langue`, `user:localite`, `user:enfants`) est gardé d'un jour à l'autre. Les anciennes
-conversations sont retrouvées avec `SqliteMemoryService` + `preload_memory`, et le contexte est
-compressé tous les 8 tours.
-
-En cas de problème, l'utilisateur reçoit un vocal clair au lieu du silence : « réessaie dans
-quelques minutes » si l'agent échoue, « renvoie ton vocal » si le sien n'a pas pu être écouté,
-« refais la photo » si l'ordonnance est illisible.
-
-## Modèles
-
-Par défaut tout tourne sur `gemini-flash-lite-latest`, qui marche avec le quota gratuit. Avec la
-facturation activée sur la clé Gemini, mettre `AGENT_MODEL=gemini-flash-latest` dans le `.env`
-pour de meilleures réponses et traductions.
-
-## Tests
+Tests et lint :
 
 ```bash
 uv run pytest
 uv run ruff check src tests
 ```
+
+## 🌱 Impact et suite du projet
+
+**Pour qui ?** Les mères et les familles en zone rurale et périurbaine, les personnes âgées, et
+toute personne qui ne lit pas le français. Les agents de santé communautaires (*bajenu gox*,
+relais) peuvent aussi s'en servir comme appui.
+
+**Pourquoi ça peut passer à l'échelle ?**
+- Aucun téléchargement : WhatsApp est déjà sur les téléphones.
+- Aucune lecture : tout est vocal.
+- Coût par conversation faible, infrastructure légère (un seul serveur).
+
+**Prochaines étapes**
+- Faire valider les textes et les réponses par des locuteurs natifs et des professionnels de santé.
+- Ajouter d'autres langues nationales (sérère, diola, mandinka, soninké).
+- Rappels vocaux hors de la fenêtre de 24 h grâce à des modèles Meta avec en-tête vidéo.
+- Tableau de bord anonymisé pour le suivi épidémiologique (questions fréquentes par zone).
+- Partenariats avec les districts sanitaires et les programmes nationaux (PNLP, PEV).
+
+---
+
+<div align="center">
+
+**SunuChat** · *Sunu* = « notre » en wolof : notre assistant santé, dans notre langue.
+
+⚠️ SunuChat donne des informations de santé générales et ne remplace pas une consultation
+médicale. En cas d'urgence, appelez le **SAMU au 1515**.
+
+</div>
