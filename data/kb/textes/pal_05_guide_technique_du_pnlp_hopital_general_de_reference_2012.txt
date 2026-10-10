@@ -1,0 +1,2839 @@
+Gestion des effets indésirables des médicaments antipaludiques ........................
+
+Traitement préventif intermittent chez les femmes enceintes...............................
+
+Moustiquaires imprégnées d'insecticide à longue durée d'action ..........................
+
+Annexe 1 : Les effets secondaires des antipaludiques recommandés ..........
+
+Annexe 2 : Quantification des intrants de lutte antipaludique
+
+Annexe 3 : Renseignements sur artesunate suppositoire .................................
+
+Annexe 4 : Surveillance Epidémiologique : Investiguer et confirmer une épidémie Annexe 5 : Enregistrement des données au niveau des établissements de Annexe 6 : Notes explicatives de remplissage de la fiche de notification d'effet
+
+Annexe 7 : Fiche de notification de l'effet indésirable ...............
+
+Annexe 8 : Critères de gravité du paludisme (OMS, 2000).................................
+
+ACRONYMES
+
+AS
+
+: Aire de Santé
+
+AS+AQ
+
+: Artésunate + Amodiaquine
+
+: Contrôle
+
+CMM
+
+: Consommation Mensuelle Moyenne
+
+CPN
+
+: Consultation Pré-Natale
+
+CPS
+
+: Consultation Pré-Scolaire
+
+CS
+
+: Centre de Santé
+
+CTA
+
+: Combinaison Thérapeutique à base d'Artémisinine
+
+ECZS
+
+: Equipe Cadre de la Zone de Santé
+
+FM
+
+: Frottis Mince
+
+GE
+
+: Goutte Epaisse
+
+HGPR
+
+: Hôpital Général Provincial de Référence
+
+HGR
+
+: Hôpital Général de Référence
+
+: Intra-Veineux
+
+J
+
+: Jour
+
+Kg
+
+: Kilogramme mg
+
+: Milligramme
+
+MILD
+
+: Moustiquaire Imprégnée d'insecticide à Longue Durée d'action ml
+
+: Millilitre
+
+OMS
+
+: Organisation Mondiale de la Santé
+
+PEC
+
+: Prise En Charge
+
+Pf
+
+: Plasmodium falciparum
+
+PMI
+
+: President's Malaria Initiative
+
+PNDS
+
+: Plan National de Développement Sanitaire
+
+RDC
+
+: République Démocratique du Congo
+
+SP
+
+: Sulfadoxine-Pyriméthamine
+
+SRSS
+
+: Stratégie de Renforcement du Système de Santé
+
+SSC
+
+: Sites de Soins Communautaires
+
+TDR
+
+: Test de Diagnostic Rapide
+
+TPI
+
+: Traitement Préventif Intermittent
+
+VIH/SIDA
+
+: Virus de l'immunodéficience humaine/Syndrome de l'immunodéficience acquise
+
+: Zone de Santé
+
+ZS
+
+Introduction
+
+De tout temps, la décision de mettre à jour un document opérationnel comme ce guide technique sur la prévention et la prise en charge des cas de paludisme en République Démocratique du Congo (RDC) est une opération complexe qui associe les différents intervenants que sont les techniciens experts du Ministère de la Santé ou des organisations partenaires, les prestataires des soins, les formateurs de la formation aussi bien initiale que continue (les Universités et Instituts de formation), les organisations professionnelles médicales, paramédicales et pharmaceutiques, etc.
+
+L'accroissement des financements de la lutte contre le paludisme en RDC à travers la signature des séries 3, 8e et 10e soumission du Fonds Mondial, le déblocage d'une nouvelle tranche du « Booster Programme » de la Banque Mondiale, l'avènement de l'Initiative Présidentielle Américaine de lutte contre le paludisme (PMI), l'annonce du projet paludisme de la coopération Britannique (DfiD), et récemment le projet prise en charge communautaire de la coopération Canadienne (CIDA) sont des défis nous contraignant de nous aligner aux bonnes pratiques et consensus actuels de prise en charge du paludisme.
+
+Le présent document a pour objet de fournir des indications techniques aux prestataires du niveau opérationnel sur la prévention et le traitement du paludisme en RDC. Celui-ci est une mise à jour de la version précédente datant de 2010 justifiée par la survenue d'événements nouveaux à savoir : l'adoption récente du Plan National de Développement Sanitaire (PNDS) 2011-2015 et la Stratégie de Renforcement du Système de la Santé (SRSS) de la RDC, la publication de la 2e édition des directives de prise charge du paludisme de l'Organisation Mondiale de la Santé (OMS) édition 2010, l'adoption des nouvelles directives de prise en charge du paludisme issues du forum national de consensus d'avril 2012, l'évaluation préalable et concluante au niveau du pays de nouveaux intrants (diagnostic, traitement et communication), et tout récemment les recommandations issues de la récente revue de performance du programme (RPP).
+
+Nous avons l'espoir que ces nouveaux changements se feront de manière progressive en fonction du plateau technique des formations sanitaires et des réalités locales Les principaux changements par rapport à la version présente sont les suivants :
+
+1) l'introduction de l'artésunate injectable pour le traitement du paludisme grave au niveau des structures de soins de référence ainsi que l'artésunate suppositoire pour le traitement pré-référence du paludisme grave au niveau des centres de santé (CS) et des sites de soins communautaires (SSC);
+
+2) l'introduction des Tests de Diagnostic Rapide (TDR) et la revue de la section microscopie avec une rubrique sur le frottis mince ;
+
+3) l'introduction d'une seconde combinaison thérapeutique à base d'artémisinine (CTA) en première ligne;
+
+Ainsi, ce document sert d'outil à l'équipe de l'Hôpital General de Référence (HGR) pour mieux organiser les activités de prévention et de prise en charge du paludisme au niveau de l'aire de santé d'une part et d'autre part de support à l'équipe cadre de la zone de santé (ECZS) pour la formation et la supervision destinées au personnel des HGR. Ce guide technique HGR est une mise à jour des éditions antérieures (2006 et 2010) et ne cible que les activités à mener au niveau du HGR.
+
+Les futures révisions capitaliseront les observations, commentaires et suggestions des différents utilisateurs et expertises.
+
+CHAPITRE 1 : PRISE EN CHARGE DU PALUDISME
+
+OBJECTIFS
+
+1.1.1. Objectif général
+
+Actualiser les connaissances requises et les compétences nécessaires des prestataires sur la prise en charge des cas de paludisme simple et grave selon les directives nationales.
+
+1.1.2. Objectifs spécifiques
+
+Le prestataire des soins doit être capable de :
+
+Diagnostiquer précocement et correctement le paludisme simple et grave chez l'enfant, la femme enceinte et l'adulte ;
+
+Traiter précocement et correctement le paludisme simple et grave chez l'enfant, la femme enceinte et l'adulte ;
+
+Référer à temps les complications de paludisme grave au niveau tertiaire ;
+
+Assurer l'éducation aux malades et/ou aux accompagnants.
+
+DIAGNOSTIC DU PALUDISME
+
+1.2.1. Objectifs
+
+Objectif spécifique
+
+Diagnostiquer correctement le paludisme simple et grave enceinte et l'adulte.
+
+chez l'enfant, la femme
+
+Objectifs opérationnels
+
+Le prestataire des soins doit être capable de :
+
+Reconnaître et classifier les cas de paludisme en général ;
+
+Reconnaître les cas de paludisme grave et ses complications
+
+Appliquer correctement les étapes de réalisation de la microscopie ou d'un test de diagnostic rapide chez les patients suspects du paludisme ;
+
+Procéder à la lecture correcte des résultats de la microscopie et du test de diagnostic rapide;
+
+Procéder à l'enregistrement des résultats
+
+1.2.2. Directives
+
+Le diagnostic du paludisme est posé selon le niveau des services de santé à 4 échelons interdépendants à savoir ; communauté, centre de santé, hôpital général de référence, hôpital général provincial de référence ou cliniques universitaires.
+
+Hôpital général de référence
+
+Le diagnostic du paludisme grave est basé sur :
+
+o l'histoire de la maladie en recherchant la présence de la fièvre ou histoire de fièvre dans les 2 jours en association avec un des signes de gravité et la confirmation biologique par la microscopie : goutte épaisse « GE » ainsi que le frottis mince « FM » pour l'identification des espèces plasmodiales, les formes sexuées et asexuées et la numération quantitative du parasite ;
+
+o la reconnaissance des signes de gravité ou complications nécessitant une référence vers l'Hôpital Général Provincial de Référence « HGPR » ou les Cliniques universitaires.
+
+Le diagnostic de l'échec thérapeutique basé:
+
+o sur la persistance de la fièvre après 3 jours de traitement correct aux CTA ;
+
+o sur une confirmation biologique par une goutte épaisse positive.
+
+le diagnostic est assuré par les médecins.
+
+Hôpital Général Provincial de Référence et Hôpital/cliniques universitaires Le diagnostic du paludisme grave est basé sur :
+
+o la reconnaissance des signes de gravité ou complications nécessitant une prise en charge appropriée.
+
+Le diagnostic est assuré par les spécialistes
+
+1.2.3. Normes
+
+Reconnaître et classifier les cas de paludisme en général
+
+Définition du cas
+
+Est considéré comme cas de paludisme maladie, tout sujet malade présentant une fièvre ou une histoire de fièvre depuis 2 jours avec confirmation biologique (résultat positif du test de diagnostic rapide du paludisme « TDR » ou de la microscopie.) Est considéré comme fièvre, toute température axillaire égale ou supérieure à 37.5°C ou chaude au toucher.
+
+Cette fièvre peut être accompagnée ou non de maux de tête, sensation de froid, courbatures, tremblements, nuchalgies, fatigue, frissons, transpiration, nausée.
+
+Dans certains cas, la fièvre peut être absente.
+
+Classification clinique des cas
+
+Paludisme simple :
+
+Est défini comme paludisme simple tout cas présentant la fièvre ou histoire de fièvre dans les 2 jours accompagnée ou non de maux de tête, sensation de froid, courbatures, tremblements, nuchalgies, fatigue, frissons, transpiration, nausée sans signes de gravité et confirmé par un diagnostic biologique (Test de Diagnostic Rapide/Goutte Epaisse).
+
+Echec thérapeutique
+
+Tout cas de persistance de la fièvre 3 jours sans association des signes d'autres infections, après l'administration correcte des combinaisons thérapeutiques à base d'Artémisinine (CTA: AS-AQ et AL), confirmé par une goutte épaisse positive.
+
+Paludisme grave
+
+Est défini comme paludisme grave tout sujet/malade présentant la fièvre ou histoire de fièvre dans les 2 jours passés accompagnée d'au moins un signe de gravité et confirmé par la microscopie (Goutte Epaisse/frottis mince).
+
+Les signes de gravité sont les suivants :
+
+difficulté de parler, de s'asseoir, de se tenir debout ou de marcher (fatigue extrême);
+
+Incapacité de téter, de boire ou de manger ;
+
+antécédents de convulsions ou convulsions actuelles.
+
+saignement au niveau des gencives, du nez ou de la peau;
+
+élimination d'urines en petite quantité et de couleur café ou coca-cola;
+
+troubles de comportement (agitation, logorrhée, la confusion, mutisme, agressivité, euphorie...) ;
+
+perte de conscience ou le coma;
+
+jaunisse et/ou la pâleur palmaire;
+
+respiration anormale ou inhabituelle;
+
+extrémités froides;
+
+vomissements à répétition.
+
+En résumé la personne devient de plus en plus malade.
+
+ATTENTION : L'absence de fièvre n'exclut pas le paludisme grave.
+
+Résumé de la classification
+
+Fièvre (T≥37,5°C) ou histoire de fièvre dans les 2 jours accompagnée ou non de maux de tète, sensation de froid, courbatures, tremblements, nuchalgies, fatigue, frissons, transpiration, nausée.
+
+Réaliser un test de diagnostic biologique :
+
+Microscopie (GE / FM)
+
+Test de diagnostic rapide (TDR)
+
+Négatif
+
+Positif
+
+Paludisme (confirmé)
+
+Rechercher d'autres étiologies.
+
+Si aucune détectée, référer
+
+Présence des signes de gravité
+
+OUI
+
+NON
+
+Paludisme simple
+
+Paludisme grave e
+
+Persistance de la fièvre au 3 jour sans association des signes d'autres infections, après l'administration correcte des CTA (AS-AQ ou AL)
+
+OUI
+
+NON
+
+Microscopie (GE) positive
+
+Guérison
+
+OUI
+
+NON
+
+Rechercher d'autres étiologies.
+
+Résumé de la classification du paludisme
+
+Echec thérapeutique
+
+Si aucune détectée, référer
+
+Reconnaître les cas de paludisme grave et ses complications
+
+Il est important de noter que la présence de tout signe menaçant la vie fait de la maladie, un paludisme grave1. Dans l'évaluation de tout malade suspect de paludisme, il faut donc rechercher minutieusement les signes de paludisme grave. Dans les zones à forte transmission, le paludisme est la cause la plus courante de fièvre et de décès, surtout chez les jeunes enfants. L'état des malades peut s'altérer rapidement en quelques heures ou quelques jours et mener à des situations potentiellement mortelles telles que le coma, les convulsions répétées, le choc, l'anémie sévère, etc. La présence d'un signe général de danger chez l'enfant révèle le paludisme grave.
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Pourquoi le paludisme grave nécessite-t-il une attention particulière ?
+
+C'est une cause fréquente de décès évitable.
+
+Un traitement correct et rapide et des soins infirmiers adéquats en améliorent considérablement le pronostic.
+
+Des antipaludiques appropriés doivent être administrés de préférence par voie parentérale et sous surveillance.
+
+Le traitement doit être administré à l'hôpital.
+
+Les médicaments inefficaces et dangereux doivent être évités.
+
+Quelles sont les personnes à risque de paludisme grave ?
+
+Les enfants de moins de 5 ans dans les zones de forte endémicité Les personnes de tout âge dans les zones de faible endémicité Les personnes qui reviennent dans des zones de forte endémicité après une longue absence (plus de 6 mois)
+
+Les voyageurs en provenance de régions faiblement ou non impaludées Les femmes enceintes des régions impaludées, surtout les primipares, Les personnes déplacées
+
+Les drépanocytaires homozygotes
+
+Les patients splénectomisés
+
+Les personnes vivant avec le VIH
+
+Les vieillards
+
+Facteurs qui influent sur la gravité de la maladie
+
+Espèce plasmodiale : le paludisme grave n'est causé que par P. falciparum. Celui-ci est également la cause la plus fréquente de paludisme simple.
+
+- Niveau d'endémicité : les adultes et les grands enfants vivant dans des zones endémiques, sont moins exposés au paludisme grave.
+
+- Facteurs liés à l'hôte et conditions climatiques : les adultes qui se rendent pour la première fois dans les zones endémiques, les enfants et les femmes enceintes sont plus exposés au paludisme grave.
+
+- La résistance du parasite aux médicaments : le niveau de résistance aux médicaments de la région influe aussi sur la gravité du paludisme.
+
+Mécanismes et caractéristiques cliniques de quelques complications spécifiques
+
+Les manifestations de l'infection du paludisme vont de l'infestation totalement asymptomatique à la maladie grave mortelle ; plusieurs facteurs influençant les manifestations cliniques. Il s'agit, entre autres, des cytokines produites par l'individu en réaction à l'infection palustre comme le facteur de nécrose tumorale (TNF2). Elles peuvent provoquer certains des signes de paludisme grave, ex. : coma, hypoglycémie, acidose, détresse respiratoire de l'adulte. D'autres mécanismes tels que la séquestration des hématies parasitées dans les capillaires profonds pourraient expliquer les troubles de conscience3. Voici certaines des manifestations courantes du paludisme grave :
+
+Anémie
+
+L'anémie est la complication la plus courante du paludisme. Elle est due à la destruction des hématies parasitées ; même celles qui ne sont pas parasitées, sont détruites plus rapidement pendant la maladie. Elle est plus importante chez les enfants africains car ceux – ci sont souvent malnutris et poly-parasités, aggravant ainsi l'anémie. Les enfants et les femmes enceintes sont les plus souvent touchés. Ils présentent alors une altération de l'état général, une pâleur palmaire grave ou une pâleur des muqueuses et des conjonctives. L'anémie sévère entraîne une insuffisance cardiaque avec respiration rapide, bouffissure du visage et œdèmes des membres inférieurs, pouls rapide, bruit de galop et hépatomégalie avec foie mou et douloureux.
+
+Autres mécanismes à la base de l'anémie :
+
+Dépression de l'hématopoïèse par les cytokines (TNF, ...)
+
+Phagocytose accrue des hématies parasitées et non parasitées (car portant l'hémozoïne à leur surface ;
+
+Pouvoir épuratoire accru de la rate
+
+Paludisme cérébral
+
+Le paludisme cérébral est une manifestation courante du paludisme grave et peut occasionner des séquelles. Un malade atteint de paludisme et ayant une altération de la conscience (confusion, délire, hallucinations ou coma franc) non due aux convulsions, à des sédatifs, à l'hypoglycémie seule, a un paludisme cérébral.
+
+- Coma
+
+Un malade dans le coma ne réagit pas au milieu extérieur, ne peut parler ou suivre ce que vous faites ou demandez. Le coma peut s'installer progressivement ou brutalement ou quelquefois après des convulsions ; il peut être modéré ou profond (coma profond), sans réaction à des stimuli très douloureux (application d'une pression sur le sternum). Rappelez – vous qu'il y a plusieurs causes de coma en dehors du paludisme tels que la méningite, l'encéphalite, l'éclampsie, les intoxications médicamenteuses etc. ; passer soigneusement en revue ces causes.
+
+TNF : Tumor necrosis factor
+
+Macpherson CG, Warrell MJ, White NJ et al (1985) Human cerebral malaria. A quantitative ultrastructural analysis of parazited erythrocyte sequestration. American Journal of pathology, 119, 385-401
+
+-
+
+Convulsions
+
+Les malades ont des mouvements involontaires des membres (bras ou jambes) ou de tout le corps, se mordent quelquefois la langue ou sont incontinents. Les convulsions peuvent être absentes chez un patient atteint de paludisme cérébral, mais elles sont multiples et focalisées lorsqu'elles surviennent. Les convulsions peuvent être dues à une forte fièvre, surtout chez l'enfant, à une hypoglycémie ou à une éclampsie chez la femme enceinte à partir du 2ème trimestre. Devant une notion de convulsions, informez-vous toujours sur les mesures prises pour les arrêter, telles que l'utilisation de décoctions de plantes, l'instillation de jus d'oignon dans les yeux, l'exposition des jambes au feu, etc. .
+
+Difficultés respiratoires
+
+Les malades atteints de paludisme grave peuvent avoir une respiration rapide ou difficile due à l'un des facteurs suivants :
+
+- Insuffisance cardiaque consécutive à une anémie sévère.
+
+- Œdème pulmonaire (après une perfusion abondante) se manifestant généralement par de la mousse aux lèvres et une détresse respiratoire marquée (voir photo 6).
+
+- Détresse respiratoire de l'adulte (due à la présence de parasites du paludisme dans les poumons et pourrait ne pas être différentiable de l'œdème pulmonaire). Se caractérise par de la mousse aux lèvres, une cyanose (extrémités et langue bleues) et parfois des râles crépitant à l'auscultation pulmonaire.
+
+- L'acidose qui entraîne une respiration rapide et profonde.
+
+Hypoglycémie
+
+L'hypoglycémie (glycémie < 2,2 mmol/l) peut être due à un dysfonctionnement hépatique ou à une consommation excessive de glucose par les parasites en maturation. Chez les enfants, l'hypoglycémie peut aussi résulter d'un manque d'appétit ou d'une mauvaise alimentation. La quinine favorise également la survenue de l'hypoglycémie en augmentant la production d'insuline par le pancréas. L'hypoglycémie est néfaste pour le cerveau. Les malades peuvent avoir un changement de comportement, un pouls rapide, des convulsions, une perte de connaissance ou un coma profond. Quelquefois les symptômes sont vagues (faiblesse, transpiration avec peau froide).
+
+Urines foncées
+
+Une émission d'urines foncées peut survenir chez un malade atteint de paludisme. Elle est souvent due à une déshydratation ou à une destruction massive des globules rouges parasités ou des médicaments (primaquine, quinine, sulphonamides, etc.), ce qui entraîne le passage de l'hémoglobine dans l'urine. L'hémoglobinurie doit être distinguée des urines concentrées de la déshydratation, une autre complication potentielle du paludisme grave.
+
+Insuffisance rénale
+
+Elle est due à l'hypotension consécutive à la déshydratation ou au choc et survient plus souvent chez l'adulte atteint de paludisme grave. Elle est facilement réversible, mais cela peut prendre beaucoup de temps et le malade peut nécessiter une dialyse péritonéale.
+
+Elle est habituellement peu fréquente chez l'enfant. Le malade présente des signes de déshydratation, urine très peu (oligurie) ou pas du tout (anurie), et l'exploration de la fonction rénale montre une augmentation des taux sanguins d'urée, de créatinine et de potassium.
+
+Hémorragie spontanée
+
+Certains malades atteints de paludisme peuvent avoir un saignement spontané des gencives ou de la peau ou des saignements prolongés aux points d'injection ou de piqûre. Il s'agit d'un trouble de la coagulation grave qui peut être rapidement mortel.
+
+Evaluation clinique du paludisme grave
+
+Lors de l'évaluation clinique d'un malade atteint de paludisme grave, il convient d'avoir à l'esprit les principes suivants :
+
+- Le paludisme grave peut être soigné, à condition qu'il soit diagnostiqué rapidement et qu'un traitement adéquat soit administré précocement.
+
+- Même dans les zones d'endémie, la maladie peut s'aggraver très rapidement.
+
+- Il faut rechercher soigneusement les symptômes et les signes de gravité de la maladie lors de l'évaluation d'un malade atteint de paludisme.
+
+- Il faut toujours rechercher les symptômes et les signes d'autres maladies courantes afin d'exclure les autres maladies graves.
+
+Antécédents
+
+Des antécédents de séjours ou de voyages dans une zone d'endémie ou de traitement récent avec des antipaludiques ou d'autres médicaments sont importants à noter.
+
+Suspectez le paludisme grave chez tout malade qui présente un des signes sus mentionnés. En plus des antécédents d'ordre général, comme pour le paludisme simple, renseignez-vous sur les points suivants.
+
+Chez les enfants, renseignez-vous sur les signes généraux de danger et demander :
+
+L'enfant peut-il boire ou téter ?
+
+L'enfant a-t-il eu des convulsions dans les 24 heures ?
+
+Vomit tout ?
+
+L'enfant est léthargique ou inconscient ?
+
+Un enfant qui présente l'un de ces signes généraux de danger a le paludisme grave et nécessite des soins urgents. Terminez l'évaluation et commencez le traitement approprié pour le paludisme grave.
+
+Chez tous les malades, rechercher :
+
+La faiblesse extrême (prostration) caractérisée par l'incapacité de manger et de boire ou de faire quoi que ce soit sans aide. Une notion d'affaiblissement progressif doit vous alerter immédiatement car le malade pourrait être en train d'évoluer vers un paludisme grave.
+
+Le changement de comportement ou le coma : Demandez aux parents quels sont les changements observés dans le comportement du patient depuis le début de la maladie, ou le début de l'absence de réaction.
+
+Les convulsions : Informez – vous sur le nombre d'épisodes, le siège des convulsions, les antécédents convulsifs l'heure de début du dernier épisode.
+
+La somnolence ou l'altération de l'état de conscience.
+
+L'heure du dernier repas depuis le début de la maladie.
+
+La respiration rapide, qui peut être due à l'œdème pulmonaire ou à l'acidose.
+
+La diminution de la diurèse, heure de la dernière miction.
+
+La couleur des urines, foncée ou couleur coca cola (ceci peut suggérer une destruction massive des hématies ou une déshydratation).
+
+La grossesse chez les femmes en âge de procréer.
+
+Renseignez-vous sur les antécédents afin d'éliminer les autres maladies graves telles que :
+
+La méningite (le cou raide ou douloureux, le contexte d'épidémie de méningite à méningocoque).
+
+Le diabète sucré (diabétique connu ou miction excessive et soif).
+
+Antécédents de prise de médicaments
+
+Il convient de noter tous les médicaments pris avant la maladie et pour la maladie.
+
+Renseignez-vous en particulier sur les antipaludiques, les salicylates et les décoctions de plantes qui peuvent influer sur le traitement ou provoquer certains des symptômes.
+
+Maladies antérieures
+
+Renseignez-vous sur tout antécédent de maladie fébrile récente et de traitement qui pourrait faire évoquer un échec thérapeutique ou une rechute (évoquez la fièvre typhoïde, le paludisme et d'autres infections).
+
+Examen physique
+
+Il vous permet de :
+
+1.
+
+Rechercher la présence des signes de paludisme grave.
+
+2.
+
+Identifier d'autres causes possibles de maladie.
+
+Les éléments suivants doivent être évalués :
+
+Examen général
+
+Vérifiez :
+
+La température, le poids et s'il s'agit d'un enfant, évaluez l'état nutritionnel.
+
+L'état général du malade, ex. s'il :
+
+o est léthargique ou inconscient ou incapable de se tenir debout ou de marcher ;
+
+o a des difficultés à respirer ou respire rapidement dans le cas des enfants.
+
+Recherchez les signes de pâleur grave ou d'ictère.
+
+La présence d'une éruption cutanée peut suggérer la rougeole / d'autres maladies virales chez l'enfant ou la méningite à méningocoque.
+
+Les signes de déshydratation (lèvres sèches, persistance du pli cutané après pincement ou enfoncement des globes oculaires surtout chez les enfants).
+
+Les adénopathies (augmentation de la taille des ganglions) : elles peuvent faire évoquer le SIDA, la tuberculose ou la trypanosomiase.
+
+Examen des appareils
+
+Il convient d'examiner systématiquement et attentivement les organes vitaux du malade pour rechercher les signes de paludisme grave et éliminer toute autre maladie grave.
+
+Toutefois, cet examen doit être rapide. Rappelez-vous que les problèmes les plus importants sont généralement faciles à déceler.
+
+Système nerveux central
+
+Évaluez l'état de conscience du malade et s'il est dans le coma, utilisez une échelle de coma basée sur la capacité du malade à ouvrir les yeux, à bouger ou à répondre aux ordres verbaux ou à des stimuli douloureux. A l'admission, efforcez-vous d'utiliser une échelle objective telle que :
+
+-
+
+L'échelle de coma de Glasgow pour les adultes.
+
+-
+
+L'échelle modifiée de Glasgow (Blantyre) pour les enfants, ou toute autre échelle à laquelle vous êtes habitué.
+
+En l'absence de celles-ci, vous pouvez utiliser l'échelle 'EVDI' E (Éveil) = vigilance (le patient est-il éveillé ?)
+
+V (Voix) = réaction à des ordres verbaux (le malade répond-il à l'appel de son nom ?) D (Douleur) = réaction à la douleur (le malade ressent-il de la douleur, ou s'il s'agit d'un enfant, pleure-t-il ?)
+
+I (Inerte) = insensible. (Le malade ne réagit pas du tout)
+
+La cotation des items est la suivante : E = 4 ; V = 3 ; D = 2 ; I = 1. Plus la cotation est basse, plus l'état de conscience du malade est grave.
+
+Appareil respiratoire
+
+Déterminez la fréquence respiratoire en cas de respiration difficile, rapide ou profonde Recherchez un tirage sous - costal, surtout chez les enfants
+
+Auscultez les poumons à la recherche de râles ou tout autre bruit anormal.
+
+Appareil cardiovasculaire
+
+Prenez le pouls, une attention particulière à la fréquence et au volume ; (un pouls rapide peut suggérer une insuffisance cardiaque consécutive à une anémie sévère tandis qu'un pouls faible et rapide suggère un choc.).
+
+Extrémités froides ou allongement du temps de recoloration cutané ( plus de 3 secondes).
+
+Hypotension ;
+
+Ausculter le cœur (bruit de galop).
+
+Abdomen
+
+Palpez la rate et le foie (un gros foie mou et douloureux est un signe d'insuffisance cardiaque droite).
+
+Des douleurs lombaires font évoquer une pyélonéphrite aigue.
+
+Diagnostic différentiel
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Méningite : le malade peut avoir une raideur de la nuque.
+
+Encéphalopathie : se manifeste parfois par des convulsions répétées ou un coma profond.
+
+Diabète sucré : le malade peut être déshydraté, acidosique ou dans le coma.
+
+Septicémie : malade en très mauvais état général, dans un état de choc avec des extrémités chaudes.
+
+Épilepsie (mode d'installation grand mal) : généralement absence de fièvre et antécédents de convulsions.
+
+Types d'examens microscopiques :
+
+- Goutte épaisse (frottis épais),
+
+- Frottis mince.
+
+Maintenance et entretien du microscope :
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Garder le microscope à l'abri de la poussière (par exemple le couvrir d'une housse) et de l'humidité (par exemple : le placer dans une armoire contenant une ampoule allumée).
+
+Utiliser seulement de l'huile à immersion (minérale). Ne pas utiliser d'huile de cèdre.
+
+Après chaque emploi, essuyer l'objectif à immersion en le touchant (sans frotter) avec un papier doux ou un tissu.
+
+Si on dispose de liquide spécial de nettoyage pour instrument d'optique, on peut en imbiber le papier doux ou tissu.
+
+Si l'objectif est très sale, le nettoyer avec un papier doux ou tissu imbibé de liquide spécial de nettoyage (à défaut, utiliser de l'eau savonneuse).
+
+Nettoyage des lames :
+
+Lames neuves et propres :
+
+- les tremper 30 minutes à 1 heure dans l'alcool dénaturé (éthanol et éther) ;
+
+- les essuyer avec un linge propre et sec ;
+
+- une fois propres, les lames doivent être tenues par les bords seulement.
+
+Lames de réemploi (ou lames neuves avec moisissures) :
+
+- les faire bouillir 30 minutes à 1 heure dans l'eau contenant un détergent (par exemple : savon) et les laisser tremper dans cette eau pendant 24 heures ;
+
+- les nettoyer une à une avec un linge propre et sec ;
+
+- les placer dans l'alcool dénaturé (éthanol et éther) ;
+
+- les essuyer avec un linge propre et sec ;
+
+Emballage et stockage des lames propres :
+
+- les emballer (après séchage) une à une par paquets de 10 dans du papier (par exemple : papier hygiénique) ;
+
+- garder chaque paquet fermé à l'aide d'un élastique ou de scotch ;
+
+- garder les paquets au sec ;
+
+- les utiliser dans les 2 mois qui suivent.
+
+Identification des lames
+
+Etiqueter ou numéroter chaque lame avec un instrument indélébile (marqueur, crayon gras) au moment du prélèvement.
+
+Microscopie : Prélèvement du sang et confection de la goutte épaisse
+
+-
+
+- toujours mettre des gants ;
+
+désinfecter l'annulaire (pour le tout petit enfant, on peut utiliser le gros orteil ou le talon), le lobule de l'oreille ;
+
+- laisser sécher l'alcool à l'air libre;
+
+- piquer avec une lancette stérile ;
+
+- presser doucement pour faire sortir le sang ;
+
+- essuyer la première goutte de sang avec un tampon sec ;
+
+- prélever en touchant la goutte de sang avec une lame porte-objet (sang au milieu de la lame) ;
+
+- à l'aide du coin d'une lame, étaler le sang sous forme d'un cercle d'un centimètre de diamètre en tournant avec des mouvements circulaires. (essuyer le coin de la lame qui a servi à étaler le sang) ;
+
+- laisser sécher en position horizontale, à la température ambiante, à l'abri des mouches et des poussières (par exemple, couvrir avec une boîte).
+
+On peut aussi utiliser du sang prélevé à la veine pour d'autres examens. Si ce sang contient des anticoagulants, le sang risque de se décoller de la lame durant le lavage, il faut bien sécher la goutte épaisse avant la coloration.
+
+Microscopie : Prélèvement du sang et confection du frottis mince
+
+-
+
+-
+
+- une goutte de sang est déposée à un bord d'une lame porte-objet ;
+
+puis à l'aide d'une deuxième lame propre, toucher la goutte et laisser le sang se répartir le long du bord de la lame ;
+
+incliner la lame dans un angle de 45o par rapport à la première et la pousser vers le bord libre d'un geste rapide et ferme (sans discontinuité jusqu'à épuisement de sang sur le long de la lame contenant la goutte).
+
+N.B. :
+
+-
+
+Le frottis mince, avant d'être coloré, doit être fixé au méthanol.
+
+-
+
+La goutte épaisse et le frottis mince peuvent être étalés sur la même lame.
+
+Microscopie : Techniques de préparation et coloration de lames 1. Préparation des colorants
+
+Solution mère de Giemsa :
+
+Poudre de Giemsa
+
+Méthanol
+
+650 cc
+
+Glycérine purifiée
+
+350 cc
+
+Dans un récipient (ballon en verre de préférence) mettre une poignée de billes de verre, puis la poudre de Giemsa.
+
+Ajouter le méthanol et bien secouer.
+
+Ajouter de la glycérine et bien secouer.
+
+Garder le récipient bien fermé et à l'abri de la lumière.
+
+Mélanger de nouveau en secouant bien chaque jour pendant 3 jours.
+
+Filtrer avec un papier buvard ou un papier filtre.
+
+Eau tamponnée :
+
+Na2HPO4 anhydre
+
+1g
+
+KH2PO4
+
+Eau distillée
+
+- Ajuster le pH à 7,2 en ajoutant quelques gouttes de Na2HPO4 ou KH2PO4.
+
+- S'il n'y a pas d'eau tamponnée, on peut à la rigueur utiliser l'eau du robinet ou l'eau de pluie, en ajustant le pH avec des sels acides ou basiques appropriés.
+
+2. Coloration des lames
+
+Méthode ordinaire (solution de travail : Giemsa à 3 %, colorer pendant 30 minutes) ;
+
+mettre 3 cc de solution-mère dans 97 cc d'eau tamponnée (ou autres volumes équivalents, par exemple : 6 gouttes de solution mère dans 9,7 cc d'eau tamponnée).
+
+Méthode rapide (solution de travail : Giemsa à 10 %, colorer pendant 10 minutes) ;
+
+mettre 10 cc de solution mère dans 90 cc d'eau tamponnée (ou autres volumes équivalents, par exemple : 20 gouttes de solution mère dans 9 cc d'eau tamponnée).
+
+Remarque :
+
+Utiliser la solution de travail le même jour ! La jeter à la fin de la journée !
+
+Maintenir le pH de l'eau tamponnée à 7,2 (si possible, mesurer avec un papier indicateur) :
+
+o si la goutte épaisse est trop bleue, ajouter à l'eau tamponnée (trop alcaline) quelques gouttes de KH2PO4 2 % (ou d'autres sels appropriés) ;
+
+o si la préparation est trop rose, ajouter à l'eau tamponnée (trop acide), quelques gouttes de Na2HPO4 2 % (ou d'autres sels appropriés).
+
+Microscopie : Expression des résultats
+
+La lecture d'une goutte épaisse se fait à l'aide d'un microscope optique à l'objectif 100 (objectif à immersion).
+
+Mettre la lame sur la platine et mettre une goutte d'huile à l'endroit.
+
+- Placer d'abord l'objectif 10x, ensuite l'objectif 100x et le mettre en contact avec l'huile
+
+- Rhéostat de lampe entièrement ouvert,
+
+- condensateur soulevé
+
+- diaphragme d'iris entièrement ouvert.
+
+- S'assurer que la zone choisie a bien la qualité requise et examiner la lame sur au moins 100 champs microscopiques en utilisant la méthode de Rempart :
+
+Figure: Méthode de Rempart de lecture des lames
+
+Vu qu'actuellement le système d'expression des résultats sous forme de croix (+) appelé également le système « plus » est dépassé, le Programme National de Lutte contre le Paludisme (PNLP) recommande actuellement le système de détermination de la densité parasitaire
+
+-
+
+Détermination de la densité parasitaire : Trophozoites par μl de sang (sur la GE) Elle consiste à dénombrer les parasites par μl de sang sur une GE, par rapport à un nombre prédéterminé de globules blancs. Malgré l'imprécision due aux variations du nombre des GB parmi les personnes en bonne santé et aux variations encore plus grandes observées chez les malades, cette valeur permet des comparaisons valables.
+
+Dans chaque champ, les parasites sont comptés en même temps que les leucocytes. Le nombre de leucocytes compté varie entre 200 et 500 selon le schéma suivant :
+
+- Si après avoir compté 200 leucocytes, le nombre de parasites comptés est supérieur ou égal à 100, dans ce cas la lecture s'arrête et on calcule la densité selon la formule en bas.
+
+Cependant si par contre à 200 leucocytes, le nombre de parasites comptés est inférieur à 100, il faut alors continuer jusqu'à 500 leucocytes, calculer la densité selon la formule en bas (OMS février 2009).
+
+Densité parasitaire = Nombre des trophozoïtes comptés x 8000 /μl Nombre GB comptés
+
+N.B. : 8 000 est la moyenne leucocytaire par μl chez l'homme
+
+Détermination de la densité parasitaire : proportion des GR parasités Cette technique se fait sur un frottis mince. On compte jusqu'à 1000 GR et indiquer combien sont parasités ; exprimer le résultat en pourcentage.
+
+Système de croix ou plus (+)
+
+Bien que dépassé, voici à titre indicatif en quoi consiste le système de croix ou plus (+).
+
+Celui-ci consiste à identifier les parasites dans la goutte épaisse, estimer le nombre des parasites par champ microscopique et donner une cotation en fonction des parasites comptés par champ. Il indique l'abondance relative des parasites à l'aide d'un code allant de 1 à 4 « plus » comme suit :
+
+Nombre de ''plus''
+
+Négatif
+
++
+
+++
+
+Nombre de trophozoïtes par champs microscopiques
+
+Pas de parasite dans 100 champs
+
+1 – 10 trophozoïtes / 100champs
+
+11 – 100 trophozoïtes / 100 champs
+
+1 – 10 trophozoïtes par champ
+
+Plus de 10 trophozoïtes par champ
+
+Remarques : - Il faut parcourir au moins 100 champs microscopiques pour déclarer une GE négative
+
+La microscopie : REMARQUES IMPORTANTES
+
+Microscopie : Caractéres morphologiques distinctifs des espèces plasmodiales
+
+Instructions pour l'exécution et la lecture du test de diagnostic rapide (TDR) du paludisme
+
+A. QUE DEVEZ-VOUS REUNIR COMME
+
+MATERIELS?
+
+1. Présentation du kit test
+
+4. Vérifiez (à la lumière du jour) la couleur des petites granules du silicagel. Elles doivent être bleues (cas de SD Bioline) si ces granules changent de couleur, il faut jeter le test et utiliser un autre.
+
+Placez la cassette du test sur une surface plane. Dès que l'emballage est ouvert, le test doit être utilisé immédiatement.
+
+5. Portez une paire de gants. Utilisez une nouvelle paire de gants pour chaque malade.
+
+6. Marquez le numéro d'enregistrement, ou le nom du patient sur la cassette à l'aide du marqueur indélébile.
+
+B. COMMENT DEVEZ-VOUS EXECUTER LE
+
+TEST ?
+
+2. Vérifiez la date de péremption sur le kit/boite et sur le verso de l'emballage du test ?
+
+7. Désinfectez la pulpe de l'annulaire (gros orteil ou talon chez le nourrisson) avec le tampon imbibé d'alcool
+
+Utilisez un autre test si la date de péremption est passée.
+
+Laissez évaporer complètement le désinfectant.
+
+3. Ouvrez l'emballage du test et retirer la cassette test et le sachet contenant le silicagel.
+
+8. Piquez d'un coup sec (sur le côté de la pulpe du doigt), à l'aide d'une lancette.
+
+Il y a trois fenêtres dans la cassette test :
+
+- la fenêtre de résultat avec trois traits (C, Pan et P.f),
+
+- la fenêtre ronde (du milieu) pour l'échantillon de sang et,
+
+- la fenêtre carrée pour le diluant.
+
+9. Jetez la lancette dans le réceptacle /poubelle à aiguilles immédiatement après avoir piqué le doigt. Ne posez pas la lancette avant de la jeter.
+
+10. Pressez doucement le doigt pour faire sortir le sang ; Appliquez fermement la boucle de l'applicateur sur la goutte de sang.
+
+14. Déposez 4 gouttes de la solution tampon dans la fenêtre carrée, en tenant verticalement le flacon.
+
+15. Laissez agir (réglez la minuterie) et attendre
+
+15 minutes après avoir ajouté la solution tampon avant de lire le résultat du test.
+
+11. Assurez-vous que la boucle est remplie de sang (équivalent de 5 μl de sang) ; Evitez de prélever - une grosse goutte de sang) ;
+
+12. Immédiatement après, avant que le sang ne coagule, appliquez fermement la boucle de l'applicateur dans la petite fenêtre ronde (du milieu) de la cassette test.
+
+NB : Conditions de conservation du TDR du paludisme type SD Bioline Malaria Ag P.f/Pan
+
+-
+
+-
+
+-
+
+S'assurer que tout le sang est absorbé au fond de la fenêtre ronde
+
+-
+
+-
+
+13. Jetez immédiatement l'applicateur dans le réceptacle /poubelle à aiguilles.
+
+-
+
+La température de stockage est de 1 ~ 40 ° C à la température ambiante.
+
+NE PAS garder le kit de test ou réactif dans un frigo ou un congélateur
+
+Conservez à l'écart de la chaleur et l'humidité extrêmes.
+
+l'efficacité optimale de la date d'expiration est fonction des conditions idéales de stockage.
+
+La stabilité des composantes du kit est garantie jusqu'à la date d'expiration.
+
+NE PAS utiliser n'importe quel élément du kit si la date d'expiration est dépassée.
+
+C. COMMENT DEVEZ-VOUS INTERPRETER LE RESULTAT DU TEST ?
+
+Ce que vous voyez comme ligne(s)
+
+PAS de ligne colorée au niveau de 'C' (= contrôle) même s'il y en a ailleurs !
+
+Ligne colorée au niveau de 'C'
+
+ET
+
+AUCUNE autre ligne ailleurs
+
+Lignes colorées (2) au niveau de
+
+'C' ET de 'Pf'
+
+Résultat
+
+Comment interpréter?
+
+Le test est INVALIDE !
+
+Il faut reprendre le test avec une nouvelle cassette test.
+
+Le test est NEGATIF
+
+Le patient n'est pas atteint de paludisme
+
+Le test est POSITIF
+
+Le patient est atteint de paludisme (causé par le
+
+Plasmodium falciparum)
+
+Lignes colorées (2) au niveau de
+
+'C' ET de Pan'
+
+Le test est POSITIF
+
+Le patient est atteint de paludisme (causé par le
+
+Plasmodium non-falciparum
+
+Lignes colorées (3) au niveau de
+
+'C', de 'Pf' et de 'Pan'
+
+Le test est POSITIF
+
+Le patient est atteint de paludisme (causé par le
+
+Plasmodium falciparum et/ou non-falciparum)
+
+Infection mixte possible
+
+Source : Poster : "Instructions pour l'exécution et la lecture du test de diagnostic rapide (TDR) du paludisme. Cas du test SD BIOLINE Malaria Ag Pf/Pan" INRB-PNLP –PROSANI et PMI/USAID&CDC. Version Déc. 2012-RDC.
+
+Quelques erreurs fréquentes à éviter dans l'interprétation des résultats de TDR du paludisme Ag Pf/Pan selon la récente étude de l'INRB-ITM4 Les principales erreurs fréquemment observées et à éviter dans l'interprétation des résultats des TDR du paludisme Ag Pf/Pan sont :
+
+1- Tests avec une LIGNE DE FAIBLE INTENSITE OU PALE
+
+Un test avec à une ligne colorée de faible intensité ou pâle DOIT ETRE CONSIDERES COMME POSITIF !
+
+Bien que la ligne colorée horizontale sur "P.f" soit de faible intensité comparativement à celle de "C" ce test est POSITIF pour P.falciparum
+
+Bien que la ligne colorée horizontale sur "Pan" soit de faible intensité comparativement à celle de "C" ce test est POSITIF pour les autres espèces P. non-falciparum 2- Tests avec ABSENCE DE LIGNE DE CONTROLE
+
+Un test avec une absence de ligne colorée au niveau de 'C' (contrôle) est un test INVALIDE. Il faut refaire le test avec une nouvelle cassette test.
+
+Dans certains cas la fenêtre de résultat est inondée partiellement ou totalement de sang parce qu'on aurait utilisé une grosse goutte de sang (+/- 50 μl) au lieu de juste remplir la boucle de l'applicateur (équivalent de 5 μl prévu). Il faudrait également reprendre le test dans ce cas.
+
+TRAITEMENT DU PALUDISME
+
+1.3.1. Objectifs
+
+Objectif spécifique
+
+Traiter précocement, correctement et efficacement le paludisme simple ainsi que le paludisme grave et ses complications chez l'enfant, la femme enceinte et l'adulte ;
+
+Objectifs opérationnels
+
+Le prestataire des soins doit être capable de :
+
+énumérer les antipaludiques recommandés par les directives nationales ;
+
+déterminer l'indication de chaque antipaludique ;
+
+prescrire une posologie correcte pour chaque antipaludique.
+
+Evaluer les complications et mener à bien le traitement adjuvant 1.3.2. Directives
+
+Combinaisons thérapeutiques à base d'artémisinine (CTA)
+
+En RDC les combinaisons thérapeutiques à base d'Artemisinine (CTA) suivantes sont recommandées comme médicaments de 1ère ligne pour le traitement du paludisme simple dans les secteurs tant public que privé:
+
+- Artésunate+Amodiaquine (AS-AQ) ;
+
+- Artémether+Luméfantrine (AL).
+
+Les CTA sont recommandés dans :
+
+le traitement du paludisme simple ;
+
+le traitement de relais du paludisme grave.
+
+Artésunate en suppositoire
+
+Pour la pré-référence en cas de paludisme grave au niveau des SSC et CS.
+
+Artésunate injectable
+
+Antipaludique de premier choix à utiliser pour le traitement du paludisme grave ;
+
+Quinine
+
+Antipaludique à utiliser pour le traitement :
+
+des échecs thérapeutiques ;
+
+du paludisme grave ;
+
+du paludisme chez la femme enceinte au premier trimestre ;
+
+du paludisme chez les enfants de moins de 2 mois ;
+
+1.3.3. Normes
+
+Traiter les cas de paludisme grave
+
+Le paludisme grave est une urgence médicale. Après une évaluation clinique rapide et la confirmation du diagnostic, des doses complètes de traitement antipaludique parentéral devraient être administrées sans délai avec tout antipaludique efficace disponible d'abord et recommandé par le PNLP.
+
+Conformément aux nouvelles directives, Administrer préférentiellement l'artésunate injectable (plutôt que de la quinine injectable) pour le traitement du paludisme grave chez l'enfant et chez l'adulte, néanmoins pendant une période transitoire de 3 ans, la quinine et l'artésunate injectable seront utilisés pour le traitement du paludisme grave. Le traitement des cas grave se fait au niveau des CSR et Hôpitaux à tous les niveaux.
+
+TRAITEMENT DES CAS GRAVES AVEC L'ARTESUNATE INJECTABLE
+
+Chez l'adulte, l'Artésunate à raison de 2,4 mg/kg de poids corporel en intraveineuse ou en intramusculaire administré dès l'admission (temps zéro), puis au bout de 12 et 24 heures et ensuite une fois par jour, constitue le traitement recommandé.
+
+Chez l'enfant, l'Artésunate à raison de 2,4 mg/kg de poids corporel en intraveineuse ou en intramusculaire administré dès l'admission (temps zéro), puis au bout de 12 et 24 heures et ensuite une fois par jour, constitue le traitement recommandé.
+
+H0 : 2,4mg/Kg
+
+H12 : 2,4mg/Kg
+
+H24 : 2,4mg/Kg
+
+0h
+
+H48 : 2,4mg/Kg (Admission)
+
+Figure . Schéma thérapeutique de l'Artésunate par voie IV
+
+Preparation:
+
+Diluer la poudre d'Artésunate avec le contenu (1 ml) de l'ampoule de bicarbonate a 5 %:
+
+o aspirer 1 ml de bicarbonate avec une seringue stérile de 10 cc ;
+
+o ouvrir le bouchon du flacon d'Artésunate et nettoyer le caoutchouc avec le tampon imbibé d'alcool ;
+
+o ajouter le bicarbonate a la poudre d'Artésunate ;
+
+o secouer doucement jusqu'à la dissolution de l'Artésunate ;
+
+o aspirer 5 ml de Sérum glucosé 5% dans la même seringue ;
+
+o ajouter/ aspirer le 1 ml de la solution d'Artésunate.
+
+La solution FINALE contient 10 mg d'Artésunate /ml.
+
+NOTE:
+
+o injection intraveineuse lente à travers un cathéter à demeure (3-4 ml/min) ;
+
+o la solution préparée doit être donnée dans les 30 minutes suivant sa préparation ;
+
+o l'Artésunate en solution n'est PAS stable, d'où la solution ne peut pas être conservée et devrait être administrée immédiatement après sa préparation. Si une partie du flacon n'est pas utiliése, le reste de solution doit être jetée ;
+
+o l'Artésunate sera donnée par voie parentérale (2.4 mg/kg) quelque minute après l'admission puis 12 heures après et 24 heures après, puis une fois par jour par la suite.
+
+o la poudre d'Artésunate sera diluée dans 1 ml de bicarbonate de sodium à 5% (fourni dans l'emballage), et ensuite diluée avec une solution de dextrose a 5% ou une solution physiologique a 0.9% pour un total de 10 ml, donnant une concentration finale de 6 mg/ml.
+
+NB : L'Artésunate peut être donnée par voie intramusculaire dans la face antérieure de la cuisse (total 2.4 mg/kg) quelques minutes après l'admission, 12 heures après et 24h après ; ensuite une fois par jour. L'Artésunate sera diluée dans 2 ml a 5 % de bicarbonate de sodium (fourni dans le paquet), et ensuite diluée avec 5% de dextrose ou une solution physiologique a 0.9% à un volume total de 6 ml, donnant une concentration finale de 20 mg/ml. Cela réduira le volume d'administration IM.
+
+En cas de paludisme grave, il est recommandé d'administrer des antipaludiques par voie parentérale au minimum pendant les 24 premières heures (que le patients se soit montré auparavant capable ou non de tolérer une thérapie orale), puis de poursuivre le traitement jusqu'à son terme par voie orale
+
+Posologie d'administration de l'Artesunate par voie intraveineuse 1 flacon d'Artésunate contient 60 mg et sera préparé avec 1 ml de bicarbonate de sodium et 5 ml de dextrose 5%, puis la solution finale contient 10 mg/ml Artésunate.
+
+Figure. Posologies de l'Artésunate par voie intraveineuse
+
+TRAITEMENT DES CAS GRAVES AVEC LA QUININE EN PERFUSION
+
+Dose de charge : 20 mg de sel de quinine/kg dans 5-10 ml de solution glucosée isotonique (5 %) / kg pendant 4 heures, puis observer une période de repos de 8 heures.
+
+Dose d 'entretien : 12 heures après le début de la dose d'attaque, administrer 10 mg de sel de quinine par kg dans 5 à 10 ml de solution glucosée 5%/kg de poids corporel pendant 4 heures. Répéter cette dose toutes les 12 heures jusqu'à ce que le malade soit capable de boire sans vomir.
+
+Schéma thérapeutique
+
+N.B. :
+
+1. Si le patient a reçu de la quinine ou de la quinidine dans les 24 heures précédentes ou encore de la Méfloquine dans les 7 jours précédents : la dose de charge ne doit pas être administrée, passer directement à la dose d'entretien.
+
+2. 10 mg de sel de quinine équivalent à 8 mg de quinine base.
+
+3. Si nécessité de poursuivre la perfusion de quinine en I.V. après le 2è jour/ 48 heures, réduire la dose à 7-5mg/kg de poids pour éviter le surdosage à la suite d'une atteinte rénale probable.
+
+TRAITEMENT DE RELAIS (SUITE DU TRAITEMENT AVEC ARTESUNATE OU
+
+QUININE INJECTABLE)
+
+Si le patient est capable de boire sans vomir, alors passer à la voie orale :
+
+- Pour les patients soignés par Artésunate par voie parentérale, relais avec une CTA (AS-AQ ou AL) aux doses recommandés pendant 3 jours ;
+
+- Pour les patients mis sous quinine en perfusion, relais avec la quinine per os pour compléter les 7 jours de traitement associée à la Clindamycine chlorhydrate (excepté chez les enfants de moins de 1mois) pendant 7 jours ou avec une CTA (AS-AQ ou AL) aux doses recommandés pendant 3 jours.
+
+Traitement de relais avec une CTA
+
+A) Artésunate+Amodiaquine (AS-AQ)
+
+Ce médicament est actuellement disponible en association fixe sous la forme de comprimés sécables.
+
+Il existe 4 types de plaquettes/blisters d'AS-AQ en fonction de tranches d'âges cibles:
+
+- Nourrisson (2-11 mois) avec 3 comprimés contenant chacun 25/67,5mg d'AS+AQ
+
+- Enfant (6-13 ans) avec 3 comprimés contenant chacun 100/270mg d'AS+AQ
+
+- Adolescent et Adulte (14 ans et plus) avec 6 comprimés contenant chacun 100/270 mg d'AS+AQ
+
+Posologie : Le traitement recommandé consiste à administrer 3 doses en une prise par jour pendant 3 jours. Le schéma posologique est basé sur le nombre de comprimés par dose administrés selon des tranches d'âge prédéterminées ((Nourrisson (2-11 mois) : 1 comprimé ; Petit enfant (1-5 ans) : 1 comprimé; Enfant (6-13 ans) : 1 comprimé ;
+
+Adolescent et Adulte (14 ans et plus): 2 comprimés) une fois par jour (prise unique) pendant 3 jours.
+
+Figure .Forme galénique et posologies de l'AS-AQ.
+
+Il est recommandé de prendre l'AS-AQ après un repas et y ajouter une boisson sucrée ou un jus de fruit sucré. Assurez-vous que le traitement complet soit pris une fois chaque jour pendant les 3 jours.
+
+B) Artéméther + Luméfantrine (AL)
+
+Ce médicament est actuellement disponible en association fixe sous la forme de comprimés dispersibles contenant 20 mg d'Artéméther et 120 mg de Luméfantrine.
+
+Il existe 4 types de plaquettes/blisters d'AL en fonction de tranches de poids cibles:
+
+- 5 à moins de 15 kg avec 6 comprimés (6x1) contenant chacun 20/120 mg d'AL
+
+- 15 à moins de 25 kg avec 12 comprimés (6x2) contenant chacun 20/120 mg d'AL
+
+- 25 à moins de 35 kg avec 18 comprimés (6x3) contenant chacun 20/120 mg d'AL
+
+- 35 kg et plus avec 24 comprimés (6x4) contenant chacun 20/120 mg d'AL Posologie. Le traitement recommandé consiste à administrer 6 doses en deux prises par jours pendant 3 jours. Le schéma posologique est basé sur le nombre de comprimés par dose administrés selon des tranches de poids prédéterminées : (5–14 kg : 1 comprimé;
+
+15–24 kg : 2 comprimés; 25–34 kg : 3 comprimés; > 34 kg : 4 comprimés) deux fois par jour pendant 3 jours.
+
+Figure .Forme galénique et posologies de l'AL.
+
+Il est recommandé de prendre l'AL après avec un aliment ou une boisson contenant une forte teneur en graisses (par exemple du lait).. Prenez la première dose immédiatement et la deuxième dose huit heures après. Puis une dose le matin et une dose le soir pendant le deuxième et le troisième jour jusqu'à ce que l'emballage soit vide Assurez-vous que le traitement complet soit pris deux fois par jour pendant les 3 jours et aux heures recommandées.
+
+Traitement de relais avec la quinine orale
+
+Quinine per os 3 x 10 mg/kg/j pour compléter les 7 jours de traitement associée à la Clindamycine chlorhydrate (excepté chez les enfants de moins de 1 mois) per os à la dose de 2 x 10 mg/Kg/Jour pendant 7 jours.
+
+TRAITEMENT ADJUVANT ET NURSING
+
+Malade inconscient ou dans le coma :
+
+vérifier que les voies respiratoires sont libres par une aspiration douce du nez et de l'oropharynx ;
+
+s'assurer que le malade respire ;
+
+placer une voie veineuse pour l'administration des médicaments et des solutés ;
+
+mettre le malade en position latérale de sécurité (allongé sur le côté ou avec la tête sur le côté en hyper-extension) ;
+
+placer une sonde urinaire ;
+
+mettre en place une sonde naso-gastrique.
+
+Corrigez l'hypoglycémie :
+
+Enfants : 0,5 - 1ml/kg de solution glucosée (SG) à 50% ou 3 ml/kg pour le SG à Adultes : 25 ml de solution glucosée dosé à 50%.
+
+Lorsque l'administration par voie intraveineuse est impossible, donnez du glucose ou toute autre solution sucrée par sonde naso-gastrique;
+
+Continuer de surveiller le taux de glycémie jusqu'à ce qu'il se stabilise, ou si vous ne pouvez pas le faire, continuez avec le sérum glucosé et mettre en place la sonde nasogastrique pour l'alimentation par voie orale ou l'administration de solution de glucose.
+
+Convulsions :
+
+vérifier si les voies respiratoires sont libres et si le malade respire;
+
+corriger l'hypoglycémie et / ou faites baisser la température;
+
+chez les enfants, administrer 0,5 mg/kg de diazépam par voie intra-rectale ou IM.
+
+Si les convulsions continuent, répéter la même dose de diazépam. Si les convulsions sont rebelles administrer du Phenytoin à la dose de 18mg/Kg en intraveineuse ou 10 à 15 mg/kg de phénobarbital en I.M. ou IV si c'est la seule option disponible
+
+Tableau . La posologie du diazépam par voie rectale
+
+Diazépam par voie rectale (solution 10 mg /2ml)
+
+Age/poids
+
+Dose 0.1ml/Kg
+
+2 semaines à 2 mois (<4kg)
+
+0.3ml
+
+2 à <4 mois (4-<6kg)
+
+0.5ml
+
+1.0ml
+
+1.5ml
+
+Examiner l'enfant 10 minutes après, si les convulsions persistent, donner une seconde dose de diazépam par voie rectale ou en IM. Si après autres 10 minutes, les convulsions persistent, donner une 3ème dose de diazépam par voie rectale ou du phénobarbital IV ou IM
+
+Note : éviter de donner le diazépam par voie intra veineuse car il ya risque de dépression des centres respiratoires.
+
+Si l'enfant a beaucoup de fièvre : asperger l'enfant avec de l'eau tiède. Ne pas donner des médicaments par voie orale jusqu'à ce que les convulsions soient maîtrisées (risque d'inhalation des sécrétions gastriques).
+
+Chez les adultes, administrez 10 mg de diazépam en I.M.
+
+Si les convulsions continuent sans cause évidente malgré le traitement ci-dessus, référer le malade à un niveau plus outillé pour des examens plus poussés.
+
+Anémie sévère :
+
+donner le concentré érythrocytaire : 10-15 ml /kg en 3 - 4 heures chez l'enfant ou (Hb attendue – Hb observée) x 3 x Poids en Kg. En pratique, on administre d'abord 1 culot érythrocytaire - soit 200cc – et on apprécie l'évolution du patient avant d'envisager l'administration d'un autre culot après investigations]. NB. Le volume utile est celui qui fait disparaitre les signes d'intolérance ;
+
+pas de diurétique ;
+
+surveiller la fréquence respiratoire et le pouls toutes les 15 minutes pendant la transfusion;
+
+faire une évaluation clinique (signes) et biologique (Hb ou Htc) au :
+
+o Temps 0 : juste à la fin de la transfusion ;
+
+o Temps 24 : 24 heures après la fin de la transfusion ;
+
+si l'hémoglobine reste basse, renouveler la transfusion après une bonne investigation.
+
+Déshydratation sévère ou choc :
+
+en cas de déshydratation sévère ou de choc hypovolémique, administrez 30 ml/kg de solution de lactate ringer et réévaluez le malade après 30 minutes pour déterminer ses besoins en liquides en fonction du degré de déshydratation. Noter toujours la quantité de liquides administrés avant le transfert du malade ;
+
+après correction de la déshydratation, il convient de réduire les doses et donner pour un besoin d'entretien les deux tiers du volume requis.
+
+Vomissement à répétition :
+
+placer un abord veineux ;
+
+vérifier la glycémie, si < à 2,2 mmol / l donner du glucose en IV ;
+
+Puis évaluer et traiter complètement ;
+
+Veiller à l'alimentation du patient.
+
+Correction des troubles hydro-électrolytiques (cfr PCIME-Clinique):
+
+faire l'ionogramme ;
+
+corriger les troubles électrolytiques (Etre prudent dans la correction de la kaliémie, en particulier lorsque le patient présente une oligurie ou s'il est suspect d'insuffisance rénale) ;
+
+bien apprécier la volémie pour une correction adéquate (hyper ou hypo-volémie) ;
+
+Œdème aigue du poumon :
+
+mettre le malade en position semi-assise ;
+
+administrer des diurétiques (furosémide 1mg/Kg chez l'enfant ou 60 à 120 mg chez l'adulte) ;
+
+mettre le malade sous oxygène à haut débit.
+
+Hémoglobinurie :
+
+hyperhydrater le malade (Beaucoup de liquide en perfusion, 2l/m2 de surface corporelle chez l'enfant) ;
+
+stopper la quinine ou dérivés ;
+
+administrer l'Artésunate par voie parentérale ;
+
+alcaliniser le milieu intérieur à l'aide du bicarbonate (1-2 mEq/kg en IVDL) ;
+
+si oligurie, administrer des diurétiques (maximum 48h. Au-delà, si non réponse, envisager la dialyse) ;
+
+si anémie non tolérée, transfuser : culot érythrocytaire selon les besoins [en moyenne 10-15 ml /kg en 3 - 4 heures chez l'enfant ou (Hb attendue – Hb observée) x 3 x Poids en Kg. En pratique, on administre d'abord 1 culot érythrocytaire - soit 200cc – et on apprécie l'évolution du patient avant d'envisager l'administration d'un autre culot après investigations]. NB. Le volume utile est celui qui fait disparaitre les signes d'intolérance.
+
+Insuffisance rénale :
+
+Mesures conservatrices :
+
+o corrections des troubles hydro-électrolytiques (correction de la kaliémie avec les résines échangeuses d'ions, bicarbonate, carbonate de calcium) ;
+
+o réduire les apports hydriques ;
+
+o éviter les aliments riches en potassium (banane, arachide, poisson fumé, légumes,...)
+
+Dialyse.
+
+o si toutes les mesures préconisées ci-dessus échouent, recourir à la dialyse.
+
+NB : la RDC devrait équiper les hôpitaux provinciaux et universitaires en matériel de dialyse et rendre la dialyse accessible à toute la population
+
+Traiter les cas de paludisme chez la femme enceinte
+
+La femme enceinte fébrile doit être considérée comme une urgence et un cas particulier :
+
+Sa prise en charge doit se faire au niveau d'un Centre de Santé – Maternité, d'un Centre de Santé de Référence ou d'un Hôpital Général de Référence.
+
+Il faut vérifier l'existence des contractions utérines et donner si nécessaire un tocolytique (salbutamol, papavérine, buscopam ou diazépam).
+
+Paludisme sans signes de gravité
+
+Si pas contraction
+
+Antipyrétique +
+
+Quinine en comprimé
+
+GROSSESSE
+
+Si contraction pré-existante
+
+Antipyrétique +
+
+Tocolytique +
+
+Quinine en comprimé
+
+1er, 2ème et 3ème trimestres de la grossesse :
+
+Quinine comprimé : 3 X 10 mg/Kg par jour pendant 7 jours associée à la Clindamycine à la dose de 2 x 10 mg /Kg/jour pendant 7 jours.
+
+2éme et 3éme trimestres de la grossesse : l'Artésunate + Amodiaquine en prise journalière unique pendant 3 jours.
+
+Il ya d'autres schémas thérapeutiques (voir annexe).
+
+N.B. : La prise de la combinaison Artésunate + Amodiaquine est recommandée après un repas ou une boisson sucrée ou un jus de fruit sucré. (Citer quelques exemples des produits locaux).
+
+abaisser la fièvre avec le paracétamol à la dose de 500 mg à 1 g per os.
+
+Paludisme avec signes de gravité
+
+Si pas contraction
+
+Antipyrétique +
+
+Quinine en perfusion
+
+Si contraction pré-existante loin du terme
+
+Antipyrétique + tocolytique +
+
+Quinine en perfusion
+
+Grossesse
+
+Si anémie
+
+Si contraction pré-existante et grossesse à terme
+
+Baisser la fièvre
+
+Corriger l'anémie
+
+Administrer la quinine en perfusion
+
+Antipyrétique (pas de tocolytique) +
+
+Quinine en perfusion
+
+NB. On administre un antipyrétique seulement en présence de fièvre.
+
+EDUCATION AUX MALADES
+
+1.4.1. Objectifs
+
+Objectif spécifique
+
+Assurer l'éducation aux malades ou aux accompagnants.
+
+Objectifs éducationnels
+
+Le prestataire doit être capable de :
+
+2. rassurer le malade ou l'accompagnant de l'efficacité du traitement ;
+
+3. informer le malade ou l'accompagnant de l'éventuelle survenue des effets indésirables ;
+
+4. obtenir l'adhésion au traitement et son observance complète ;
+
+5. évaluer la qualité de la guérison du malade ;
+
+6. noter toutes les séquelles résiduelles ;
+
+7. établir le programme de suivi de prise en charge des séquelles résiduelles ;
+
+8. indiquer le moment et / ou les circonstances de revoir le prestataire ;
+
+9. transmettre les messages clés sur la prévention du paludisme
+
+1.4.2. Directives
+
+. Tout malade souffrant du paludisme devra systématiquement bénéficier des conseils portant sur la maladie, le traitement en cours et les mesures préventives de lutte contre le paludisme.
+
+1.4.3. Normes
+
+Conseils à donner aux patients et aux accompagnants
+
+Respect de la prescription médicale (observance) : le patient et/ou son accompagnateur doit respecter la posologie, la durée du traitement prescrit pour permettre une prompt guérison et minimiser les risques de rechutes et des résistances.
+
+Respect des mesures hygiéno-diététiques :
+
+Il est conseillé de prendre la combinaison thérapeutique Artésunate + Amodiaquine après le repas et y ajouter une boisson ou un fruit sucré.
+
+La combinaison Artésunate + Amodiaquine est une molécule facilement altérée par la lumière et l'humidité. C'est pourquoi il est conseillé de la garder dans un endroit sec et d'éviter de détruire l'étanchéité de l'emballage plusieurs heures avant la consommation.
+
+Informations sur les effets indésirables de certains antipaludiques :
+
+Les dérivés d'artémisinine (artésunate, Artéméther) sont généralement bien tolérés par les patients à la dose thérapeutique.
+
+L'amodiaquine : Il faut signaler que les effets indésirables de l'amodiaquine sont sensiblement minimisés quand cette molécule est utilisée en association avec une autre molécule et quand elle est utilisée lors des traitements de courte durée. Les effets indésirables rencontrés sont la fatigue, les troubles digestifs (nausées, vomissements, douleurs abdominales et diarrhée), les maux de tête .Ce sont des effets transitoires et passagers donc qui disparaissent à la fin du traitement et ne nécessite pas une prise en charge médicale ou l'arrêt du traitement.
+
+La luméfantrine : Les effets indésirables rencontrés sont les troubles digestifs :
+
+nausées, diarrhées, douleurs abdominales. Ce sont des effets transitoires et passagers donc qui disparaissent à la fin du traitement et ne nécessitent pas une prise en charge médicale ou l'arrêt du traitement.
+
+La quinine : la quinine sous toutes ses formes galéniques (sirop, goutte, comprimé, injectable) présente les mêmes effets indésirables. Les plus fréquemment rencontrés sont l'hypoglycémie, le cinchonisme (acouphènes, vertiges, céphalées, trouble de la vision, baisse de l'acuité auditive). Ce sont des effets transitoires et passagers donc qui disparaissent après arrêt du traitement et ne nécessitent pas une prise en charge médicale ou l'arrêt du traitement .Chez certains individus l'on peut observer l'apparition de la fièvre bilieuse hémogloburinique qui nécessite l'arrêt du traitement et une prise en charge médicale spécialisée.
+
+Consultation au moindre signe d'aggravation : le patient doit revenir immédiatement dans la structure sanitaire s'il n'ya pas amendement des signes après un traitement correcte, si il ya aggravation des signes pendant le traitement ou s'il ya majoration des effets indésirables après le traitement.
+
+Conseil sur la prévention : dormir sous MILD, assainissement intra et péridomiciliaire (élimination des eaux stagnantes, désherbage). Conseiller l'application du traitement intermittent préventif chez la femme enceinte.
+
+Respect des rendez-vous aux consultations médicales : après le traitement le malade peut retourner, si nécessaire, à la structure sanitaire pour une réévaluation clinique et biologique.
+
+Evaluation de la guérison
+
+ÉVALUATION DE LA GUÉRISON
+
+La présente section permet de connaître les besoins essentiels de tout malade hospitalisé qui s'est rétabli et doit sortir de l'hôpital. Les notes et les observations faites contribueront à évaluer la guérison des malades ; ex. : baisse de la température, densité parasitaire, émission d'urines et amélioration de l'état de conscience. Il est également important de noter la capacité du malade à :
+
+parler, manger ou boire, s'asseoir, se tenir debout ou marcher.
+
+Après rétablissement complet, examinez le malade pour rechercher d'éventuelles séquelles. Vous devez au minimum :
+
+Évaluer l'aptitude du malade à faire ce qu'il pouvait faire avant sa maladie.
+
+Évaluer la vue et l'audition en demandant s'il peut voir ou entendre ; utiliser pour les enfants des objets ou des hochets bruyants.
+
+Contrôler l'hémoglobine/hématocrite et faire la recherche des parasites du paludisme les 7èmes et 14èmes jours suivant le rétablissement.
+
+Faire un résumé de la maladie, en présentant les caractéristiques, les examens de laboratoire, le traitement administré, l'évolution sous traitement et toute séquelle éventuelle.
+
+Prendre des mesures pour le suivi de votre malade.
+
+Si le malade a été transféré vers un autre centre de santé, lui adresser un rapport sommaire de ce que vous avez fait et du traitement administré.
+
+SUIVI APRÈS LA SORTIE DU MALADE
+
+1. Évaluer le malade en posant des questions sur la fièvre ou tout autre symptôme et faire un examen clinique à la recherche des séquelles et de tout autre signe nouveau.
+
+2. Les 7e et 14e jours suivant le rétablissement, faire la goutte épaisse et le taux d'hémoglobine.
+
+3. Si la goutte épaisse reste positive, vérifier si le malade suit bien le traitement et prenez les mesures appropriées.
+
+4. Si l'anémie persiste, donner de l'acide folique et du sulfate ferreux et refaire l'examen après 14 jours pour vérifier le taux d'hémoglobine ou d'hématocrite.
+
+1.5. GESTION DES EFFETS INDESIRABLES DES MEDICAMENTS
+
+ANTIPALUDIQUES
+
+1.5.1. Objectifs
+
+Objectif spécifique
+
+Assurer la surveillance des effets indésirables des médicaments antipaludiques Objectifs opérationnel
+
+A la fin de la formation, le participant doit être capable de :
+
+définir les concepts relatifs à la pharmacovigilance ;
+
+notifier l'effet indésirable ;
+
+assurer la prise en charge de l'effet indésirable ;
+
+transmettre la fiche de notification d'effet indésirable ;
+
+mener les investigations sur l'effet indésirable notifié.
+
+1.5.2. Directives
+
+Tout malade souffrant du paludisme devra systématiquement bénéficier d'une causerie éducative en rapport avec les effets secondaires attendus et indésirables pouvant survenir au cours du traitement ainsi que les mesures à prendre.
+
+1.5.3. Normes
+
+Définition des concepts
+
+Médicament
+
+C'est un produit utilisé dans ou sur l'organisme humain pour la prévention l'atténuation, le diagnostic, et le traitement de maladie ou pour la modification d'une fonction physiologique. Cette définition inclut les médicaments prescrits, les vaccins, les médicaments à base des plantes médicinales, les médicaments traditionnels et biologiques y compris le sang et dérivés du sang comme le sérum, le plasma etc.
+
+Pharmacovigilance
+
+Ensemble des techniques d'identification, d'évaluation et de prévention du risque de réaction indésirable des médicaments ou produits mis sur le marché à titre onéreux ou gratuit, que ce risque soit potentiel ou avéré. Elle englobe la prévention, l'identification, l'évaluation et la correction du risque médicamenteux potentiel ou avéré (iatrogénie médicamenteuse). Elle s'attache également à évaluer les facteurs évitables du risque médicamenteux.
+
+Effet indésirable
+
+C'est une réponse à un médicament laquelle est nocive et inattendue et qui apparaît aux doses normalement utilisées chez l'homme pour la prophylaxie, le diagnostic ou la thérapie d'une maladie ou pour la modification d'une fonction physiologique ou résultant d'un mésusage du médicament ou produit.
+
+Il est important de noter dans cette définition l'élément qui détermine la survenue d'une réaction indésirable sur un patient est la nocivité malgré les doses normalement utilisées dans la thérapie.
+
+Effet indésirable inattendu
+
+C'est une réaction dont la nature, la sévérité /intensité ou l'évolution ne correspondent pas aux informations contenues dans le résumé des caractéristiques du dossier d'obtention de l'autorisation de mise sur le marché
+
+Effet secondaire
+
+Tout effet attendu ou non du médicament qui apparaît aux doses normalement utilisées chez l'homme lequel est souvent relatif aux propriétés pharmacologiques du médicament.
+
+Cet effet qui peut être nocif ou non provient des propriétés pharmacologiques connus des médicaments et qui peuvent être prédites.
+
+Notification de l'effet indésirable
+
+La notification se fait à l'aide de la fiche de notification d'effet indésirable (annexe 8) contenant les principaux éléments ci-après :
+
+coordonnées sur le patient dont le nom en code;
+
+coordonnées sur le notificateur ;
+
+description du médicament suspecté dans le déclenchement de l'effet ;
+
+description des autres médicaments pris par le patient ;
+
+description de l'effet indésirable.
+
+Le remplissage de la fiche de notification d'effet indésirable se fera conformément à la note explicative se trouvant au verso (Annexe 9)
+
+Prise en charge de l'effet indésirable
+
+La prise en charge de l'effet indésirable suspecté s'organise par la formation sanitaire l'ayant notifié et ce au regard des manifestations pathologiques en cours d'apparition.
+
+Un transfert est indiqué si les manifestations pathologiques en cours d'apparition dépassent le niveau du plateau technique de la formation sanitaire en charge du patient.
+
+Transmission de la fiche de notification d'effet indésirable
+
+La fiche de notification d'effet indésirable rempli par le prestataire des soins sera transmise sous pli fermé confidentiel ou par mail aux adresses suivantes :
+
+Adresse physique :
+
+Centre National de Pharmacovigilance (CNVP)
+
+Université de Kinshasa
+
+Faculté des Sciences Pharmaceutiques
+
+Kinshasa XI
+
+Adresse mail : cnpvrdc@yahoo.fr
+
+Investigations de l'effet indésirable notifié
+
+Les investigations portant sur un effet indésirable notifié est de la seule responsabilité du Centre National de Pharmacovigilance.
+
+CHAPITRE 2 : PREVENTION DU PALUDISME
+
+OBJECTIFS
+
+Objectif général
+
+Actualiser les connaissances requises et les compétences nécessaires des prestataires de soins sur la prévention du paludisme selon les directives du programme national de lutte contre le paludisme.
+
+Objectifs spécifiques
+
+A la fin de la formation, le prestataire de soins doit être capable de :
+
+appliquer correctement le traitement préventif intermittent chez les femmes enceintes;
+
+promouvoir l'utilisation correcte et régulière de la moustiquaire imprégnée d'insecticide à longue durée d'action chez toute personne à risque du paludisme ;
+
+promouvoir les mesures de base de l'assainissement péri et intra-domiciliaire.
+
+TRAITEMENTS PREVENTIF INTERMITTENT CHEZ LES FEMMES ENCEINTES
+
+2.2.1. Objectifs
+
+Objectif spécifique
+
+Objectifs Opérationnels
+
+Le prestataire de soins doit être capable de :
+
+indiquer l'antipaludique recommandé pour le traitement préventif intermittent chez les femmes enceintes ;
+
+déterminer les périodes requises pour l'administration de la SP chez les femmes enceintes ;
+
+prescrire correctement la SP aux femmes enceintes selon le statut sérologique au VIH.
+
+2.2.2. Directives
+
+LA SULFADOXINE-PYRIMETHAMINE (SP)
+
+Réservée pour le traitement Préventif Intermittent (TPI) de la femme enceinte.
+
+2.2.3. Normes
+
+-
+
+La gestante VIH/SIDA séronégative a droit à 2 doses de Sulfadoxine-Pyriméthamine (SP).
+
+A la 16ème semaine de la grossesse ou dès l'apparition des mouvements actifs du fœtus. Donner 3 comprimés de SP de 525 mg en prise unique au cours de la consultation prénatale (CPN).
+
+A la 28ème semaine de la grossesse, répéter la dose de 3 comprimés en prise unique au cours de la consultation prénatale (CPN).
+
+La gestante à VIH/SIDA séropositive a droit à 3 doses de Sulfadoxine-Pyriméthamine (SP) lorsqu'elle n'est pas sous prophylaxie des Infections Opportunistes (IO) au Cotrimoxazole.
+
+A la 32ème semaine de la grossesse, répéter la dose de 3 comprimés en prise unique, au cours de la consultation prénatale (CPN).
+
+-
+
+Si la gestante VIH/SIDA séropositive est déjà sous Cotrimoxazole, ne pas donner la Sulfadoxine-Pyriméthamine (SP).
+
+N.B :
+
+Si la femme enceinte se présente à la CPN après la 16ème semaine. Que faire ?
+
+Réponse : Donner toujours la première dose de SP.
+
+Dans ce cas, quand donner la 2ème dose de SP ?
+
+Réponse : L'intervalle entre 2 doses de SP chez la femme enceinte est de 12 semaines maximum et de 4 semaines minimum (1 mois).
+
+Ne pas donner la SP après la 32ème semaine.
+
+Ne pas donner la SP au premier trimestre de grossesse.
+
+Ne pas donner aux femmes enceintes ayant présenté une allergie à la SP ou aux sulfamidés.
+
+Ne pas donner aux femmes enceintes prenant du Cotrimoxazole ou des médicaments contenant les sulfamidés.
+
+La femme enceinte doit prendre la SP devant le (la) prestataire des soins Mettre à sa disposition de l'eau potable.
+
+Dans le cadre de la continuité des soins, il est préférable et dans la mesure du possible que ça soit la même personne qui administre le TPI à la gestante.
+
+UTILISATION DE LA MOUSTIQUAIRE IMPREGNEE D'INSECTIDE A LONGUE DUREE CHEZ LES PERSONNES A RISQUE DU PALUDISME
+
+2.3.1. Objectifs
+
+Objectif spécifique
+
+Objectifs opérationnels
+
+connaître les concepts relatifs aux moustiquaires ;
+
+connaître les types de moustiquaire recommandés dans la prévention du paludisme ;
+
+indiquer les modes de distribution recommandés en RDC ;
+
+appliquer les précautions d'usage.
+
+2.3.2. Directives
+
+La moustiquaire imprégnée d'insecticide à longue durée d'action pré-qualifiée par l'Organisation Mondiale de la Santé est recommandée dans la prévention du paludisme.
+
+2.3.3. Normes
+
+Définition des concepts
+
+Moustiquaire :
+
+C'est un tissu fait de fibre de coton ou de fibre synthétique (nylon ou polyester), de forme variée (rectangulaire, conique) et de différentes dimensions (simple, moyenne ou double) dont on entoure le lit ou autre espace de couchage et sous laquelle on dort pour se protéger contre les piqûres des moustiques.
+
+Moustiquaire imprégnée d'insecticide à longue durée d'action :
+
+C'est une moustiquaire pré-imprégnée à l'usine d'un d'insecticide à durée d'action supérieure à trois ans. Pendant cette période la moustiquaire peut être habituellement lavée au plus 3 fois l'an avec un savon ordinaire de lessive sans perdre son efficacité..
+
+Modes de distribution
+
+Différentes approches ont été utilisées pour accroître la possession et l'utilisation des moustiquaires imprégnées d'insecticide à longue durée d'action, à savoir :
+
+La routine :
+
+CPN pour les femmes enceintes ;
+
+CPS pour les enfants de moins de 12 mois qui complètent le calendrier vaccinal.
+
+Les campagnes de distribution de masse.
+
+Le marketing social.
+
+Précautions d'usage
+
+Les moustiquaires doivent être accrochées de façon à recouvrir la zone occupée par les personnes à protéger et descendre suffisamment bas pour pouvoir être bordée sous le matelas ou la natte.
+
+Attacher des ficelles à travers les 4 boucles au coin de la MILD.
+
+Placer des clous ou crochets ou autre support aux 4 coins de votre espace.
+
+Attacher les ficelles aux crochets ou aux clous.
+
+La MILD doit descendre suffisamment bas pour toucher le sol et vous permettre de l'insérer sous votre matériel de couchage (que ce soit un matelas ou une natte).
+
+S''assurer qu'il n'y a pas d'espace pouvant laisser passer les moustiques.
+
+Si les moustiquaires distribuées ne sont pas accompagnées du matériel d'installation pour les accrocher, vous devez chercher les cordes, les écorces des arbres ou d'autres tissus pour les suspendre.
+
+Le lavage de la moustiquaire imprégnée d'insecticide à longue durée d'action se fait à l'aide d'un savon ordinaire de lessive.
+
+Après lavage, sécher à l'ombre.
+
+Ne pas laver avec des savons en poudre ou l'eau de javel.
+
+ASSAINISSEMENT PERI ET INTRA-DOMICILIAIRE
+
+2.4.1. Objectifs
+
+Objectif spécifique
+
+Promouvoir les mesures de base de l'assainissement péri et intra domiciliaire Objectifs opérationnels
+
+Le prestataire de soins doit être capable de :
+
+définir le concept assainissement péri et intra domiciliaire ;
+
+identifier les lieux de reproduction des moustiques ;
+
+identifier les lieux de repos des moustiques ;
+
+appliquer les actions de lutte antivectorielle.
+
+2.4.2. Directives
+
+Promouvoir les actions individuelles, familiales et communautaires visant l'élimination systématique et permanente des lieux de reproduction ainsi que ceux du repos des moustiques.
+
+2.4.3. Normes
+
+Dans le contexte de la lutte contre le paludisme, l'assainissement intra et péri-domiciliaire est l'ensemble des actions menées autour et dans la maison ainsi que dans les parcelles ayant pour but de lutter contre les gîtes de la reproduction et les gîtes de repos des moustiques.
+
+Lieux de reproduction
+
+Les lieux de reproduction des moustiques sont des collections d'eau permanentes ou temporaires sous différentes formes ; on les appelle gîtes larvaires des moustiques.
+
+Exemples:
+
+Les empreintes de pieds d'hommes ;
+
+Les empreintes des sabots d'animaux ;
+
+Les boîtes de conserve vides non trouées ;
+
+Les flaques d'eaux ;
+
+Les rigoles, caniveaux, égouts bouchés ;
+
+Les marécages ;
+
+Les vieux pneus d'automobiles ;
+
+Les épaves de véhicules et d'appareils électroménagers, etc.
+
+Lieux de reproduction
+
+Les lieux de repos des moustiques sont de divers ordres :
+
+En dehors des habitations :
+
+Exemples :
+
+Les grandes herbes et les fleurs ;
+
+Les arbustes ;
+
+Les vieux pneus d'automobiles ;
+
+Les épaves de véhicules et d'appareils électroménagers ;
+
+Les toitures non aménagés ;
+
+Les poubelles, etc.
+
+Dans les habitations
+
+Exemples :
+
+Les tas de vêtements ;
+
+Les rideaux lourds et épais ;
+
+Les crevasses des murs
+
+Les meubles ;
+
+Les lustres, etc.
+
+Actions de lutte anti-larvaire (lutte mécanique)
+
+Curer les caniveaux et drainer les eaux stagnantes.
+
+Détruire et vider régulièrement les objets susceptibles de retenir l'eau tels que les épaves des véhicules, les vieux pneus, les boîtes de conserve (sardine, tomates etc.).
+
+Couvrir les récipients contenant l'eau de boisson ou de ménage.
+
+Combler des fossés, des cratères et tout autre dispositif capable de retenir les eaux à la surface du sol.
+
+Assécher et/ou désherber les marécages.
+
+Régulariser les rives des petits cours d'eau dans et aux alentours des agglomérations (éliminer les anses).
+
+Actions de lutte contre les formes adultes
+
+Lutte mécanique
+
+Utiliser correctement la moustiquaire imprégnée d'insecticide à longue durée d'action « M.I.L.D».
+
+Aménager l'habitat (utiliser les toiles moustiquaires et les treillis pour couvrir les fenêtres et trous d'aération, combler les trous et les fentes qui constituent les cachettes de moustiques).
+
+Désherber le milieu péri-domiciliaire.
+
+Désencombrer les pièces d'habitation.
+
+Utiliser les pièges électriques (ex. raquette anti moustique).
+
+Lutte chimique
+
+Utiliser les pesticides fumigateur...).
+
+(insecticides à l'aide d'un pulvérisateur, d'un appareil
+
+ANNEXES
+
+Annexe 1 : Les effets indésirables des antipaludiques recommandés la combinaison thérapeutique ARTESUNATE + AMODIAQUINE:
+
+Les effets indésirables les plus couramment rencontrés sont la fatigue, les troubles digestifs (nausées, vomissements, douleurs abdominales et diarrhée), les maux de tête.
+
+Ce sont des effets transitoires et passagers qui disparaissent à la fin du traitement et ne nécessitent pas une prise en charge médicale spéciale ou l'arrêt du traitement.
+
+la combinaison thérapeutique ARTEMETHER + LUMEFANTRINE:
+
+Les effets indésirables dû essentiellement à la luméfantrine sont rares mais quelques fois on note des troubles digestifs : nausées, diarrhées, douleurs abdominales et cardiaques.
+
+Quinine :
+
+La quinine sous toutes ses formes galéniques (sirop, goutte, comprimé, injectable) présente les mêmes effets indésirables. Les plus fréquemment rencontrés sont l'hypoglycémie, le cinchonisme (acouphènes, vertiges, céphalées, trouble de la vision, baisse de l'acuité auditive). Ce sont des effets transitoires et passagers qui disparaissent à la du traitement et ne nécessitent pas une prise en charge médicale spéciale ou l'arrêt du traitement .Chez certains individus l'on peut observer l'apparition de la fièvre bilieuse hemoglobunirique qui nécessite l'arrêt du traitement et une prise en charge médicale spécialisée.
+
+Sulfadoxine-Pyriméthamine :
+
+Effets indésirables sont plus fréquents chez le sujet VIH positif à savoir le rash et l'urticaire. Exceptionnellement chez les sujets allergiques survient le syndrome de LYELL qui impose l'arrêt immédiat et définitif du traitement.
+
+Annexe 2 : Quantification des intrants de lutte antipaludique Estimation des besoins annuels en MILD de routine pour les femmes enceintes N°
+
+Libellé
+
+Population totale de la ZS
+
+Proportion de femmes enceintes attendues dans la communauté
+
+Nombre de femmes enceintes attendues dans la communauté
+
+Taux d'utilisation (fréquentation) des services CPN
+
+Nombre de femmes enceintes attendues à la CPN
+
+% Femmes enceintes utilisant les services CPN et qui bénéficient d'une MILD Nombre de femmes enceintes qui bénéficient de la MILD
+
+Nombre de MILD requise par femme enceinte
+
+Nombre total des MILD requises pour la ZS pendant l'année
+
+Année 2010
+
+4%
+
+Ligne 1 : Population totale de la ZS.
+
+Ligne 2 : Proportion de femmes enceintes attendues dans la communauté.
+
+Ligne 3 : Nombre attendu des femmes enceintes dans la ZS (population totale de la ZS divisée par 100 et multipliée par 4).
+
+Ligne 4 : Le taux d'utilisation des services CPN 1 dans la ZS.
+
+Ligne 5 : Nombre de femmes enceintes attendues à la CPN (Nouveaux Cas) qui représente le nombre attendu des femmes enceintes dans la ZS divisé par 100 et multiplié par 85.
+
+Ligne 6 : La couverture de l'offre des MILD aux femmes enceintes fréquentant la CPN dans la ZS.
+
+Ligne 7 : Nombre de femmes enceintes bénéficiant de MILD.
+
+Ligne 8 : Nombre de MILD requise par femme enceinte.
+
+Ligne 9 : Nombre total des MILD requises pour la ZS pendant l'année représente le nombre de femmes enceintes qui bénéficient de la MILD multiplié le nombre de MILD requise par femme enceint.
+
+N.B. : Ces estimations se feront chaque année en tenant compte de l'accroissement de la population totale et du taux d'utilisation des services CPN dans la ZS.
+
+Estimation des besoins annuels en MILD de routine pour les enfants de moins de un an N°
+
+Libellé
+
+Population totale
+
+Proportion d'enfants de moins d'un an attendus dans la communauté Nombre d'enfants de moins d'un an attendus dans la communauté Taux d'utilisation (fréquentation) des services de vaccination pour le VAR Nombre d'enfants de moins d'un an attendus aux services de vaccination pour le VAR % d'enfants de moins d'un an des services de vaccination pour le VAR et qui bénéficient d'une MILD Nombre d'enfants de moins d'un an bénéficiant de MILD
+
+Nombre de MILD requise par enfant de < 1 an
+
+Nombre total des MILD requises pour la ZS pendant l'année
+
+Année 2010
+
+Ligne 1 : Population totale de la ZS.
+
+Ligne 2 : Proportion d'enfants de < 1 an attendus dans la communauté.
+
+Ligne 3 : Nombre attendu d'enfants de < 1 an dans la ZS (population totale de la ZS divisée par 100 et multipliée par 3,49).
+
+Ligne 4 : Le taux d'utilisation des services CPS dans la ZS.
+
+Ligne 5 : Nombre d'enfants de < 1 an attendus à la CPS (Nouveaux Cas) qui représente le nombre attendu d'enfants < 1 an dans la ZS divisé par 100 et multiplié par 85.
+
+Ligne 6 : La couverture de l'offre des MILD aux d'enfants de < 1 an fréquentant la CPS dans la ZS.
+
+Ligne 7 : Nombre d'enfants < 1 an bénéficiant de MILD.
+
+Ligne 8 : Nombre de MILD requise par enfant de < 1 an.
+
+Ligne 9 : Nombre total des MILD requises pour la ZS pendant l'année représente le nombre d'enfant de < 1 an qui bénéficient de la MILD multiplié le nombre de MILD requise par enfant de < 1 an.
+
+N.B. : Ces estimations se feront chaque année en tenant compte de l'accroissement de la population et du taux d'utilisation des services CPS dans la ZS.
+
+Estimation des besoins annuels en SP pour le TPI chez les femmes enceintes N°
+
+Libellé
+
+Population totale
+
+Proportion de femmes enceintes attendues dans la communauté
+
+Nombre de femmes enceintes attendues dans la communauté
+
+Taux d'utilisation (fréquentation) des services CPN
+
+Nombre de femmes enceintes attendues à la CPN
+
+% Femmes enceintes utilisant les services CPN et qui bénéficient de traitement préventif intermittent Nombre de femmes enceintes bénéficiant de traitement préventif intermittent Nombre de comprimés de SP requis par femme enceinte
+
+Nombre total de comprimés de SP requis pour la ZS
+
+Nombre de boîtes de SP (1000 comprimés)
+
+Année 2010
+
+4%
+
+Ligne 1 : Population totale de la ZS.
+
+Ligne 4 : Le taux d'utilisation des services CPN 2 dans la ZS.
+
+Ligne 5 : Nombre de femmes enceintes attendues à la CPN (Nouveaux Cas) qui représente le nombre attendu des femmes enceintes dans la ZS divisé par 100 et multiplié par 74.
+
+Ligne 6 : La couverture de l'offre du TPI aux femmes enceintes fréquentant la CPN dans la ZS.
+
+Ligne 7 : Nombre de femmes enceintes bénéficiant du TPI.
+
+Ligne 8 : Nombre de comprimé de SP requis par femme enceinte.
+
+Ligne 9 : Nombre total de comprimés de SP requis pour la ZS (Nombre de femmes enceintes bénéficiant du TPI multiplié par le nombre de comprimés de SP requis par femme enceinte).
+
+Ligne 10 : Nombre de boîtes de SP (Nombre total de comprimés de SP requis pour la ZS divisé par 1000).
+
+N.B. : Ces estimations se feront chaque année en tenant compte de l'accroissement de la population et du taux d'utilisation des services CPN dans la ZS.
+
+Estimations des besoins annuels en TDR et ACT
+
+N°
+
+Tranche d'âge
+
+< 1 an
+
+1 - 5 ans
+
+6 - 13 ans
+
+> 13 ans
+
+Total
+
+Population Proportion Population totale de la par population tranche par d'âge tranche d'âge
+
+Moyenne d'épisodes de fièvre par tranche d'âge
+
+Nombre d'épisodes palustres cliniques avec accès à la
+
+PEC
+
+Taux d'utilisation des services curatifs
+
+Nombre de personnes avec accès aux
+
+TDR par tranche d'âge
+
+Besoins annuels en TDR par tranche d'âge
+
+Nombre d'épisodes palustres à soigner avec CTA par tranche d'âge
+
+Coefficient positivité au test rapide
+
+Besoins annuels en cures de CTA par tranche d'âge
+
+Les colonnes du tableau du ci-haut sont étiquetées de 1 à 12 partant de la gauche vers la droite Colonne 1 : Numéro d'ordre.
+
+Colonne 2 : Tranche d'âge.
+
+Colonne 3 : Proportion de la population par tranche d'âge.
+
+Colonne 4 : Population par tranche d'âge (population totale de la ZS multipliée par la proportion de la tranche d'âge correspondante).
+
+Colonne 5 : Moyenne d'épisodes par tranche d'âge.
+
+Colonne 6 : Nombre d'épisodes palustres cliniques avec accès à la PEC (Proportion de la population par tranche d'âge multipliée par la moyenne d'épisodes de la tranche d'âge correspondante).
+
+Colonne 7 : Taux d'utilisation des services curatifs.
+
+Colonne 8 : Nombre de personnes avec accès aux TDR par tranche d'âge (Nombre d'épisodes palustres avec accès à la PEC multiplié divisé par 100 et multiplié par 60).
+
+Colonne 9 : Besoins annuels en TDR par tranche d'âge (un malade devra bénéficier d'une pièce de TDR).
+
+Colonne 10 : Coefficient positivité au test rapide.
+
+Colonne 11 : Nombre d'épisodes palustres à soigner avec CTA par tranche d'âge (Nombre de personnes avec accès aux TDR par tranche d'âge multiplié divisé par 100 et multiplié par 40).
+
+Colonne 12 : Besoins annuels en cures de CTA par tranche d'âge.
+
+N.B. : A partir de 6 à 12 mois, passer à la quantification basée sur la consommation.
+
+Estimations des besoins annuels en quinine comprimé
+
+N°
+
+Tranche d'âge
+
+< 1 an
+
+5%
+
+1 - 5 ans
+
+5%
+
+6 - 13 ans
+
+5%
+
+> 13 ans
+
+5%
+
+Total
+
+Nombre d'épisodes palustres à soigner avec
+
+CTA par tranche d'âge
+
+Taux d'échecs thérapeutiques
+
+Nombre des cas d'échecs thérapeutiques
+
+Nombre de comprimés de 500 mg de quinine base requis par épisode d'échec thérapeutique
+
+Nombre total des comprimés de 500 mg de quinine base
+
+Nombre des boîtes de 1000 comprimés de
+
+500 mg de quinine base (besoins annuels)
+
+Les colonnes du tableau du ci-haut sont étiquetées de 1 à 8 partant de la gauche vers la droite Colonne 1 : Numéro d'ordre.
+
+Colonne 2 : Tranche d'âge.
+
+Colonne 3 : Nombre d'épisodes palustres à soigner avec CTA par tranche d'âge.
+
+Colonne 4 : Taux d'échecs thérapeutiques (il peut être adapté selon les données de la ZS).
+
+Colonne 5 : Nombre des cas d'échecs thérapeutiques (Nombre d'épisodes palustres à soigner avec CTA par tranche d'âge divisé par 100 et multiplié par 5).
+
+Colonne 6 : Nombre de comprimés de 500 mg de quinine base requis par épisode d'échec thérapeutique.
+
+Colonne 7 : Nombre total des comprimés de 500 mg de quinine base (Nombre des cas d'échecs thérapeutiques multiplié par nombre de comprimés de 500 mg de quinine base requis par épisode d'échec thérapeutique).
+
+Colonne 8 : Nombre des boîtes de 1000 comprimés de 500 mg de quinine base (Nombre total des comprimés de 500 mg de quinine base divisé par 1000).
+
+Estimations des besoins annuels en clindamycine en comprimé
+
+N°
+
+Tranche d'âge
+
+< 1 an
+
+5%
+
+Nombre de
+
+Nombre total des comprimés de 150 comprimés de 150 mg de mg de clindamycine clindamycine requis par épisode d'échec thérapeutique
+
+1 - 5 ans
+
+5%
+
+6 - 13 ans
+
+5%
+
+> 13 ans
+
+5%
+
+Total
+
+Nombre d'épisodes palustres à soigner avec
+
+CTA par tranche d'âge
+
+Taux d'échecs thérapeutiques
+
+Nombre des cas d'échecs thérapeutiques
+
+Nombre des boîtes de 100 comprimés de clindamycine à
+
+150 mg (besoins annuels)
+
+Colonne 2 : Tranche d'âge.
+
+Colonne 6 : Nombre de comprimés de clindamycine 150 mg requis par épisode d'échec thérapeutique.
+
+Colonne 7 : Nombre total des comprimés de clindamycine 150 mg (Nombre des cas d'échecs thérapeutiques multiplié par nombre de comprimés de clindamycine 150 mg requis par épisode d'échec thérapeutique).
+
+Colonne 8 : Nombre des boîtes de 100 comprimés de clindamycine 150 mg (Nombre total des comprimés de clindamycine en 150 mg divisé par 100).
+
+Estimations des besoins annuels en quinine injectable
+
+N°
+
+Tranche d'âge
+
+< 1 an
+
+1%
+
+1 - 5 ans
+
+6 - 13 ans
+
+> 13 ans
+
+Total
+
+Nombre d'épisodes palustres à soigner avec
+
+CTA par tranche d'âge
+
+Taux d'incidence
+
+Nombre des du paludisme grave cas du paludisme grave par tranche d'âge
+
+Nombre d'ampoules requises par épisode du paludisme grave
+
+Nombre d'ampoules de quinine 600 mg requises par tranche d'âge
+
+Nombre de boîtes de 100 ampoules requises à 600 mg (besoins annuels)
+
+1%
+
+1%
+
+1%
+
+Colonne 2 : Tranche d'âge.
+
+Colonne 4 : Taux d'incidence du paludisme grave (il peut être adapté selon les données de la ZS).
+
+Colonne 5 : Nombre des cas du paludisme grave par tranche d'âge (Nombre d'épisodes palustres à soigner avec CTA par tranche d'âge divisé par 100 et multiplié par 1).
+
+Colonne 6 : Nombre d'ampoules de quinine 600 mg requises par épisode du paludisme grave.
+
+Colonne 7 : Nombre d'ampoules requises par tranche d'âge (Nombre des cas du paludisme grave par tranche d'âge multiplié par nombre d'ampoules de quinine 600 mg requises par épisode du paludisme grave).
+
+Colonne 8 : Nombre de boîtes de 100 ampoules requises à 600 mg (besoins annuels) N.B. : A partir de 6 à 12 mois, passer à la quantification basée sur la consommation.
+
+Estimations des besoins annuels en artésunate suppositoire
+
+N°
+
+Tranche d'âge
+
+Nombre d'épisodes palustres à soigner avec
+
+CTA par tranche d'âge
+
+Taux d'incidence du paludisme grave
+
+Nombre des cas du paludisme grave par tranche d'âge
+
+Proportion des cas du paludisme grave qui bénéficient du traitement de préréférence
+
+Nombre des cas du paludisme grave qui bénéficient du traitement de préréférence
+
+Nombre de suppositoire d'artésunate par traitement de préréférence
+
+< 1 an
+
+1%
+
+1%
+
+6 - 13 ans
+
+1%
+
+> 13 ans
+
+1%
+
+1 - 5 ans
+
+Total
+
+Nombre total de suppositoires d'artésunate par tranche d'âge
+
+Les colonnes du tableau du ci-haut sont étiquetées de 1 à 9 partant de la gauche vers la droite Colonne 1 : Numéro d'ordre.
+
+Colonne 2 : Tranche d'âge.
+
+Colonne 6 : Proportion des cas du paludisme grave qui bénéficient du traitement de préréférence .
+
+Colonne 7 : Nombre des cas du paludisme grave qui bénéficient du traitement de préréférence (Nombre des cas du paludisme μ grave par tranche d'âge divisé par 100 multiplié 30).
+
+Colonne 8 : Nombre de suppositoires d'artésunate par traitement de préréférence .
+
+- Moins d'un an : suppositoire de 50 mg
+
+- 1 à 14 ans : suppositoire de 100 mg
+
+- > 14 ans : suppositoire de 400 mg
+
+Colonne 9 : Nombre total de suppositoires d'artésunate par tranche d'âge (Nombre des cas du paludisme grave qui bénéficient du traitement de préréférence multiplié par nombre de suppositoires d'artésunate par traitement de préréférence).
+
+Quantification basée sur la consommation
+
+La méthode de consommation est destinée à un programme déjà en cours d'exécution et que les données à utiliser sont à jour et fiables. Cette méthode sera valable pour les tests de diagnostic rapide, les CTA, la quinine.
+
+Les données importantes sont:
+
+1. Les consommations effectives enregistrées au niveau de la fosa pendant une période (3 mois: acceptable,6 mois très bien et 12 mois: mieux) ;
+
+2. Le nombre des jours de rupture de stock durant la période considérée ;
+
+3. Le stock disponible et utilisable ;
+
+4. Les commandes en cours si applicable ;
+
+5. Le facteur de réapprovisionnement est l'intervalle entre 2 approvisionnements exprimés en mois (on le détermine à l'avance par exemple 1, 2, 3,4......mois) multiplié par 2.
+
+Ensuite il faut procéder à l'estimation des besoins: exemple 1:les quantités de doses de la combinaison AS + AQ consommées durant 6 mois sont:45,60,80,54,65 et 80,aucune rupture de stock n'a été enregistrée, aucune commande en cours n'est exécutée, le stock disponible et utilisable est 10 doses, le réapprovisionnement se fait tous les 2 mois.(cad chaque 2 mois la formation sanitaire reçoit ses produits).
+
+Calculer la quantité à commander:
+
+1. On calcule d'abord la CMM = (45+60+80+54+65+80)/6=64 doses ;
+
+2. Ensuite on calcule le facteur de réapprovisionnement: 2 x2=4 ;
+
+3. On calcule le seuil de la commande: CMM x facteur de réapprovisionnement:64x4 = 256 doses ;
+
+4. Quantité à commander: seuil commande - stock disponible et utilisable : 256 10 = 246 doses.
+
+Exemple 2:Idem pour tous les chiffres mais avec une rupture de stock de 15 jours durant la période de 6 mois considérée
+
+Ici le dénominateur change car on doit soustraire "en mois" le nombre des jours de rupture de stock! Et pour déterminer ce nombre des jours de rupture en mois on divise le nombre de jours de rupture compté dans la fiche de stock par 30.5 qui est le nombre moyen des jours par mois ;
+
+2. Facteur de réapprovisionnement: 2 x 2 = 4 ;
+
+3. Seuil de commande:70 x 4 = 280 doses ;
+
+4. Quantité à commander:280 - 10 = 270 doses.
+
+Annexe 3 : Administrer un traitement de pré-référence en cas de paludisme grave ARTESUNATE en suppositoire
+
+Au niveau du Centre de Santé (CS) et des sites de soins communautaires (SSC), en présence d'un seul signe de danger/gravité avec un test de diagnostic rapide (TDR) du paludisme positif, une dose unique de pré-référence avec l'Artésunate suppositoire sera administrée et le patient sera référé vers un centre de santé de référence (CSR) ou un hôpital général de référence (HGR). Chez le jeune enfant lorsque le suppositoire est expulsé dans les 30 minutes, introduire un second suppositoire et tenir les fesses serrées pendant plus ou moins 10 minutes.
+
+Tableau. Dose unique de pré-référence
+
+Poids (Kg)
+
+Suppositoire de 50 mg
+
+Suppositoire de 200 mg
+
+Ce schéma s'applique aux cas de paludisme grave détectés aussi bien au niveau du centre de santé qu'au niveau des sites de soins communautaires.
+
+Figure : modalités d'administration de l'artesunate suppositoire aux enfants.
+
+Les autres dispositions à prendre avant la référence sont décrites dans l'ordinogramme.
+
+Tout cas de paludisme grave y compris la femme enceinte avec fièvre doit être référé vers un centre de santé de référence (CSR) ou un hôpital général de référence (HGR).
+
+C'est seulement à ce niveau que le traitement du paludisme grave se fera.
+
+Annexe 4 : Surveillance Epidémiologique :
+
+INVESTIGUER ET CONFIRMER UNE EPIDEMIE DE PALUDISME ET PRENDRE EN CHARGE LES CAS.
+
+En cas de déplacement d'un grand nombre de personnes dans des zones d'endémie palustre, il y a accroissement du risque de graves épidémies de paludisme (surtout lorsque les habitants d'une zone de transmission faible ou nulle se dirigent vers une zone d'endémie stable et de forte transmission, par exemple en quittant une région montagneuse pour une région de plaine). L'absence de la prémunition protectrice, la concentration des populations dans des lieux exposés, la désorganisation des activités de lutte, les difficultés rencontrées pour obtenir un traitement efficace, les infections concomitantes et la malnutrition se conjuguent pour rendre ces populations vulnérables à une épidémie de paludisme.
+
+C'est pourquoi des efforts particuliers doivent être consentis pour dispenser gratuitement un traitement efficace aux populations exposées au risque. Les principes exposés cidessous sont applicables aux épidémies et à toutes les situations d'urgence complexes survenant dans des zones où existe un risque d'épidémie de paludisme et où il est absolument primordial que les cas soient correctement pris en charge.
+
+1.1. Définition de l'épidémie du Paludisme
+
+Il n'y a pas de définition universelle de l'épidémie de paludisme. On parle d'une épidémie du paludisme dans une aire de santé/zone de santé quand il y a augmentation de la morbidité supérieure à ce qui est normal pour l'aire de santé/zone de santé et pour la période de l'année. On parle d'une suspicion d'épidémie de paludisme lorsque les données de surveillance épidémiologique indiquent un dépassement du seuil calculé pour l'aire de santé/zone de santé et d'une épidémie confirmée lorsque l'investigation basée sur les prélèvements montre que les cas suspects sont bien des cas de paludisme prouvés biologiquement. Le seuil sera fixé préférentiellement au 3e quartile supérieur des données rétrospectives sur 5 ans.
+
+1.2. Mode de calcul du seuil épidémique
+
+Il existe 3 modes de calcul du seuil épidémique :
+
+- le seuil fixé à la moyenne mensuelle plus 2 écarts types calculé à partir des données des 5 années précédentes,
+
+- le seuil fixé à la moyenne fluctuante sur 3 mois au cours des 5 dernières années (SOMME-C) et
+
+- le seuil fixé au 3e quartile supérieur des données rétrospectives sur 5 ans Nous décrivons le mode basé sur le 3e quartile supérieur des données rétrospectives de 5 ans en raison de sa simplicité de calcul afin de permettre une utilisation au niveau de l'aire de santé. C'est ce dernier mode de calcul qui est recommandé par le programme.
+
+Etape 1 : Construire un tableau présentant les données de 5 dernières années mois par mois.
+
+Exemple :
+
+Année
+
+Janv
+
+Fév
+
+Ma
+
+Avr
+
+Mai
+
+Jui
+
+Jul
+
+Aou
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Etape 2 : Ranger les données de chaque mois en ordre croissant Exemple :
+
+janv fév mar avr mai jui jul aou sep oct nov déc
+
+1er quartile
+
+Médiane
+
+3e quartile
+
+Etape 3 : Ressortir les lignes « médianes et 3e quartile » pour comparer avec les données de l'année en cours.
+
+jan fev mar apr mai jui jul aoû sep oct nov déc
+
+3e quartile
+
+Médiane
+
+Etape 4 : Interpréter les données.
+
+Lorsque les données recueillies en 2010 dépassent le 3e quartile, on est en situation de suspicion d'épidémie à investiguer (c'est le cas en février, mars et octobre). Tandis que lorsqu'elles sont comprises entre la médiane et le 3e quartile, il faut une surveillance accrue (c'est le cas en août et septembre). Ainsi, une surveillance plus attentive à partir du mois d'août permet de se préparer pour une riposte et ne pas être pris à pieds levé en octobre.
+
+1.3. Diagnostic du paludisme en cas de flambée
+
+Pendant la phase aiguë d'une épidémie ou dans une situation d'urgence complexe, les moyens de laboratoire nécessaires au diagnostic sont généralement inexistants, anéantis ou tellement débordés par la quantité d'examens à effectuer qu'il est impossible de procéder, pour tous les cas fébriles, à un diagnostic parasitologique préalable au traitement. Dans ces conditions, il peut s'avérer opportun de recourir au traitement systématique des sujets fébriles qui consiste à traiter les cas suspects de paludisme sur la base de l'examen clinique et sans qu'il y ait dans chaque cas confirmation en laboratoire. Cette action peut s'imposer comme une nécessité opérationnelle temporaire en cas d'épidémie de paludisme confirmée ou dans une situation d'urgence complexe lorsque le personnel médical doit faire face à une marée de cas fébriles. Chaque fois qu'une telle stratégie est adoptée, le traitement doit toujours être mené à son terme. Il ne faut pas confondre le traitement de masse des sujets fébriles avec l'administration médicamenteuse systématique. Une telle ligne de conduite ne doit être adoptée que dans la mesure où il est établi qu'il s'agit effectivement d'une épidémie de paludisme à l'exclusion de toute autre maladie infectieuse.
+
+Il importe de surveiller la réponse clinique à ce traitement symptomatique, car d'autres infections peuvent être également présentes.
+
+Dans tous les cas, un diagnostic parasitologique est nécessaire pour :
+
+- confirmer que le paludisme est bien la cause de l'épidémie de la maladie fébrile ;
+
+- surveiller la courbe évolutive de l'épidémie et en confirmer la fin ;
+
+- suivre son évolution chez les nourrissons, les femmes enceintes, les cas de paludisme grave, les sujets souffrant d'une malnutrition sévère et les échecs thérapeutiques suspectés. Dans ce dernier cas, il n'y a pas d'autre possibilité que d'effectuer un examen microscopique. On a également besoin de ce type d'examen pour le contrôle de qualité sur le terrain des tests de diagnostic rapide, d'où la nécessité de se doter le plus rapidement possible des moyens à cet effet.
+
+Rôle de la microscopie et des TDR
+
+Il est préférable de recourir à la microscopie pour la confirmation de l'épidémie et l'identification de l'espèce plasmodiale. Cependant, en situation d'épidémie, les TDR ont l'avantage d'être rapides à exécuter sans que la présence de techniciens de laboratoire qualifiés soit aussi nécessaire. A la lumière de l'expérience acquise avec ces TDR, on peut dire qu'ils sont utiles pour confirmer la cause et la fin d'une épidémie de paludisme lorsqu'il est impossible de faire la microscopie.
+
+1.4. Traitement du paludisme simple en cas d'épidémie
+
+Pendant les épidémies ou dans les situations d'urgence, la plupart des patients souffrant de paludisme sont dépourvus de la prémunition, seulement partiellement prémunis ou vulnérables, par ailleurs, à des maladies graves. ll faut rechercher activement les sujets fébriles de manière à traiter convenablement le plus grand nombre de cas possible, plutôt que d'attendre qu'ils se présentent dans un dispensaire. Les principes du traitement sont les mêmes que dans les autres circonstances. Il faut que les antipaludiques utilisés soient d'une grande efficacité (taux de guérison > 95 %), sans danger et bien tolérés de manière à garantir une très bonne observance du traitement.
+
+Quelles que soient les circonstances, le traitement doit toujours être mené à son terme.
+
+On donne une CTA conforme aux prescriptions de la politique nationale en matière de lutte contre le paludisme.
+
+1.5. Traitement du paludisme grave en cas d'épidémie
+
+La RDC opte pour l'Artésunate injectable pour le traitement du paludisme grave chez l'enfant et chez l'adulte. Pendant une période transitoire de 3 ans, la quinine et l'Artésunate injectable seront utilisés pour le traitement du paludisme grave.
+
+L'Artésunate peut également être administré en IM en situation d'épidémie.
+
+NB : Ces cas de paludisme graves seront traités au niveau des CSR/HGR 1.6. Traitement du paludisme du a d'autres especes P. vivax, P. malariae et P. ovale Les autres espèces plasmodiales (P. vivax, P. malariae et P. ovale) sont moins fréquentes en RDC (<5%) et les données sur leur sensibilité aux antipaludiques ne sont pas disponibles. La RDC s'appuie sur les recommandations de l'OMS en matière de prise en charge de ces espèces.
+
+- P vivax : outre la chloroquine, l'OMS recommande les CTA contenant de l'Amodiaquine, de la Mefloquine ou de la piperaquine associées à la primaquine.
+
+De ce qui précède, pour notre pays, le traitement de choix sera AS-AQ + primaquine.
+
+- P ovale et P. malariae : se référer à la prise en charge de P vivax. Cependant, pour P malariae, la cure radicale avec la primaquine n'est pas nécessaire car il n'y a pas formation d'hypnozoïte lors de l'infestation par cette espèce.
+
+Annexe 5 : Enregistrement des données au niveau des établissements des soins de santé relatifs à la gestion de lutte contre le paludisme Dans le registre de consultation, noter :
+
+- Nom du patient,
+
+- âge (en mois si enfants de moins de 5 ans ou en année pour les 5 ans et plus),
+
+- Poids (en Kg),
+
+- Sexe (Masculin ou féminin),
+
+- Femme enceinte ou pas,
+
+- Symptômes,
+
+- diagnostic (paludisme simple),
+
+- test biologique réalisé (type de test et résultat),
+
+- traitement instauré (nom du médicament, posologie).
+
+Dans le registre d'hospitalisation, noter :
+
+- Nom du patient,
+
+- Poids (en Kg),
+
+- Sexe (Masculin ou féminin),
+
+- Femme enceinte ou pas,
+
+- Symptômes (bonne description des signes de gravité),
+
+- diagnostic (paludisme grave),
+
+- test biologique réalisé (type de test et résultat),
+
+- traitement instauré (nom du médicament, posologie).
+
+Sur la fiche de stock / RUMER noter :
+
+- Nom du médicament,
+
+- Forme,
+
+- Dosage,
+
+- Date de péremption (par tranche d'âge),
+
+- Quantité reçue (par tranche d'âge),
+
+- Quantité sortie (par tranche d'âge),
+
+- Quantité actuel en stock (par tranche d'âge),
+
+- Rupture de stock (par tranche d'âge).
+
+Dans le registre de laboratoire :
+
+- Nom du malade,
+
+- Sexe (Masculin ou féminin),
+
+- Femme enceinte ou pas,
+
+- Type de test biologique effectué (TDR ou GE),
+
+- Résultat du test effectué (positif ou négatif).
+
+Dans le registre de CPN :
+
+- Colonne TPI (SP 1 et SP 2),
+
+- MILD (cocher si reçue).
+
+Dans le registre de CPS :
+
+MILD (cocher si reçue).
+
+Annexe 6 : Fiche de notification d'effet indésirable
+
+-
+
+République Démocratique du Congo
+
+-
+
+-
+
+CNPV
+
+-
+
+Centre National de
+
+P
+
+Fiche de notification d'effet indésirable
+
+-
+
+PATIENT
+
+Initiales
+
+Enceinte?
+
+ANTECEDENTS
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+NOTIFICATEUR
+
+Nom et
+
+Médecin pharmacien /__/
+
+Dentiste /__/
+
+Téléphone :
+
+Email :
+
+-
+
+Institution de santé/service :
+
+-
+
+MEDICAMENT
+
+-
+
+DCI
+
+Voie Posologie
+
+Date de
+
+Date indication
+
+Fabricant
+
+N° de lot
+
+- début d'arrêt
+
+-
+
+-
+
+-
+
+AUTRES
+
+- MEDICAMENTS PRIS
+
+DCI
+
+Voie Posologie
+
+Date de
+
+Date indication
+
+Fabricant
+
+N° de lot
+
+- début d'arrêt
+
+-
+
+-
+
+-
+
+-
+
+L'EFFET
+
+- INDESIRABLE
+
+Grave
+
+Description de l'effet (signes et symptômes) :
+
+-
+
+-
+
+-
+
+-
+
+Date d'apparition
+
+-
+
+-
+
+Traitement
+
+- : en cours /__/ décès /__/
+
+Evolution guérison sans séquelles /__/ avec séquelles :..................................
+
+-
+
+Amélioration
+
+-
+
+Aggravation lors de la ré administration ? OUI /__/
+
+NON /__/ pas de ré administration /__/
+
+-
+
+NB : Avant de remplir cette fiche, veuillez lire attentivement les notes au verso !!!
+
+Annexe 7 : Notes explicatives de remplissage de la fiche de notification d'effet indésirable
+
+Confidentialité : l'identité du patient demeure strictement confidentielle. Elle ne comprendra que ses initiales (première lettre du nom, du post-nom et du prénom.
+
+Exemple : Pour KASONGO Ngoma Jean, noter « KNJ »), l'âge et le sexe.
+
+Antécédents : veuillez noter tous les antécédents médicaux du patient ainsi que certains facteurs de risque comme la prise de tabac, d'alcool...
+
+Médicament incriminé. Dans la case DCI:
+
+donnez la DCI du médicament (exemple : ibuprofène, labetalol...) ;
+
+pour les produits traditionnels à base de plantes : précisez le nom de la plante, la partie utilisée (racine, feuille...) et le mode de préparation (décoction, infusion...).
+
+Description de l'effet : décrire les symptômes et les signes cliniques ainsi que les anomalies para cliniques observés après la prise du médicament incriminé. Précisez la date d'apparition et la date disparition de ces signes. Pour les effets qui débutent et ou finissent le même jour que le prise du médicament, il est important de préciser l'heure de début et de fin de l'effet.
+
+Résultats d'éventuels examens para-cliniques : notez ici les résultats des examens para cliniques que vous auriez fait pour confirmer l'existence de l'effet indésirable constaté (exemple : test hépatiques en cas d'atteinte hépatique, hémogramme ou myélogramme pour une atteinte hématologique). Veuillez préciser le jour du prélèvement des échantillons analysés.
+
+Veuillez notifier tous les événements indésirables liés aux médicaments [Médicament entendu comme tout produit utilisé pour le traitement, la prévention, (y compris les vaccins), ou le diagnostic (produits de contraste etc.) des maladies humaines. Notifiez aussi les effets liés aux autres produits de santé (cosmétiques, suppléments alimentaires, remèdes traditionnels et plantes médicinales)].
+
+Il est utile de notifier les événements indésirables même si vous n'êtes pas sûr de la relation de cause à effet entre eux et le médicament incriminé.
+
+Vous pouvez ajouter une feuille supplémentaire à cette fiche si l'abondance des informations à transmettre l'exige.
+
+Veuillez envoyer cette notification sous pli fermé ou par internet au Centre National de Pharmacovigilance :
+
+Adresse : Université de Kinshasa, Unité de Pharmacologie Clinique, B.P. 212 Kinshasa XI,
+
+Email : cnpvrdc@yahoo.fr
+
+Le Centre National de Pharmacovigilance demeure à votre disposition tous les jours ouvrables pour toute information concernant l'utilisation des médicaments et autres produits de santé.
+
+Annexe 8 : Critères de gravité du paludisme (OMS, 2000)
+
+Critère clinique
+
+Précision du texte de l'OMS
+
+Prostration
+
+Extrême faiblesse
+
+Troubles de la conscience
+
+Adulte: Score de Glasgow modifié < 10
+
+Enfant: Score de Blantyre < 3
+
+Respiration acidosique
+
+Détresse respiratoire chez l'enfant
+
+Convulsions répétées
+
+Plus de 2 épisodes en 24 heures
+
+Collapsus cardiovasculaire
+
+Pression artérielle systolique < 70 mmHg (adulte) et 50 mmHg (enfant) en présence de signes périphériques d'insuffisance circulatoire
+
+Oedème pulmonaire
+
+Définition radiologique
+
+Saignement anormal
+
+Définition clinique sans autre précision
+
+Ictère
+
+Définition clinique ou bilirubine totale
+
+> 50 mmol/L
+
+Hémoglobinurie macroscopique
+
+Urines rouges foncées ou noires, hémoglobinurie ou myoglobinurie à la bandelette, absence d'hématurie microscopique
+
+Score de Glasgow modifié
+
+Ouverture des yeux
+
+-
+
+Réponse verbale
+
+Réponse motrice
+
+Score de Blantyre
+
+Mouvement des yeux
+
+Réponse verbale
+
+Réponse motrice
+
+Critère biologique
+
+Anémie sévère
+
+Précision du texte de l'OMS
+
+Enfant: Hématocrite < 15% ou Hb < 5 g/dL
+
+Adulte: Hématocrite < 20% ou Hb < 6 g/dL
+
+Hypoglycémie
+
+Glycémie < 2,2 mmol/L (40 mg/dL)
+
+Acidose
+
+Bicarbonates plasmatiques < 15 mmol/L
+
+± acidémie avec pH < 7,35
+
+Hyperlactatémie
+
+Hyperparasitémie
+
+Lactates plasmatiques > 5 mmol/L
+
+> 2 % (> 100 000/μl) : zone de faible transmission
+
+> 5 % (> 250 000/μl) : zone de forte transmission
+
+Insuffisance rénale
+
+Enfant: diurèse < 12 mL/kg/24h ou créatininémie > 265 μmol/L (> 3 mg/dL) après réhydratation
+
+Adulte: créatininémie > 265 mmol/L avec diurèse < 400 mL/24H après réhydratation

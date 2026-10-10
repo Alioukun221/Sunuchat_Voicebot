@@ -1,0 +1,1757 @@
+MINISTERE DE LA SANTE
+
+ET DE L'HYNGENE PUBLIQUE
+
+BULLETIN NATIONAL
+
+DE SANTÉ PUBLIQUE
+
+DECEMBRE e
+
+Minissous surveillance, les tère de la résultats de recherche santé et de sur des maladies évil'hygiène tables par la vaccinapublique s'est doté tion, le fonctionnement d'un bulletin natiodu laboratoire central nal de santé publique de référence qui est un qui vise à fournir aux acteur stratégique de la professionnels de la santé, aux déci- surveillance épidémiologique, etc. Le deurs, aux chercheurs, aux partenaires contenu de ce bulletin contribuera à l'orientation et la prise de décisions à diverses informations en lien avec la tous les niveaux du système de santé et dans tous les secteurs membres de la santé publique.
+
+Le bulletin national de santé publique plateforme nationale One Health.
+
+est un instrument multisectoriel d'in- J'exprime ma reconnaissance à US formation et un outil de vulgarisation CDC pour le partenariat fructueux qui des résultats de la recherche scienti- a abouti à la mise en place de cet outil de diffusion des connaissances comen santé publique. Sa mise en place ré- bien importantes pour nos structures pond également aux besoins de renfor- mandatées pour la mise en œuvre des cement des capacités du règlement sa- politiques publiques.
+
+nitaire international, RSI (2005). Il est J'invite l'ensemble des acteurs du cohérent avec les engagements pris au secteur de la santé et les partenaires à niveau international pour une sécurité adopter pleinement cet outil en y sousanitaire globale. Le développement de mettant leurs productions et en l'utilice premier numéro bulletin est le fruit sant pour la communication relevant d'un long processus. Je salue l'enga- du domaine de la santé publique pour gement des différents acteurs qui ont une véritable sécurité sanitaire.
+
+contribué à sa réussite.
+
+Ce premier numéro apparait dans un
+
+Bonne lecture à toutes et à tous !
+
+contexte épidémique marqué par la
+
+Dengue et d'autres sujets d'actualité.
+
+Dr Robert Lucien
+
+Ce bulletin aborde les directives natioJean-Claude Kargougou nales et les procédures de gestion des
+
+Ministre de la santé cas de dengue, la tendance des maladies et de l'hygiène publique
+
+Sérosurveillance du VIH et de la syphilis dans sites sentinelles du Burkina Faso...
+
+SYMPOSIUM NATIONAL SUR LE RENFORCEMENT DE LA RÉSILIENCE
+
+POST COVID-19
+
+Editorial
+
+Comprendre pour mieux agir en santé publique : le contexte épidémique actuel au Burkina Faso comme une opportunité !
+
+e Bulletin national de santé publique (BSP) du
+
+Burkina Faso publie des informations sur les activités de surveillance de la santé publique et les interventions entreprises pour préparer, détecter et répondre aux événements de santé publique dans le pays. Le BSP publie des informations importantes pour les parties prenantes de la santé publique à tous les niveaux du système de santé. Plus largement, le
+
+BSP s'adresse à chaque acteur de la santé publique qu'il soit décideur, gestionnaire, professionnel de santé, chercheur, enseignant, médias, associatif, etc. Les types d'articles que le BSP valorise sont : i) articles complets d'étude ou d'évaluation de programmes/projets de santé, ii) articles sur les investigations des épidémies, iii) notes d›orientation politique en santé publique (y compris les résumés de directives nationales en santé), iv) notes de terrain, note synthèse de situation épidémiologique ou articles complets sur les revues intra/après action, v) avis aux lecteurs.
+
+Ce premier numéro parait dans un contexte épidémique sous régional et national qui commande des actions concrètes de sensibilisation par la production des bonnes informations à l'endroit de la population en général et des acteurs de la santé publique en particulier.
+
+A la semaine 39 de l'année 20231, la région de l'Afrique de l'Ouest était bée des épidémies.
+
+On peut citer 15 maladies qui touchent différemment l'ensemble des 15 pays de l'Afrique de l'Ouest : Chikungunya, Dengue, Anthrax, cholera, Diphtérie, Fièvre de lassa, Fièvre jaune , Fièvre de la vallée du Rift, Rougeole, méningite, variole du singe, Poliovirus circulant type 2 dérivé de souche vaccinale, Fièvre hémorragique Crimée Congo, Fièvre du Nil occidental, Covid-19. La plupart de ces maladies sont infectieuses, d'origine virale. Elles sont mortelles et la prévention par la vaccination. Malgré de gros efforts qui ont été développés au cours des dernières années, plusieurs systèmes de santé sont toujours dans l'apprentissage de leur dispoLe contexte sanitaire du Burkina Faso qui fait face à l'épidémie de la Dengue mérite une meilleure valorisation des connaissances produites au décours de la réponse 2. Le sujet mérite d'être bien documenté à travers ce premier numéro du BSP. Les premières bonnes pratiques qui émergent de la réponse nationale face à l'épidémie de la Dengue en cours sont la cartographie et la destruction des gites larvaires, la pulvérisation intra domiciliaire et spatiale, l'assainissement du milieu de vie à l'échelle individuelle et collective, l'organisation des soins pour la prise en charge des cas graves, la communication sur les risques, l'engagement communautaire, l'action intersectorielle et multidisciplinaire.
+
+combinaisons d'actions doivent être permanemment centrées sur l'adhésion des populations.
+
+Mot clés : épidémie, sécurité sanitaire, Dengue.
+
+Auteur : Professeur Hervé Hien
+
+OOAS_Regional Data Warehouse https://data.wahooas.org); Sitrep
+
+/ Weekly bulletin / NPHI Website of Member States; WHO_AFRO
+
+Website and OEW.
+
+-
+
+Directives et algorithmes nationales de prise en charge des cas de dengue, Burkina Faso, 2023
+
+W. Mathias Ouédraogo 1,2, Clarisse B ougouma1,
+
+Hamed S. Ouédraogo1, Salamata Sanfo 5, Thérèse Kagoné 4,
+
+Mahamoudou Sawadogo 1,2,5, Lassané Kafando 1,
+
+Placide Tindano 1, Joseph K Soubeiga 1, Brice W. Bicaba
+
+1, Issa Ouédraogo 1, Hervé Hien 2,3,4
+
+Affiliations
+
+1- Direction générale de la santé et de l'hygiène publique
+
+2- Université Joseph Ki-Zerbo
+
+3- Institut de recherche en sciences de la santé (IRSS)/CNRST
+
+4- Institut National de santé publique
+
+5- Centre Hospitalier Universitaire Yalgado Ouédraogo
+
+Auteur correspondant : math25x@yahoo.fr
+
+Introduction
+
+La dengue est une maladie tropicale négligée, transmise à l'homme par des moustiques Aedes aegypti et Aedes albopictus. Elle est due à un virus à quatre sérotypes (Denv1-4). C'est une infection généralement bénigne touchant tous les âges et dont la sévérité dépendra de nombreux facteurs. Ces dernières décennies, son incidence a progressé dans le monde, passant de 505430 cas en 2000 à 5200000 en 2019 [1]. Elle est endémique dans plus de 100 pays d'Afrique [2]. Au Burkina Faso, des cas de dengue ont été enregistrés depuis les années 1925 et 1980 [3]. Aussi, au cours de 2016-2017 le renforcement de la surveillance par la mise en place de sites sentinelles [4, 5].
+
+des Hauts-Bassins dès la semaine 32. Selon le service de surveillance épidémiologique, le pays a enregistré
+
+79867 cas suspects dont 34687 probables et 349 décès du 1er janvier au 29 octobre 2023 [6]. L'une des actions urgentes a consisté à réviser les directives de prise en charge (PEC) de la dengue qui étaient en vigueur depuis 2018. Ces directives ont pour objectif d'informer les prestataires de soins et d'apporter des orientations standardisées sur la PEC de cette infection.
+
+I- Méthodes
+
+Les directives de 2023 sont le fruit d'un processus parti de directives initiales qui ont été progressivement révisées pour une adaptation aux évolutions des connaissances et prenant en compte les feedbacks des prestataires. A
+
+2018 ses directives de PEC des cas de dengue. La gesconduisant à une autre révision en septembre 2023. Ces directives ont été renforcées avec plus de détails sur la
+
+PEC des cas graves à la lumière des comorbidités qui ont été rapportées après la première revue des cas de décès conduite par la direction de la protection de la santé de la population (DPSP).
+
+Pour parvenir à ces directives révisées, un travail préliminaire d'évaluation a été faite, orientant le choix des structures devant y participer et les points essentiels sur lesquels les travaux devaient porter. La révision de ces directives a exploité les productions de l'OMS [7]. La révision des directives de PEC des cas de dengue a été faite à Ouagadougou au cours de deux ateliers organisés en septembre et octobre 2023 au niveau de la DPSP. Ces ateliers ont regroupé les acteurs des structures de soins du public et du privé, des directions centrales et régionales du Ministère en charge de la santé et les partenaires nières ont été conduits avant la validation de la nouvelle version en plénière qui est articulé autour de principaux cas et le diagnostic biologique.
+
+II- Définitions opérationnelles
+
+-
+
+Les directives de PEC des cas de dengue ont les résultats de de laboratoire :
+
+Cas suspect : Toute personne présentant une maladie fébrile (>39°C) aiguë d'une durée comprise entre 2 et 7 jours, et s'accompagnant d'au moins 2 des symptômes suivants (céphalées, douleur rétro-orbitale, myalgies, arthralgies, éruption cutanée, manifestations hémorragiques, syndrome de choc).
+
+Cas probable : Il s'agit d'un cas suspect avec un
+
+TDR positif. Un TDR dengue positif étant une sérologie positive des IgM et/ou des IgG et/ou Ag NS1 positif.
+
+: Il s'agit de tout cas suspect ou
+
+: sérologie (ELISA) positive des IgM, augmentation des titres d'IgG ; la détection du virus par la RT-PCR (Reverse Transcriptase
+
+Polymerase Chain Reaction) ou isolement par culture.
+
+La synthèse est faite au prestataire en insistant sur le fait que la suspicion se base sur les symptômes,
+
+PCR ou par la sérologie ELISA (IgM ou IgG). Toutes les orientations stratégiques ont été données aux prestataires de ne retarder aucune PEC dans l'attente des résultats biologiques à travers une circulaire du Ministère en charge de la santé.
+
+III- Classification des cas de dengue : diagnostic clinique
+
+La multiplicité des formes cliniques de la dengue pouvait souvent évoluer de façon imprévisible. En fonction de la en 2013 des patients en 3 groupes [7] :
+
+Groupe A : Ce groupe comprend les patients avec une de vie/séjour lors d'un voyage dans une zone d'endémie des signes suivants : nausées et/ou vomissements, éruptions cutanées, douleurs, test du lacet positif, leucopénie).
+
+Groupe B : Il comprend les cas suspects, probables, ou
+
+:
+
+Douleur ou sensibilité à la palpation au niveau abdominal, vomissements persistants, accumulation liquidienne clinique, saignements au niveau des muqueuses, léthargie anxiété, hépatomégalie >2 cm, élévation de l'hématocrite et diminution rapide des plaquettes.
+
+Les patients de ce groupe dans les situations suivantes sont considérés comme des terrains particuliers :
+
+grossesse, petite enfance, âge avancé, obésité, diarénale ou hépatique, maladies hémolytiques chroniques comme la drépanocytose et maladies immunodépressives acquises ou innées ; maladies auto-immunes et antécédent de dengue.
+
+Groupe C ou dengue sévère : C'est la forme sévère de la dengue avec des complications potentiellement mortelles. On estime à 2,5% le taux de létalité, et lorsque le traitement n'est pas adapté, ce taux peut dépasser 20%.
+
+Les critères en faveur d'une dengue sévère sont d'une part une fuite plasmatique sévère entrainant un état de choc et une accumulation liquidienne avec détresse respiratoire et d'autre part des saignements sévères et des atteintes organiques sévères telle que :
+
+- hépatique : ictère, ASAT ou ALAT ≥ 1000 UI/L ;
+
+- rénale : augmentation de la créatininémie supérieure à 26,5 μmol/l en 48 heures ou une diminution du volume des urines de 0,5 ml/kg/h en 6 heures ;
+
+- système nerveux central : altération de l'état de conscience (agitation, somnolence, obnubilation, coma) ;
+
+- cardiaque : péricardite, myocardite, etc. ;
+
+-
+
+- pulmonaire autres organes.
+
+sente 50 à 90% des cas. Ce sont des formes sans symptômes ou avec des symptômes discrets. Il y a une notion ;
+
+-
+
+-
+
+Figure 1 lon la gravité [7].
+
+IV- Diagnostic bioloGIQUE
+
+Le diagnostic de la dengue comprend le diagnostic direct (précoce) et le diagnostic indirect (sérologique).
+
+Le diagnostic direct repose sur la détection du virus par culture ou la détection du génome viral par RT-PCR ou par la détection de l'antigène NS1 [7]. Quant au diagnostic indirect, il se repose sur la détection d'IgM L'interprétation des résultats se fait sur la base de la cinétique d'apparition de la virémie, de l'antigénémie NS1 du virus et des anticorps dirigés contre le Denv.
+
+Au cours d'une infection primaire, les IgM apparaissent au bout de 4-5 jours et les IgG 7-10 jours après les premiers signes et atteignent leur maximum entre 2-3 semaines. Les IgM atteignent leur pic deux semaines après le début de la maladie (Figure 2).
+
+Figure 2 signes). Leurs titres sont plus élevés que lors d'une infection primaire et ils persisteront plus longtemps (Figure 3). Les taux d'IgM sont plus faibles qu'en cas d'infection primaire (voir indétectables dans certains cas). La détermination du ratio IgM/IgG peut être utilisée pour distinguer une dengue secondaire d'une secondaire est une réinfection par un autre sérotype (Figure 3).
+
+V- Discussion moyens qui permettent l'application de ces directives et dont l'existence pourrait être l'objet de prochain travaux.
+
+La grande diffusion et les orientations des prestataires
+
+Les directives révisées se veulent être un document de réfé- pourraient donner une meilleure satisfaction en termes de rence pour la PEC standardisée des cas de dengue à tous les résultats.
+
+niveaux de notre système de santé.
+
+Elles s'inspirent fortement des recommandations proposées par l'OMS [7]. Elles ont été le fruit d'un travail laborieux et Bibliographie
+
+World health organization Dengue et dengue séconsensuel impliquant les professionnels de la PEC et les 1.
+
+vère du 17 mars 2023 https://www.who.int hospitalo-universitaires.
+
+OMS/ Dengue et dengue hémorragique ; Aide-méSa mise en œuvre sera monitorée par diverses structures 2.
+
+moire
+
+Révisé Avril 2002 http://www.lestransmetayant participé à sa rédaction et les expériences multiples doivent amener à des orientations plus précises. La revue teurs.fr/IMG/pdf/OMS_Dengue.pdf.
+
+3.
+
+Pedwindé Hamadou Seogo et al. Ampleur de la d'instruire un processus dans ce sens. Malgré les efforts dé- dengue dans la ville de Ouagadougou, Burkina-Faso, 2016.
+
+ployés pour une mise à jour prompte de ces directives, des Journal of Interventional Epidemiology and Public Health.
+
+efforts restent à faire au regard de la morbi mortalité enre- 2021;4(3):1. [doi: 10.11604/JIEPH.supp.2021.4.3.1090] Rapport d'investigation des cas suspects de gistrée au cours de cette épidémie de 2023. Ces directives 4.
+
+dengue dans la région sanitaire du centre. Service de surveillance épidémiologique de la direction de la lutte contre Les prochaines étapes seront d'adapter au mieux ces direc- la maladie ; Novembre 2013.
+
+5.
+
+Tarnagda Z, Cisse A, Bicaba BW, Diabouga S, de faciliter son exploitation suivant le niveau de sévérité. Sagna T, Ilboudo AK, Tiala D, Lingani M, Sondo KA, Yougbaré I, Yameogo I, Sow HE, Sakande J, Sangaré L, hémorragies et la présence de la dengue chez les drépano- Greco R, Muscatello DJ. Dengue fever in Burkina Faso, cytaires pourraient être mieux développés. Dans le domaine 2016. Emerg infect Dis. 2018; https://doi.org/10.3201/ du laboratoire, des procédures opératoires standardisées sur eid2401.170973 Google Scholar Rapport hebdomadaire de la situation épidémiole diagnostic de la dengue pourraient faciliter la gestion de 6.
+
+- logique, DPSP, Ministère de la santé, Burkina Faso. 29
+
+Octobre 2023
+
+Guide pour la prise en charge clinique de la dengue disposant de plateaux techniques et de compétences [8] per- 7.
+
+OMS/TDR mettra une meilleure PEC des cas et aussi une amélioration
+
+8.
+
+Yougbare F, Soubeiga ST, Djigma FW, Ouattara de la surveillance.
+
+AK, Compaore TR, Nikiema MG, Yonli AT, Simpore J.
+
+Diagnostic biologique différentiel entre le paludisme et la
+
+VII- Conclusion dengue chez des patients fébriles à Ouagadougou au Burkina Faso dans un contexte d'endémie des deux maladies.
+
+La PEC de la dengue devrait être relativement simple et Science et technique, Sciences de la santé 2019, 42 (2).
+
+9.
+
+Somda D , Ouédraogo S. H, Kafando L, sogli I, sauver des vies, à condition que des mesures appropriées Obulbiga F, Da L Ouattara L, Poda A,Yanogo P. Revue des cas de décès liés à la dengue Centre hospitalier uniaient été prises en temps utile [5].
+
+Les expériences de mise à disposition de directives de prise en charge de cette maladie, indique la grande néces- Hauts-Bassins, Burkina Faso, 2023.
+
+La forte mortalité [9] enregistrée au cours de cette épidémie de 2023 nous enseigne et devrait amener les directions techniques à plus de précision dans les orientations de la prise en charge des cas graves et la mise à disposition de
+
+Directives de santé publique pour la lutte contre le paludisme, la dengue et la maladie à
+
+Chikungunya au Burkina Faso
+
+Auteurs neurologique et la forme anémique. Tout cas suspect de
+
+Siaka Debe1, Serge Alain Tougma2, Franck Obulbiga 2 l'administration de traitement antipaludique.
+
+Affiliations
+
+Centre national de recherche et de formation sur le paludisme, Burkina Faso
+
+Centre des Opérations de Réponse aux Urgences
+
+Sanitaires, Burkina Faso
+
+Introduction
+
+Les directives de santé publique sont un document de référence pour la prise en charge standardisée des cas de maladie de santé publique à tous les niveaux du système de santé.
+
+normes internationales, ainsi que des recommandations de l'Organisation mondiale de la santé (OMS). Ce présent article vise à synthétiser les directives nationales pour la lutte contre le paludisme, la dengue et la maladie à Chikungunya.
+
+Paludisme dies reste dominé par les infections dont le paludisme qui constitue un problème majeur de santé publique du fait de son ampleur, sa gravité et ses conséquences socio-économiques importantes. Le paludisme est causé par un parasite du genre Plasmodium transmise par la piqûre d'un moustique femelle du genre Anophèles. Il fait l'objet de surveillance hebdomadaire à travers la transtions sanitaires publiques et privées sur le plan national.
+
+en deux grands groupes ; il s'agit du paludisme simple et ou égale à 37,5°C) ou antécédent de « corps chaud » dans les soixante-douze (72) dernières heures, associée à la mise en évidence du plasmodium à l'examen microscopique par la goutte épaisse/frottis sanguin ou par la positivité du test de diagnostic rapide (TDR) en l'absence de tout signe de gravité. Le paludisme grave concerne les cas de paludisme à Plasmodium falciparum en présence de signe(s) de gravité conformément aux critères de l'Organisation Mondiale de la Santé (). Il en existe la forme
+
+Traitement du paludisme simple
+
+Les médicaments recommandés pour le traitement du paludisme simple sont les combinaisons thérapeutiques à base d'artémisinine (ACT) par voie orale pendant trois jours notamment l'Artémether-Luméfantrine (AL),
+
+Artésunate-Amodiaquine (ASAQ) ou Dihydroartemisinine-Pipéraquine (DHA-PPQ). Pour les femmes enceintes, la quinine est le médicament recommandé pour le traitement du paludisme simple quel que soit l'âge de la grossesse. Les ACT ne sont utilisés qu'après le pretoxicité fœtale.
+
+Traitement du paludisme grave
+
+Au regard des risques élevés de décès chez les enfants de 6 mois à 6 ans, le traitement des cas de paludisme grave doit débuter à partir du niveau communautaire par l'administration de l'artémisinine par voie rectale avant tout transfert aux centres de santé et de promotion sociale (CSPS). Le paludisme grave étant une urgence médicale, il doit être pris en charge au sein d'une formation sanitaire de référence ou dans toute autre structure sanitaire disposant d'un plateau technique adéquat. Avant tout transfert dans un centre de référence, un traitement pré-transfert doit être instauré au sein des CSPS.
+
+Traitement pré-transfert du paludisme grave dans les CSPS
+
+- prendre la voie veineuse avec du SGI 5%
+
+- rassurer le malade à travers des conseils et des mesures générales
+
+- administrer un antipaludique recommandé par voie parentérale : artésunate, artéméther ou quinine
+
+- effectuer les traitements palliatifs d'urgence
+
+Tout traitement de paludisme grave doit être complété par la prise d'antipaludiques recommandés par voie orale pendant 3 jours.
+
+signes persistent plus de trois jours après un traitement adéquat avec une posologie correcte. En cas d'échec, le malade doit être réévalué et son traitement réajusté.
+
+Prévention
+
+Le pays dispose de mesures de prévention médicamenteuse qui incluent le traitement préventif intermittent (TPI) adressé aux femmes enceintes et de la chimio prévention du paludisme saisonnier (CPS) chez les enfants de 3 à 59 mois. Le TPI consiste à administrer la Sulfadoxine-Pyriméthamime 500/25mg aux femmes enceintes à partir du deuxième trimestre de la grossesse suivi de 3 autres doses espacées chacune d'un mois. Ce traitement permet de réduire/éviter les risques d'anémie et d'hypertension artérielle chez la mère, et d'avortement, d'accouchement prématuré, de naissance d'enfant de faible poids et de paludisme congénital. En effet, il empêche l'accumulation des globules rouges parasités au niveau du placenta ; ce qui bloquerait le transfert placentaire des gaz, des nutriments et des anticorps maternels.
+
+La CPS consiste à l'administration intermittente de traitement complet par une combinaison de médicaments antipaludiques pour éviter le paludisme au cours de la période de haute transmission. Selon l'OMS, cette intervention prévient environ 75% de tous les cas de paludisme, et environ 75% des formes graves. Les médicaments utilisés pour la CPS sont la Sulfadoxine-Pyriméthamime et l'amodiaquine (SP+AQ). La CPS est mise en œuvre sous forme de campagne de 4 jours par mois au cours de la période de haute transmission du paludisme pendant
+
+4 mois.
+
+Les autres mesures de lutte dont la lutte anti-vectorielle comprennent l'utilisation des moustiquaires à longue durée d'action (MILDA), la pulvérisation intra-domiciliaire (PID) et la lutte anti-larvaire (LAL).
+
+Dengue
+
+La dengue est une maladie tropicale négligée à potentiel épidémique, infectieuse et ré-émergente. Elle fait partie des arboviroses et est causée par un virus de la famille piqûre d'un moustique femelle du genre Aedes (Aedes aegypti, Aedes albopictus).
+
+cette maladie qui était méconnue des prestataires de soins ainsi que de la population. Depuis, un système de surveillance de la dengue et des autres arbovirus (Zika,
+
+Chikungunya) a été mis en place à travers le ministère de
+
+CDC Atlanta dans 7 sites sentinelles de surveillance. Le tional de Référence des Fièvres Hémorragiques Virales (LNR-FHV).
+
+Les virus de dengue provoquent une infection symptomatique ou asymptomatique. L'infection symptomatique est systémique et dynamique qui évolue en général sous 3 formes : la dengue classique, la dengue avec des signes d'alerte et la dengue sévère suivies d'une phase de convalescence.
+
+Signes d'alerte
+
+- douleurs abdominales vomissements persistants léthargie ou agitation saignement des muqueuses augmentation du volume du foie augmentation de l'hématocrite baisse de la numération plaquettaire
+
+Signe de gravité état de choc hypovolémique détresse respiratoire hémorragie sévère défaillance organique sévère (hépatique, rénale, cardiaque, neurologique etc.)
+
+Cas suspect d'une durée de 2 à 7 jours accompagnée d'au moins 2 des signes/symptômes suivants :
+
+céphalées intenses douleurs rétro-orbitaires myalgies, arthralgies éruptions cutanées hémorragies signes de choc
+
+Vue d'ensemble
+
+Cas probable
+
+Tout cas suspect de dengue associé à un test de diagnostic rapide positif aux
+
+IgM et/ou IgG et/ou Ag NS1
+
+Cas confirmé
+
+Tout cas suspect ou probable de dengue associé à une sérologie ELISA IgM positive, une augmentation des titres d'IgG, la détection du virus par la RT-PCR ou l'isolément par la culture
+
+Traitement ment des cas de dengue. Le traitement est symptomatique en plus des mesures hygiéno-diététiques et des conseils pratiques du médecin. L'utilisation lement contre-indiquée du fait du risque hémorragique élevé.
+
+Prévention
+
+Le chikungunya est une maladie provoquée par le virus du chikungunya (CHIKV), un virus à ARN appartenant au genre alphavirus de la famille des
+
+Le virus du chikungunya est transmis par les moustiques du genre Aedes. Ces moustiques piquent principalement pendant la journée. Ils pondent leurs œufs dans des récipients contenant de l'eau stagnante. Les deux espèces piquent à l'extérieur, et Ae. aegypti pique également à l'intérieur.
+
+Symptômes
+
+Chez les cas niers font habituellement leur apparition 4 à 8 jours (fourchette allant de 2 à 12 jours) après la piqûre d'un moustique infecté.
+
+parition brutale, souvent accompagnée de douleurs articulaires sévères. Ces douleurs articulaires, qui sont souvent très handicapantes, durent généralement quelques jours, mais peuvent persister pendant des semaines, des mois ou même des années. Les faction des articulations, des douleurs musculaires, des céphalées, des nausées, de la fatigue et des éruptions cutanées.
+
+dengue. La prévention repose sur les mesures de protection individuelle et collective : port de vêtements longs, utilisation de moustiquaires, de répulsifs des moustiques, de serpentins fumigènes et de vaporisateurs, l'assainissement du cadre de vie, la couverture des récipients de stockage d'eau, la pulvérisation spatiale, la pulvérisation intra-domiciliaire, l'équipement des portes et fenêtres en grilles anti-moustiques.
+
+Traitement et vaccins
+
+Chikungunya
+
+Prévention et lutte
+
+Il n'existe pas de directives de santé publique pour la maladie à Chikungunya au Burkina Faso.
+
+Depuis 2017, le chikungunya fait partie des maladies surveillées à travers les 7 sites de surveillance de la dengue et des autres arboviroses. Cependant, sa surveillance reste uniquement basée sur la technique de la RT-PCR.
+
+moustiques, qui pourront à leur tour infecter de nouvelles personnes.
+
+La prise en charge clinique vise essentiellement à moyen d'antipyrétiques, d'analgésiques adaptés, d'un bon apport en liquides et d'un repos du patient.
+
+contre l'infection par le CHIKV. Aucun vaccin n'est disponible sur le marché pour protéger contre l'infection par le virus du chikungunya.
+
+Le meilleur moyen de se protéger est de prévenir l'infection en évitant les piqûres de moustiques. Les patients chez lesquels on soupçonne une infection par le CHIKV doivent éviter toute nouvelle piqûre de moustique pendant la première semaine de la
+
+La principale méthode pour réduire la transmission du CHIKV consiste à lutter contre les moustiques vecteurs. Il faut pour cela mobiliser les communausites de reproduction des moustiques en vidant et en nettoyant chaque semaine les récipients contenant de l'eau, en éliminant les déchets et en soutenant les programmes locaux de lutte contre les moustiques.
+
+ticides peuvent être pulvérisés pour tuer les moustiques adultes, appliqués sur les surfaces intérieures ou voisines des récipients où se posent les moustiques et utilisés pour traiter l'eau contenue dans peuvent également être prises à titre d'urgence par les autorités sanitaires pour lutter contre les moustiques.
+
+il est conseillé de porter des vêtements couvrant au pendant la journée. Les moustiquaires de fenêtre et de porte peuvent empêcher les moustiques de pénétrer dans les habitations. Des produits répulsifs peuvent être appliqués sur les vêtements et les zones découvertes de la peau, en respectant scrupuleuseduit. Ils doivent contenir du DEET, de l'IR3535 ou de l'icaridine.
+
+Les moustiquaires imprégnées d'insecticide doivent être utilisées contre les moustiques qui piquent penpendant la journée, en particulier les jeunes enfants et les personnes malades ou âgées.
+
+References
+
+1.
+
+Programme national de lutte contre le paludisme (PNLP). Directives de prise en charge du paludisme au Burkina Faso. Edition 2017. Ministère de la santé et de l'hygiène publique, 2017. 45 pages
+
+2.
+
+Programme national de lutte contre les maladies tropicales négligées (PNLMTN). Directives nationales de prise en charge des cas de dengue au
+
+Burkina Faso. Edition version révisée de septembre
+
+2023. Ministère de la santé et de l'hygiène publique,
+
+2023. 28 pages
+
+3.
+
+https://www.who.int/fr/news-room/factsheets/detail/chikungunya
+
+La place du Laboratoire Central de référence dans la veille Sanitaire
+
+KABORE Regma1,2, COULIBALY André1,2 , KABORE
+
+Antoinette1,2 , SAWADOGO Léon3 , KAGONE S. Thérèse1,4
+
+SOMDA K. Paulin1 , SAWADOGO Charles12 , ZIDA Adama.,1,5
+
+OUEDRAOGO A. Salam1,11 , SANOU Mahamadou6,7
+
+KABRE Elie9, TARNAGDA Zékiba8 , SIMPORE Jacques.,9
+
+HIEN Hervé1 , BONKOUNGOU J. Isidore1,2.
+
+.
+
+AFFILIATION
+
+1. Institut national de santé publique, 2. LCR,
+
+3.LNR-Mycobactéries, 4.LNR-FHV, 5.LNR-VIH/SIDA-IST,
+
+6.LNR-Meningites, 7.LNR-Rougeole, 8. LNR-Grippes,
+
+9.LNR-Rotavirus, 10.LNR-HPV, 11.LNR-RAM, 12.DLBM,
+
+La prévention des risques pour la santé publique nécessite une détection précoce que la maladie émergente soit consécutive à un événement naturel ou terroriste.
+
+Une surveillance permanente et un réseau de laboratoires nationaux de référence (LNR) sont les deux piliers essentiels en santé publique. La coordination des LNR, la surveillance génomique, la promotion de la biosécuLaboratoire central de référence (LCR).
+
+Le LCR est une direction technique de l'Institut national de santé publique (INSP) dont l'une des missions principales est d'alerter et d'assurer la veille sanitaire. Le LCR et les LNR sont une source incontournable d'expertise port à l'activité de référence qu'ils exercent. Ils s'insèrent dans des réseaux nationaux, régionaux et internationaux de santé publique dans le cadre de la surveillance et de la veille sanitaire.
+
+Le LCR à travers les LNR apporte une contribution majeure dans le système de santé du Burkina Faso. Ce qui permet de rendre disponible des informations analysées, contextualisées et transmises aux autres directions mobilisées dans la veille sanitaire.
+
+Abstract
+
+Laboratory (CRL).
+
+Introduction
+
+Le Laboratoire central de référence (LCR) est une direction technique de l'Institut national de santé publique (INSP) dont l'une des missions principales est d'alerter et d'assurer la veille sanitaire (1). A cet effet, le
+
+LCR assure la coordination de neufs (09) laboratoires nationaux de référence(LNR) qui contribuent au diagnostic biologique des maladies à potentiel épidémique et pandémique (1).
+
+L'expertise de chaque Laboratoire de référence se raptise constitue le fondement de leurs activités de diagnosle plus souvent la surveillance des maladies à potentiel épidémique et pandémique, la recherche et la publication page des agents pathogènes et la formation technique (3) .
+
+Ils contribuent à la surveillance épidémiologique par l'acnouveaux variants des pathogènes, de nouvelles souches d'agents pathogènes. Ils ont en cela un réel rôle d'alerte, comme l'est formellement inscrit dans leurs missions
+
+Notre travail vise à mieux faire connaître la place du laboratoire central de référence dans la veille sanitaire au Burkina Faso.
+
+Objectifs
+
+Objectif général
+
+Décrire la place du LCR dans la veille sanitaire au Burkina Faso
+
+Présenter les attributions du LCR
+
+Décrire les activités réalisées par le LCR
+
+Dégager des perspectives du LCR dans la veille sanitaire.
+
+Attributions du LCR à travers plusieurs secteurs d'interventions tels que le diagnostic bactériologique et virologique des infections ainsi que la surveillance génomique. Le schéma ci-dessous décrit succinctement la place du LCR/LNR dans la veille sanitaire.
+
+Figure 1 :
+
+Les attributions du LCR sont principalement déclinées en activités dans des domaines que sont: la coordination des activités des laboratoires nationaux de référence, le management de la qualité et de promotion de la biosécurité/biosûreté, la surveillance génomique des pathogènes (1).
+
+Activités réalisées par le LCR
+
+Coordination des activités des laboratoires nationaux de référence
+
+Le laboratoire central de référence organise des ateliers de concertations avec les laboratoires nationaux de réet la caractérisation de certains pathogènes.
+
+Tableau I : Tableau synthétique des laboratoires de référence pour les principaux agents pathogènes sous surveillance.
+
+Laboratoire de
+
+Agents pathogènes surveillés
+
+Domaines d'expertise référence
+
+LNR FHV
+
+Fièvres hémorragiques virales (8) familles.
+
+Flaviviridae: Flavivirus jaune), virus dengue (DENV 1,2,3,4), virus zika, virus west nile
+
+Togaviridae:virus chikungununya,
+
+Bunyaviridae: Phlebovirus lée de Rift;
+
+Nairoviridae : Nairovirus mée Congo;
+
+Hantaviridae : Hantavirus:
+
+Arenaviridae: Arenavirus
+
+Filoviridae: Filovirus= virus Ebola, virus Marburg
+
+LNR Grippes
+
+Pathogènes responsables des infections respira- Grippe et autres maladies respiratoires toires
+
+LNR HPV
+
+LNR Méningites (HPV)
+
+Lésions précancéreuses des muqueuses vaginales et buccales (10)
+
+Méningites (11)
+
+LNR Mycobacté- Mycobactéries
+
+Tuberculose (12) ries
+
+LNR RAM
+
+Résistance antimicrobienne (13)
+
+Germes résistants aux antimicrobiens
+
+LNR Rotavirus
+
+Rotavirus
+
+Gastro-entérites infectieuses (14)
+
+LNR Rougeole
+
+Virus de la rougeole
+
+Rougeole (15)
+
+LNR VIH
+
+VIH et IST (16)
+
+L'évaluation des LNR conduite en avril 2023 a permis de procéder à l'élaboration d'un plan triennal de renforcement des capacités des laboratoires de référence. Ce plan contient les principaux axes stratégiques d'interventions dans le système de santé que sont notamment le renforcement de la gouvernance du LCR et des LNR, l'amélioration du système de management de la qualité, l'amélioration de la gestion de l'information au laboratoire, le renforcement des capacités de détection
+
+Engagement dans la mise en œuvre d'un système de management de la qualité et de promotion de la biosécurité/biosûreté La veille sanitaire passe aussi par la mise à disposition des données de qualité. Dans ce sens, le LCR a mis en place un système de renforcement des capacités des laboratoires de référence en matière de management de la qualité et de biosécu-
+
+LNR est aussi une des priorités pour laquelle le LCR s'est engagé. A cet effet, il accompagne les LNR dans la maintenance
+
+Gestion d'une plateforme de surveillance génomique des pathogènes
+
+Le LCR contribue à la veille sanitaire à travers la mise en place de la plateforme de surveillance génomique nationale.
+
+Cette surveillance est surtout faite par la centralisation, l'analyse des données et la mise en place des informations des laboratoires de référence. En plus, l'existence du registre électronique des pathogènes et la mise en place de la biobanque nationale du Burkina Faso sont des opportunités qui permettent de stocker les échantillons dans de très bonnes conditions ment de vaccin.
+
+Requêtes et projet d'acquisition accomplir ses missions, le LCR a soumis des requêtes auprès des partenaires (19,20). Ces requêtes ont contribué à la réalisation de certaines activités de renforcement des compétences des acteurs des LNR notamment une formation toires (21). Dans le cadre du renforcement de ses activités, le LCR a élaboré des procédures opérationnelles standardisées (POS), un guide de gestion de la biobanque et aussi un Ce dernier servira de point de base pour l'élaboration de la stratégie nationale de surveillance génomique des pathogènes d'intérêt épidémique et pandémique.
+
+Les projets d'acquisition concernent surtout les équipements de laboratoire et les équipements de mise en place de la biobanque physique.
+
+Perspectives
+
+Les perspectives du LCR sont les suivantes :
+
+le renforcement du Système de Management de la
+
+Qualité (SMQ) du LCR et des LNR en vue de leur accréditation ;
+
+l'amélioration de la gestion des déchets biomédicaux des Laboratoires de référence ;
+
+L'élaboration de la stratégie nationale de surveillance génomique des agents pathogènes à potentiel épidémique et pandémique ;
+
+le renforcement des plateaux techniques avec la maintenance des équipements;
+
+le renforcement de la fonction Métrologie du LCR et des LNR ;
+
+le développement des ressources humaines ;
+
+le renforcement de la biosécurité et la biosûreté dans les LNR ;
+
+la mise en place de biobanque multicentrique ;
+
+la réhabilitation des bâtiments abritant certains
+
+LNR ;
+
+le séquençage des pathogènes sous surveillance épidémiologique.
+
+Conclusion
+
+Les Laboratoires nationaux de référence apportent une contribution majeure dans le système de santé du Burkina
+
+Faso. La collaboration entre le LCR, les LNR et plus généralement les contributeurs de la veille sanitaire est dans une bonne dynamique d'animation. Ce qui permet de rendre disponible des informations analysées, contextualisées par le LCR/LNR et transmises aux autres directions mobilisées dans la veille sanitaire (Direction de la protection de la santé de la population (DPSP) et le Centre des Opérations et de Réponse aux Urgences Sanitaire (CORUS)) et à tous les acteurs de la surveillance au niveau national.
+
+Références phiques bibliogra-
+
+1.
+
+Ministère santé-Burkina. arrété 2018-1298/PRES/
+
+PM/MS PORTANT CREATION ET FONCTIONNEMENT DE L'INSP. 2018.
+
+2.
+
+Arrêté portant modalités de désignation et fonctionnement d'un Laboratoire national de référence.pdf.
+
+3.
+
+Ministere santé-Burkina. Décret 2013-1232 por4.
+
+LCR. Lettres de missions du Laboratoire central de reference. 2023.
+
+5.
+
+LCR. Plan d'action 2022 du Laboratoire central de référence. 2021.
+
+6.
+
+LCR. Plan d'action 2023 du Laboratoire central de référence. 2022.
+
+7.
+
+LCR. Rapport d'activités 2023 du LAboratoire central de référence. 2023.
+
+8.
+
+Arrete_Designation_FievreJaune.PDF.
+
+9.
+
+Arrete_Designation_Grippes.PDF.
+
+Arrêté LNR HPV.pdf.
+
+Arrete_Designation_Meningites.PDF.
+
+Arrêté LNR_Mycobactéries_19_07_18.pdf.
+
+Arrêté LNR_RAM_19_07_18.pdf.
+
+Arrêté LNR Rotavirus.pdf.
+
+Arrete_Designation_Rougeole.PDF.
+
+Arrete_Designation_VIH_Sida_IST.PDF.
+
+LCR, LNR. Plan triennal de renforcement des capacités du LCR/LNR 2023
+
+Laboratoires_Equipments Maintenance_LCRLNR_Burkina Faso.pdf.
+
+requete Materiel_Genomique_LCR_010823.docx.
+
+lettre LCR_020 à OMS requete d'appuis technique
+
+Zeida GA, Coulibaly DA, Bonkoungou PI. Rapport de Formation sur le Leadership et le Management des laboratoires. 24 juill 2023;
+
+Rapport_de_validation_du guide_biobanque15092023okDAVYCASdocx (1).docx.
+
+Rapport_Gen_revisionGuide_VarCOVID19 (1).
+
+pdf.
+
+Rapport _validation_doc qual CDC15092023.pdf.
+
+Surveillance des maladies et évènements : données des semaines 1 à 43 de l'année 2023 au Burkina Faso
+
+Lassané Kafando ,1 Hamed Sidwaya Ouédraogo,1 Frédéric Firmin Kambou,1 Oussény Barry,1 Souleymane Porgho ,1 Placide Tindano ,1 Issa Ouédraogo ,1 Thérèse Kagoné 4
+
+Affiliations
+
+1. Direction générale de la santé et de l'hygiène publique
+
+2. Institut National de santé publique
+
+Auteur correspondant: kafandoclovis@yahoo.fr
+
+Introduction
+
+Au Burkina Faso, les maladies transmissibles constituent les causes majeures de morbidité, de mortalité [1].
+
+L'une des principales stratégies de lutte contre ces maladies est la surveillance intégrée de la maladie et la riposte conformément aux exigences du Règlement Sanitaire International (RSI). Dans le cadre du système d'alerte prédaire (TLOH) au Burkina Faso [2]. La collecte et la diffusion des données de surveillance des maladies permet le La présente situation épidémiologique vise à fournir des informations sur la synthèse des maladies à potentiel épidémique et évènements enregistrés au cours de l'année 2023 au Burkina Faso.
+
+Méthodes
+
+Nous avons procédé à une description de la situation épidémiologique à partir des données agrégées issues du TLOH. Les données recueillies concernent les 70 districts sanitaires du pays et étaient en rapport avec la 43 de l'année 2023. Les analyses ont été réalisées avec le logiciel Excel pour construire des indicateurs chiffrés et la cartographie des cas probables de dengue à l'aide de QGIS.
+
+1- Synthèse de la situation épidémiologique de la semaine 1 à 43_2023 au Burkina Faso
+
+Situation de la transmission des données par les structures sanitaires
+
+1.
+
+La complétude de la transmission des données était de 84,8% pour les formations sanitaires publiques et de 73% pour les structures sanitaires privées.
+
+Tableau I : complétude et promptitude de la transmission des données selon le statut de formation sanitaire par région à la semaine 43 de l'année 2023 au Burkina Faso Régions
+
+Boucle du Mouhoun
+
+Cascades
+
+Centre
+
+Centre Est
+
+Centre Nord
+
+Centre Ouest
+
+Centre Sud
+
+Est
+
+Hauts Bassins
+
+Formations sanitaires publiques
+
+Complétude (%)
+
+Promptitude (%)
+
+Formations sanitaires privées
+
+Complétude (%)
+
+Promptitude (%)
+
+Nord
+
+Plateau Central
+
+Sahel
+
+Sud-Ouest
+
+Burkina Faso
+
+2- Situation de la notification des principales maladies et évènements sous surveillance tableau II. Les principales maladies à potentiel d'intérêt enregistrées au Burkina Faso de la semaine 1 à la semaine 43 était la dengue, le chikungunya, les infections respiratoires aigües sévères et la méningite.
+
+Tableau II : Principaux maladies et évènements sous surveillance enregistrés de la semaine 1 à la semaine 43 de l'année 2023 au Burkina Faso
+
+Semaine 43_2023
+
+Létalité
+
+Cas
+
+Décès
+
+Méningite
+
+Rougeole
+
+Diarrhée sanguinolente
+
+Choléra
+
+Ictère fébrile
+
+PFA
+
+IRAS
+
+Dengue
+
+Chikungunya
+
+Tétanos néonatal (TNN)
+
+Décès maternel
+
+Décès périnatal
+
+Source : Données TLOH, Burkina Faso 2023
+
+Maladies
+
+Cumul semaine 1 à 43_ 2023
+
+Létalité
+
+Cas
+
+Décès
+
+2.1. Dengue
+
+Le Burkina Faso enregistre une épidémie de dengue depuis la semaine épidémiologique 32 de l'année 2023. Les villes de Ouagadougou dans la région du Centre et de Bobo Dioulasso dans la région des Hauts Bassins sont les principales villes touchées par cette épidémie. Le tableau III présente la situation des cas et décès enregistrés du début de l'année à la semaine 43. Au cours de la semaine épidémiologique 43, 15093 cas suspects de dengue dont 7147 cas probables ont été enregistrés. Cela traduit une augmentation de 797 (5.2%) cas suspects et 1109 (15,5%) cas probables par rapport à la semaine 42.
+
+L'incidence cumulée des cas probables était de 151,6 pour 100 000 habitants et la létalité de la dengue de 0,44% pour la période de la semaine 1 à 43 de l'année 2023 au niveau national. Les incidences cumulées supérieures au taux national étaient observées dans les 5 districts sanitaires de la région du Centre (Baskuy, Boulmiougou, Boet au niveau du district sanitaire de Koudougou dans la région du Centre Ouest, au cours de la semaine 1 à 43 de l'année 2023.
+
+Tableau III : Situation des cas et décès de dengue enregistrés par région sanitaire de la semaine 1 à 43 de l'année 2023 au Burkina Faso
+
+Régions sanitaires
+
+Boucle du Mouhoun
+
+Cascades
+
+Centre
+
+Centre-Est
+
+Centre-Nord
+
+Centre-Ouest
+
+Centre-Sud
+
+Est
+
+Hauts Bassins
+
+Nord
+
+Plateau Central
+
+Sahel
+
+Sud-Ouest
+
+Burkina Faso
+
+Suspect
+
+Probable décès
+
+Cumul
+
+Suspect à la semaine 43.
+
+.
+
+Probable décès
+
+Le taux d'attaque au niveau national était de 31,2 pour 100 000 habitants au cours de la semaine 43. Au total 9 districts sanitaires sur les 70 districts sanitaires du pays avaient des taux d'incidence supérieurs au taux d'incidence national. Les 9 districts à forte incidence proviennent essentiellement des régions du Centre, des Hauts Bassins et du Nord (Figure 1). Au total, du début de l'année à la semaine 43 du TLOH, 2584 échantillons de cas de dengue ont été reçus et 1989 analysés au Laboratoire National de Référence-Fièvre Hémorragique Virale(LNR-FHV) dont 152 IgM Dengue positif, 565 positifs à la RT-PCR Dengue avec81,8 % du sérotype DEN3, 15,8 % du sérotype DEN1 et 0,7 % du sérotype DEN2.
+
+2.2- Méningite le seuil d'alerte ou épidémique. Les principaux germes isolés étaient respectivement le streptocoque pneumoniae
+
+Figure 2 :
+
+2.3- Chikungunya
+
+Au cours de la semaine 35, le pays a enregistré les premiers cas de chikungunya suite à l'analyse des prélèvements de cas suspects de dengue du district sanitaire de Pouytenga dans la région du Centre Est. De la semaine sanitaire de Pouytenga dans le Centre est,10 cas à Ouagadougou dans la région du Centre, 1 cas dans le Plateau Central, 4 à Koudougou et 1 à Bobo Dioulasso.
+
+II- Commentaires
+
+Conclusion
+
+La situation épidémiologique du Burkina Faso est dominée par la dengue, la méningite, la rougeole, les
+
+La surveillance épidémiologique est bien fonctionnelle kina Faso. La situation épidémiologique est dominée létalités de la méningite et des IRAS sont les plus élevées. Cette létalité de la méningite reste inférieure à celle enregistrée aux cours de trois dernières années et aucun district n'a franchi le seuil d'alerte au cours de cette année 2023. L'épidémie de la dengue reste la plus préoccupante depuis la semaine 32 de l'année 2023.
+
+Elle est concentrée au niveau des régions du Centre et des Hauts Bassins avec un nombre élevé de décès.
+
+Le nombre élevé de décès de cas de dengue serait en partie lié au retard de consultation, l'automédication, la fréquence des complications hémorragiques, hépaen charge [3]. Le sérotype 3 est le sérotype prédominant du début de l'année à la semaine 43 au Burkina Faso. Ce constat est différent de celui fait lors de l'épidémie de dengue de 2017 au Burkina Faso qui a enregistré une prédominance du sérotype 2[4].
+
+Cette variation de sérotype prédominant expose à la survenue des cas graves de dengue. Il est nécessaire de poursuivre des actions de renforcement de la prise en charge des cas et les actions de sensibilisation de la population sur les précautions et mesures préventives de la dengue pour le contrôle de l'épidémie.
+
+Aussi, il ressort une faible complétude de la transmission des rapports hebdomadaires par les structures sanitaires privées.
+
+Cette situation constitue un obstacle à une surveillance au regard de la contribution du secteur privé dans l'offre de soins au Burkina Faso.
+
+Le rappel du respect du cahier de charge et la formation des acteurs du secteur privé de santé sur la surveillance intégrée de la maladie et la transmission des données sont indispensables pour le renforcement de la surveillance des maladies.
+
+Les résultats sont appréciables dans le contexte sécuritaire que traverse le pays et ont été obtenus grâce au renforcement des capacités de sites sentinelles de surveillance de la dengue et du laboratoire de référence lasso. Plusieurs investigations et des audits de cas de décès ont été conduits aussi bien à Ouagadougou qu'à
+
+Bobo Dioulasso et la surveillance devra être renforcée pour mieux riposter contre les arboviroses.
+
+d'autres maladies dont le chikungunya. Les sérotypes en 2017 et DENV3 en 2023 étant majoritaires). Des privé à la transmission des informations.
+
+Le système de surveillance devra être renforcé pour meilleures ripostes.
+
+III- Références.
+
+1. Ministère de la santé, Institut national de santé publique, Observatoire national de la santé de la population. Etat de santé de la population du
+
+Burkina Faso ; Avril 2020, 86p.
+
+2. Ministère de la santé, Secrétariat Général
+
+Lettre n° 2021_1789/MS/SG/DPSP/SSE portant reorganisation des horaires de transmission du TLOH.
+
+3. Somda D , Ouédraogo S. H, Kafando L, Sogli I
+
+Obulbiga F, Da L Ouattara L, Poda A,Yanogo
+
+P. Revue des cas de décès liés à la dengue Centre hospitalier universitaire Sourô Sanou de Bobo-Dioulasso , région des Hauts-Bassins, Burkina Faso, 2023.
+
+4. Minsitère de la santé et de l'hygiène publique
+
+Burkina Faso, DPSP, SSE. Rapport de la situation épidemiologique semaine 43; 2017.
+
+5. Pedwindé Hamadou Seogo et al. Ampleur de la dengue dans la ville de Ouagadougou, Burkina-Faso, 2016. Journal of Interventional Epidemiology and Public Health. 2021;4(3).
+
+Sérosurveillance du VIH et de la syphilis dans les sites sentinelles du Burkina Faso sérosurveillance du VIH et de la syphilis. Le but principal de cette enquête est d'estimer l'ampleur de l'infection à
+
+VIH et du SIDA dans la population générale
+
+-
+
+Dr Abdoulaye Guiré 2, Sylvestre N. Hien 2, Isidore Traoré 4,5,
+
+Dramane Kania 5, Hamed Sidwaya Ouédraogo1, Aude Danielle
+
+Ouédraogo6, Dieudonné Ouédraogo6, Yolande Dembélé la transmission du VIH.
+
+Le présent résumé du rapport de sérosurveillance, fournit des résultats sur la prévalence du VIH et de la syphilis à travers les données biologiques et socio-démographiques de l'infection à VIH et de la syphilis dans les 13 régions sanitaires du Burkina Faso en 2021.
+
+Kaboré6, Christophe Guirea6, Aichatou Dembélé2,
+
+Inoussa Bandé 2, Mamadou Koné1, Wilfrid Bazié5
+
+Adama Zida3,6
+
+Affiliations
+
+1- Ministère de la santé et de l'hygiène publique/Direction de la protection de la santé de la population (DPSP),
+
+Ouagadougou, Burkina Faso
+
+2- Ministère de la santé et de l'hygiène publique/DPSP/
+
+Programme sectoriel santé de lutte contre le VIH/Sida, les
+
+IST et les Hépatites virales (PSSLS-IST), Ouagadougou,
+
+Burkina Faso
+
+3- Université Joseph KI-ZERBO, Ouagadougou,
+
+Burkina Faso
+
+4- Université Nazi BONI, Bobo Dioulasso, Burkina Faso
+
+5 - Institut national de santé publique/Centre Muraz,
+
+Burkina Faso
+
+6- Centre hospitalier universitaire Yalgado Ouédraogo/
+
+Laboratoire national de référence VIH, Ouagadougou,
+
+Burkina Faso
+
+DrAbdoulaye GUIRE, Coordonnateur du Programme sectoriel santé de lutte contre le VIH/Sida, les IST et les Hépatites virales (PSSLS-IST), Ouagadougou, Burkina Faso, email : djilaye@yahoo.fr.
+
+METHODOLOGIE
+
+Il s'agit d'une étude transversale à visée descriptive.
+
+1-1. Type et période d'étude
+
+Il s'est agit d'une étude transversale à visée descriptive conduite du 20 avril au 20 juillet 2021.
+
+1-2. Cadre de l'étude
+
+Depuis l'année 2004, la sérosurveillance par site sentinelle couvre l'ensemble des 13 régions sanitaires du pays.
+
+Les prélèvements sanguins et la collecte des données sociodémographiques sont effectués dans 63 centres de prélèvement répartis dans 15 districts sanitaires. Ils sont ensuite acheminés dans 17 laboratoires de districts ou CHR et un (01) laboratoire de référence pour traitement.
+
+1-3. Population d'étude et échantillonnage
+
+-
+
+INTRODUCTION
+
+Le Burkina Faso à l'instar des autres pays mène la lutte contre le VIH/Sida depuis son apparition en 1986. Plusieurs stratégies ont été mises en oeuvre pour renforcer la prise en charge médicale (PECM) et la surveillance de la pandémie.
+
+Selon les Rapports de l'ONUSIDA, la prévalence nationale est passée de 7,17% en 1997 à 0,6% [0,5– 0,8] en lutte contre le sida et les infections sexuellement transmissibles (PSSLS-IST) met en oeuvre une enquête de
+
+Population d'étude
+
+La population objet de l'étude de la sérosurveillance par site sentinelle du VIH et de la syphilis était constituée des femmes enceintes âgées de 15 à 49 ans qui utilisent les
+
+Centres de Santé Maternelle et Infantile (CSMI).
+
+Echantillonage
+
+Toute femme enceinte âgée de 15 à 49 ans n'ayant pas encore fait de dépistage de la syphilis pour la grossesse en cours a été incluse dans l'étude. Les femmes ont été enrôlées de façon consécutive jusqu'à l'obtention de la taille de l'échantillon recommandée (864 pour les sites de Ouagadougou et Bobo-Dioulasso, 432 pour les autres sites urbains et 1100 pour les sites ruraux).
+
+1-4. Stratégies de dépistage
+
+Le dépistage du VIH a été réalisé entièrement au Laboratoire National de référence VIH (LNR/VIH) du CHU-YO.
+
+Chaque échantillon a été analysé avec un test mixte de 4ième génération, ELECSYS HIV COMBI PT (Roche). Les échantillons ayant des résultats négatifs à ce test ont été rendu négatifs. Ceux ayant des résultats positifs ont été analysés par deux tests discriminants de 3è génération le IMMUNOFLOW HIV1-HIV2 (Core Diagnostics), et le ONSITE HIV1/2 Plus RAPID Ab Test (CTK BIOTETECH) pour déterminer le (s) types (s) de VIH en cause : VIH-1, VIH-2, VIH1+2. Pour la syphilis les tests de dépistage ont été pratiqués au niveau des laboratoires des CMA des districts ou
+
+CONSIDERATIONS ETHIQUES
+
+Du point de vue éthique, les points suivants ont été pris en considération :
+
+PROTECTION DU PERSONNEL
+
+Les procédures pour éviter toute contamination accidentelle lors de la prise de sang ont été rappelées au personnel au cours de la formation et il a été vivement encouragé à suivre ces procédures.
+
+Tout le matériel nécessaire pour garantir la protection du personnel lors des prélèvements a été fourni par le programme sectoriel santé de lutte contre le sida et les IST (PSSLS-IST). La conduite à tenir en cas d'exposition sanguine accidentelle a été rappelée au personnel et il a été encouragé à suivre scrupuleusement les procédures établies.
+
+PROTECTION DES FEMMES ENCEINTES
+
+Tout le matériel nécessaire pour la collecte de spécimen de sang a été mis à la disposition des agents de santé des sites de prélèvement pour garantir l'innocuité des prélèvements. Les informations nécessaires sur l'intérêt de l'enquête et sur leur libre participation ont toujours été communiquées aux femmes.
+
+L'anonymat de la gestante est assuré à travers l'utilisation de codes sur les bulletins d'examen et les tubes de prélèvement.
+
+RESULTATS
+
+Au cours de l'année 2021, le LNR/VIH a reçu et analysé 12152 échantillons de sérum provenant des 13 régions sanitaires, sites urbains et ruraux confondus.
+
+Tous les sites ont atteint la taille de l'échantillon recommandée de 864 pour les sites de Ouagadougou et de Bobo-Dioulasso et 432 pour les autres sites urbains et 1100 pour les sites ruraux. Tous les aliquotes de sérum ont été reçus et analysés du 13 janvier au 20 mai 2023 par le LNR/VIH. Etant dans un contexte de surveillance et non de diagnostic où il y a possibilité de reprise du prélèvement, il a été considérer comme positif tout échantillon dont le type a été reconnu par l'un ou l'autre des tests discriminants.
+
+Les anticorps anti-VIH ont été détectés dans 92 (0,76%) des 12 152 sérums analysés dont 90 avec des Ac anti-VHI-1 Pour la syphilis c'est le même échantillon qui a été utilisé. Deux principaux tests ont été utilisés à ce niveau. D'abord le RPR est utilisé sur tous les prélèvements et tout cas positi
+
+Prévalence de l'infection à VIH chez les femmes enceintes de 15-49 ans lors de l'enquête de sérosurveillance 2021
+
+Tableau 1 : La prévalence non pondérée du VIH chez les 15 à 49 ans lors de l'enquête de sérosurveillance du VIH en 2021 (N=12152)
+
+SITE
+
+STATUT
+
+Positif
+
+Prévalence (%)
+
+Effectif
+
+IC 95%
+
+Ouagadougou
+
+Gaoua
+
+Bobo Dioulasso
+
+Koudougou
+
+Dédougou
+
+Ouahigouya
+
+Fada
+
+Sindou
+
+Ziniare
+
+Tenkodogo
+
+Kaya
+
+Manga
+
+Dori
+
+TOTAL
+
+Prévalence de la syphilis chez les 15-49 ans lors de l'enquête de sérosurveillance 2021 La prévalence de la syphilis en 2021 est de 0,82%.
+
+Tableau 2 : Prévalence de la syphilis chez les femmes enceintes de 15-49 ans par site lors de l'enquête de sérosureillance réalisée au Burkina Faso en 2021 (N=12152)
+
+SITE
+
+EFFECTIFS RPR+
+
+TPHA+
+
+PREVALENCE SYPHILIS
+
+IC 95%
+
+Dori
+
+Fada
+
+Ziniare
+
+Tenkodogo
+
+Gaoua
+
+Kaya
+
+Manga
+
+Bobo Dioulasso
+
+-
+
+Ouagadougou
+
+-
+
+Dédougou
+
+Koudougou
+
+-
+
+Ouahigouya
+
+-
+
+Sindou
+
+TOTAL
+
+COMMENTAIRES note une tendance à la baisse en 2021 avec une prévalence au niveau national pour la tranche d'âge de 15 à 49 est qui était de 1,3% en 2018 et de 0,8% en 2020. La séroprévalence brute en zone urbaine est de 1,41%. Elle est supérieure à celle en milieu rural (0,35%) et à la moyenne globale en population générale (0,76%). La baisse de la prévalence en retroviral avec la suppression de la Charge virale qui rend les PVVIH peu contagieuses. Par contre la prévalence reste élevée en milieu urbain qui connait une concentration de populations.
+
+En milieu urbain, 66 échantillons ont été testés positifs sur 4584 échantillons soit une prévalence de 1,41%. En milieu rural elle est de 0,35% avec 26 échantillons testés positifs sur 7377 échantillons analysés. Le VIH-1 est présent dans les 1+2 n'est retrouvé que dans la région du Centre.
+
+Pour ce qui est de la syphilis, on note une prévalence de 0,82% chez les femmes de 15 à 49 ans en 2021. On a noté donc une baisse par rapport à 2020 qui était de 1,7%.
+
+Les plus fortes prévalences de la syphilis ont été enregistrées dans les sites de Fada et à Dori avec respectivement (2,19%) et (3,30%). En 2020, les plus fortes prévalences élevées étaient de 2,25% à Kaya ; 3% à Tenkodogo.
+
+Quant aux faibles prévalences de la syphilis en 2021, elles ont été observées dans les sites de Ouahigouya (0,00%), Koudougou (0,0%) ; Manga (0,25%) et Ziniaré (0,48%).
+
+Pour ce qui a concerné la syphilis en 2021, la prévalence est de 0,82% contre 1,7% en 2020.
+
+CONCLUSION
+
+La séroprévalence globale et brute (non pondérée) du VIH au Burkina Faso est de 0.76% pour la sérosurveillance 2021 dont 98% pour le VIH1. Nous notons que la prévalence du VIH dans les sites ruraux chez les femmes enceintes de 15 à 49 ans était de 0,35%. Celle en milieu urbain chez la même population est 1,41% en 2021.
+
+Pour ce qui a concerné la syphilis en 2021, la prévalence est de 0,82% montre qu'il y a une baisse en comparaison avec
+
+Bibliographie
+
+[1] Rapport général de la supervision des agents impliqués dans la mise en œuvre des activités de la sérosurveillance 2021 ;
+
+[2] Rapports sérosurveillance de 2003 à 2021 ;
+
+[3] Rapports annuels d'activités du PSSLS-IST 2020
+
+[4] Rapport ONUSIDA 2021 ;
+
+[5] Protocole de sérosurveillance édition 2004 et 2014 ;
+
+[6] Lignes directrices pour la surveillance de deuxième génération de l'infection à VIH; une mise à jour pour connaître son épidémie
+
+[7] Bilan annuel 2022 des interventions du secteur sante dans la lutte contre le VIH, le sida et les IST (SP/ CNLS-IST) 20222.
+
+Référence
+
+- Dr Guiré Abdoulaye, coordonnateur du PSSLS-IST/HV, Tél: 70 36 49 93, email: djilaye@yahoo.fr
+
+- Hien N. Sylvestre,
+
+Tél: 70 13 93 15, email: nsylvestehien@gmail.com
+
+- Bandé Inoussa, chargé du suivi évaluation au PSSLS-IST/HV,
+
+Tél: 70 30 82 26, email: inoussabande27@gmail.com
+
+Profil épidémiologique des paralysies flasques aiguës au Burkina Faso de 2012 à 2021
+
+Mots clés : PFA, analyse de données, PFA non Polio, Poliomyélite, Burkina Faso,2023.
+
+Mouniratou ZALLE1,2, Sonia ROUAMBA/ILBOUDO 3,4,
+
+Djibril BARRY 1,2, Daouda OUEDRAOGO 1,2,
+
+Program, Université Joseph Ki Zerbo,
+
+Ouagadougou, Burkina Faso
+
+2- Faculté de médicine, Université Joseph Ki Zerbo, Ouagadougou, Burkina Faso
+
+3- Ministère de la Santé et de l'Hygiène publique, Burkina
+
+Faso
+
+4- Centre National de Recherche et de formation sur le
+
+Paludisme/ INSP
+
+Auteur correspondant : Mouniratou ZALLE ;
+
+Email mouniratouzalle@gmail.com
+
+Résumé
+
+Introduction:
+
+tuent un problème de santé publique au Burkina Faso. En
+
+2020, le pays a enregistré 1177 cas de PFA avec un taux de létalité de 7,6%. Face à cette situation et vu le caractère morbide des PFA, nous avons conduit cette analyse pour désurveillance.
+
+Méthodes: Il s'est agi d'une étude transversale descriptive sur des données de la surveillance épidémiologique des PFA au Burkina Faso du 1er Janvier 2012 au 31 Décembre 2021.
+
+Nous avons effectué une analyse descriptive des données en temps, lieu et personnes avec le logiciel Epi Info.
+
+Résultats: au total le Burkina a enregistré 6540 cas de PFA de 2012 à 2021 dont 1,8% était des cas de polio. Le district
+
+10 ans. L'âge moyen des cas était de 4,25 ans ±3,35 pour les non polio et 2,72 ans ±1,83 pour les cas polio. Le sexe ratio était de 1,40 et 1,13, respectivement pour les non popolio et 59% des cas polio. La moitié des cas polio avait reçu au moins 4 doses de VPO. Plus de 96% des cas ont vements ont été recueillis dans les 14 jours pour 100% cas dont 54% envoyés et reçus en moins de 3 jours. En 2020 et
+
+2021, tous les districts avaient une incidence PFA non polio
+
+>2/100000. Le taux de létalité était de 0,78% chez les non polio et 29,41% chez les cas polio.
+
+Conclusion: Les PFA restent encore un problème de santé publique au Burkina avec une faible couverture vaccinale.
+
+L'année 2020 a enregistré plus de cas de polio. Nous recommandons le renforcement des activités de vaccination et la surveillance des PFA.
+
+Abstract
+
+Title in Burkina Faso from 2012 to 2021.
+
+Introduction:
+
+Conclusion: AFP is still a public health problem in Burkina
+
+Key words: AFP, data analysis, non-polio AFP, polio,
+
+Burkina Faso, 2023.
+
+INTRODUCTION traduisant une atteinte du système nerveux central ou périphérique. Les formes cliniques et les étiologies sont nombreuses, dues notamment à des maladies comme la poliomyélite antérieure aiguë (PAA) ou Maladie de
+
+Heine-Medin [1]. L'éradication de deux des trois souches de poliovirus sauvage (de type 2 et de type 3) a été certi-
+
+- tochtone en 2020 [2]. Mais le poliovirus dérivé vaccinal de type 2 d'apparition récente, est à l'origine des épidémies dans plusieurs pays. Malgré les campagnes de vaccinations et la surveillance des cas de PFA au Burkina Faso, une épidémie de poliomyélite a été enregistré en 2020 avec 5 cas de PVDV type 2 [3]. Selon l'annuaire statistique du ministère de la santé et de l'hygiène publique, le pays a enregistré 1177 cas de PFA en 2020 avec un taux de létalité de 7,6% [4].
+
+de janvier 2012 à décembre 2021 dans le but d'améliorer la surveillance de cette maladie.
+
+METHODOLOGIE
+
+Nous avons réalisé une étude transversale descriptive sur les données de surveillance de PFA au Burkina Faso du 1er Janvier conçu sur le logiciel Excel.
+
+Nous avons effectué une analyse descriptive des données des cas de PFA en temps, lieu et personnes avec le logiciel Epi info. L'analyse a porté sur les Caractéristiques sociodémographiques, cliniques et de laboratoire. Nous avons calculé les proportions et les ratios. Les données ont été traitées et analysées à l'aide du logiciel Epi info 7.2.5.0 et de Excel 2019. Nos résultats ont été présentés sous forme de tableaux, graphiques et de cartes.
+
+L'analyse de la performance de la surveillance des PFA a été faite à l'aide des indicateurs standards dont les objectifs étaient
+
+-
+
+Indicateur 1 : Taux de PFA non polio chez les enfants de moins de 15 ans. C'est le nombre de cas de PFA non polio enregistrés pour 100000 enfants de moins de 15 ans. (Objectif OMS > 2) ;
+
+-
+
+Indicateur 2 : Pourcentage des cas de PFA pour lesquels 2 prélèvements sont recueillis dans les 14 jours (objectif
+
+-
+
+Indicateur 3 : Pourcentage des prélèvements arrivés au laboratoire moins de 3 jours après leur envoi (Objectif
+
+-
+
+Indicateur 4 :
+
+RESULTATS
+
+1. Complétude des données
+
+Notre base était constituée de 6540 enregistrements. La complétude globale de la base était de 100%. La variable sexe était la plus renseignée avec une complétude de 99,98% et la variable âge avec une complétude de 99,97%. Le point sur les données manquantes est présenté dans le tableau I.
+
+PFA au Burkina Faso de 2012-2021.
+
+Variables
+
+Age
+
+Sexe
+
+Région
+
+Fièvre au début
+
+Paralysie progressive de 0-3 jours
+
+Paralysie asymétrique
+
+Date de 1er prélèvement
+
+Date de 2nd prélèvement
+
+Date d'envoi du prélèvement
+
+Date de réception du prélèvement
+
+Date d'investigation
+
+Effectifs non renseignés
+
+Proportions(%)
+
+Complétude %
+
+2. Description des cas de PFA au Burkina Faso de 2012-2021 a . Répartition des cas de PFA selon le temps
+
+Le Burkina a été enregistré 5508 cas de PFA non polio de 2012 à 2021. Le nombre annuel de cas non polio variait entre 267 et 1642 cas avec une moyenne de 550,80 +/- 512,74 cas. Durant la même période , 100 cas de PFA polio ont été enregistrés.
+
+renseignent sur les incidences des cas de PFA non polio et des cas de polio au Burkina Faso de 2012-2021.
+
+Figure 1: Incidence des cas de PFA non polio par année, BF de 2012-2021
+
+Figure 2: Incidence des cas de polio par année, BF, 2012-2021 b. Répartition des cas de PFA selon le lieu
+
+PFA non polio >2/100 000 enfants de moins de 15 ans.
+
+1 et 13 cas avec une moyenne de 1,82 cas +/- 1,91. Le district de Dori a enregistré plus de cas en 2020 avec 13 cas.
+
+c. Répartition des cas de PFA selon la personne
+
+Caractéristiques socio-démographiques
+
+L'âge moyen était de 4,25 ans +/- 3,35 pour les cas non polio et de 2,72 ans +/- 1,83 pour les cas polio. La tranche d'âge la plus représentée était celle de avec 64,49% non polio et 87% polio. Le sexe ratio était de 1,40 homme pour une femme pour les cas non polio et 1,13 pour les cas polio. Le statut vaccinal était inconnu chez 4,37% des cas non polio et 7% des cas polio. Le tableau II donne la répartition selon l'âge, le sexe et le statut vaccinal des cas de PFA au Burkina de 2012
+
+Caractéristiques
+
+Tranche d'âge (N=5508)
+
+Moins de 1 an
+
+Sexe (N=5507)
+
+Masculin
+
+Féminin
+
+Statut vaccinal (N=5495)
+
+Vacciné 4 doses et plus
+
+Vacciné moins de 4 doses
+
+Non vacciné
+
+Inconnu
+
+Nombre de cas non polio
+
+Fréquence
+
+Nombre de cas polio
+
+Fréquence (%)
+
+Taux de létalité les cas de polio, 34 cas soit 34% ont été suivis et 10 cas de décès soit 29,41% ont été enregistrés. Le tableau suivant fait la répartition par année des cas de décès des PFA non polio et polio de 2012 à 2021 au BF.
+
+Année
+
+Nombre de décès non polio
+
+Nombre de cas non polio suivi
+
+Fréquence
+
+Nombre de décès polio
+
+Nombre de cas polio suivi
+
+Fréquence
+
+3. Indicateurs de performance du système de surveillance
+
+Indicateur 1 : Sur les 10 ans, 2020 et 2021 sont les années qui avaient des incidences de PFA non polio >2 pour 000 enfants.
+
+Indicateur 2 : Dans 3206 cas deux prélèvements ont été recueillis et dans 100% des cas cela a été fait dans les 14 jours.
+
+Indicateur 3 : Sur les 5590 prélèvements envoyés et reçus au laboratoire, 3024 soit 54,09% ont été envoyés et reçus en moins de 3 jours.
+
+Indicateur 4 :
+
+DISCUSSIONS ù il y a eu une grève des agents de santé.
+
+Dans notre étude, la tranche d'âge la plus représentée était celle de 1 - 4 ans avec 64,49% non polio et 87% polio. Ces résultats sont similaires à ceux de CONTE et Al [5] en Guinée qui avait 74,49% et TATOU et Al [6] en Mauritanie avec 77,4% d'enfants de 1-4 ans PFA. Les enfants de sexe masculin étaient les plus nombreux avec un sexe ratio de 1,40 non polio et 1,13 polio. BOA
+
+74,78% qui avaient reçu au moins 4 doses de VPO, ce qui est similaire à celui de CONTE et Al [5] qui avait rapporté 70,07%.
+
+Sur les 4 indicateurs de performance du système de surveillance des PFA, deux objectifs ont été atteint (>80%). Il s'agit du délai Concernant le délai d'envoi et de réception des prélèvements au laboratoire en moins de 3 jours, l'objectif selon l'OMS est supérieur à 80%, dans notre étude il n'était pas atteint. Pour le taux de PFA non polio pour 100 000 enfants de moins de 15 ans, l'objectif était atteint dans tout le pays en 2020 et 2021. De 2012 à 2019, l'atteinte de cet objectif variait d'un district à l'autre.
+
+La principale limite de notre étude était l'existence de données manquantes.
+
+CONCLUSION
+
+Notre étude nous a permis de montrer que les PFA restent un problème de santé publique au Burkina Faso malgré les moyens de prévention mis en place. Les nombres de cas ont augmenté avec le temps. Les années 2020 et 2021 ont enregistré plus de cas de polio. La tranche d'âge la plus représentée est celle de 1 à 4 ans. Le sexe masculin était prédominant. Moins de la moitié des cas de polio avaient reçu au moins 4 doses de VPO. Un accent doit être mis sur la vaccination et la surveillance des PFA au Burkina Faso.
+
+REMERCIEMENTS
+
+-
+
+BFELTP
+
+CORUS
+
+DPSP
+
+OOAS
+
+CDC Atlanta
+
+Université Joseph Ki-Zerbo
+
+La Direction de la prévention par les vaccinations
+
+Profil épidémiologique des ictères fébriles au Burkina Faso, 2013 à 2022
+
+Auteurs :
+
+OUEDRAOGO D1, YAMEOGO I2, BARRY D1, HMEIED MAHAM M3, ZALLE M1, YANOGO P1, MEDA N1, affiliation :
+
+1. Programme de Formation en Epidémiologie et Laboratoire de Terrain du Burkina (BFELTP), Université Joseph Ki-Zerbo ;
+
+2. Secrétariat exécutif du One Health au Burkina Faso ;
+
+3. Direction Générale des Services de Santé des Forces Armées et de Sécurité / MDN Mauritanie Auteurs correspondants : OUEDRAOGO Daouda MD, daouse2@gmail.com 71 10 03 77
+
+RESUME
+
+Introduction : L'ictère fébrile peut révéler de très nombreuses causes, infectieuse ou non infectieuse. Au Burkina Faso en 2021, un taux de létalité de 1,6% a été retrouvé dans les cas d'ictère fébrile et 2% en janvier 2023. Nous avons analysé les données des ictères fébriles de janvier 2013 à dé prise en charge des ictères fébriles au Burkina.
+
+Méthodes : Il s'agissait d'une étude transversale descriptive sur les données des ictères fébriles colligées dans les districts sanitaires du Burkina Faso du 1er janvier 2013 au 31 décembre 2022. Nous avons effectué une analyse descriptive des données en temps, lieu et personnes avec Epi info 7.2.5.0 et Excel 2019.
+
+Résultats :
+
+10ans était de 3.80/100000 habitants, l'incidence des cas était élevée en 2017(6,2/100000) et 2020(5,2/100000), dans soit 45,14% des cas en 2020. La tranche d'âge la plus représentée était les moins de 15 ans (60,62%) surtout dans région de la Boucle du Mouhoun (17,48%). Plus de 99% des cas ont été prélevés et plus de 60% des prélèvements envoyés au laboratoire national de référence ont été acheminés après 72h. Seulement 18,1% avaient des résultats de Conclusion : La surveillance des ictères fébriles a permis de détecter une incidence d'hépatite E et B élevé respectivement au Centre-Nord et au Centre-Est alors que les résultats laboratoire disponibles sur la base étaient ceux de
+
+Mots clés :
+
+Ictères fébrile, Burkina Faso, 2023
+
+Abstract
+
+INTRODUCTION
+
+L'ictère fébrile se une épidémie) et d'initier une riposte (2 jaune dont la riposte a permis de limiter les cas à 106 avec 20 décès ( ). Les ictères fébriles font partis de la surveillance ).
+
+Nous avons mené une analyse descriptive des données de surveillance du Burkina Faso sur les ictères fébriles de 2013 à 2022, dans le but d'améliorer la surveillance des ictères fébriles et de réduire la morbidité et mortalité lié aux différentes pathologies conduisant à cette symptomatologie. Parmi nos résultats nous avons le cas du district de Barsalogho qui a
+
+METHODOLOGIE
+
+Nous avons mené une étude transversale descriptive sur les données de la surveillance épidémiologique des ictères fébriles colligés au Burkina Faso du 1er janvier 2013 au 31 décembre 2022. Une extraction des cas d'ictère fébrile a été réalisée sur les bases Endos et Stelab du ministère de la santé et de l'hygiène publique du Burkina Faso. Cette base fut complétée Le nettoyage a consisté à exclure, les cas dont les données manquaient et que malgré le retour au source primaire pour complément, les données manquaient toujours puis à supprimer les doublons. Corriger les données aberrantes à l'aide des sources primaires avant leur mise sous formats appropriés pour le traitement avec les logiciels Epi info(version 7.2.5.0), Excel (version 2019). Les variables ayant une distribution normale ont été résumé les moyennes et les écarts-types ont été calculé pour ceux anormalement distribution médiane (Q1, Q3). Pour les variables qualitatives, les proportions et l'inter-
+
+RESULTATS
+
+Complétude des données
+
+Un total de 7474 cas d'ictère fébrile a été retrouvé sur la liste linéaire extrait de la base ENDOS et STELAB par le service de la surveillance épidémiologique sur une période de dix (10) ans (2013-2022). Certaines variables d'intérêts n'étaient pas disponibles le tableau I nous renseigne sur ces variables manquantes par année.
+
+Tableau I : données manquantes par variable d'intérêt et par année
+
+Age (année)
+
+Sexe
+
+Statut Vaccinal
+
+Prélèvement
+
+IGMFJ
+
+Evolution
+
+Total
+
+Fréquence (%)
+
+Incidence et la létalité
+
+L'incidence globale sur les 10ans était de 3.80/100000 habitants. L'incidence par année était élevée en 2017 soit 6,2/100 000 habitants suivi de 2020 qui était de 5,2/100 000 habitants.
+
+Figure 1
+
+La létalité globale était de 2,6% durant les dix ans (2013 à 2022) soit 196 cas. L'année 2013 avait le taux le plus élevé avec 5,9 %.
+
+Tableau II : Taux de létalité par année des cas d'ictère fébriles au Burkina Faso de 2013 à 2022 d'ictère fébriles
+
+Années
+
+Nombres de cas
+
+Décès
+
+Létalité(%)
+
+Total
+
+Description des cas temps, lieu, personne
+
+Nord (district de Barsalogho).
+
+cumulée de 575 cas avec un écart type de +/- 302 cas. L'incidence par région était élevée en 2020 et dans la région du centre Nord avec 34,7/100000 habitants. La moyenne cumulée par district est de 107 cas avec un écart type de plus ou moins 74. Les districts avec le plus de nombre de cas sont ceux de Tougan, Ouargaye, Barsalogho et Yako avec respectivement 492 cas, 310 cas, 705 cas et 306 cas. La répartition du nombre de cas d'ictères fébriles
+
+Figure 2: Répartition du nombre de cas cumulé d'ictères fébriles par district au Burkina Faso ministère de la santé et de l'hygiène publique, DPSP, 2023
+
+La variable sexe était enregistré chez 7373 cas d'ictère fébrile avec 4413 cas (59.85%) de sexe masculin soit un sex-ratio de 1,5. L'âge moyen était de 15,3 ans avec un écart-type de +/-15.8 ans. Le groupe d'âge de 0-4 ans était le plus représenté soit 32,83%.
+
+Tableau III : Répartition selon les caractéristiques socio démographiques des cas d'ictère fébrile au BF de 2013-2022
+
+Caractéristiques
+
+Groupe d'âge (N=7143)
+
+25ans et plus
+
+Sexe (N=7373)
+
+Masculin
+
+Féminin
+
+Statut vaccinal (N=6746)
+
+Vacciné
+
+Inconnu
+
+Non vacciné
+
+Fréquence (N)
+
+Fréquence relative (%)
+
+Résultats de laboratoire
+
+Les prélèvements ont été effectués chez 7455 personnes soit 99,74%. Dans cette base 4860 prélèvements ont été envoyés au laboratoire du CMA, 568 au laboratoire national de référence et 65 au laboratoire du CHR.
+
+La recherche d'IGM + FJ était le seul résultat disponible dans le cadre de la surveillance de routine. La répartition selon les résultats de laboratoire sont consignés dans le tableau suivant.
+
+Tableau IV : Répartition selon le résultat de recherche IGM+ FJ par année au BF de 2013-2022 Année
+
+Nombres de cas d'ictère fébriles
+
+IGM+ FJ
+
+Décès
+
+Létalité(%)
+
+Discussion
+
+Dans le système de surveillance du Burkina Faso l'ictère fébrile est surveillé dans le but de prévenir la des données devant être améliorée. Le total sur la base était de 7474 cas de 2013 à 2022. Ce résultat est différent de la somme des cas retrouvé sur les annuaires statistiques des années 2013, 2014, 2015, 2016, 2017, 2018, 2020 et 2021 qui était de 8456 cas ( ). Cela pourrait s'explique par l'absence des données des centres hospitaliers universitaires et régionaux du pays.
+
+En utilisant l'incidence par année et par région nous remarquons que la région du Centre Nord avait l'incidence la plus élevée avec 34,7 cas/100000 habitants pour l'année 2020 suivi de la région du Centre Est avec 16,4 cas/100000 habitants en 2017. Durant les années 2017 et 2020 le Burkina a eu une augmentation des cas hépatites B au Centre-Est précisément dans le district de Ouargaye et une épidémie d'hépatite E dans le Centre-Nord précisément dans le district de Barsalogho ( ).
+
+Dans notre étude, la tranche d'âge la plus représentée était les moins de 15ans avec 60,6%, dont 32,83% pour les 0-4 ans et 27,79% pour les 5-14ans. Cette majorité pourrait s'expliquer par la fragilité et la vulnérabilité de cette tranche d'âge face aux infections. L'OMS dans son bulletin épidémiologique de 2017 avait ). Le sexe masculin était le plus représenté (59,8%) avec un ratio de 1,5 et pourrait s'expliquer par le fait que les enfants de étaient les plus représenter avec 40,3%.
+
+ponible cela pourrait d'épidémie n'a pas été prononcé peut-être parce que le délai de transmission du prélèvement n'a pas été respecté ou alors le temps mis pour le diagnostic été trop ce qui n'a pas permis de faire des investigations à temps.
+
+La principale limite de notre étude était l'absence de certaines données. Les données sur le type de prélèvement et la qualité des prélèvements ainsi que certains résultats n'étaient pas enregistrées.
+
+REMERCIEMENTS
+
+-
+
+BFELTP
+
+DPSP
+
+ST ONE HEALTH
+
+CORUS
+
+REFERENCES
+
+1. Assez N, Mauriaucourt P, Cuny J, Goldstein P, Wiel E. Ictère fébrile... et si c'était une leptospirose.
+
+À propos d'un cas de L. interrogans Icterohaemorrhagiae dans le Nord de la France. Annales Françaises d'Anesthésie et de Réanimation. 1 juin 2013 ;32(6):439-43.
+
+2. Monath TP, Vasconcelos PFC. Yellow fever. Journal of Clinical Virology. mars 2015; 64:160-73.
+
+3. OMS T. Global yellow fever update, 2019. OMS ; 2020 p. 393-408. Report No.: 34 4. Direction générale des études et des statistiques sectorielles, éditeur. Annuaire Statistique 2021.
+
+Direction générale des études et des statistiques sectorielles ; 2022.
+
+5. Direction générale des études et des statistiques sectorielles. ANNUAIRE STATISTIQUE 2020. 2021 avr 6. Direction générale des études et des statistiques sectorielles. ANNUAIRE STATISTIQUE 2017. 2018 avr 7. Mihami A. Burkina : une épidémie d'hépatite E touche les réfugiés [Internet]. AlloDocteursAFRICA 2021 [cité 14 juill 2023]. Disponible sur: https://www.allodocteurs.africa/burkina-une-epidemie-d-hepatite-etouche-les-refugies-5446.html 8. WHO. Relevé épidémiologique hebdomadaire [Internet]. [cité 19 avr 2023]. Disponible sur: https:// www.who.int/fr/publications/journals/weekly-epidemiological-record.
+
+SYMPOSIUM NATIONAL SUR LE RENFORCEMENT
+
+DE LA RESILIENCE POST COVID 19
+
+14 au 15 septembre 2023
+
+Salles de conférence - Hôtel Silmandé
+
+Ouagadougou - Burkina Faso
+
+1- Créer une biobanque nationale;
+
+2- Impliquer les professionnels de santé dans la création de demande en matière de vaccination;
+
+Les cinq principales recommandations
+
+3- Renforcer le plateau technique et son appropriation par les cliniciens, la confidentialité des données, le respect des principes de bioéthique;
+
+4- Impliquer les décideurs et les partenaires techniques et financiers dans les comités sectoriels du ministère de la santé et de l'Hygiène Publique;
+
+5- Mettre en place une approche globale de la gouvernance des données, la structuration de la collecte, garantir leur accès et leur exploitation pour la prise de décisions.
+
+Accuracy & Speed
+
+Participants dont
+
+60 en ligne
+
+Conférences
+
+Panels
+
+E-Posters
+
+À retenir de chaque sous thème leçons apprises sur la coordination des interventions lors de la pandémie de la
+
+COVID-19, le leadership et prise en compte du genre: Recommandations face aux futures situations d'urgence sanitaire
+
+Interventions dans le domaine de la vaccination pour un meilleur contrôle de la
+
+COVID-19 au Burkina
+
+Faso : défis et perspectives
+
+Mobilisation communautaire et communication des risques dans la réponse à la OVID-19
+
+Renforcement des systèmes de santé dans le cadre de la réponse face à la COVID 19 au Burkina
+
+Faso: recommandations
+
+Mettre en place une stratégie de soutien au personnel déjà formé afin d'assurer la continuité des soins
+
+Utiliser de nouvelles stratégies pour toucher les populations
+
+Forte mobilisation des chercheurs
+
+Création de plusieurs plateformes pour la sensibilisation et la communication, le travail à distance, le suivi des vaccins, la coordination des efforts et la télémédecine
+
+Préparer adéquatement et à temps les ressources humaines et le matériel
+
+Créer une biobanque nationale
+
+Impliquer les professionnels de santé pour créer plus de demande en matière de vaccination
+
+Disponibilité de fonds pour la recherche et l'acquisition de matériels médicotechniques
+
+Défis dans la gestion de la confidentialité des données, la stabilité des infrastructures du gouvernement et leur appropriation par les cliniciens
+
+Impliquer les décideurs et les partenaires techniques et financiers dans les comités sectoriels du ministère de la santé et de l'Hygiène
+
+Publique
+
+Renforcer l'implication des femmes dans la gouvernance en santé
+
+Rassurer les populations sur les vaccins ARNm
+
+Enjeux dans le respect des principes de bioéthique
+
+Avec l'appui financier de technique de:
+
+Mettre en place une approche globale de la gouvernance, la structuration de la collecte des données, leurs analyses et les prises de décisions, l'utilisation de normes et la garantie de l'accès à des données de qualité
+
+SYMPOSIUM NATIONAL SUR LE RENFORCEMENT
+
+DE LA RÉSILIENCE POST COVID-19
+
+Auteurs :
+
+Fanta Zerbo , Samiratou Ouédraogo2, Ines Da3, Paulin
+
+Somda2
+
+1Centre de Recherche en Santé de Nouna
+
+2Institut National de Santé Publique, 3jhpiego
+
+Résumé
+
+Le symposium national sur le renforcement de la résilience post COVID-19 organisé par l'Institut national de santé publique (INSP) du Burkina Faso s'est tenu les 14 et 15 septembre 2023 à Ouagadougou. Il s'agissait de tirer leçons des stratégies de préparation et de réponse mises en œuvre pendant la COVID-19 dans le but d'améliorer les capacités du pays à faire face à une éventuelle future épidémie.
+
+Pendant deux jours les échanges sous formes de commucharge rapide des cas et une meilleure coordination des activités.
+
+Les autorités sanitaires du Burkina Faso à travers l'Institut national de santé publique (INSP) et en collaboration avec symposium national sur la capitalisation des expériences de la gestion de la COVID-19 intitulé "état des lieux des meilleures interventions et des opportunités pour la prévention, la préparation et la réponse aux urgences de santé posium avait comme objectifs: 1) d'i les leçons apprises de la réponse contre la maladie à COVID-19 pour renforcer la préparation et la réactivité du pays face à d'éventuelles crises sanitaires es bonnes pratiques sur la collaboration, la coordination et les partefavoriser la création de réseaux sur la sécurité sanitaire entre les acteurs nationaux et internationaux.
+
+autres sur les leçons apprises de la coordination des interventions de riposte, la recherche mise en œuvre pendant la pandémie, les stratégies développées pour la mobilisation 2- L'organisation communautaire et la communication notamment pour la du symposium mise en œuvre de la vaccination.
+
+Les conclusions de cette rencontre mettent en avant la né- Ce symposium national s'est tenu du 14 au 15 septembre cessité d'un renforcement du plateau technique national et régional, une meilleure implication et une coordination Ouagadougou (Burkina Faso) et par Zoom pour permettre la participation à distance. Il a rassemblé deux jours duamélioration de la disponibilité de l'accès et de l'utilisa- rant des acteurs du secteur public et privé de la santé, des chercheurs, des travailleurs d'organisations non gouvertion des données pour la prise de décision.
+
+nementales (ONG) nationales et internationales, des travailleurs d'organisations de la société civile (OSC), des 1- Le contexte étudiants et des personnes intéressées par la thématique.
+
+En décembre 2019, une nouvelle infection à coronavirus Les travaux qui ont connu la participation de 407 ppersonnes dont une soixantaine en ligne, ont portés sur 34 Wuhan en Chine chez des patients qui présentaient des communications orales, 12 conférences, 6 panels et 22 pneumopathies sévères inexpliquées(Zhu et al., 2020).
+
+présentations de e-poster.
+
+Face à une propagation rapide à plusieurs pays et continents, l'OMS a déclaré en mars 2020 l'infection comme 3- Le résumé des travaux une urgence de santé publique de portée internationale.
+
+Le présent écrit se veut un condensé des points à retenir
+
+L'infection à COVID-19 inquiéta plus d'une personne des deux jours d'échanges sur les leçons apprises de la dans le monde dû au manque de connaissances sur la maladie, au mode de contamination interpersonnel et aux gestion de COVID-19 et s'articulera autour des sousmesures de prévention et de protection souvent violentes thèmes du symposium:
+
+Sous-thème 1 : Les leçons apprises de la coordination imposées aux populations. Des analyses relayées par des interventions lors de la pandémie de la COVID-19, des médias internationaux ont anticipé une catastrophe le leadership et la prise en compte du genre ont été sanitaire en Afrique (El-Erian, 2020), avec l'essor des abordées au cours de plusieurs communications orales.
+
+théories complotistes qui sont à l'origine de formes inédites de stigmatisation ou de prétendus remèdes contre la Elles qui ont révélé le besoin d'une meilleure coordination des interventions, le renforcement des cadres règlemaladie.
+
+Dès mars 2020, le Burkina Faso s'est doté d'un plan de préparation et de riposte à l'épidémie de la COVID-19. Ce sécuritaires, la nécessité de production locale de certains produits de santé et l'investissement dans la résilience des systèmes de santé.
+
+Dans la coordination de l'activité des laboratoires, il est ressorti la nécessité de mettre en place une stratégie de té des soins. La crise de COVID-19 a favorisé une opérationnalisation rapide du Laboratoire Central de Recherche fondement d'une bonne gouvernance avec le Laboratoire a été suggéré à la majorité, la nécessité de renforcement des plateaux techniques existants avec la construction d'instituts de maladies infectieuses et la formation continue des acteurs.
+
+L'approche One health a été mise en œuvre dans différents secteurs de la surveillance sanitaire et dans l'élaboration des différents plans de préparation et de riposte aux évènements et urgences de santé publique au Burkina Faso.
+
+Quant au leadership féminin dans la gestion des urgences sanitaires, il a suscité beaucoup d'intérêt. Les femmes ont grandement contribué à la gestion de la crise sanitaire engendrée par la COVID-19. Si les professionnels de santé aussi entraîné des tensions et des doutes au niveau national et international.
+
+On note qu'en cas de crise sanitaire comme la pandémie de la COVID-19, qu'il faut mettre en place un comité de relecture des protocoles de recherche pour garantir la qualité des résultats qui en sortiront. Bien, qu'un besoin d'assouplissement des aspects règlementaires et éthiques en situation d'urgence a été ressenti, les principes de bioéthique doivent être respectés avec un consentement éclairé des participants même en situation d'urgence sécuritaire ou sanitaire.
+
+Sous-thème 4 : Mobilisation communautaire et communication des risques dans la réponse à la COVID-19. Plusieurs plateformes ont été utilisées à cet effet pour permettre la sensibilisation et la communication, le travail à distance, le suivi des vaccins, la coordination des efforts et la télémédecine. Avec le développement des médias sociaux et l'accès direct du public à une pléthore de ressources médicales, l'accent a été mis sur l'action du personnel de santé à l'œuvre sur le terrain pour toucher la population. Aussi la nouveauté et la non maîtrise de la transmission interpersonnelle de la COVID-19 ont induit de même que les accompagnants des personnes malades du gouvernement et leur appropriation par les cliniciens.
+
+ventions dans le domaine de la vaccination pour un meilleur contrôle de la COVID-19 au Burkina ont fait l'objet de communications orales qui ont dévoilé l'adoption d'une nouvelle stratégie de vaccination consistant à déplacer des équipes de vaccination dans les lieux de rassemblement. La contribution du personnel de santé a été remarquable dans la sensibilisation et l'acceptation des vaccins contre la COVID-19 dans la communauté malgré le fait que la vaccination contre la COVID-19 ai été rendue rigide au début, avec comme conséquence une restriction des libertés individuelles et collectives.
+
+Toutefois, le développement en urgence des vaccins à tions.
+
+Sous-thème 3 : La recherche et les interventions innovantes sur la COVI-19 pour éclairer la prise de décision face aux épidémies. Les échanges autour de ce thème révèlent qu'il y a eu forte mobilisation des chercheurs autour de la crise et la mise en place d'une commission Ad Hoc a facilité le lancement de plusieurs appels à projet. La disponibilité de fonds pour la recherche et l'acquisition de matériels médico-techniques ont amélioré les productions des unités de recherche clinique. Il a été noté cependant des lourdeurs dans les procédures de décaissement des fonds du Fonds national de recherche et de l'innovation pour le développement. La confusion occasionnée par les communications sur la recherche contre la COVID-19 à
+
+Sous-thème 5 : Le renforcement des systèmes de santé dans le cadre de la réponse face à la COVID 19 au Burkina Faso.
+
+été utiles dans la prédiction de l'évolution de la maladie, ainsi que l'utilisation des données probantes dans les prises de décisions. L'avènement de la COVID-19 a cependant prouvé qu'il faut une préparation à temps des ressources humaines et matériels ; une adaptabilité des structures et des stratégies de soins. L'implication des décideurs dans toutes les sphères décisionnelles et l'intégration des partenaires dans les comités sectoriels du ministère de la Santé. Aussi une communication transparente et maintenue. Les perspectives sont la nécessité d'une approche globale de la gouvernance, la structuration de la collecte des données, leurs analyses et les prises de décisions, l'utilisation de normes et la garantie de l'accès à des données de qualité ainsi que le développement un partenariat gagnant-gagnant avec les différents partenaires.
+
+Références
+
+El-Erian, M. A. (2020). PERSPECTIVES : The New
+
+Normal 2.0.
+
+.
+
+Zhu, N., Zhang, D., Wang, W., Li, X., Yang, B., Song,
+
+China, 2019.
+
+,
+
+Directeur de publication
+
+Ministre de la Santé et de l'Hygène Publique
+
+Equipe de rédaction
+
+Pr HIEN M. Hervé, DG INSP, rédacteur en chef
+
+Dr OUEDRAOGO ISSA, DG SHP, rédacteur en chef adjoint
+
+Dr OUÉDRAOGO Hamed S.
+
+Dr SOMDA K. Paulin,
+
+Dr TOUGMA Serge Alain,
+
+Dr MILLOGO Claude,
+
+M. KAMBOU Frédéric Firmin
+
+M. BAMOGO Abdul
+
+Equipe d'édition
+
+Mme OUEDRAOGO W. Raïssa
+
+Mme ILBOUDO W. Josiane
+
+M. ZERBO JUSTIN
+
+M. TRAORE Ahmed Zackaria
+
+Pour nous écrire
+
+DPSP : secretariatdpsp@gmail.com
+
+INSP : secretariat.dg@insp.bf

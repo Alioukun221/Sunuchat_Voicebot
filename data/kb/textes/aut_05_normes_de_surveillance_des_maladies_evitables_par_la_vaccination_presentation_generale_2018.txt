@@ -1,0 +1,2477 @@
+Introduction de principes de surveillance des maladies évitables par la vaccination
+
+Dernière mise à jour le 5 septembre 2018
+
+Normes de surveillance des
+
+OMS Normes de surveillance des maladies évitables par la vaccination maladies évitables par la vaccination
+
+TABLE DES MATIÈRES POUR L'INTRODUCTION
+
+PRÉFACE: NORMES DE SURVEILLANCE DES MALADIES ÉVITABLES PAR LA VACCINATION DE 2018 . . . . . . . .
+
+1.
+
+2.
+
+3.
+
+4.
+
+.
+
+.
+
+.
+
+PRÉSENTATION DE LA SURVEILLANCE DES MALADIES ÉVITABLES PAR LA VACCINATION . . . . . . . . . . . .
+
+QU'EST-CE QUE LA SURVEILLANCE DES MALADIES ÉVITABLES PAR LA VACCINATION (MEV) ? . . . . . . . . . . . .
+
+OBJECTIFS DE LA SURVEILLANCE DES MEV .
+
+DÉFINITION DES PRIORITÉS QUANT À LA SURVEILLANCE DES MEV .
+
+NORMES RECOMMANDÉES POUR LA SURVEILLANCE DES MEV .
+
+CARACTÉRISTIQUES DE CONCEPTION DE LA SURVEILLANCE DES MEV .
+
+INTÉGRATION AUX SYSTÈMES DE SURVEILLANCE EXISTANTS .
+
+PLATES-FORMES DE SURVEILLANCE SYNDROMIQUE POUR LES MEV .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.7
+
+. 9
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.6
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+DÉFINITIONS ET CLASSIFICATION FINALE DES CAS .
+
+ÉTUDE DE CAS .
+
+PRISE EN CHARGE DES CAS .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+TESTS DE LABORATOIRE .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+NOTIFICATION ET SIGNALEMENT DES CAS .
+
+COMMUNICATION ET COMMENTAIRES POUR LA SURVEILLANCE DES MEV .
+
+.
+
+.
+
+LOGISTIQUE DE LA SURVEILLANCE DES MEV .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+UTILISATION, QUALITÉ, ET DONNÉES
+
+DE SURVEILLANCE DES MEV . . . . . .
+
+.
+
+.
+
+.
+
+LIMITES DE L'INTERPRÉTATION DES DONNÉES DE SURVEILLANCE .
+
+DONNÉES VISANT À COMPLÉTER LA SURVEILLANCE DES MEV .
+
+SURVEILLANCE ET ÉVALUATION DE LA SURVEILLANCE DES MEV .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+QUESTIONS ÉTHIQUES LIÉES À LA COLLECTE DES DONNÉES DE SURVEILLANCE DES MEV . . . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+RÔLE DE LA SURVEILLANCE DES MEV
+
+LORS D'ÉPIDÉMIES . . . . . . . . . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+DOTATION EN PERSONNEL DE SURVEILLANCE LORS D'ÉPIDÉMIES .
+
+.
+
+COORDINATION DES ÉPIDÉMIES DE MEV .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+CHANGEMENTS APPORTÉS À LA SURVEILLANCE DES MEV LORS D'ÉPIDÉMIES .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ÉTAPES D'UNE ENQUÊTE DANS LE CADRE D'UNE ÉPIDÉMIE .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+VISUALISATION DE DONNÉES .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ANALYSE ET INTERPRÉTATION DES DONNÉES .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+COLLECTE ET GESTION DES DONNÉES .
+
+.
+
+.
+
+.
+
+ÉLÉMENTS DE DONNÉES RECOMMANDÉS .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+TYPE DE DONNÉES DE SURVEILLANCE .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+DÉTECTION DES CAS .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ÉTAPES DE LA SURVEILLANCE DES MEV .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ORGANISER LA SURVEILLANCE DES MEV .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+5.
+
+PRÉSENTATION DES CHAPITRES SUR LES NORMES DE SURVEILLANCE SPÉCIFIQUES AUX MALADIES . .
+
+REFERENCES .
+
+ANNEXE A.
+
+ANNEXE B.
+
+ANNEXE C.
+
+ANNEXE D.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Méthodes utilisées pour définir les normes de surveillance des MEV . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Intégration de la surveillance des MEV aux systèmes de surveillance existants . . . . .
+
+.
+
+.
+
+.
+
+Informations complémentaires pour la surveillance des MEV . . . . . . . . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Étapes d'une enquête sur une épidémie d'une maladie évitable par la vaccination . . . . . .
+
+.
+
+.
+
+Ce document présente les normes recommandées par l'Organisation mondiale de la Santé (OMS) pour les activités de surveillance des maladies évitables par la vaccination (MEV). La surveillance des MEV fournit des informations vitales permettant d'aider les pays à comprendre la charge de morbidité et l'épidémiologie de la maladie, l'objectif étant d'informer la stratégie et la politique de vaccination.
+
+Il existe de nombreuses raisons pour lesquelles l'OMS met à jour, en ce moment, les normes de surveillance des MEV. L'OMS a publié la dernière série de normes de surveillance en 2003, liste qui comprenait 13 MEV, en complément des normes pour l'encéphalite japonaise mises à jour en 2008 (1). Depuis ce temps, les programmes de contrôle des MEV ont progressé, de nouveaux vaccins ont été introduits dans le monde, les pratiques de diagnostic en laboratoire ont évolué et quelques définitions des cas de MEV ont été modifiées, rendant les normes de surveillance des MEV de 2003 obsolètes. Alors que les normes de surveillance pour quelques MEV individuelles ont été plus récemment mises à jour, aucun document, pouvant être utilisé à l'échelle mondiale, ne compile les normes de surveillance existantes pour la plupart des MEV.
+
+Ces normes de surveillance sont principalement destinées aux ministères nationaux de la Santé, en particulier les responsables du Programme élargi de vaccination (PEV) et du programme de Contrôle des maladies transmissibles ainsi que les agents de surveillance, sans oublier les responsables de la définition des politiques de vaccination. Les autres parties prenantes comprennent les services de santé locaux et provinciaux, les bureaux régionaux et nationaux de l'OMS, l'UNICEF, l'Alliance Gavi, les établissements universitaires et les organisations non gouvernementales.
+
+Ce document fournit une vue d'ensemble de la surveillance des MEV, suivie d'un aperçu des méthodes de mise en œuvre de la surveillance des MEV. Ces directives ne visent pas à être exhaustives de tous les aspects des MEV. Ce document n'inclut pas de protocoles de surveillance étape par étape, de méthodes de laboratoire détaillées, de modèles de registres ou bases de données, de recommandations pour la surveillance des effets secondaires à la suite de la vaccination ou de conseils sur les enquêtes portant sur la couverture vaccinale. En outre, aucune information sur les calendriers de vaccination de routine ne sera fournie ici, mais tous les renseignements sont disponibles sur le site Web de l'OMS (2).
+
+Ce document vise à fournir un ensemble de normes que les pays devraient envisager de mettre en œuvre pour améliorer les mesures existantes de surveillance des MEV. Les pays peuvent adapter ces normes, à l'échelle locale, en s'appuyant sur l'épidémiologie, la politique, les objectifs de contrôle de la maladie et les stratégies. Alors que ce document est principalement destiné aux directeurs des programmes nationaux, il est important de reconnaître que les données normalisées de surveillance mondiale sont utiles pour l'élaboration des politiques mondiales de vaccination.
+
+Les méthodes détaillées pour l'élaboration de ce document sont décrites dans l'annexe A.
+
+1. Présentation de la surveillance des maladies évitables par la vaccination
+
+QU'EST-CE QUE LA SURVEILLANCE DES MALADIES ÉVITABLES PAR LA VACCINATION ?
+
+La surveillance de santé publique est la collecte, l'analyse et l'interprétation, continues et systématiques, des données relatives à la santé nécessaires à la planification, la mise en œuvre et l'évaluation des pratiques de santé publique (3). La surveillance des maladies évitables par la vaccination (MEV) est qualitativement similaire à d'autres types de surveillance des maladies, en termes de conception (4). Comme d'autres types de surveillance, la surveillance des MEV est extrêmement importante, dans la mesure où elle contribue fortement au développement de politiques et au suivi des programmes de vaccination, y compris l'introduction des vaccins, la couverture vaccinale et la mise en place potentielle d'une riposte aux épidémies.
+
+La surveillance des MEV permet également de détecter des changements dans l'épidémiologie des MEV au fil du temps du fait de l'utilisation des vaccins et d'autres mesures préventives. Alors que la charge d'une maladie évitable par la vaccination est réduite, les objectifs et la conception du système de surveillance peuvent évoluer.
+
+Les programmes de santé publique peuvent inclure la surveillance des MEV en tant que composante d'un système de surveillance des maladies transmissibles.
+
+Dans la mesure où les objectifs de la surveillance des MEV, comme la détection des épidémies, présentent généralement certaines similitudes avec d'autres dispositifs de surveillance des maladies transmissibles actuellement mis en place, l'intégration de la surveillance des MEV à d'autres systèmes de surveillance est encouragée, lorsque cela est possible.
+
+Lorsque la surveillance des MEV est intégrée à la surveillance des maladies transmissibles à l'échelle nationale, l'équipe de surveillance devrait collaborer avec les intervenants du PEV et d'autres parties prenantes de la vaccination.
+
+OBJECTIFS DE LA SURVEILLANCE DES MEV
+
+Les programmes nationaux devraient définir leurs objectifs clés pour chaque maladie sous surveillance en tant que partie intégrante des priorités et de la conception de la surveillance. Les objectifs d'un
+
+Ce document présente des normes pour la conception et la mise en œuvre de la surveillance des MEV visant à répondre aux objectifs du programme de vaccination.
+
+système de surveillance devraient dicter sa conception, plutôt que l'inverse. La surveillance des MEV peut avoir plusieurs objectifs principaux, avec des exemples courants décrits dans le tableau 1.
+
+TABLEAU
+
+Objectifs de la surveillance des MEV
+
+OBJECTIF DE LA SURVEILLANCE
+
+PRINCIPALES CARACTÉRISTIQUES
+
+EXEMPLES
+
+Suivi des efforts d'élimination ou d'éradication de la maladie
+
+Détection de tous les cas; facteurs de risques; épidémiologie moléculaire
+
+Éradication de la poliomyélite; élimination de la rougeole et du tétanos néonatal
+
+Détection des épidémies et des nouveaux pathogènes
+
+Grappes de MEV; identification de la souche inhabituelle ou rare
+
+Épidémies méningococciques; virus de la grippe pandémique ou très virulente
+
+Preuves de l'introduction de nouveaux vaccins ou d'optimisation des calendriers de vaccination
+
+Épidémiologie; tendances; charge de morbidité des MEV
+
+Charge de morbidité du pneumocoque, rotavirus pour les décisions d'introduction de vaccins; modification des calendriers vaccinaux pour le vaccin contre le tétanos ou le vaccin contre la coqueluche
+
+Évaluation des performances des programmes de vaccination et prise de décisions quant à la nécessité d'une vaccination supplémentaire
+
+Mise en lumière des lacunes dans le programme de vaccination et des caractéristiques épidémiologiques des cas (par exemple, âge, situation géographique)
+
+Antécédents de vaccination des cas de rougeole pour faciliter l'identification des zones géographiques et des groupes d'âge avec une faible couverture vaccinale dans le but d'informer le ciblage des futures campagnes de vaccination contre la rougeole
+
+Efficacité du vaccin, impact sur la charge de morbidité ou les deux
+
+Tendances lors du décompte des cas de MEV avant et après l'introduction du vaccin
+
+Études des cas-témoins avec test négatif pour évaluer l'efficacité des vaccins
+
+Modification des types ou souches de la maladie
+
+Caractérisation moléculaire ou sérologique des cas
+
+Formulation du vaccin contre la grippe saisonnière; remplacement des sérotypes pneumococciques après l'introduction du vaccin pneumococcique conjugué (VPC)
+
+DÉFINITION DES PRIORITÉS QUANT À LA SURVEILLANCE DES MEV Le Groupe Stratégique Consultatif d'Experts (SAGE) sur la vaccination recommande la surveillance de toutes les MEV. Toutefois, un vaccin éprouvé susceptible de réduire la morbidité et la mortalité doit être introduit, ou son utilisation doit être poursuivie, même si le pays n'a pas encore mis en place de dispositifs de surveillance d'une maladie évitable par la vaccination (5).
+
+Quand la décision d'entreprendre la surveillance d'une MEV particulière est prise, il convient surtout de s'assurer que les données de surveillance informeront les décisions clés en matière de politique d'introduction des vaccins et de stratégie de vaccination. Puis, il est nécessaire d'étudier les questions de ressources suivantes dès lors que le type de surveillance des MEV à mettre en place a été défini:
+
+hh Les objectifs de surveillance peuvent-ils être satisfaits en utilisant les plates-formes existantes de surveillance intégrée, avec une augmentation minimale des ressources ? Ou la surveillance des maladies spécifiques est-elle requise ?
+
+ENCADRÉ
+
+Définitions de Contrôle,
+
+Élimination et
+
+Éradication (6)
+
+Contrôle: Réduction de l'incidence de la maladie, de la prévalence, de la morbidité ou mortalité à un niveau acceptable à la suite d'efforts délibérés, mais nécessitant encore des efforts continus pour maintenir la réduction.
+
+Élimination: Réduction de l'incidence, pour atteindre zéro, d'une maladie spécifiée dans une zone géographique délimitée à la suite d'efforts délibérés, mais exigeant tout de même des efforts continus d'intervention.
+
+Éradication: Réduction à zéro de l'incidence, dans le monde entier, d'une infection causée par un agent spécifique, interruption complète de la transmission et extinction de l'agent causal, afin qu'il n'existe plus dans l'environnement; les mesures d'intervention ne sont plus nécessaires.
+
+hh La capacité technique est-elle suffisante, dont le personnel épidémiologique et l'infrastructure de laboratoire ? Le financement et les autres ressources sont-ils suffisants ?
+
+Si les ressources sont insuffisantes pour assurer une surveillance de haute qualité répondant aux objectifs du programme de vaccination, reconsidérer la décision de déployer la surveillance des MEV. Une surveillance de mauvaise qualité peut être pire que l'absence totale de surveillance, car elle peut conduire à des décisions fondées sur des données erronées ou incomplètes.
+
+Dans certains pays, une capacité et des ressources limitées pourraient forcer un pays à donner la priorité à une surveillance de quelques MEV et pas d'autres.
+
+L'encadré 2 énumère les critères suggérés par l'OMS pour hiérarchiser les maladies mises sous surveillance (7). Selon ces critères, plusieurs MEV se classeraient en haut de la liste, partiellement en raison du fait que la surveillance repose sur une méthode éprouvée de contrôle et de prévention–à savoir la vaccination.
+
+Les objectifs d'un système de surveillance des MEV énumérés dans le tableau 1 devraient également guider l'établissement des priorités. Par exemple, tous les pays devraient assurer une surveillance des MEV prévue pour l'éradication ou l'élimination mondiale, comme la polio, la rougeole et le tétanos néonatal. Les pays devraient également inclure les MEV qui font partie des objectifs régionaux de contrôle et d'élimination, comme la rubéole, l'encéphalite japonaise, la diphtérie et la fièvre jaune. Tous les États membres de l'OMS ont signé le Règlement sanitaire international (RSI) de 2005 qui inclut la surveillance de quelques MEV, telles que la variole, la poliomyélite et le nouveau virus de la grippe (encadré 3). La surveillance des MEV à potentiel épidémique, où la vaccination pourrait être envisagée en guise de riposte (comme la fièvre jaune, la méningite, ou le choléra) pourrait également être définie comme une priorité, en particulier pour les maladies avec des vaccins disponibles dans le stock mondial de vaccins.
+
+Comme décrit dans l'Objectif stratégique 3 du Plan d'action mondial pour les vaccins 2011-2020, il est important de tenir compte de la capacité de la surveillance des MEV établie dans un pays dans le but d'identifier les lacunes et les inégalités de couverture des programmes de vaccination. Les MEV spécifiques qui ne répondent à aucun des critères énumérés
+
+ENCADRÉ
+
+Critères pour l'établissement des priorités de surveillance des maladies transmissiblese (7)
+
+Les éléments suivants sont des critères pour hiérarchiser la surveillance des maladies transmissibles, y compris les MEV:
+
+hh charge de morbidité et endémicité (niveau naturel d'apparition de la maladie) hh gravité et ratio de fatalité des cas hh potentiel épidémique hh potentiel d'émergence de virulence ou modification du modèle de la maladie hh potentiel en matière de prévention, de contrôle et d'élimination hh impact social et économique hh normes internationales de signalement, comme le RSI de 2005 hh perception publique du risque hh faisabilité logistique (par exemple, la surveillance syndromique existe déjà).
+
+dans l'encadré 2 peuvent également être placées sous surveillance tant qu'une surveillance continue des autres MEV qui remplissent ces critères de priorisation est mise en place.
+
+Généralement, le cas nécessitant le déploiement de mesures de surveillance d'une MEV sera clair pour les ministères de la Santé. Si la décision de surveillance pour une maladie transmissible émergente ou nouvellement communicable ou d'une maladie évitable par la vaccination réémergente n'est pas simple à prendre, une méthode suggérée pour établir les priorités est la méthode Delphi, par laquelle un groupe d'agents de santé publique, des experts techniques et des décisionnaires sont convoqués pour noter les maladies éventuelles pour la surveillance en utilisant un système de points prédéterminé reposant sur différents critères.
+
+ENCADRÉ
+
+Surveillance et Règlement sanitaire international pour le signalement des maladies
+
+Tous les États membres de l'OMS sont tenus par le Règlement sanitaire international de 2005 de signaler à l›OMS toute maladie qui constitue une urgence de santé publique de portée internationale. Ces normes ne nécessitent pas la mise en œuvre d'un système de surveillance distinct ni de spécifier l›utilisation d›un type particulier de système de surveillance. Cependant, tous les États membres se sont engagés à atteindre une capacité de base pour la surveillance de santé publique (y compris la détection, la vérification et le signalement) et l'intervention dans le cadre de la sécurité sanitaire mondiale (8). Parmi les maladies nécessitant une notification immédiate obligatoire, trois sont potentiellement évitables par la vaccination:
+
+la variole, le poliovirus sauvage et la grippe humaine causée par un nouveau sous-type. La fièvre jaune, le choléra, la dengue et les fièvres hémorragiques virales (comme le virus Ebola) sont des maladies pour lesquelles des vaccins sont actuellement autorisés ou en cours de développement, et sont classées comme nécessitant potentiellement un signalement dans le cadre du Règlement sanitaire international en fonction du risque d›impact grave sur la santé publique et de diffusion internationale. Par conséquent, les mécanismes de signalement du Règlement sanitaire international devraient être incorporés dans la structure de signalement et de surveillance des MEV, le cas échéant.
+
+NORMES RECOMMANDÉES POUR LA SURVEILLANCE DES MEV Les normes minimales recommandées pour la surveillance des MEV comprennent la conception, les méthodes et les éléments de données nécessaires pour atteindre les objectifs spécifiques des programmes de vaccination. Des efforts devraient être déployés pour répondre aux normes minimales suggérées pour quelques MEV est une priorité pour la surveillance. Le tableau 2 résume la norme minimale par maladie comme cela est indiqué dans les chapitres spécifiques à chaque maladie de ce document. Ces chapitres comprennent également des suggestions quant aux normes de surveillance accrue visant à recueillir les renseignements nécessaires pour atteindre les objectifs supplémentaires. Les autres systèmes de surveillance des maladies transmissibles qui recueillent des renseignements limités sur les MEV et ne répondent pas à l'ensemble des besoins des programmes de vaccination ne sont pas nécessairement soumis à ces normes. Il convient de s'assurer que les systèmes de données et la structure de base de données peuvent accueillir les données requises pour les normes. Une fois établi, un système peut se développer pour inclure l'approche améliorée (par exemple, commencer par le niveau infranational et étendre à l'échelle nationale).
+
+TABLEAU
+
+Normes minimales de surveillance recommandées visant à informer la politique du programme de vaccination portant sur les maladies à prévention vaccinale*
+
+NORMES
+
+RECOMMANDÉES
+
+POUR LA
+
+SURVEILLANCE DES
+
+MEV
+
+À L'ÉCHELLE
+
+NATIONALE, BASÉE
+
+SUR LES CAS AVEC
+
+CONFIRMATION EN
+
+LABORATOIRE DE
+
+CHAQUE CAS
+
+À L'ÉCHELLE
+
+NATIONALE,
+
+CUMULATIVE AVEC
+
+CONFIRMATION EN
+
+LABORATOIRE DES
+
+ÉPIDÉMIES
+
+SENTINELLE, BASÉE
+
+SUR LES CAS AVEC
+
+CONFIRMATION EN
+
+LABORATOIRE DE
+
+CHAQUE CAS
+
+AUTRE (P. EX.
+
+MALADIES POUR
+
+LESQUELLES DES
+
+NORMES MINIMALES
+
+DE SURVEILLANCE
+
+DIFFÉRENTES ONT
+
+ÉTÉ DÉFINIES EN
+
+FONCTION DU
+
+CONTEXTE)
+
+Engagement envers la surveillance dans chaque pays
+
+Poliomyélite,
+
+Rougeole
+
+-
+
+-
+
+Tétanos néonatal (pas de laboratoire)
+
+Engagement envers la surveillance variant en fonction du pays
+
+Diphtérie, Rubéole,
+
+Méningocoque
+
+Hépatite A,
+
+Hépatite B, Oreillons
+
+Syndrome de rubéole congénitale,
+
+Haemophilus influenzae,
+
+Pneumocoque,
+
+Grippe, Encéphalite
+
+Japonaise,
+
+Coqueluche, Rotavirus,
+
+Typhoïde
+
+Choléra (basé sur des événements),
+
+PVH (surveillance non recommandée),
+
+Tétanos non-néonatal (pas de laboratoire),
+
+Varicelle (pas de laboratoire)
+
+*Il s'agit d'une catégorisation générale et il conviendrait de se référer aux chapitres consacrés aux maladies pour plus de détails
+
+CARACTÉRISTIQUES DE CONCEPTION DE
+
+LA SURVEILLANCE DES MEV
+
+Une fois les objectifs de surveillance définis, il est nécessaire de créer un système de surveillance conçu pour atteindre ces objectifs. Prendre en compte les questions suivantes lors de la conception du système:
+
+hh Est-il nécessaire de répertorier tous les cas, ou est-il possible de ne répertorier qu'un sous-ensemble ou qu'une fraction ? Les MEV pour lesquelles des objectifs d'élimination ou d'éradication ont été définis nécessiteront la mise en œuvre d'un système capable de répertorier tous les cas.
+
+hh Quel est le niveau d'informations détaillées sur les cas nécessaire pour informer les actions de santé publique ?
+
+hh Des ressources suffisantes sont-elles disponibles pour obtenir des informations détaillées sur chaque cas, ou serait-il possible de travailler de manière plus efficace grâce à la surveillance ciblée par le biais de scénarios à rendement élevé ou de l'intégration à d'autres systèmes de surveillance ?
+
+Prendre en considération les caractéristiques ci-dessous au cours du processus de conception de la surveillance.
+
+Ces caractéristiques peuvent être dépendantes du système de santé publique existant et de l'infrastructure d'un pays. Bien que ces caractéristiques soient présentées ci-dessous comme des éléments distincts, de nombreux systèmes de surveillance reposent sur l'association de plusieurs de ces éléments. Par exemple, un système peut reposer sur des éléments passifs et actifs, ou reposer, à la fois, sur la surveillance sur site et la surveillance communautaire (9).
+
+SURVEILLANCE GLOBALE OU
+
+SURVEILLANCE DES CAS
+
+Dans le cadre de la surveillance globale, seule une fiche détaillant le nombre de cas et issue des registres cliniques d'admission, dossiers d'enregistrement ou autres dossiers est collectée et transmise. Aucune donnée, au niveau individuel, n'est collectée, mais les cas peuvent être regroupés par sous-groupes, comme l'âge, le sexe ou la localité. En revanche, la surveillance basée sur les cas requiert la collecte et la communication d'informations détaillées sur chaque cas de MEV. Parmi les exemples de détails, on retrouve l'âge, le sexe, le lieu de résidence, le statut vaccinal et les facteurs de risques.
+
+Les données individuelles issues de la surveillance des cas peuvent parfois être regroupées dans des rapports de synthèse.
+
+DIFFÉRENCE ENTRE LA SURVEILLANCE
+
+NATIONALE ET INFRANATIONALE
+
+La surveillance des MEV peut être mise en place à l'échelle nationale ou être intentionnellement limitée à une zone définie du pays. La surveillance infranationale pourrait être envisagée si le fardeau de la maladie évitable par la vaccination est limité à une certaine région du pays, ou si le système mis en place est plus à même d'exercer une surveillance de haute qualité dans une zone géographique particulière. Cependant, les cas saisis par la surveillance infranationale peuvent ne pas être représentatifs de ceux que l'on retrouve à l'échelle du pays. Lors de l'interprétation des données de surveillance infranationale, il convient de toujours s'assurer que la population sous surveillance soit représentative de l'ensemble de la population.
+
+Concernant les MEV avec objectifs de contrôle, la surveillance infranationale peut être acceptable pour déterminer les facteurs de risques ou évaluer l'impact d'un vaccin. Concernant les MEV ciblées à des fins d'élimination ou d'éradication, une surveillance nationale, visant à détecter tous les cas, est essentielle.
+
+SURVEILLANCE BASÉE SUR LA POPULATION
+
+EN COMPARAISON À LA SURVEILLANCE SUR
+
+SITE SENTINELLE
+
+La surveillance basée sur la population tend à capturer tous les cas dans un bassin démographique bien défini (par exemple, l'ensemble de la population d'un pays).
+
+Lorsque le bassin démographique est défini, il est possible d'utiliser le nombre total de la population comme dénominateur pour calculer l'incidence de la maladie évitable par la vaccination. Cela peut permettre de comprendre l'impact d'un vaccin sur la charge de morbidité de la maladie au fil du temps et de comparer l'incidence de la MEV au sein de plusieurs pays ou régions. La surveillance du site sentinelle fait référence à un système qui répertorie les cas depuis un ou plusieurs sites spécialisés, tels que les hôpitaux, les cliniques ou les pharmacies. La surveillance sentinelle peut fournir des informations utiles sur l'impact des vaccins, l'épidémiologie et les facteurs de risques, ainsi que les agents pathogènes causant des maladies, telles que les souches en circulation. Les bassins démographiques des sites sentinelles sont généralement difficiles à définir et peuvent varier au fil du temps, de ce fait, il est difficile de connaître la population totale (dénominateur) nécessaire pour calculer l'incidence de la maladie.
+
+SURVEILLANCE SUR SITE EN COMPARAISON À LA SURVEILLANCE COMMUNAUTAIRE
+
+La surveillance basée sur les établissements permet généralement de détecter des cas plus graves, demandant des soins en établissements de santé, y compris les cliniques externes, les cabinets médicaux, les hôpitaux et les services d'urgence. L'accès au diagnostic clinique et la confirmation en laboratoire rendent généralement la surveillance basée sur les installations plus facile à mettre en œuvre que la surveillance à base communautaire. Souvent menée de concert avec la surveillance basée sur les installations, la surveillance à base communautaire peut détecter des MEV potentiellement moins graves ou qui ne seraient pas habituellement décelées au sein des établissements de santé parce qu'elles sont considérées comme s'inscrivant normalement dans le processus de l'enfance (comme la rougeole) ou être associées à une stigmatisation (comme le décès lié au tétanos néonatal). Pour l'éradication de la poliomyélite, une stratégie de surveillance à base communautaire est essentielle afin de détecter tous les cas, quelle que soit la gravité et ainsi briser les chaînes de transmission. Concernant la surveillance à base communautaire, des ressources supplémentaires sont nécessaires pour sensibiliser et assurer le suivi auprès des intervenants communautaires, et le rendement des vrais cas peut être faible.
+
+SURVEILLANCE ACTIVE EN COMPARAISON À LA
+
+SURVEILLANCE PASSIVE
+
+La détection passive des cas signifie que du personnel de l'établissement de santé détecte et signale les cas, alors que dans le cadre de la surveillance active, le personnel de surveillance de santé publique désigné est directement impliqué dans la détection des cas. Par exemple, le personnel de surveillance peut procéder à un examen régulier des registres de l'établissement et a des contacts réguliers avec les médecins au sujet des cas potentiellement manqués. Par rapport aux méthodes passives, la surveillance active nécessite plus de ressources et est plus coûteuse; elle est souvent mise en place pour les MEV lors de la phase d'élimination ou d'éradication, ou au moment de caractériser l'épidémiologie d'une maladie évitable par la vaccination ou l'impact d'un vaccin au sein de populations discrètes ou des sites sentinelles.
+
+SURVEILLANCE CLINIQUE EN COMPARAISON À LA SURVEILLANCE EN LABORATOIRE
+
+La distinction entre ces deux types de surveillance ne repose pas sur l'ajout d'un test de laboratoire, mais plutôt sur le fait que la détection des cas est initiée en fonction du diagnostic clinique ou des résultats des tests de laboratoire. Plusieurs systèmes de surveillance sont mis en place suite à une définition clinique permettant de déceler les cas suspects (par exemple, un syndrome comme la diarrhée ou une fièvre-éruption cutanée) avant de recourir aux tests de laboratoire pour confirmer les cas. Concernant la surveillance en laboratoire, un résultat de laboratoire confirmant un cas de MEV constitue le point de départ pour l'inclusion dans la surveillance (10) (11). Les laboratoires ou les hôpitaux signalent ces cas confirmés en laboratoire aux autorités de santé publique, soit dans le cadre des exigences en matière de signalement des maladies soit en lien avec les réseaux de surveillance sentinelle. Une approche de surveillance en laboratoire est mieux mise en œuvre lorsque des échantillons de la majorité des patients présentant des signes et symptômes définis sont examinés en laboratoire dans le cadre de la pratique clinique existante. Les systèmes de gestion des données sont essentiels pour associer les données de laboratoire aux données épidémiologiques (en milieu clinique).
+
+INTÉGRATION AUX SYSTÈMES DE SURVEILLANCE EXISTANTS L'intégration de la surveillance des MEV dans les systèmes de surveillance des maladies transmissibles existants présente des avantages évidents, tout comme le fait de relier un système de surveillance des MEV à un autre. L'intégration de la surveillance des maladies capitalise sur une économie d'échelle et peut être moins gourmande en ressources que le lancement d'un nouveau système de surveillance des maladies spécifiques.
+
+La surveillance des MEV peut être intégrée à la surveillance existante de trois façons:
+
+hh Utilisation du système sans aucune modification.
+
+Si le système actuel de surveillance permet déjà de déceler les cas complémentaires et de recueillir des éléments d'informations auprès de la population souhaitée, alors le système peut être considéré comme suffisant pour répondre aux normes pour quelques MEV, tel qu'indiqué dans le présent document.
+
+hh Ajouter plus de MEV à une plate-forme de MEV existante. Une plate-forme de surveillance des MEV existantes pourrait être adaptée pour répondre aux normes de surveillance des MEV additionnelles.
+
+Un exemple est l'adaptation des définitions de cas de rougeole et des algorithmes de tests afin de permettre une surveillance intégrée de la rubéole.
+
+ENCADRÉ
+
+Domaines pratiques où l'intégration de la surveillance des MEV peut être mise en place
+
+hh politique, y compris les règlements, les priorités et les normes hh financement, y compris les coûts, les plans de financement et le développement durable hh infrastructure, y compris les installations, équipements, fournitures et la maintenance hh capacité de la main-d'œuvre, y compris la dotation, les plans de fidélisation et la formation transversale hh logistique de terrain, y compris les enquêtes de cas, la supervision, la surveillance active avec les visites et le transport des échantillons de laboratoire hh laboratoire, y compris l'expansion et la diversification des réseaux mondiaux, les processus d'approvisionnement partagés et les systèmes de gestion de la qualité (par exemple, évaluation externe de la qualité) hh suivi et évaluation, y compris les systèmes d'information et les indicateurs de performance.
+
+hh Intégrer des activités de surveillance plutôt que des systèmes. Si une surveillance distincte spécifique à une maladie évitable par la vaccination est requise, l'équipe peut intégrer des activités de surveillance dans les zones de chevauchement entre les deux systèmes de surveillance, tel qu'indiqué dans l'encadré 4.
+
+Se référer à l'annexe B pour une analyse plus détaillée de l'intégration de la surveillance des MEV dans certains systèmes de surveillance plus communément connus, comme la Surveillance intégrée des maladies et ripostes (IDSR, en anglais) et le Réseau d'alerte précoce et de réaction (EWARN, en anglais). Même s'il est impossible d'utiliser le système actuel pour répondre aux normes requises de surveillance des MEV décrites ici, il est possible de s'appuyer sur les informations générées par le système de surveillance actuel dans le but de trianguler les données, créer une image plus complète de l'épidémiologie de la maladie évitable par la vaccination et d'avoir un aperçu de la performance de la surveillance spécifique aux maladies.
+
+PLATES-FORMES DE SURVEILLANCE SYNDROMIQUE POUR LES MEV
+
+La surveillance syndromique est un type particulier d'approche de surveillance intégrée. Ce terme possède plusieurs significations et est utilisé dans de nombreux pays pour détecter les différentes menaces de santé, comme les événements liés au bioterrorisme, les maladies chroniques et les épidémies de maladies infectieuses (12) (13) (14). Dans le cadre de la surveillance des MEV, la surveillance syndromique se réfère à l'utilisation d'un syndrome clinique–une constellation de signes et de symptômes–en guise de définition de cas pour la détection de cas suspects d'une maladie évitable par la vaccination. S'appuyer sur les plates-formes de surveillance syndromique pour plusieurs MEV peut être plus efficace que de surveiller une maladie unique.
+
+Par exemple, la surveillance de la paralysie flasque aiguë (PFA) pour la poliomyélite est un type de surveillance syndromique qui décèle non seulement les cas de poliomyélite, mais également le syndrome de GuillainBarré ou d'autres maladies qui causent des problèmes neurologiques. La surveillance du syndrome de fièvreéruption est utilisée pour la rougeole et la rubéole, mais pourrait également inclure la dengue, le parvovirus B19 ou d'autres causes virales (15). Les tests de laboratoire de détection des pathogènes multiples sont réalisés selon un algorithme défini pour déterminer le diagnostic final et classer les cas correspondant à chaque maladie évitable par la vaccination. La surveillance syndromique peut être utilisée pour la détection initiale des cas, mais la confirmation en laboratoire devrait être mise en place pour accroître la précision du système.
+
+Les principaux types de plates-formes de surveillance syndromique pour les MEV figurent dans le tableau 3. Chaque syndrome peut éventuellement englober plusieurs MEV, mais aussi d'autres agents pathogènes qui pourraient ne pas être évitables, mais qui pourraient l'être à l'avenir.
+
+Avant de créer une plate-forme de surveillance syndromique pour les MEV, plusieurs facteurs doivent être pris en compte. Tout d'abord, la sensibilité d'une définition de cas syndromique peut varier pour différentes maladies en fonction du spectre des présentations cliniques. Par exemple, la rubéole se manifeste parfois sans fièvre ou peut même être asymptomatique, et de ce fait, tous les cas ne répondraient pas à la définition du cas de fièvreéruption. Deuxièmement, assurer la surveillance des maladies multiples en utilisant la même plate-forme peut affaiblir l'attention accordée si les différentes cibles d'âge sont trop nombreuses et si des critères de laboratoire sont ajoutés pour s'adapter aux différentes MEV. Troisièmement, la complexité des rapports peut s'intensifier, tout comme la classification et les tests de laboratoire si une maladie unique remplit les définitions de cas syndromiques pour plusieurs MEV. Déterminer si la surveillance syndromique serait bénéfique et faisable compte tenu de ces considérations.
+
+TABLEAU
+
+Plates-formes de surveillance syndromique pour les MEV
+
+MALADIES ÉVITABLES
+
+PAR LA VACCINATION
+
+SYNDROME CLINIQUE
+
+Diarrhée (dont aqueuse et sanglante)
+
+Ictère aigu
+
+EXEMPLES D'AUTRES CAUSES DE
+
+SYNDROMES NON LIÉS À DES MEV
+
+Rotavirus
+
+Norovirus*
+
+Choléra
+
+Shigellose*
+
+Hépatite A, B, E
+
+Hepatitis C
+
+Fièvre jaune
+
+Leptospirosis
+
+Liver flukes
+
+Fièvre-éruption cutanée
+
+Rougeole
+
+Scarlatine (streptocoque du groupe A)*
+
+Rubéole
+
+Mégalérythème épidémique (parvovirus B19)
+
+Varicelle
+
+Dengue
+
+Fièvre typhoïde
+
+Meningococcus
+
+Roséole infantile (virus humain de l'herpès 6)
+
+Entérovirus (échovirus, virus Coxsackie) Mononucléose infectieuse
+
+Maladie de Kawasaki
+
+Virus Chikungunya
+
+Virus Zika
+
+Paralysie flasque aiguë (PFA)
+
+Polio
+
+Encéphalite japonaise
+
+Herpès zoster
+
+Rage
+
+Entérovirus (virus Coxsackie, échovirus, entérovirus 71)
+
+Virus du Nil occidental
+
+Syndrome de Guillain–Barré
+
+Encéphalite à tiques
+
+Méningo-encéphalite / syndrome encéphalique aigu
+
+Meningococcus
+
+Virus du Nil occidental
+
+Pneumococcus
+
+Encéphalite de Saint-Louis
+
+Haemophilus influenzae de type b (Hib)
+
+Encéphalite japonaise
+
+Syndrome respiratoire aigu sévère / syndrome grippal
+
+Grippe
+
+Virus respiratoire syncytial (VRS)*
+
+Coqueluche
+
+Autres infections respiratoires
+
+Toux persistante
+
+Coqueluche
+
+Autres infections respiratoires (par exemple, Mycoplasma pneumoniae)
+
+Tuberculose
+
+Méningite/ pneumonie / septicémie
+
+Meningococcus
+
+Multiples bactéries et virus
+
+Pneumococcus
+
+Haemophilus influenzae de type b (Hib)
+
+Fièvre typhoïde
+
+Encéphalite japonaise
+
+*Les vaccins ne sont pas disponibles actuellement, mais au stade final de développement.
+
+2. Organiser la surveillance des MEV
+
+ÉTAPES DE LA SURVEILLANCE DES MEV
+
+Pour une surveillance efficace des MEV, il convient de s'aligner avec les objectifs définis, tout en assurant une planification méticuleuse et un suivi constant des activités quotidiennes et ce, à chaque étape de la surveillance. Il est nécessaire de définir en premier lieu l'infrastructure de surveillance, y compris le réseau de signalement et la capacité du laboratoire. Concernant la surveillance continue, les étapes de base incluent:
+
+hh détection des cas hh étude de cas hh collecte d'échantillons et tests de laboratoire hh analyse et interprétation des données hh signalement hh rétroaction.
+
+La figure 1 illustre les étapes de surveillance des MEV à la fois pour la surveillance basée sur les cas et la surveillance globale. La surveillance globale peut inclure, ou non, des activités de vérification et d'analyse des grappes inhabituelles, le prélèvement d'échantillons et des tests en laboratoire. Ces étapes figurent dans les encadrés et sont précédées de tirets dans la figure 1. Une discussion des étapes se situe sous l'image.
+
+hh classification des cas
+
+FIGURE
+
+Étapes de la surveillance des MEV
+
+FONDÉ SUR LA
+
+SURVEILLANCE DES CAS
+
+DÉTECTION DE CAS
+
+Notification & vérification
+
+ÉTUDE DE CAS
+
+SURVEILLANCE
+
+GLOBALE
+
+DÉTECTION DE CAS
+
+SIGNALEMENT DE CAS
+
+COLLECTE
+
+D'ÉCHANTILLON &
+
+TEST EN LABORATOIRE
+
+VÉRIFICATION
+
+& ENQUÊTE
+
+DE GROUPES
+
+INHABITUELS
+
+CLASSIFICATION
+
+DE CAS
+
+COLLECTE
+
+D'ÉCHANTILLON
+
+& TEST EN
+
+LABORATOIRE
+
+SIGNALEMENT
+
+DE CAS
+
+ANALYSE &
+
+INTERPRÉTATION
+
+DES DONNÉES
+
+ANALYSE &
+
+INTERPRÉTATION
+
+DES DONNÉES
+
+RÉTROACTION &
+
+DISSÉMINATION
+
+RÉTROACTION &
+
+DISSÉMINATION
+
+MESURE DE SANTÉ PUBLIQUE
+
+DÉTECTION DES CAS
+
+Les caractéristiques de conception du système de surveillance détermineront la stratégie à adopter pour détecter les cas. Indépendamment de la stratégie, il convient de s'assurer que les membres du personnel clinique et de laboratoire soient prêts et qualifiés à la détection des cas. Il sera également nécessaire de les former sur l'utilisation des définitions de cas normalisées. Développer et fournir des outils pour éduquer et aider les médecins au signalement des cas.
+
+Voici des stratégies de détection des cas pour des systèmes de surveillance de conception différente.
+
+SURVEILLANCE PASSIVE
+
+Concernant la détection des cas par la surveillance passive, mettre en place un réseau de sites de signalement publics et privés et sensibiliser les professionnels de la santé (y compris les agents de santé) aux définitions des cas et procédures de signalement.
+
+Par exemple, les agents de santé devront connaître la fréquence de signalement, le format des rapports, les délais de transmission des rapports et les interlocuteurs du niveau de signalement suivant. La plupart des pays disposent déjà d'un système de surveillance passive, mais le programme devra être renforcé afin d'inclure l'encadrement des sites de signalement et la vérification des rapports initiaux. Le signalement passif est plus efficace lorsque les sites ont désigné un interlocuteur ou un agent des informations de santé chargé de collecter les données et d'assurer le suivi des maladies qui nécessitent un signalement immédiat. Transmettre les instructions aux interlocuteurs en charge de la surveillance portant sur la soumission des rapports en respectant la fréquence définie (hebdomadaire ou mensuelle), même si aucun cas n'a été détecté sur le site. Cela s'appelle « un rapport sans déclaration ». Un rapport sans déclaration assure l'intégralité des données et sert d'outil pour surveiller la qualité du système de surveillance, même si aucune maladie n'est détectée.
+
+SURVEILLANCE ACTIVE
+
+Les maladies pour lesquelles des objectifs d'éradication et d'élimination ont été définis requièrent une surveillance active. Le programme de surveillance des MEV devrait identifier le personnel de surveillance et les gestionnaires au niveau infranational ou national responsables de la surveillance active. Le personnel de surveillance peut également être le personnel du programme de vaccination ayant déjà participé à des activités connexes. Les agents de surveillance devraient établir des relations de travail avec les interlocuteurs des établissements de santé de surveillance désignés et obtenir l'approbation des gestionnaires des établissements de santé. Ils devraient également sensibiliser les médecins au signalement des maladies répondant aux définitions pertinentes des cas. Les agents de surveillance devraient établir un calendrier pour les activités de surveillance active présentant les visites dans chaque établissement désigné en fonction de la probabilité d'apparition de certaines maladies sous surveillance dans un laps de temps donné. Par exemple, si la probabilité de déceler un cas suspect est élevée, l'agent de surveillance peut organiser une visite chaque semaine; si la probabilité est plus faible, les visites peuvent être mensuelles ou trimestrielles.
+
+Lors d'une visite, l'agent de surveillance devrait rencontrer l'interlocuteur en charge de la surveillance afin d'obtenir les listes des cas suspects, visiter tous les services ambulatoires et quartiers d'hospitalisation où des cas suspects pourraient avoir été décelés et examiner les registres de patients et de laboratoire pour tout cas non décelé. Les agents devraient également visiter les services des patients hospitalisés pour discuter avec les chefs de services, les médecins, les infirmières en chef et le personnel du laboratoire des cas spécifiques présentant des signes et des symptômes. L'agent de surveillance devrait alerter l'interlocuteur en charge de la surveillance de l'établissement sur tous les cas manqués, et sensibiliser, à nouveau cette personne, aux critères de signalement. Les agents de surveillance devraient effectuer le suivi et la surveillance active par le biais des visites en remplissant des formulaires sans oublier de noter le nom de l'agent et la date de la visite sur les registres. Les cas suspects devraient faire l'objet d'une enquête et un échantillon de laboratoire approprié devrait être obtenu dans le but de réaliser des tests dans un délai approprié afin de déceler toute maladie.
+
+SURVEILLANCE À BASE COMMUNAUTAIRE
+
+La surveillance à base communautaire consiste à établir un réseau d'informateurs qui peut inclure les guérisseurs traditionnels, les agents de santé communautaires, les sages-femmes, les pharmaciens et les chefs de village.
+
+Les informateurs communautaires devraient être sensibilisés aux signes et symptômes dont ils ont besoin pour signaler un cas à l'établissement de santé local ou à l'interlocuteur en charge de la surveillance. Des ressources supplémentaires peuvent être nécessaires pour satisfaire aux obligations de signalement, comme des incitatifs ou un réseau de téléphonie cellulaire. Il arrive fréquemment que les définitions des cas signalés par ces informateurs soient simplifiées, de ce fait, les agents de surveillance de la santé publique devront s'assurer que les cas signalés correspondent réellement à la définition d'un cas suspect utilisée au sein du pays.
+
+SURVEILLANCE SENTINELLE
+
+La surveillance auprès des sites sentinelles doit permettre de définir l'épidémiologie des maladies, y compris le / les groupe(s) d'âge touché(s), la répartition géographique et la saisonnalité. Dans l'ensemble, les sites sentinelles devraient être choisis en s'appuyant sur la probabilité d'y déceler des cas, tels que les hôpitaux de référence ou les autres grands hôpitaux.
+
+Les sites sentinelles peuvent également inclure d'autres établissements non liés à la santé, tels que des écoles ou des installations militaires. Les sites devraient disposer de la capacité clinique et laboratoire nécessaire à la confirmation des cas.
+
+DÉFINITIONS ET CLASSIFICATION FINALE DES CAS Une définition de cas standard est un ensemble convenu de critères utilisés pour déterminer si une personne souffre d'une maladie ou a été exposée à un agent pathogène particulier. Les définitions de cas sont utilisées pour définir un cas, comme suspect, probable ou confirmé. La normalisation des définitions permet de s'assurer que chaque cas soit détecté et signalé de la même manière. Dès lors qu'un cas répond à la définition de cas standard de notification, il est défini comme un cas suspect. Parfois une définition de cas syndromique au sens plus large est utilisée pour améliorer la probabilité de déceler des cas d'intérêt, bien que d'autres maladies similaires pourraient également être détectées.
+
+Au cours des enquêtes sur les cas, les critères cliniques, les tests de laboratoire et les données épidémiologiques servent à confirmer le cas.
+
+Une définition de cas suspect inclut toujours les principaux signes et symptômes d'une maladie évitable par la vaccination (comme de la fièvre - une éruption pour la rougeole ou une PFA pour la poliomyélite).
+
+Elle peut également inclure des critères d'âge (comme un âge < 15 ans pour la PFA ou un âge ≤ 28 jours pour le tétanos néonatal). Lors d'épidémies, des critères supplémentaires peuvent être ajoutés pour spécifier le lien avec l'épidémie; ces critères peuvent inclure la résidence dans une zone géographique déterminée ou une date de début de la maladie se situant au cours de la période d'épidémie.
+
+Fondé sur les résultats en laboratoire ou un lien épidémiologique, un cas suspect devrait habituellement être soit classé comme « confirmé en laboratoire »
+
+soit comme « rejeté » (autrement dit, non considéré comme un cas). Pour certaines MEV, les classifications de cas supplémentaires peuvent être utilisées lorsque des doutes subsistent quant au fait qu'il s'agisse d'un cas avéré. Par exemple, ceux qui satisfont aux critères cliniques, mais pour lesquels les résultats définitifs des tests de laboratoire ne sont pas connus peuvent être classés comme « cliniquement compatibles ». Le lien épidémiologique est défini différemment pour chaque maladie évitable par la vaccination en se basant sur son mode de transmission, mais il inclut généralement une certaine proximité avec un cas confirmé au cours d'une période infectieuse.
+
+ÉTUDE DE CAS
+
+La prochaine étape de la surveillance est une étude détaillée des cas et le prélèvement d'échantillons. En fonction du système de santé local, ces tâches peuvent être déléguées au personnel de surveillance de la santé publique désigné, ou aux médecins ou encore aux interlocuteurs de l'établissement de santé. Concernant les maladies bactériennes sous surveillance, les médecins devraient se charger de la collecte de l'échantillon, dans la mesure où il est peu probable que le personnel de santé publique recueille un échantillon avant le début du traitement antibiotique.
+
+Conformément aux directives nationales, certaines MEV (comme la poliomyélite, la rougeole, la rubéole ou le tétanos néonatal) peuvent nécessiter une étude détaillée du cas dans un délai spécifié après réception et vérification du signalement. Dans le cadre de l'enquête, les agents de surveillance ou les médecins remplissent le formulaire d'enquête pour les cas pertinents et recueillent l'échantillon de laboratoire nécessaire. Le hh confirmer (ou rejeter) le cas selon les définitions de cas établies hh déterminer la source de l'infection hh évaluer l'ampleur de l'infection (limitée à un cas ou une grappe de cas au sein de la communauté) hh collecter des informations pour permettre une analyse épidémiologique appropriée et la réponse potentielle.
+
+PRISE EN CHARGE DES CAS
+
+La prise en charge des individus n'est pas un objectif explicite de la surveillance de santé publique, y compris la surveillance des MEV (3). La surveillance des MEV ne devrait pas remplacer les procédures cliniques de routine pour le diagnostic et le traitement.
+
+Les traitements pour la plupart des MEV ont établi des protocoles cliniques publiés en complément des documents d'orientation nationaux. Si une personne, souffrant potentiellement d'une maladie évitable par la vaccination, est détectée par le système de surveillance, le personnel responsable de la surveillance des MEV devrait orienter la personne vers des soins cliniques, le cas échéant.
+
+La prévention et le traitement peuvent se chevaucher pour quelques MEV, la santé publique jouant un rôle de liaison. Par exemple, la santé publique peut administrer de la vitamine A aux personnes atteintes de la rougeole au cours des épidémies. Dans le cadre de la surveillance et de la riposte aux MEV hautement infectieuses, les formulaire d'enquête sur les cas devrait être rempli complètement, y compris le nom du patient, sa date de naissance ou son âge, son sexe, son lieu de résidence, son état vaccinal ou la date de la dernière vaccination, la date de prélèvement des échantillons de laboratoire, les signes et les symptômes et le lieu de l'infection ou l'historique des déplacements. Les objectifs de l'étude de cas comprennent généralement:
+
+cliniques et les hôpitaux devraient mettre en place des procédures de contrôle de l'infection pour empêcher la propagation de l'infection dans les établissements de santé et de ce fait, empêcher l'amplification de l'épidémie. Par exemple, les cliniques et les hôpitaux pourraient isoler les patients souffrant de la rougeole et des oreillons au cours de la période infectieuse (16).
+
+Enfin, pour quelques MEV, les contacts proches des cas identifiés grâce à des enquêtes de cas pourraient se voir administrer des traitements prophylactiques visant à prévenir la maladie. Les traitements prophylactiques pourraient inclure des antibiotiques pour les maladies telles que le méningocoque et la diphtérie, de l'immunoglobuline pour l'hépatite A et le vaccin contre la rougeole dans les 72 heures qui suivent l'exposition
+
+TESTS DE LABORATOIRE
+
+Si des tests de laboratoire sont requis pour la confirmation d'un cas, cette capacité s'impose aux laboratoires des hôpitaux nationaux, régionaux ou individuels. Le personnel de laboratoire doit être embauché et formé selon des protocoles normalisés, les fournitures et le matériel de laboratoire doivent être disponibles et fonctionnels, et le système de transport et de stockage des échantillons doit être opérationnel.
+
+S'assurer que les laboratoires du système de surveillance disposent de la capacité nécessaire à la conception de la surveillance des MEV à caractère épidémique.
+
+La surveillance de certaines MEV comprend la participation à des réseaux de laboratoires mondiaux (voir encadré 5). Pour des raisons historiques, la capacité mondiale de laboratoire pour la surveillance virologique est mieux établie que pour la surveillance bactériologique. La plupart des pays disposent de la capacité de test pour la poliomyélite, la rougeole et la rubéole, alors que la capacité à accomplir la culture bactérienne et d'autres techniques doit être mise en place ou renforcée.
+
+L'accréditation formelle des laboratoires est assurée par les réseaux de laboratoires mondiaux, mais l'accréditation internationale n'est pas obligatoire pour la participation du laboratoire à la surveillance des MEV. Des procédures rigoureuses de suivi de la qualité des laboratoires devraient être mises en œuvre.
+
+Les procédures d'assurance de la qualité en laboratoire s'appliquent au processus de test (par exemple, l'assurance qualité externe, ensemble de mesures de contrôle, réévaluations périodiques et visites régulières sur place), alors que les procédures de contrôle de la qualité » portent sur les résultats de laboratoire, tels que les contrôles des tests internes. Les deux procédures sont encouragées en guise de composantes du laboratoire de surveillance.
+
+Les principales méthodes de tests utilisées dans le cadre de la surveillance des MEV sont décrites dans le tableau 4. Pour de nombreuses MEV, plus d'une méthode de laboratoire peut être utilisée pour confirmer le diagnostic en utilisant un algorithme dicté par la prévalence relative de la maladie. Le laboratoire peut procéder à des tests en série, où un échantillon est d'abord testé pour déceler un agent pathogène (comme la rougeole dans la surveillance fièvre-éruption) et si le test initial est négatif, l'échantillon est ensuite testé pour déceler un autre pathogène (comme la rubéole), et ainsi de suite. L'ordre des tests peut être déterminé par la prévalence relative des MEV, l'existence d'un vaccin contre la maladie évitable par la vaccination, ou l'importance des MEV en termes de santé publique lorsque les ressources financières sont limitées.
+
+Certaines méthodologies, comme la réaction de polymérisation en chaîne, peuvent être multiplexées, ce qui signifie que plusieurs pathogènes pourraient être testés simultanément à l'aide d'un seul échantillon.
+
+Par exemple, un prélèvement rhinopharyngé peut être testé afin de déceler plusieurs pathogènes respiratoires comme la grippe et le virus respiratoire syncytial.
+
+Les laboratoires procèdent parfois à une caractérisation plus détaillée des pathogènes des MEV en complément des tests de diagnostic décrits dans le tableau 4. Le sérotypage ou le génotypage donne des informations plus spécifiques sur le type ou la souche de l'agent pathogène infectant, ce qui peut être important dans la mesure où cela informe la stratégie du programme, comme le suivi de l'élimination de la souche virale de la poliomyélite et de la rougeole. Ces méthodes peuvent également guider les choix des formulations du vaccin, comme lors du choix entre les vaccins contre la grippe saisonnière ou des vaccins antipneumococciques conjugués.
+
+Enfin, décider si des échantillons seront rejetés ou conservés par le laboratoire. Cela dépend des ressources, de l'espace de congélation disponible et de l'usage futur potentiel des échantillons pour connaître la souche ou le sérotype ou à d'autres fins. Pour la poliomyélite, les échantillons stockés sont susceptibles de menacer les efforts d'éradication, et nécessitent des ressources substantielles pour l'élimination des échantillons provenant de la banque de tissus biologiques tout en gardant le confinement de la poliomyélite à l'esprit.
+
+De plus, la conservation à long terme d'échantillons biologiques représente un problème d'éthique qu'il convient de prendre en compte, comme la protection des données personnelles et le partage international de matériel biologique (18).
+
+TABLEAU
+
+Méthodologies principales des tests de laboratoire pour la surveillance des MEV
+
+MÉTHODES DE
+
+LABORATOIRE
+
+MÉCANISME
+
+BIOLOGIQUE
+
+TYPE
+
+D'ÉCHANTILLON
+
+Microscopie/ culture
+
+Croissance de l'agent pathogène en milieu de culture;
+
+visualisation directe des agents pathogènes dans les tissus infectés
+
+Isolement du virus en culture cellulaire
+
+Détection des anticorps: Essai immuno-enzymatique (ELISA)
+
+/ dosages immuno-enzymatiques (EIA),
+
+Immunofluorescence
+
+AVANTAGES
+
+INCONVÉNIENTS
+
+MEV
+
+Site stérile: sang, liquide céphalorachidien.
+
+Norme souvent considérée comme la référence;
+
+nécessité de technologies de laboratoire de pointe moins importante;
+
+haute spécificité (sites stériles)
+
+Faible sensibilité;
+
+faible spécificité des sites non stériles;
+
+contamination ou échantillons de qualité médiocre;
+
+plusieurs étapes nécessitant plusieurs jours; affecté par l'utilisation des antimicrobiens
+
+Haemophilus influenzae;
+
+méningocoque;
+
+pneumocoque;
+
+diphtérie; oreillons;
+
+coqueluche;
+
+poliomyélite;
+
+fièvre jaune
+
+Amplification du virus dans les lignées cellulaires continues
+
+Selles; urine;
+
+prélèvement pharyngé;
+
+prélèvement rhinopharyngé ou aspiré; sang
+
+Isolat de virus pouvant être utilisé pour une analyse ultérieure (séquençage, séroneutralisation)
+
+Laborieux; matériel de laboratoire spécialisé nécessaire;
+
+long; cher
+
+Poliovirus; virus de la rougeole; virus de la rubéole;
+
+virus de la fièvre jaune; virus de l'encéphalite japonaise; virus des oreillons; virus de l'hépatite A;
+
+virus de la grippe;
+
+virus varicellezona
+
+Détection des anticorps IgM aux agents pathogènes, ou augmentation du titre d'anticorps
+
+IgG
+
+Sang (sérum);
+
+salive; liquide céphalorachidien
+
+Spécificité élevée pour la plupart des agents pathogènes;
+
+facilité de prélèvement des échantillons et des tests; IgM presque toujours détectable chez le patient souhaitant de bénéficier de soins médicaux
+
+Absence de sensibilité ou de spécificité pour certains agents pathogènes;
+
+interprétation pouvant être difficile (par exemple des anticorps maternels présents chez les bébés); moment de l'exposition conduisant à la formation d'anticorps pas toujours clair;
+
+résultats faussement positifs grâce à la stimulation nonspécifique, système immunitaire, réactivité ou facteur rhumatoïde; résultats faussement négatifs en raison de la concurrence non spécifiques IgG;
+
+variation naturelle entre les patients;
+
+IgM transitoire ou persistant
+
+Hépatite A, B*;
+
+rougeole; oreillons;
+
+coqueluche;
+
+rubéole; fièvre jaune; encéphalite japonaise, virus varicelle-zona
+
+TABLEAU
+
+MÉTHODES DE
+
+LABORATOIRE
+
+MÉCANISME
+
+BIOLOGIQUE
+
+TYPE
+
+D'ÉCHANTILLON
+
+Détection de l'antigène: Tests d'agglutination;
+
+immunochromatographique;
+
+ELISA / EIA, immunohistochimie, transfert de Western
+
+Détection des antigènes microbiens dans les fluides corporels ou tissus
+
+Test des acides nucléiques:
+
+réaction de polymérisation en chaîne (y compris génotypage, sérotypage, et tests de sensibilité aux antiviraux)
+
+Détection et/ou caractérisation de l'acide nucléique (ADN /
+
+ARN) des agents pathogènes infectieux dans le corps
+
+Tests fonctionnels:
+
+séroneutralisation, inhibition-hémagglutination, fixation du complément, agglutination, tests de sensibilité aux antiviraux
+
+Détection d'activités spécifiques résultant de la liaison des anticorps spécifiques aux antigènes viraux; détection des anticorps antiviraux en bloquant l'hémagglutination induite par le virus; capacité des anticorps aux antiviraux à fixer le complément, empêchant la lyse des érythrocytes de l'indicateur
+
+AVANTAGES
+
+INCONVÉNIENTS
+
+MEV
+
+Sang; liquide céphalorachidien;
+
+selles; tissus
+
+Peut être un test rapide
+
+Sensibilité plus faible;
+
+peut être difficile à interpréter (par exemple inspection visuelle pour l'agglutination)
+
+Hépatite B;
+
+Haemophilus influenzae, méningocoque;
+
+pneumocoque;
+
+rotavirus; virus varicelle-zona;
+
+Grippe; rubéole
+
+Sang; liquide céphalorachidien;
+
+OP; selles;
+
+tissus; lésions;
+
+salive; liquide amniotique
+
+Petites quantités d'acides nucléiques détectables;
+
+très sensible;
+
+organisme viable non nécessaire; moins affecté par l'utilisation des antimicrobiens;
+
+multiplexage possible
+
+Plus faible spécificité possible (faux positifs); ne peut pas distinguer une infection de la colonisation;
+
+nécessite des laboratoires et des technologies plus sophistiqués
+
+Haemophilus influenzae, méningocoque;
+
+pneumocoque;
+
+diphtérie;
+
+rougeole;
+
+coqueluche;
+
+poliomyélite;
+
+fièvre jaune;
+
+hépatite B, grippe
+
+A; rubéole
+
+Neutralisation associée avec la protection contre l'infection par le virus; norme à partir de laquelle les autres tests sérologiques sont comparés
+
+Complexe; cher
+
+Poliovirus;
+
+rougeole;
+
+encéphalite japonaise;
+
+oreillons; virus varicelle-zona;
+
+hépatite A;
+
+hépatite B;
+
+grippe, fièvre jaune, rotavirus
+
+* Détection des anticorps contre l'hépatite B seule ne permet pas de distinguer entre l'infection et l'immunité.
+
+ENCADRÉ
+
+Réseaux de laboratoires mondiaux de surveillance de l'OMS
+
+L'OMS coordonne des réseaux de laboratoires mondiaux pour appuyer la surveillance de plusieurs MEV, y compris la poliomyélite, la rougeole, la rubéole, fièvre jaune, l'encéphalite japonaise, le rotavirus et les maladies bactériennes invasives (MBI) (19)(20). Les réseaux de laboratoires mondiaux améliorent la fiabilité des données utilisées dans les programmes d'éradication et d'élimination, permettent la comparaison valable de l'épidémiologie et de l'incidence de la maladie évitable par la vaccination au sein du pays et démontrent l'exhaustivité des données de surveillance sur lesquelles reposent les décisions politiques de vaccination, tant au niveau national que mondial. La plupart des réseaux de laboratoires mondiaux de surveillance adoptent une approche progressive basée sur la structuration du Réseau mondial de laboratoires pour la poliomyélite mis en place à la fin des années 1980.
+
+Les laboratoires nationaux sont formés aux tests appliqués aux MEV et sont soutenus par des laboratoires régionaux de référence pour les tests de confirmation et de contrôle de la qualité/assurance qualité. Quelques laboratoires spécialisés mondiaux effectuent des tests sélectifs avancés comme le typage moléculaire.
+
+Appartenir à un réseau mondial de laboratoires de détection des MEV présente plusieurs avantages. Le premier est la normalisation des tests de laboratoire et des critères de diagnostic. Le second concerne le fait que les réseaux de laboratoires fournissent un ensemble de critères uniformes pour évaluer l'exactitude et le professionnalisme des tests de laboratoire, en insistant sur l'assurance de la qualité et le contrôle de la qualité de manière continue. Troisièmement, les réseaux de laboratoire permettent la mise en œuvre d'activités efficaces en combinant les résultats de la surveillance de plusieurs pays et en normalisant le signalement auprès de l'OMS et d'autres parties prenantes. Bien que certains pays disposent de laboratoires bactériens dans le cadre des réseaux de surveillance sentinelle comme MBI, aucun réseau de laboratoires bactériens n'existe pour des maladies telles que la diphtérie et la coqueluche. Un soutien supplémentaire est nécessaire pour développer la capacité des laboratoires bactériens et concrétiser la confirmation exacte généralisée de ces maladies.
+
+FIGURE
+
+Informations sur la surveillance des MEV et traitement des échantillons
+
+MINISTÈRE DE LA SANTÉ, OMS ET UNICEF
+
+LABORATOIRE DE
+
+RÉFÉRENCE
+
+PROGRAMME NATIONAL DE
+
+SURVEILLANCE DES MEV
+
+HÔPITAUX
+
+NATIONAUX
+
+SITES
+
+SENTINELLES
+
+SURVEILLANCE
+
+PROVINCIALE DES MEV
+
+HÔPITAUX
+
+PROVINCIAUX
+
+SURVEILLANCE DES MEV
+
+AU NIVEAU DU DISTRICT
+
+HÔPITAUX
+
+DE RÉFÉRENCE
+
+ÉTABLISSEMENT
+
+DE SANTÉ
+
+LABORATOIRE
+
+DE TEST
+
+VILLAGES
+
+AGENTS DE SANTÉ BASÉS
+
+DANS LA COMMUNAUTÉ (CBHW)
+
+Établissement destiné aux enquêtes
+
+Établissement destiné au signalement
+
+Laboratoire
+
+Enquête
+
+Signaler un cas
+
+Rétroaction
+
+Écoulement d'échantillon
+
+Recherche active
+
+NOTIFICATION ET SIGNALEMENT DES CAS
+
+La notification est le processus par lequel l'informateur (médecin ou personnel de santé) informe le système de santé publique de la présence d'un cas suspect. Le signalement est le processus par lequel une unité de surveillance de niveau inférieur informe le prochain niveau de la détection de cas suspects et confirmés à une fréquence régulière de déclaration.
+
+La notification des maladies transmissibles, y compris les MEV, se produit à une fréquence définie, basée sur des directives nationales. La notification immédiate peut être faite par téléphone, SMS (message écrit), courrier électronique ou version papier de l'établissement de santé ou des informateurs communautaires et autorités de santé publique. Une notification immédiate ou quasi immédiate est habituellement nécessaire pour les MEV à potentiel épidémique et d'autres MEV nécessitant une action de santé publique en temps opportun, comme la rougeole, la poliomyélite ou la diphtérie (pour accéder rapidement à l'anatoxine diphtérique). La vérification des cas avec notification immédiate est nécessaire et se produit généralement avant ou en parallèle du processus d'étude du cas. La vérification nécessite de communiquer avec l'établissement de santé pour s'assurer que les signalements initiaux répondent aux définitions de cas suspects.
+
+La plupart des pays envoient le formulaire de rapport conjoint OMS / UNICEF en guise de déclaration annuelle globale de la plupart des MEV, de ce fait, l'OMS peut évaluer les progrès réalisés en fonction des objectifs de contrôle et de l'impact du PEV. Concernant les maladies pour lesquelles des objectifs mondiaux d'éradication et d'élimination ont été définis, comme la poliomyélite et la rougeole, les données basées sur les cas sont régulièrement transmises à l'OMS. Certaines MEV peuvent nécessiter un signalement mondial immédiat à l'OMS, tel que cela est prescrit par le Règlement sanitaire international.
+
+COMMUNICATION ET COMMENTAIRES POUR
+
+LA SURVEILLANCE DES MEV
+
+Un élément essentiel de la surveillance des MEV repose sur le fait que les données sont analysées et communiquées à titre indicatif pour l'action de santé publique en temps opportun et permettent de prendre des décisions de plus grande ampleur ayant trait à la politique et la stratégie de vaccination.
+
+La communication entre les différents niveaux du système de surveillance est essentielle et un plan détaillé qui aborde les points « Qui, Quoi, Où, Quand et Comment » devrait être joint aux protocoles de surveillance nationale. Une communication fréquente et des commentaires réguliers devraient circuler en amont et en aval de la chaîne de surveillance entre les informateurs, les agents de surveillance, les superviseurs et le personnel de laboratoire. Quelques cas de MEV, comme la poliomyélite et la rougeole,
+
+Un rapport hebdomadaire ou mensuel est habituellement exigé pour toutes les MEV, l'objectif étant d'évaluer les tendances, la saisonnalité et la répartition géographique. Le signalement hebdomadaire ou mensuel se fait généralement par le biais d'un rapport, en version papier ou par voie électronique, rédigé par les sites désignés et qui inclut généralement une notification à zéro en l'absence de maladie. Les autorités de santé publique devraient vérifier que les cas signalés de MEV répondent à la définition de cas standard afin de déterminer si une enquête est nécessaire pour les cas signalés du fait de l'augmentation des cas observés.
+
+doivent être signalés en amont de la chaîne de transmission immédiatement par téléphone ou par SMS afin d'assurer un déclenchement rapide du protocole d'enquête et d'intervention par le personnel de santé publique. Les résultats de laboratoire et les commentaires sur les rapports de surveillance devraient être partagés avec des informateurs et des unités de signalement par le biais d'une communication directe, de bulletins de surveillance et de la liaison des bases de données grâce à l'utilisation d'identifiants uniques. Les résultats du suivi et de l'évaluation de la surveillance devraient être partagés régulièrement parmi le personnel de surveillance et les parties prenantes lors des réunions d'examen des données organisées par les responsables de la surveillance.
+
+Il est également important d'examiner les communications avec les intervenants externes en charge de la surveillance. La communication, en temps voulu, devrait franchir les frontières nationales et du district pour les maladies à potentiel épidémique et les informations devraient être transmises aux autorités internationales pour les maladies d'importance mondiale (par exemple, signalement de la poliomyélite et de la rougeole auprès de l'OMS).
+
+Partager régulièrement les résultats de la surveillance et les réalisations du programme avec les intervenants externes est également un élément essentiel de la surveillance des MEV. Une diffusion plus large des données de surveillance auprès de la communauté de santé publique dans le cadre de publications scientifiques permet également de mieux comprendre l'épidémiologie de la maladie et les caractéristiques du vaccin, éléments qui peuvent être utilisés pour apporter des modifications à la politique de vaccination.
+
+LOGISTIQUE DE LA SURVEILLANCE DES MEV
+
+Pour qu'un système de surveillance des MEV fonctionne efficacement, il convient de prendre en compte et de prêter une attention particulière à de nombreux composants logistiques clés, à la fois dédiés au déploiement, mais également au maintien de la surveillance. Ces éléments logistiques sont décrits ci-après.
+
+PERSONNEL
+
+La surveillance des MEV nécessite une dotation adéquate afin de générer et d'interpréter les données sur la qualité. La plupart des systèmes de surveillance devront être gérés par le personnel suivant, bien que certaines tâches puissent être menées à bien par la même personne: superviseurs, agents de surveillance, interlocuteurs en charge de la surveillance de l'établissement pour la détection des cas, personnel de laboratoire et gestionnaires de données ou analystes de données. Les rôles et responsabilités de chaque membre du personnel, y compris la structure de surveillance, devraient être définis à l'avance afin de s'assurer que l'équipe de surveillance soit performante.
+
+La formation du personnel est essentielle au début de la surveillance, tout comme l'est la formation périodique de remise à niveau, pour assurer le déploiement d'un système sensible et des données précises. En outre, les médecins devraient être sensibilisés aux définitions de cas et aux procédures de signalement afin qu'ils puissent coordonner la transmission des rapports avec le personnel de surveillance pour tenir compte des cas potentiels de MEV. Idéalement, les étudiants débutant dans le domaine médical ou infirmier devraient être formés sur l'importance de la surveillance ainsi que leur rôle en matière de surveillance, sans oublier les définitions de cas des maladies sous surveillance et la structure hiérarchique. Les responsabilités de chacun devraient être clairement définies, comme la personne en charge d'enquêter sur les cas, celle responsable du prélèvement des échantillons ou encore celle concernée par les visites dans le cadre d'une surveillance active.
+
+DISPOSITIFS DE SURVEILLANCE
+
+Des outils de collecte des données, y compris les formulaires en version papier ou format électronique sur des appareils comme les téléphones portables, doivent être disponibles en quantités suffisantes en tout temps. Le matériel nécessaire à la collecte des échantillons devrait être disponible au sein des sites de dépistage des cas et peut inclure le matériel de prélèvement sanguin, les tubes de collecte du sang ou des selles, le matériel pour les prélèvements pharyngés et les milieux de transport ou les kits pour la collecte du liquide céphalorachidien. Des blocs de glace ou des boîtes frigorifiques seront nécessaires pour le transport de certains types d'échantillons. Les laboratoires ont besoin de réactifs, de fournitures et d'équipements pour les analyses régulières des échantillons provenant de la surveillance et des fournitures supplémentaires peuvent être requises lors d'épidémies. Accorder une attention particulière à la commande des réactifs de laboratoire et des fournitures pour éviter les ruptures de stock.
+
+TRANSPORT
+
+Établir un plan pour le transport des échantillons de laboratoire et le personnel de surveillance et assurer un financement adéquat pour la mise en œuvre. Par exemple, allouer de l'argent aux enquêtes de cas et au transport des échantillons vers les laboratoires de référence nationaux ou régionaux. Des voitures, camions ou motos réservés à cet usage peuvent être nécessaires pour mener à bien les activités de surveillance et de supervision. Il est éventuellement possible de définir le partage d'une voiture ou d'un camion avec d'autres unités du Ministère de la Santé. Il est préférable de mettre en place des mécanismes de transport de base et des protocoles pour le transport de l'échantillon virologique et bactériologique qui suivent les règlements locaux sur la biosécurité.
+
+TECHNOLOGIES DE L'INFORMATION ET
+
+DES COMMUNICATIONS
+
+Faciliter la communication entre les agents et les superviseurs grâce à l'utilisation de téléphones mobiles dédiés ou à la mise à disposition d'une connexion.
+
+Il sera nécessaire de disposer d'ordinateurs et d'un accès à Internet pour la communication et l'analyse des données. Les lacunes dans l'un de ces composants peuvent entraîner un affaiblissement du système de surveillance et compromettre la capacité du système de surveillance à atteindre ses objectifs.
+
+SUPERVISION ET SURVEILLANCE
+
+À chaque niveau, les rapports de cas devraient être étudiés et les rapports inhabituels devraient être vérifiés avant d'être transmis au niveau suivant. Les visites sur le terrain par les superviseurs sont recommandées, non seulement, pour l'assurance de la qualité, mais également pour soutenir et reconnaître l'importance du rôle des équipes de terrain et construire une équipe
+
+ENCADRÉ reposant sur la cohésion et l'engagement (4). Les sites qui n'assurent pas le signalement ou ne répondent pas aux objectifs de surveillance définis par les indicateurs de performance devraient être une priorité en termes d'encadrement. L'encadrement peut être intégré pour plusieurs MEV et la surveillance, plus large, des maladies transmissibles.
+
+FINANCEMENT
+
+Une surveillance de haute qualité nécessite des ressources financières suffisantes et continues en matière de dotation adéquate du personnel et du matériel et de mise en œuvre des activités. Une surveillance ne disposant pas d'un financement suffisant souffrira probablement en termes de qualité et d'exhaustivité.
+
+Concernant la surveillance longitudinale des MEV, il convient de définir un budget pluriannuel détaillé reposant sur un financement dédié à la mise en œuvre, avec des rubriques pour les visites de supervision, les réunions d'harmonisation des données et la production des rapports mensuels de surveillance. Enfin, concernant les MEV à potentiel épidémique, le financement devrait être réservé à la mobilisation rapide des ressources pour les enquêtes et la riposte aux épidémies.
+
+Éléments clés d'un système de surveillance des MEV
+
+Un système efficace de surveillance des MEV doit reposer sur les composants suivants:
+
+hh interlocuteurs et agents de surveillance au sein de l'établissement de santé et au niveau communautaire hh personnel de surveillance, gestionnaires et soutien administratif au niveau national et du district hh matériel de formation et outils de travail décrivant les procédures de rédaction des rapports, les définitions de cas et d'autres informations hh outils de signalement comme les formulaires d'enquêtes sur les cas, les registres de surveillance active, les appareils mobiles et le temps de diffusion hh matériel informatique et logiciels de saisie et de gestion des données (au niveau du district et au niveau national) hh prélèvement des échantillons, traitement sur le terrain et fournitures d'entreposage au froid tels que des réfrigérateurs et des blocs de glace hh service de messagerie pour le transport des échantillons au laboratoire d'essai hh matériel de test de laboratoire, réactifs et outils pour assurer la liaison des résultats des tests avec les données épidémiologiques hh moyens de transport (véhicules et carburant) pour permettre au personnel de surveillance de se rendre sur les sites de signalement hh gestionnaires et analystes de données (au niveau du district et au niveau national) hh outils et tableaux de visualisation de données hh plan et matériel de diffusion des données (rapports épidémiologiques et bulletins, ateliers, etc.) hh outils de suivi et d'évaluation pour évaluer et améliorer la qualité de la surveillance.
+
+3. Utilisation, qualité, et données de surveillance des MEV
+
+Le succès de la surveillance des MEV repose sur des données de grande qualité, y compris le lien entre les données épidémiologiques et les résultats de laboratoire.
+
+Dans cette section, nous décrivons brièvement les principales considérations relatives aux données
+
+TYPE DE DONNÉES DE SURVEILLANCE
+
+En général, les données de surveillance des MEV sont regroupées en deux catégories principales:
+
+hh données individuelles (basées sur les cas) et données de registre de riposte à une épidémie, qui comprend des informations de niveau individuel pour un sousensemble défini de variables.
+
+inhérentes à la surveillance des MEV. Il conviendrait de prendre en compte ces questions dès le début des discussions portant sur la création ou la mise à niveau de la surveillance des MEV.
+
+hh données cumulatives (comme les rapports hebdomadaires des établissements sur le nombre total de cas selon l'âge et le sexe) et données du rapport de synthèse (tels que le nombre total de cas déclarés par région au cours d'une épidémie).
+
+ÉLÉMENTS DE DONNÉES RECOMMANDÉS
+
+Chaque chapitre spécifique à la maladie dans ces lignes directrices recommande un ensemble d'éléments de données à saisir dans les outils de signalement pour la surveillance de la maladie évitable par la vaccination.
+
+Cette section présente des recommandations pour les éléments de données concernant toutes les MEV.
+
+Pour les données basées sur des cas, il est essentiel que chaque cas soit identifié par un identifiant unique plutôt que par un nom, par exemple un numéro d'identification. Les noms ne sont généralement pas uniques et ne sont donc pas appropriés à l'association des données cliniques aux résultats des tests de laboratoire. Des éléments de données recommandés supplémentaires ont été définis pour quelques MEV en s'appuyant sur leur profil épidémiologique particulier (par exemple, informations liées à la naissance pour le tétanos néonatal). Il convient de veiller à inclure les éléments de données qui permettent d'assurer le suivi en amont au niveau local, par exemple le nom de l'agent de surveillance en charge de l'enquête, les coordonnées du cas et le nom de l'établissement. Ce point n'est pas abordé dans les chapitres spécifiques à la maladie, mais il devrait être inclus dans les formulaires d'enquête.
+
+Concernant les systèmes de surveillance dédiés au calcul de l'incidence de la maladie, prévoir de collecter les données pour la population dans son ensemble, comme la population totale et la taille de la population stratifiée selon l'âge (naissances vivantes, enfants survivants, taille de la population de moins de 15 ans).
+
+Limiter la collecte des données uniquement aux éléments de données qui sont absolument nécessaires.
+
+Exclure tout élément de données ne correspondant pas à un objectif d'analyse clair et tout élément n'ayant aucun impact sur l'intervention de santé publique. Chaque élément de données supplémentaire ajoute à la charge de la collecte des données, ce qui peut avoir un impact négatif sur les rapports, réduire la qualité des données et compromettre les principaux objectifs du système de surveillance.
+
+COLLECTE ET GESTION DES DONNÉES
+
+Il existe de nombreuses méthodes pour la collecte, la saisie et la gestion des données (21). Les données sont généralement recueillies à l'aide des formulaires papier ou des appareils mobiles tels que les téléphones mobiles ou tablettes. Si la collecte est réalisée avec le formulaire papier, une étape supplémentaire est requise pour la saisie des données dans une base de données informatique. Les dispositifs de collecte mobiles peuvent être connectés à la base de données centrale ou fonctionner hors ligne, auquel cas les données devront être synchronisées à un stade ultérieur.
+
+Lors de la planification de la mise en place d'un nouveau programme de surveillance, il est essentiel de définir la manière dont les données seront collectées et transférées par le biais du système de surveillance, y compris entre des personnes, des bases de données informatiques et des applications.
+
+Que les données soient saisies sur un appareil mobile ou copiées à partir d'un formulaire papier dans un ordinateur, les formulaires de saisie de données électroniques doivent correspondre au formulaire de déclaration du cas et permettent seulement la saisie des valeurs valides. Par exemple, le champ réservé à la saisie de l'âge du patient devrait permettre uniquement la saisie de chiffres correspondant à une certaine plage. Les champs de texte libre devraient, dans la mesure du possible, être évités. Des procédures de validation des données supplémentaires, pour comparer les informations recueillies selon différentes variables, doivent également être ajoutées au système d'information. Par exemple, la date de naissance devrait toujours être antérieure à la date d'apparition de la maladie. Demander que tous les éléments de données du formulaire d'enquête soient complétés. Si un élément est inconnu, il est préférable d'ajouter la mention « Inconnu » plutôt que de laisser le champ vide. Il est préférable de procéder à des contrôles de la qualité de données pouvant être effectués sur demande ou lorsque la saisie des données est terminée et de contrôler de manière régulière pour évaluer et améliorer la qualité des données.
+
+Une des erreurs les plus fréquentes lors de la collecte des données se produit lors du processus de création d'un identifiant unique pour les nouveaux cas, de la récupération d'un élément critique, de la mise à jour ou de la liaison avec d'autres sources de données. Par exemple, si deux agents de santé collectent séparément sur deux dispositifs mobiles fonctionnant en mode hors connexion, les identifiants des cas générés sur ces deux dispositifs devraient être différents pour éviter les doublons lors de la synchronisation des périphériques avec la base de données centrale. La solution pourrait être d'intégrer un identifiant de matériel unique à chaque identifiant de cas. De même, si chaque district, dans un pays donné, enregistre des cas à l'aide de numéros supplémentaires considérés comme des identifiants de cas, ceux-ci se traduiront par des enregistrements en double une fois rassemblés dans la base de données centrale. C'est pourquoi il convient de ne pas attribuer plus d'un identifiant de cas à la même personne. Prévoir de définir l'identifiant de manière à ce qu'il soit attribué au patient, au dossier médical du patient et aux échantillons du patient, que cela soit au sein de l'établissement de santé et à l'extérieur de celuici. Des exemples d'identifiants uniques et leur utilisation sont fournis par l'OMS et par l'entremise d'autres documents d'orientation des Nations Unies (22).
+
+De façon plus générale, il est important d'analyser la qualité des données avec l'ensemble du personnel impliqué dans les activités de surveillance, tant au niveau local que central, pour identifier les lacunes dans les processus, les données aberrantes (comme une augmentation inhabituelle des cas signalés) et les moyens de résoudre ces problèmes. Il n'est possible d'améliorer les données qu'avec le concours des gestionnaires de données collaborant avec le personnel de surveillance.
+
+Au moment de choisir le logiciel de base de données, prendre en considération la stabilité (les outils en ligne ne sont pas fiables lorsque la connexion internet est instable) et la fiabilité ou fidélité, à savoir le fait que s'il est facile pour l'utilisateur de copier et coller des données, cela peut être synonyme d'un plus grand nombre d'erreurs involontaires. Le choix du logiciel doit être guidé par la capacité technique locale et la préférence. Toutefois, il n'est généralement pas recommandé d'utiliser un logiciel de feuille de calcul pour enregistrer les cas, dans la mesure où ce type de logiciel risque d'afficher des données de différentes façons sur des ordinateurs différents, conduisant à des problèmes lorsque les données sont rapportées et rassemblées.
+
+ANALYSE ET INTERPRÉTATION DES DONNÉES
+
+L'analyse des données de surveillance des MEV peut varier en complexité, de la fréquence des cas à des analyses de régression sophistiquées. Un simple décompte des cas fournit généralement des informations utiles. Concernant les MEV en phase d'éradication ou d'élimination, un simple cas peut être synonyme d'épidémie et mettre en lumière une faille dans le programme de vaccination. Concernant les MEV endémiques, la tendance des cas qui augmente ou diminue peut fournir un signal large sur l'impact d'un programme de vaccination. Répertorier le nombre de cas de MEV par personne, lieu et date peut donner un aperçu de la charge disproportionnée dans certains sous-groupes et éclairer les décisions de politiques et stratégies de vaccins, comme la nécessité de la vaccination de rappel ou de campagnes dans certains groupes ou régions (21).
+
+L'analyse et l'interprétation des données longitudinales peuvent fournir des commentaires sur l'impact de l'introduction du vaccin, comme une diminution de la charge de morbidité de la maladie (23). Pour des données longitudinales, le simple décompte des cas peut illustrer le résultat des changements dans l'épidémiologie de la maladie, mais en fait, ce sont des artefacts des changements apportés au système de surveillance (augmentation des tests de laboratoire de confirmation), au système de santé (un changement de politique de remboursement pour l'admission à l'hôpital, ou le passage d'un système d'assurance public à privé) ou portant sur la population de surveillance (augmente au fil du temps ou mouvement de masse).
+
+Par conséquent, l'annualisation des calculs d'incidence, pour lesquels un dénominateur de population est défini, permet une meilleure évaluation des tendances temporelles de la charge des MEV que le décompte des cas, parce que les données d'incidence reflètent les changements inhérents à la taille du bassin démographique. L'incidence annualisée par âge est définie comme le nombre de nouveaux cas par population (d'un groupe d'âge spécifique) à risque durant une année donnée. Le dénominateur est la somme du temps cumulé de mise sous surveillance de la population à risque (souvent dénommé personnetemps). Concernant les épidémies et les maladies saisonnières (celles qui ne surviennent pas au cours d'une année civile entière), il est courant de calculer le taux d'attaque (nombre de cas dans la population au cours d'une courte période de temps) plutôt que l'incidence annualisée. Lorsque l'on compare les pourcentages de cas positifs pour une maladie au fil du temps, le nombre d'échantillons analysés peut servir de dénominateur.
+
+VISUALISATION DE DONNÉES
+
+La visualisation des données de surveillance peut améliorer l'interprétation et l'utilisation des données.
+
+Les tableaux résument souvent une abondance de données numériques de manière plus efficace, ce qui permet une comparaison détaillée des données basées sur plusieurs variables. Les graphiques fournissent un affichage visuel des informations quantitatives qui peuvent faciliter l'interprétation des principales conclusions épidémiologiques relatives à la personne, au lieu et au temps (voir figure 3). Les données de surveillance sont souvent visualisées sous forme de courbes épidémiologiques (« epi-courbe »), d'histogrammes, de graphiques linéaires d'incidence et de repères sur les cartes des cas. Les graphiques à barres et les cartes peuvent représenter des aspects épidémiologiques importants des MEV tels que l'apparition des maladies par âge, le statut vaccinal, et le génotype ou le sérotype.
+
+Figures 3a, b, c, d, et e sont des exemples de visualisations de données.
+
+FIGURE
+
+Couverture vaccinale de la rougeole (%)
+
+Cas de rougeole
+
+Nombre de cas de rougeole signalés
+
+Nombre de cas de rougeole signalés
+
+3a
+
+Couverture vaccinale de la rougeole (%)
+
+Nombre de cas signalés de rougeole, couverture vaccinale et activités de vaccination supplémentaires
+
+Cas
+
+MCVde
+
+1st rougeole dose coverage MCV
+
+Couverture
+
+1st dose decoverage la 1ère dose
+
+Couverture de vaccin decombiné la 1ère dose contre delavaccin rougeole combiné contre
+
+Activités la rougeole de vaccination supplémentaires
+
+Activités de vaccination
+
+< 5 anssupplémentaires
+
+Activités < de5 vaccination ans supplémentaires
+
+Activités de vaccination
+
+< 15 ans supplémentaires < 15 ans
+
+FIGURE
+
+Épi-courbe des cas par statut de confirmation
+
+3b
+
+Sous-national (6 M-10 A)
+
+Nombre de Cas
+
+Sous-National (9-59 M)
+
+3c
+
+Sous-national AVS
+
+<1 an
+
+5-9 ans
+
+1-4 ans
+
+0 doses
+
+National AVS
+
+Répartition par âge, incidence et statut vaccinal par groupe d'âge
+
+Nombre de Cas
+
+Mois de début
+
+Âge au début
+
+1 dose
+
+40+ ans
+
+2+ doses
+
+Incidence taux par 1,000,000
+
+FIGURE
+
+Rejetés
+
+Cliniquement compatible
+
+Épidémiologiquement lié
+
+Confirmé en laboratoire
+
+-
+
+Unknown
+
+FIGURE
+
+3d
+
+Carte illustrant la répartition des cas
+
+Confirmé par lien épidémiologique
+
+Confirmé par laboratoire
+
+FIGURE
+
+3e
+
+Cliniquement compatible /
+
+Aucun échantillon
+
+L'indicateur de surveillance schématisé au niveau infranational
+
+Objectif > 2,0/100 000 population
+
+Zones silencieuses
+
+L'indicateur de surveillance schématisé au niveau infranational permet de visualiser rapidement les zones à problèmes chroniques. Cette image présente le taux de rejet des cas ne satisfaisant pas aux critères de la rougeole par zone infranationale pour 2016 et 2017.
+
+LIMITES DE L'INTERPRÉTATION DES DONNÉES DE SURVEILLANCE Lors de l'analyse des données de surveillance, prendre en compte les données manquantes, l'application générale des données permises par la conception de la surveillance et les autres sources d'erreur. Par exemple, les cas décelés par la surveillance infranationale et sentinelle pourraient ne pas être représentatifs de l'ensemble du pays. Si la surveillance basée sur les installations est utilisée, les cas seront limités aux personnes demandant des soins. Le comportement de recherche de soins de santé peut varier selon les sous-groupes sociodémographiques de la population.
+
+Dans les autres cas, les définitions de cas ou les tests de laboratoire peuvent introduire une erreur systématique en excluant les cas de sous-groupes spécifiques ou avec certaines manifestations cliniques.
+
+Il convient de noter que la surveillance des MEV qui repose sur la détection des signes et symptômes cliniques ne permettra pas de déceler les infections asymptomatiques. Pour les maladies avec une infection asymptomatique importante, comme la poliomyélite, la rubéole et l'hépatite, cette limite doit être envisagée lors de l'interprétation des données de surveillance pour comprendre la vraie charge de morbidité et la dynamique de la transmission. Pour détecter la diffusion « silencieuse » de la maladie, utiliser d'autres méthodes telles que la surveillance environnementale ou des études sérologiques (voir annexe C).
+
+Des fluctuations aléatoires dans l'incidence de la maladie se produisent au fil du temps au sein d'une population, c'est pourquoi il convient de ne pas surinterpréter les petits changements dans la charge de morbidité de la maladie (2). Par exemple, des cycles
+
+Lors de l'examen des tendances dans les données de surveillance des MEV au fil du temps, examiner toutes les modifications dans les composants du système de surveillance qui auraient pu se produire. Les exemples incluent les changements dans la définition des cas, le réseau de signalement, la pratique clinique, l'utilisation des soins de santé, les tests de laboratoire ou le système de soins de santé (25). Les changements dans les systèmes de surveillance longitudinale qui coïncident avec l'introduction du vaccin sont particulièrement problématiques car ils peuvent conduire à une mauvaise interprétation de l'efficacité ou de l'impact du vaccin L'absence de données pour les variables clés, telles que l'âge et le statut de la vaccination, peuvent être synonymes de futurs obstacles quant à l'interprétation épidémiologique des données de surveillance. Si un nombre significatif de données sont manquantes, les constatations seront limitées en termes de leur application générale. Le manque de variables de données peut se produire plus souvent parmi les sous-groupes particuliers (comme un statut socioéconomique inférieur), qui peuvent également être moins enclins à se faire vacciner. Ces sources potentielles de biais doivent être prises en compte et signalées.
+
+DONNÉES VISANT À COMPLÉTER LA SURVEILLANCE DES MEV Plusieurs autres sources de données peuvent fournir des informations supplémentaires sur les MEV pouvant s'avérer utiles, comme des éléments complémentaires aux données de surveillance des MEV dans la définition de la charge de santé publique. Ces autres sources de données de surveillance comprennent les données administratives, les statistiques de l'état civil, les systèmes d'information de santé, les études sérologiques, la surveillance environnementale et entomologique et épidémiques de la coqueluche se produisent tous les deux à cinq ans (en général trois ou quatre ans), même après l'introduction de programmes de vaccination efficaces et ce, malgré une couverture vaccinale élevée les études du portage. Celles-ci sont décrites, de manière plus détaillée, dans l'annexe C. La triangulation des données peuvent également servir pour l'intégration de données provenant de sources existantes dans le but d'aborder des questions pertinentes et remédier aux faiblesses associées à n'importe quelle source de données.
+
+SURVEILLANCE ET ÉVALUATION DE LA SURVEILLANCE DES MEV Le suivi et l'évaluation fait partie intégrante de toute surveillance des MEV et doivent se produire à plusieurs étapes du processus de surveillance (encadré 7).
+
+L'objectif global du suivi et de l'évaluation est d'assurer l'intégrité du système de surveillance tout en améliorant son utilité, son efficacité et sa validité (21). Il concerne également les performances sous-optimales et permet une meilleure utilisation des ressources. En général, la surveillance désigne le suivi continu et de routine de la mise en œuvre et de la performance de la surveillance, alors que l'évaluation se réfère à une évaluation périodique de la pertinence, de l'efficacité et de l'impact de la surveillance (27).
+
+L'utilisation des indicateurs de performance de la surveillance définit la structure du processus de suivi et d'évaluation. Les indicateurs sont des variables pouvant être mesurés à plusieurs reprises et selon une méthode normalisée pour évaluer le rendement d'un système de surveillance (27). Les indicateurs devraient être simples et sensibles, tout en facilitant le calcul des variables qui peuvent être appliquées de manière uniforme dans tous les sites de surveillance, l'objectif étant de détecter les problèmes inhérents au système de surveillance et de faciliter l'identification de l'origine du problème.
+
+Des indicateurs de rendement ont été recommandés pour certaines MEV qui sont décrits dans les chapitres pertinents spécifiques aux maladies. Les indicateurs de performance des MEV avec objectifs d'éradication, d'élimination ou de contrôle définis sont régulièrement contrôlés au niveau sous-national, national et mondial.
+
+Les programmes de surveillance des pays peuvent également définir leurs propres indicateurs de performance pour les différentes étapes dans le système de surveillance. Les indicateurs communs comprennent l'exhaustivité et la rapidité de la détection des cas, l'analyse des cas, les tests de laboratoire et les rapports.
+
+Des évaluations de la surveillance des MEV doivent être régulièrement réalisées, idéalement chaque année. Les évaluations devraient combiner la revue documentaire des données existantes à des visites sur le terrain auprès des laboratoires et des sites de vérification des cas. L'évaluation de la surveillance peut être effectuée séparément ou conjointement avec une évaluation du programme de vaccination (par exemple, l'examen du PEV ou l'examen post-introduction) (28). L'avantage de ce dernier est que l'évaluation de la surveillance relie, de manière plus directe, les issues des MEV au PEV lui-même, comme les données de couverture.
+
+ENCADRÉ
+
+Principaux aspects de suivi et d'évaluation de la surveillance des MEV hh Le suivi et l'évaluation devraient être mis en place pour tous les aspects de la surveillance, y compris les éléments cliniques, les tests de laboratoire et les éléments de données.
+
+hh Les données de base seront essentielles à l'évaluation des changements identifiés par le suivi et l'évaluation.
+
+hh Les données de surveillance devraient être facilement collectées par le système lui-même.
+
+hh Des méthodes normalisées devraient être utilisées pour le suivi et l'évaluation;
+
+l'utilisation d'indicateurs est encouragée.
+
+hh Les données de suivi et d'évaluation doivent être utilisées pour assurer un retour d'informations aux agents et gestionnaires de surveillance.
+
+hh Les commentaires portant sur les données de suivi et d'évaluation devraient être pris en compte de manière opportune et appropriée.
+
+L'inconvénient potentiel est qu'une évaluation combinée peut nécessiter un ensemble différent d'experts qui se concentrent sur différents ensembles de données et sites, conduisant à une évaluation inefficace ou incomplète.
+
+L'évaluation d'un système de surveillance en s'appuyant sur un ensemble d'attributs clés est une approche utile (voir tableau 5) (29). Exemples d'outils pouvant être utilisés pour procéder à un examen de la surveillance à l'adresse suivante: http://www.who.
+
+int/immunization/documents/WHO_IVB_17.17/ en/. Ce document est disponible en anglais; la version française est en préparation.) Les indicateurs de performance supplémentaires, dans le cadre du suivi du fonctionnement d'un système de surveillance, peuvent inclure la proportion des établissements de santé locaux soumettant des rapports en temps voulu pour le district et les niveaux plus élevés, la proportion de cas suspects avec enquête terminée, et la proportion des districts qui transmettent les données de laboratoire inhérentes aux MEV sous surveillance.
+
+TABLEAU
+
+Attributs essentiels d'un système de surveillance à évaluer (29)
+
+ATTRIBUT
+
+OBJECTIF
+
+EXEMPLE D'INDICATEUR DE
+
+PERFORMANCE
+
+SIMPLICITÉ
+
+Le plus simple possible en termes de structure et de facilité de mise en œuvre
+
+Quantité et type de données nécessaires pour confirmer que l'événement lié à la santé a eu lieu
+
+FLEXIBILITÉ
+
+Peut s'adapter rapidement et facilement à l'évolution des besoins d'informations ou des conditions de mise en œuvre
+
+Évaluation rétrospective de la manière dont le système s'est adapté à la nouvelle demande
+
+QUALITÉ DES DONNÉES
+
+Exhaustivité et la validité des données
+
+Pourcentage de réponses inconnues ou manquantes pour les variables de données clés
+
+ACCEPTABILITÉ
+
+Volonté des personnes et organisations à participer à la surveillance
+
+Exhaustivité des formulaires de signalement
+
+SENSIBILITÉ
+
+Une forte proportion de cas d'une maladie ou d'une épidémie détectés
+
+Le pourcentage de cas dans une population définie sous surveillance
+
+VALEUR PRÉDICTIVE
+
+POSITIVE
+
+Une forte proportion des cas signalés ayant subi l'événement lié à la santé sous surveillance
+
+Évaluation du taux de cas « faux positifs »
+
+détectés par la surveillance
+
+REPRÉSENTATIVITÉ
+
+Décrit avec précision les événements liés à la santé dans le temps et leur répartition au sein de la population par lieu et par personne.
+
+Comparaison des caractéristiques (par exemple, âge, sexe, et emplacement géographique) des événements déclarés avec tous les événements réels
+
+RESPECT DES DÉLAIS
+
+Franchissement rapide des étapes du système de surveillance de santé publique
+
+Intervalle de temps qui relie deux de ces étapes
+
+STABILITÉ
+
+Un système de surveillance fiable et opérationnel est en place
+
+Le nombre d'interruptions non planifiées et les temps de maintenance de l'ordinateur du système
+
+Dans la plupart des sociétés, la surveillance des maladies infectieuses, y compris les MEV, a été considérée comme un élément servant le bien commun. Par conséquent, les activités de surveillance bénéficient principalement à la communauté dans son ensemble.
+
+Bien que les individus puissent et devraient bénéficier d'une surveillance, la valeur ajoutée de la surveillance pourrait être supérieure à celle réalisée par ses individus.
+
+En guise d'activité obligatoire pour la société qui est généralement définie comme présentant un risque minimal pour les individus, le consentement éclairé n'est généralement pas requis auprès des personnes participant à la surveillance. Les données de surveillance peuvent habituellement être publiées sans recueillir de consentement éclairé tant que les données ont été recueillies, dans le respect de l'anonymat, dans le but de se conformer aux objectifs et aux principes de surveillance, plutôt que la recherche.
+
+Tandis que la surveillance des MEV pourrait être considérée comme une activité de santé publique, les programmes de surveillance doivent se conformer rigoureusement aux principes éthiques de protection des droits individuels. Les individus ne devraient subir aucun préjudice physique, juridique, social, économique ou psychologique. Certaines maladies, y compris les
+
+MEV, comme l'hépatite virale et le PVH, peuvent conduire à la stigmatisation des personnes par leur famille ou leur communauté. La confidentialité doit être maintenue dans la mesure du possible dans le cadre des activités de surveillance des MEV. Seules les données dépersonnalisées devraient être transmises et les tableaux à multiple entrée répertoriant les données ne devraient pas permettre l'identification d'une personne.
+
+Les enquêtes de santé publique sur quelques MEV, comme la poliomyélite et la rougeole, exigent le partage et l'utilisation des informations personnelles identifiables pour enquêter sur les contacts, éviter la transmission ou identifier les modes de circulation virale. Récemment, la règlementation de protection des patients a été mise en place dans certains pays pour empêcher la divulgation de renseignements médicaux d'un patient sans son consentement explicite, mais la surveillance est souvent considérée comme une exception. Si ce n'est pas le cas, les ministères de la Santé doivent travailler avec les organismes législatifs pour faire en sorte de poursuivre les enquêtes de cas et le partage des informations de surveillance, tant au sein des systèmes de santé publique qu'auprès de la communauté internationale.
+
+4. Rôle de la surveillance des
+
+MEV lors d'épidémies
+
+Pour de nombreuses MEV, l'un des objectifs de la surveillance est la détection et la riposte en cas de maladies infectieuses et d'épidémies. Pour la plupart des maladies, une épidémie est définie comme une augmentation du nombre de cas au-delà de la limite normale attendue; pour certaines maladies, comme la poliomyélite et la rougeole, une enquête sur l'épidémie est souvent initiée lors de la détection d'un cas unique (4) (21). La surveillance joue un rôle important dans la détection et la riposte face aux épidémies. La surveillance continue des MEV permet de détecter une augmentation des cas de MEV, qui, après une enquête plus approfondie, pourrait être qualifiée d'épidémie.
+
+Les données de surveillance devraient permettre la caractérisation de l'épidémie initiale en termes d'individus, de lieu, et de temps pour guider une réponse efficace.
+
+ÉTAPES D'UNE ENQUÊTE DANS LE CADRE D'UNE ÉPIDÉMIE Si une épidémie d'une maladie évitable par la vaccination est identifiée, une enquête doit être menée par des agents de surveillance ou d'autres agents de santé publique, ou même, les deux. L'enquête portant sur l'épidémie de la maladie, dont les MEV, repose généralement sur l'ensemble des étapes suivantes (4)
+
+1. Vérifier le diagnostic et confirmer l'existence d'une épidémie.
+
+2. Établir une définition de cas d'épidémie (ou modifier la définition existante utilisée pour la surveillance des MEV).
+
+3. Procéder au dépistage de cas et à la collecte des données.
+
+4. Décrire l'épidémie.
+
+Pour les régions où la surveillance des MEV n'est pas établie, la surveillance peut être mise en place dès qu'une épidémie a été identifiée. Par exemple, si une épidémie d'une maladie évitable par la vaccination est détectée par d'autres méthodes (telles que des rumeurs au sein de la communauté) dans une zone sans dispositif de surveillance des MEV préexistant, alors la surveillance pourrait rapidement être mise en place dans la zone de l'épidémie pour caractériser davantage l'épidémie et guider la riposte. La surveillance permet également de mesurer l'impact de la réponse de santé publique face à l'épidémie.
+
+5. Formuler et vérifier les hypothèses inhérentes à la source et à la cause de l'épidémie (par exemple, l'absence de vaccination en comparaison à l'échec du vaccin).
+
+6. Mettre en œuvre des mesures de contrôle et de prévention (vaccination pour les MEV parmi les autres interventions de santé publique).
+
+7. Analyser les enseignements tirés et communiquer les résultats.
+
+8. Renforcer la surveillance des MEV et le programme de vaccination, et, éventuellement, changer la politique vaccinale.
+
+Les étapes d'une enquête sur une épidémie de maladie évitable par la vaccination sont décrites, de manière plus détaillée, à l'annexe D.
+
+Dans le cadre d'une épidémie, la surveillance existante des MEV pourrait être modifiée de différentes façons, comme décrit ci-dessous.
+
+hh Les objectifs pourraient passer de mesurer l'impact de la charge de morbidité de la maladie ou d'un vaccin à fournir des données pour la mise en œuvre et l'évaluation des mesures de lutte immédiates.
+
+hh Le mode de dépistage pourrait passer de passif à actif. Cela signifie que plutôt que d'attendre que les établissements de santé signalent les cas, les agents de surveillance devraient contacter les établissements et les autres sources de détection des cas, ou demander des recoupements de cas sur une base régulière, souvent tous les jours. Les agents de surveillance pourraient aussi se rendre dans la communauté pour trouver des cas non déclarés.
+
+hh La définition de la surveillance des cas pourrait être modifiée dans un cadre épidémique. La localisation de l'épidémie, dans le temps et l'espace, pourrait mener à inclusion de ces composants dans la définition de cas.
+
+hh Pour certaines MEV, dès lors qu'une épidémie est confirmée en laboratoire, la confirmation des cas pourrait être remplacée par un regroupement par lien épidémiologique, pour une plus grande efficacité (31).
+
+hh Le rôle du laboratoire, en matière de surveillance, pourrait être modifié, passant de la confirmation de tous les cas à la confirmation des cas dans les nouveaux groupes géographiques ou épidémiologiques et la caractérisation de l'agent pathogène afin de guider la riposte (par exemple, les tests de résistance aux antimicrobiens pour les bactéries, le génotypage pour la poliomyélite, l'analyse de la souche pour la grippe). En cas d'arriéré de test des échantillons, tester les échantillons récemment collectés permettra d'obtenir plus rapidement des informations pour engager la riposte. Une communication étroite entre le personnel de surveillance et celui du laboratoire est nécessaire.
+
+hh Une liste des cas peut être requise pendant une épidémie pour assurer un suivi efficace des cas individuels et ainsi mieux définir l'épidémiologie (création de courbes épidémiques).
+
+hh Les enquêtes de cas et les éléments de données collectés peuvent évoluer au cours d'une épidémie.
+
+Il convient de mettre un accent particulier sur l'obtention de l'état vaccinal des cas dans le but de distinguer l'échec de la vaccination de l'absence de vaccination. Il serait utile de se concentrer sur les facteurs de risques d'intérêt pour l'épidémie (par exemple, les sources d'eau spécifiques pour le choléra et la fièvre typhoïde). En outre, concernant les MEV qui se transmettent de personne à personne, les informations sur les contacts seront importantes pendant les épidémies, en particulier si des mesures pour prévenir les maladies sont instituées auprès des sujets exposés (comme la prophylaxie antibiotique contre la méningite à méningocoque et la diphtérie).
+
+hh La fréquence de signalement pourrait augmenter et devenir quotidienne pendant une épidémie.
+
+Parfois une approche de type rapports à zéro est adoptée en cas d'épidémie, si cette approche n'est pas déjà mise en place, afin de s'assurer que les établissements recherchent activement, et chaque jour, de nouveaux cas.
+
+hh Les rapports situationnels sont souvent utilisés pour fournir des informations régulières, et structurées sur l'état de l'enquête et la riposte. Plus de demandes d'information provenant de sources médiatiques sont possibles, et les messages de communication, destinés à un public non technique, doivent être envisagés.
+
+DOTATION EN PERSONNEL DE SURVEILLANCE LORS D'ÉPIDÉMIES Non seulement les composants internes du système de surveillance peuvent changer lors d'une épidémie, mais la dotation en personnel, la supervision et les parties prenantes peuvent également changer. Lors du déploiement de la surveillance des MEV à potentiel épidémique, examiner la capacité de réaction nécessaire lors des épidémies. Le rôle que le personnel existant de surveillance des MEV joue lors de l'enquête en cas d'épidémie dépend du contexte. Dans certains pays, une équipe distincte assurera la gestion de l'enquête sur l'épidémie (par exemple, l'unité des maladies transmissibles du ministère de la Santé).
+
+Dans d'autres pays, le personnel de surveillance sera également en charge de l'enquête sur l'épidémie.
+
+L'enquête sur l'épidémie requiert souvent du personnel supplémentaire, comme le personnel du département
+
+COORDINATION DES ÉPIDÉMIES DE MEV
+
+Une épidémie de maladie évitable par la vaccination nécessite une coordination entre les départements de lutte contre les maladies, le laboratoire et le PEV. Cette collaboration revêt une importance particulière lorsque la vaccination renforcée ou supplémentaire fait partie de la riposte aux épidémies. Il est désormais plus fréquent de faire appel à des Centres opérationnels d'urgence ou des Comités de coordination inter-agences pour gérer les différentes activités liées à l'apparition d'une épidémie à un niveau central (32). Ils sont en mesure d'assurer le déploiement d'un plan d'intervention en cas d'urgence et de personnel de commandement maîtrisant les aspects inhérents à la logistique, la coordination et la communication des ripostes de grande ampleur, des compétences que l'on ne retrouve pas nécessairement parmi le personnel du PEV et de contrôle des maladies de contrôle des épidémies ou d'autres départements du ministère de la Santé, les équipes d'intervention rapide ou les stagiaires en santé publique. Le personnel de surveillance se verra probablement confier d'autres activités lors d'une épidémie ou verra sa charge de travail augmenter. Les laboratoires de surveillance des MEV doivent également se préparer à une forte augmentation potentielle du nombre ou du type de tests devant être réalisés au cours d'une épidémie. Il est important de noter que des épidémies de grande ampleur peuvent avoir un impact négatif sur la surveillance continue d'autres maladies, et cela devrait être pris en compte lors de l'interprétation des données provenant d'autres systèmes de surveillance.
+
+Des comités pourraient être formés avec les parties prenantes des différents secteurs impliqués dans la réponse ou touchés par l'épidémie. Ces comités comprendront probablement des représentants du ministère de la Santé, en plus d'organisations non gouvernementales et d'organismes d'aide, des fonctionnaires, des spécialistes en communication, et des représentants des communautés concernées et de la société civile. En outre, les comités de riposte aux épidémies, au niveau local, jouent généralement un rôle important en facilitant la riposte sur le terrain .
+
+Introduction de principes surveillance des MEV
+
+Présentation desdechapitres
+
+5.
+
+sur les normes de surveillance spécifiques aux maladies
+
+Chaque chapitre, portant spécifiquement sur une maladie évitable par la vaccination, fournit des informations précises de mise en œuvre et de déploiement des mesures de surveillance de cette maladie. Les chapitres reprennent, dans la mesure du possible, la terminologie et les concepts abordés dans cette présentation. Chaque chapitre, spécifique à une maladie, se compose des sections suivantes:
+
+Collecte, transmission et utilisation des données Indicateurs de performance de la surveillance Prise en charge des cas cliniques
+
+Recherche et prise en charge des sujets exposés
+
+Caractéristiques de la maladie et du vaccin
+
+Surveillance, enquête et intervention en milieu épidémique
+
+Justification et objectifs des programmes de surveillance
+
+Considérations spéciales
+
+Références
+
+Types de surveillance recommandée
+
+Définitions et classification finale des cas Étude de cas
+
+Collecte des échantillons
+
+Tests de laboratoire
+
+Les méthodes et les processus utilisés pour élaborer ces normes de surveillance des MEV sont décrits dans l'annexe A. Pour chaque maladie évitable par la vaccination, un groupe d'experts en la matière a été consulté afin d'intégrer les approches les plus modernes en matière de surveillance.
+
+Références
+
+1. Organisation mondiale de la Santé. WHO-recommended standards for surveillance of selected vaccine-preventable diseases.
+
+Genève: Organisation mondiale de la Santé; 2008. (en anglais) (http://apps.who.int/iris/bitstream/10665/68334/1/ WHO_V-B_03.01_eng.pdf)
+
+2. Organisation mondiale de la Santé. Recommandations de l'OMS concernant la vaccination de routine - tableaux récapitulatifs Dans: Vaccination, vaccins et produits biologiques [site Web]. Genève: Organisation mondiale de la Santé; 2017. Disponible en français à: http://www.who.int/immunization/policy/immunization_tables/en/ 3. Organisation mondiale de la santé. WHO health topics: public health surveillance. Genève: Organisation mondiale de la Santé;
+
+2014. (en anglais) (http://www.who.int/topics/public_health_surveillance/en/) 4. Gregg MB. Field epidemiology. Oxford, New York: Oxford University Press; 2008.
+
+5. Organisation mondiale de la Santé. Réseau des Centres d'opérations d'urgence en santé publique (EOC-NET). Genève:
+
+Organisation mondiale de la Santé; 2017. (http://www.who.int/ihr/eoc_net/fr/)
+
+6. Dowdle WR. The principles of disease elimination and eradication. Bull. Org. mondiale de la Santé. 76 Suppl 2:23-5; 1998. (en anglais) (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2305684/) 7. Organisation mondiale de la santé. Setting priorities in communicable disease surveillance. Genève: Organisation mondiale de la Santé. 2006 (en anglais) (http://www.who.int/csr/resources/publications/surveillance/WHO_CDS_EPR_ LYO_2006_3.pdf ?ua=1)
+
+8. Organisation mondiale de la santé. Règlement sanitaire international. Genève: Organisation mondiale de la Santé; 2005 (http://www.who.int/topics/international_health_regulations/fr/)
+
+9. Murray J, Agocs M, Serhan F, Singh S, Deloria-Knoll M, O'Brien K, et al. Global invasive bacterial vaccine-preventable diseases surveillance–2008-2014. Morb Mortal Wkly Rep. 2014;63(49):1159-1162. (https://www.ncbi.nlm.nih.gov/pmc/ articles/PMC4584539/)
+
+14. Pavlin J. Surveillance syndromique pour les maladies infectieuses. Dans: M'ikanatha NM, Lynfield R, Van Beneden CA, de Valk H, editeurs. Infectious Disease Surveillance, second edition. Hoboken: John Wiley & Sons; 2013. doi:
+
+15. Organisation mondiale de la Santé. Cadre de vérification de l'élimination de la rougeole et de la rubéole. Relevé épidémiologique hebdomadaire 2013;88(9):89-99 (http://www.who.int/wer/2013/wer8809.pdf).
+
+2013;62(RR-04):1-34. (https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6204a1.htm)
+
+2013;62(RR-02):1–28. (https://www.cdc.gov/mmWr/preview/mmwrhtml/rr6202a1.htm) 18. Organisation mondiale de la Santé. Guidance for managing ethical issues in infectious disease outbreaks. Genève: Organisation mondiale de la Santé; 2016 (en anglais) (http://apps.who.int/iris/bitstream/10665/250580/1/9789241549837-eng.pdf)
+
+J Infect Dis. 2017;216(Supp 1):S324–S330 (https://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jix077).
+
+20. Agocs MM, Serhan F, Yen C, Mwenda JM, de Oliveira LH, Teleb N et al. WHO global rotavirus surveillance network: a strategic review of the first 5 years, 2008-2012. Morb Mortal Wkly Rep. 2017;63(29):634-637 (https://www.cdc.gov/ MMWr/preview/mmwrhtml/mm6329a5.htm)
+
+24. Organisation mondiale de la Santé. Report from the SAGE Working Group on Pertussis vaccines, 26–27 August 2014 meeting.
+
+Genève: Organisation mondiale de la Santé; 2014 (en anglais) (http://www.who.int/immunization/sage/meetings/2015/ april/1_Pertussis_report_final.pdf ?ua=1) 25. Zanella RC, Bokermann S, Andrade AL, Flannery B, Brandileone MC. Changes in serotype distribution of Haemophilus influenzae meningitis isolates identified through laboratory-based surveillance following routine childhood vaccination against H. influenzae type b in Brazil. Vaccine; 2011 Nov 8;29(48):8937-42. doi: 10.1016/j.vaccine.2011.09.0532011.
+
+26. Hanquet G, Lernout T, Vergison A, Verhaegen J, Kissling E, Tuerlinckx, D et al. Impact of conjugate 7-valent vaccination in Belgium: addressing methodological challenges. Vaccine. 2011 Apr 5;29(16):2856-64. doi: 10.1016/j.vaccine.2011.02.016.
+
+27. Organisation mondiale de la Santé. Communicable disease surveillance and response systems: guide to monitoring and evaluating. Genève: Organisation mondiale de la Santé; 2006 (en anglais) (http://www.who.int/csr/resources/publications/ surveillance/WHO_CDS_EPR_LYO_2006_2.pdf) 28. Organisation mondiale de la Santé. Guide for comprehensive immunization programme reviews including vaccine postintroduction evaluations. Genève: Organisation mondiale de la Santé; 2017 (en anglais; version française en préparation) http://www.who.int/immunization/documents/WHO_IVB_17.17/en/)
+
+32. Organisation mondiale de la Santé. Notes de synthèse sur les vaccins. Genève: Organisation mondiale de la Santé; 2017 http://www.who.int/immunization/documents/positionpapers/en/
+
+Annexe A
+
+MÉTHODES UTILISÉES POUR DÉFINIR LES
+
+NORMES DE SURVEILLANCE DES MEV
+
+Pour définir la structure de ces normes de surveillance mises à jour, une consultation en personne des experts de la surveillance des MEV a été organisée par l'OMS à Genève les 14 et 15 mars 2017. L'un des points abordés fut la liste des MEV à inclure dans les normes de surveillance révisées, le nombre de MEV ayant augmenté depuis 2003. Après l'entretien, les participants ont convenu que les MEV à inclure dans ces normes de surveillance devaient répondre aux critères suivants:
+
+hh vaccin disponible, recommandé par SAGE et utilisé par les programmes du pays hh actuellement ou prévu pour être utilisé dans plus de
+
+10 % des programmes nationaux de vaccination (plus de 20 pays) au cours des 5 prochaines années hh Approches de surveillance incluant
+
+»» Type de surveillance
+
+»» Étude de cas
+
+»» Gestion des contacts
+
+»» Signalement
+
+»» Collecte des échantillons hh Tests de laboratoire hh Collecte des données hh Analyse et utilisation des données pour la prise de décisions hh Prise en charge des cas cliniques hh la surveillance fournit des informations sur les hh Évaluation de la surveillance
+
+À l'avenir, des vaccins seront développés pour un plus grand nombre de maladies avant leur introduction au sein des pays. Il est attendu qu'un plus grand nombre de MEV répondent aux critères susmentionnés inhérents à l'inclusion et les normes de surveillance seront également mises à jour afin de les inclure. De telles mises à jour seront approuvées par les experts en surveillance pour les nouveaux vaccins et elles seront soumises au même processus de contrôle que présenté ci-dessous.
+
+hh Considérations particulières pour cette maladie vaccins à utiliser, le PEV ou la politique vaccinale.
+
+Les composantes des normes de surveillance pour chaque maladie évitable par la vaccination ont été définies en passant en revue les normes de surveillance de 2003 et les contributions des experts de la surveillance des MEV lors de la consultation. Il fut admis que toutes les composantes ne pouvaient s'appliquer à toutes les MEV. Les principales composantes des normes de surveillance sont énumérées ci-dessous.
+
+hh Description clinique / épidémiologique et caractéristiques du vaccin hh Justification et objectifs des programmes de surveillance hh Définitions des cas et classification des cas hh Réponse aux épidémies évitable par la vaccination hh Références
+
+Pour chaque maladie évitable par la vaccination incluse, une analyse des normes de surveillance existantes a été réalisée, en complément de l'examen des conseils, des recommandations et des articles publiés. Pour cette étude, nous avons fait abstraction des données existantes pour remplir chacune des sections des normes de surveillance. Après l'abstraction, nous avons utilisé une des trois approches pour compléter les normes de surveillance, à partir des informations disponibles.
+
+1. Les renseignements extraits de la documentation existante étaient suffisants pour définir presque toutes les composantes des normes de surveillance.
+
+Les critères requis pour les MEV dans cette catégorie sont les suivants:
+
+a. Existence de la documentation de référence de l'OMS b. Les documents de référence de l'OMS ont été rédigés après 2013 ou sont considérés comme inchangés par l'interlocuteur de la surveillance des MEV au siège de l'OMS c. La majorité des critères de surveillance avaient été définis dans la documentation existante.
+
+2. L'abstraction des données de la documentation existante était suffisante pour définir la plupart des composantes, bien que les informations de quelques composantes clés aient été jugées insuffisantes. Dans ce cas, les experts en la matière ont été consultés, et un consensus s'est développé sur la résolution.
+
+3. L'abstraction de données de la documentation existante ne suffisait pas à remplir la plupart des composantes, ou des informations disponibles pour les composantes clés étaient contradictoires. Dans ce cas, un groupe de travail a été établi pour développer et approuver les normes de surveillance. Si un groupe de travail SAGE, pour une maladie évitable par la vaccination, existait déjà et était composé d'au moins trois membres compétents ayant une parfaite connaissance de la surveillance et étaient en mesure de trouver une issue aux éléments de surveillance non résolus, alors un tel groupe était engagé. Si aucun groupe de travail pour une maladie évitable par la vaccination n'existait, alors un groupe international d'experts était formé avec comme mission de se concentrer sur les normes de surveillance.
+
+Les normes de surveillance, pour toutes les MEV, ont été examinées par des experts en la matière pour chaque maladie évitable par la vaccination au siège de l'OMS.
+
+Les normes de surveillance révisées sont disponibles en version papier ou électronique. Les normes seront mises à jour pour inclure de nouveaux chapitres pour chaque maladie évitable par la vaccination et ce, dès que de nouvelles informations spécifiques à la maladie seront disponibles. Ces modifications seront intégrées à la version en ligne.
+
+Annexe B
+
+Un pays peut avoir plusieurs autres types de surveillance pouvant être adaptés pour inclure la surveillance des MEV, ou fournir des données supplémentaires et complémentaires.
+
+Surveillance intégrée et réponse aux maladies. Le concept de Surveillance intégrée des maladies et ripostes (IDSR, en anglais) a été introduit en Afrique au début des années 2000 et s'est développé depuis lors, avec la majorité des pays AFRO ayant mis en œuvre maintenant certains aspects du concept de l'IDSR (1).
+
+La surveillance de nombreuses maladies se compose d'éléments essentiels similaires (comme la détection des cas, la collecte et l'analyse des données, le signalement et les actions de santé publique) et implique souvent les mêmes types de parties prenantes dans un pays (comme le ministère de la Santé et l'OMS). Ceci étant dit, le concept de base de la Surveillance intégrée des maladies et riposte vise à concevoir des plates-formes qui intègrent l'IDSR aux maladies multiples, ce qui favorise une économie d'échelle dans les activités de surveillance.
+
+Les maladies envisagées pour l'IDSR comprennent celles à potentiel épidémique et celles revêtant une importance de santé publique. Quelques MEV sont déjà incluses comme maladies prioritaires de l'IDSR.
+
+Dans la mesure où l'IDSR est généralement coordonnée par le biais de programmes de contrôle des maladies transmissibles, il est essentiel que les gestionnaires du PEV soient impliqués dans la conception de la structure de signalement de l'IDSR pour les MEV afin que les objectifs de la surveillance soient intégrés étant donné qu'ils sont liés au programme de vaccination. De plus, dans la mesure où l'objectif principal de l'IDSR est de détecter et de contrôler les maladies, certains éléments de données pertinents à un programme de vaccination pourraient ne pas être inclus, comme le statut vaccinal et les facteurs de risques. Enfin, les directives de l'IDSR permettent des tests de laboratoire et des enquêtes basées sur des cas; cependant, cela est mis en œuvre de manière variable, avec de nombreux pays choisissant d'effectuer une surveillance globale avec confirmation en laboratoire uniquement lors d'épidémies. Cela doit être pris en compte lors de la coordination et de l'utilisation des données de la plate-forme de Surveillance intégrée des maladies et riposte.
+
+Système d'alerte et d'intervention rapide. Les pratiques de santé publique normales, y compris la surveillance, peuvent être interrompues lors de situations humanitaires d'urgence. Dans le cadre de la riposte de santé publique à de telles situations, une unité de surveillance spéciale appelée EWARN en anglais, peut rapidement mettre en place un réseau d'alerte et d'intervention rapide (2). Le Réseau d'alerte précoce et de réaction se concentre habituellement sur les maladies à tendance épidémique plus graves, comme le choléra et la rougeole, et son objectif est de détecter les épidémies dans la plupart des contextes. Dans certains pays, le Réseau d'alerte précoce et de réaction est considéré comme similaire à la plate-forme de Surveillance intégrée des maladies et ripostes décrite ci-dessus. La partie réseau du Réseau d'alerte précoce et de réaction se réfère à la manière dont les informations concernant les épidémies potentielles peuvent provenir de diverses sources, notamment des médecins, des biologistes et des agents de santé communautaires. Tout en fournissant des informations utiles sur quelques MEV pendant les crises humanitaires, le Système d'alerte et d'intervention rapide n'est pas un système de surveillance des MEV en soi et est souvent temporaire au cours de la période de crise.
+
+Un Système d'alerte et d'intervention rapide associé à une surveillance régulière des MEV peut, cependant, fournir des informations utiles sur les MEV, tout particulièrement celles qui tendent à se transformer en épidémies au cours de crises humanitaires, pour informer la politique de vaccination d'un pays et guider la riposte de vaccination.
+
+Surveillance fondée sur les évènements. La surveillance fondée sur les évènements (SFE) est un type de surveillance plus structuré visant principalement à détecter les épidémies, en opposition à une surveillance plus traditionnelle « fondée sur les indicateurs » qui met l'accent sur la détection et le signalement des cas de maladies spécifiques. La SFE peut recueillir des renseignements auprès des bulletins d'information, des rumeurs, d'Internet, des blogs, des réseaux sociaux et d'autres sources informelles. Les informations sur les événements de santé publique d'importance potentielle sont communiquées par une hotline, un site Internet ou en personne aux autorités de santé publique, qui enquêtent alors sur l'événement rapporté. Une forme un peu plus structurée de SFE est appelée la surveillance à base communautaire.
+
+La surveillance à base communautaire propose de s'appuyer sur des bénévoles qui vivent ou travaillent dans une communauté, comme les agents de santé communautaires ou les travailleurs de la Croix-Rouge, pour surveiller et détecter les événements inhabituels au niveau communautaire, qui seraient souvent manqués par les systèmes de surveillance officiels de santé publique (3). Les événements détectés sont ensuite triés par un superviseur et, s'ils sont considérés comme un problème de santé publique légitime, ils sont signalés aux autorités sanitaires pour un complément d'enquête. La surveillance à base communautaire serait plus pertinente pour la détection précoce des épidémies de MEV basée sur des critères syndromiques ou la mortalité, plutôt qu'une stratégie de surveillance à long terme ou basée sur des cas plus spécifiques (4) (5).
+
+RÉFÉRENCES POUR L'ANNEXE B
+
+1. Centers for Disease Control and Prevention et Organisation mondiale de la Santé. Guide technique pour la surveillance intégrée de la maladie et la riposte dans la région africaine. 2e édition. Brazzaville, République du Congo et Atlanta, USA; 2011.
+
+(http://www.afro.who.int/sites/default/files/2017-06/IDSR-Technical%20-Guidelines-2010_French%20_final_0.pdf) 2. Organisation mondiale de la Santé. Outbreak surveillance and response in humanitarian emergencies: WHO guidelines for EWARN implementation. Genève: Organisation mondiale de la Santé; 2012 (en anglais) (http://apps.who.int/iris/ bitstream/10665/70812/1/WHO_HSE_GAR_DCE_2012_1_eng.pdf) 3. Fédération internationale des sociétés de la Croix-Rouge et du Croissant-Rouge. Community-based surveillance: guiding principles. Genève: Fédération internationale des sociétés de la Croix-Rouge et du Croissant-Rouge; 2017 (en anglais) (http://media.ifrc.org/ifrc/wp-content/uploads/sites/5/2018/03/CommunityBasedSurveillance_Global-LR.pdf)
+
+Annexe C
+
+INFORMATIONS COMPLÉMENTAIRES POUR LA
+
+SURVEILLANCE DES MEV
+
+Plusieurs autres sources de données de surveillance peuvent fournir des informations supplémentaires sur les MEV pouvant s'avérer utiles, comme des éléments complémentaires de surveillance des MEV dans la définition de la charge de santé publique.
+
+Sérosurveillance. Les études sérologiques d'une population peuvent fournir des données sur la charge de morbidité de la maladie et l'immunité de la population.
+
+Pour certaines MEV, la surveillance de la maladie aiguë est peu susceptible de fournir des estimations précises de la charge de morbidité ou sur l'impact du vaccin parce que la maladie clinique se manifeste de nombreuses années après l'infection aiguë, comme pour l'hépatite B.
+
+Pour la rougeole, en revanche, la présence d'anticorps IgG dans le sérum peut indiquer soit une infection passée soit une vaccination, fournissant ainsi une représentation de l'immunité de la population plutôt que de la charge de morbidité seule (1). Le tétanos fournit un troisième scénario dans lequel l'immunité ne résulte pas d'une infection naturelle, donc la présence d'anticorps sert d'indicateur de l'immunité de la population grâce à la vaccination contre le tétanos (2). Pour augmenter l'efficacité des enquêtes sérologiques, un seul échantillon de sérum peut être évalué pour connaître l'immunité de la population pour plusieurs MEV, ainsi que pour tester la prévalence des maladies non évitables par la vaccination;
+
+travailler pour évaluer les plates-formes de test multiplex pour l'évaluation simultanée de plusieurs MEV, comme l'analyse multiplex à l'aide de billes, est en cours (2).
+
+Cependant, les études sérologiques ont des limites, tout comme le déclin de l'immunité au fil du temps, la corrélation exacte entre les anticorps et l'exposition aux maladies ou la vaccination et le manque d'informations sur le calendrier et la gravité de la maladie. C'est pourquoi elles sont le plus fréquemment utilisées pour fournir des données complémentaires aux systèmes de surveillance des MEV (3).
+
+Sources de données secondaires, comme les données administratives, les dossiers d'état civil, les certificats / registres de décès, et les systèmes d'information de santé.
+
+Porter une attention accrue sur l'utilisation des données systématiquement collectées a été identifiée par l'OMS comme un élément clé des systèmes de santé renforcés dans les pays en développement (4). L'intérêt principal des systèmes d'information de santé ou des autres bases de données administratives qui reposent sur la Classification internationale des maladies pour le codage des visites de santé est pour les soins cliniques. Néanmoins, lesdites données peuvent également servir à évaluer les tendances des maladies, généralement, à grande échelle au niveau de la population. Les pays ayant des dossiers médicaux électroniques généralisés et fonctionnels et des données de décharge ont utilisé les données de cette façon, pour estimer, par exemple, la charge des décès de la grippe saisonnière ou ceux liés à la grippe à rotavirus (5) (6) (7). Dans de nombreux pays, cependant, les données administratives ne sont pas collectées par le biais d'une approche normalisée. En outre, les critères diagnostiques et l'exhaustivité des dossiers peuvent varier considérablement par région et par institution (8). Dans certaines régions, les statistiques de l'état civil peuvent également fournir certaines données sur les causes du décès, y compris en cas de décès causé par des MEV.
+
+Surveillance environnementale. La surveillance environnementale vise à détecter les agents pathogènes présents dans l'environnement plutôt qu'à partir des échantillons cliniques des individus. Par exemple, l'échantillonnage des poliovirus dans des eaux usées fait partie de la stratégie finale pour l'éradication de la poliomyélite (9). Parce que la majorité des infections par le poliovirus chez l'homme sont asymptomatiques, la surveillance environnementale peut accroître la sensibilité de la surveillance de la paralysie flasque aiguë en documentant la circulation du poliovirus résiduel dans les pays endémiques. En outre, la surveillance environnementale peut fournir des premiers indices sur les importations dans les pays à risque élevé de réinfection par le poliovirus, faciliter la documentation de l'élimination des souches liées aux vaccins après retrait du VPOb et éventuellement cesser d'utiliser du VPO. Surveiller la présence de la bactérie Vibrio cholerae dans les sources d'eaux environnementales spécifiques peut faciliter la détection précoce de la transmission du choléra dans certaines zones pour identifier les sources ou les véhicules de l'infection (10).
+
+Surveillance entomologique. La surveillance entomologique évalue la prévalence des agents pathogènes, y compris les MEV, chez les insectes vecteurs. Pour la fièvre jaune, de nombreuses infections sont asymptomatiques et la surveillance des symptômes cliniques, tels que la fièvre et un ictère avec confirmation en laboratoire, peuvent retarder la reconnaissance et la caractérisation d'une épidémie de fièvre jaune.
+
+La surveillance peut être complétée par des enquêtes entomologiques pour la présence de populations vectorielles dans la communauté, comme le moustique Aedes (moustique-tigre) (11). Ces enquêtes peuvent définir des communautés comme étant à risque de subir d'une épidémie, conduisant à une campagne de vaccination supplémentaire ou la mise en œuvre de larvicide, ou les deux. La surveillance entomologique a également été proposée dans la mesure où elle joue un rôle important pour la dengue, car elle permet la détection la plus précoce de l'agent pathogène avant l'infection humaine, si la surveillance est déployée de manière régulière (12).
+
+Études du portage. Pour certaines MEV bactériennes, les études du portage dans les voies respiratoires supérieures peuvent fournir des informations sur la persistance de la bactérie au sein de la population permettant d'identifier les éventuels groupes à risque. Par exemple, après l'introduction réussie du vaccin anti-Hib chez les nouveau-nés de l'Alaska, la détection de la colonisation résiduelle des enfants plus âgés, ainsi que l'analyse des données de surveillance de la maladie, ont mis en lumière l'inefficacité du vaccin en place (13). Les études du portage du pneumocoque fournissent des informations utiles sur la distribution du sérotype ce qui peut informer sur les choix des produits de vaccination, ainsi que sur le remplacement du sérotype après l'introduction du vaccin (14). Le portage du méningocoque a été utilisé pour prévoir les épidémies et identifier les groupes à risque (15).
+
+RÉFÉRENCES POUR L'ANNEXE C
+
+4. Organisation mondiale de la Santé. Everybody's business: strengthening health systems to improve health outcomes.
+
+Genève: Organisation mondiale de la Santé; 2007 (en anglais) (http://www.who.int/healthsystems/strategy/ everybodys_business.pdf)
+
+9. Organisation mondiale de la Santé. Initiative mondiale pour l'éradication de la poliomyélite. Plan stratégique pour l'éradication de la poliomyélite et la phase finale 2013–2018. Genève: Organisation mondiale de la Santé; 2013 (http://polioeradication.org/wp-content/uploads/2016/07/PEESP_CH5_FR_A4.pdf)
+
+10. Organisation mondiale de la Santé. Global Task Force on Cholera Control (GTFCC) Surveillance Working Group, World Health Organization. Interim guidance document on cholera surveillance. Interim guidance document on cholera surveillance. Genève: Organisation mondiale de la Santé; 2017 (en anglais) (http://www.who.int/cholera/task_force/ GTFCC-Guidance-cholera-surveillance.pdf ?ua=1)
+
+11. Organisation mondiale de la Santé. Évaluation rapide du champ épidémiologique au cours d'épidémies de fièvre jaune en Afrique. Genève: Organisation mondiale de la Santé; 2014 (http://apps.who.int/iris/bitstream/handle/10665/130462/ WHO_HSE_PED_CED_2014.3_fre.pdf ?sequence=1)
+
+12. Organisation mondiale de la Santé. Fièvre hémorragique de la dengue: diagnostic, traitement, prévention et contrôle. Genève:
+
+Organisation mondiale de la Santé; 1997 (http://apps.who.int/iris/bitstream/handle/10665/42140/9242545007_ fre.pdf ?sequence=1)
+
+Annexe D
+
+ÉTAPES D'UNE ENQUÊTE SUR UNE ÉPIDÉMIE
+
+D'UNE MALADIE ÉVITABLE PAR LA VACCINATION
+
+1. Vérifier le diagnostic et confirmer l'existence d'une épidémie. La première étape consiste à confirmer le diagnostic, ce qui se fait normalement par la confirmation en laboratoire, afin de guider la riposte appropriée. Parfois, des tests de confirmation auprès d'un laboratoire de référence national ou régional sont nécessaires pour vérifier les résultats des tests du laboratoire local. La confirmation en laboratoire a été essentielle pour caractériser les épidémies mixtes, comme la circulation conjointe de la rougeole et de la rubéole, ce qui entraîne des augmentations importantes dans la déclaration des cas de fièvreéruption. Avant de considérer qu'un accroissement des cas correspond à une épidémie, des analystes doivent évaluer les autres causes d'une augmentation du signalement des MEV, comme des changements dans la définition des cas ou des pratiques de signalement, des tests de laboratoire, de l'utilisation sanitaire ou la migration de la population. Pour une surveillance continue des MEV, les taux ou le nombre de cas de base de périodes similaires au cours des années précédentes peuvent être disponibles, de ce fait, un véritable accroissement au-delà de ce qui était attendu peut être identifié. Certaines maladies ont des seuils d'épidémie clairs (tels que 10 cas pour 100 000 personnes par semaine pour le méningocoque).
+
+2. Établir une définition de cas d'épidémie. Il est important de formuler une définition de cas au début de l'enquête sur l'épidémie. Une définition de cas fiable sera nécessaire à la détection et à la classification des cas dans le but de décrire l'épidémie. Dans le cadre d'une enquête épidémiologique, les principales composantes de la définition des cas seront les mêmes que celles décrites pour la surveillance des MEV. Concernant les épidémies de MEV, surtout celles détectées par la surveillance des MEV, une définition des cas aura déjà été établie. Cependant, en cas d'épidémie, la définition pourrait être modifiée par rapport à celle appliquée lors de la surveillance - par exemple, ajout d'une composante temporelle ou géographique.
+
+3. Dépistage des cas et collecte des données. Après confirmation d'une épidémie, il convient d'identifier les cas supplémentaires par le biais, soit du signalement passif réalisé par les établissements de santé, soit de la surveillance active (visite des établissements pour détecter les cas non signalés), soit l'association des deux. Les autorités de santé publique demandent parfois aux médecins ou, même, au public de signaler les cas possibles. Si l'épidémie a été détectée par le biais de la surveillance systématique des MEV au sein d'une population restreinte, la détection des cas supplémentaires lors de l'épidémie pourrait être élargie pour inclure de nouvelles populations, comme les différentes zones ou les groupes d'âge. Peu importe le processus de détection des cas mis en place, un ensemble commun d'éléments de données est généralement recueilli dans le cadre de l'épidémie. Pour les MEV, le statut vaccinal sera toujours un élément de données essentiel, tant en termes de définition du risque que d'orientation des stratégies d'intervention.
+
+4. Décrire l'épidémie. Analyser les données relatives aux cas lors d'une épidémie de manière précoce et régulière, alors même que les données concernant de nouveaux cas sont encore recueillies. Les premières descriptions de l'épidémie peuvent accélérer l'identification de la source de l'épidémie, caractériser les populations à risque et le risque de transmission en cours et faciliter la planification précoce de la riposte. La méthode la plus largement acceptée pour décrire l'épidémiologique d'une épidémie repose sur les données relatives à la localisation temporelle et spatiale et à la personne.
+
+Pour les MEV, une localisation des cas peut mettre en évidence des carences localisées dans le système de vaccination (repéré par un point sur une carte) et dicter les paramètres géographiques des campagnes de vaccination. Connaître l'origine de la maladie donne également un aperçu de la cause et des risques d'exposition lors d'une épidémie. Pour les MEV, l'âge des personnes touchées reflète souvent le statut vaccinal de la population. Par exemple, les épidémies de coqueluche peuvent se produire chez les enfants d'âge scolaire dont l'immunité a diminué après la série de vaccination lorsqu'ils étaient nourrissons.
+
+5. Formulation et vérification des hypothèses. Après l'analyse des données de base, l'étape suivante consiste à formuler une hypothèse sur ce qui pourrait être la cause de l'épidémie. Pour certaines MEV, comme le choléra ou la fièvre typhoïde, la source d'infection pourrait être inconnue, et des études, comme les études de cas-témoins, pourraient être réalisées pour identifier la source. Cependant, pour plusieurs MEV, la source n'est pas en cause, mais il convient plutôt de savoir si l'épidémie est synonyme d'échec de la vaccination ou de l'absence de vaccination. Les enquêtes doivent apporter une réponse à cette question. Dans certains cas, une répartition inhabituelle des cas de MEV, en termes de géographie ou de démographie, peut conduire à des hypothèses sur le programme de vaccination, ce qui pourrait conduire à d'autres recherches.
+
+Lors d'une récente épidémie de rougeole dans les États fédérés de Micronésie, un nombre excessif de cas chez les jeunes adultes vaccinés a mis en avant des dispositions inefficaces dans la chaîne d'approvisionnement en vaccins dix ans plus tôt (1).
+
+6. Mise en place de mesures de contrôle et de prévention. Bien que cette étape se produise généralement à la fin de la série des étapes d'une enquête sur une épidémie, en pratique, les mesures de prévention et de contrôle sont généralement déployées beaucoup plus tôt dans le processus. Les MEV sont uniques, dans la mesure où le vaccin lui-même est souvent utilisé comme un élément clé de prévention contre les épidémies. La vaccination nécessite un ensemble unique de critères logistiques et de dotation en personnel par rapport aux autres réponses aux épidémies. Pour de nombreuses MEV, il conviendra de mettre en place d'autres mesures en complètement de la vaccination pour contrôler l'épidémie, comme des campagnes sur l'hygiène des mains et l'approvisionnement sûr en eau.
+
+7. Analyser les enseignements tirés et communiquer les résultats. Les résultats des enquêtes sur les épidémies doivent être résumés dans un rapport final. Il devrait aussi inclure les enseignements tirés au cours de l'enquête sur l'épidémie et la riposte pour améliorer l'intervention et les enquêtes futures. Il peut prendre la forme d'un briefing oral ou d'un rapport écrit, qui devrait toujours inclure des recommandations pour la prévention des futurs cas. La diffusion des constatations devrait être réalisée auprès de toutes les parties prenantes, et tout particulièrement, le Ministère de la Santé s'il ne s'agit pas du rédacteur des rapports. Parfois, une enquête sur une épidémie peut être rédigée de manière plus formelle à des fins de publication, de formation et de partage des connaissances scientifiques.
+
+8. Poursuivre et renforcer la surveillance des MEV, le programme de vaccination, et, éventuellement, changer la politique vaccinale. Peu importe si l'épidémie a été détectée dans une zone où la surveillance des MEV est en place, ou si la surveillance a été mise en place dans le cadre d'une épidémie, cette surveillance doit être maintenue pendant un certain temps après le déclenchement afin d'assurer une résolution réussie des efforts de lutte contre l'épidémie et de vaccination, si cela s'inscrit dans la riposte. Souvent au cours d'une épidémie, les lacunes de surveillance sont dévoilées, menant au renforcement de la surveillance dans la période qui suit l'épidémie. En outre, les constatations de l'enquête sur l'épidémie devraient servir à renforcer les programmes de vaccination et peuvent parfois être utilisées pour informer les politiques de vaccination.
+
+RÉFÉRENCES POUR L'ANNEXE D
+
+doi: 10.1093/ofid/ofw06.

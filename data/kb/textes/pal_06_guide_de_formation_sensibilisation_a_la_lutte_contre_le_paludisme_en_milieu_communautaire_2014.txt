@@ -1,0 +1,1991 @@
+Football Combating Malaria
+
+Sensibilisation à la lutte contre le paludisme en milieu communautaire
+
+Guide de formation
+
+Que faire en tant qu'ambassadeurs Football Combating Malaria ?
+
+La campagne Zéro Palu! Je m'engage
+
+Annexes
+
+Annexe 01: Planning de la semaine - Formation - Campagne Football Combating Malaria
+
+Annexe 02: Programme indicatif de la formation des agents de changement
+
+Première partie
+
+Pr. Awa Marie Coll-Seck, Ministre de la Santé et de l'Action sociale & Lionel Messi Dakar, le 27 juin 2013. © Crédit photo: Speak Up Africa.
+
+Remerciements
+
+Ce guide dédié à la formation des agents de changement sur la sensibilisation à la lutte contre le paludisme a été écrit et produit par Speak Up Africa. Nous remercions le Ministère de la Santé et de l'Action sociale et le Programme National de Lutte contre le Paludisme du Sénégal dont les documents et conseils sont largement repris dans ce guide. La mise en page de ce guide a été effectuée par Spectrum Afrique.
+
+Le programme Football Combating Malaria, pour lequel ce guide a été élaboré, est financé par Aspire Academy. Nous adressons également tous nos remerciements à Lionel Messi et à sa fondation pour leur dévouement à la lutte contre le paludisme en Afrique.
+
+Les ramasseurs de balle du tournoi U17
+
+Stade Caroline Faye de Mbour, 2014. © Crédit photo: Speak Up Africa.
+
+Liste des abréviations et acronymes
+
+ACT
+
+AID
+
+CPN
+
+CPS
+
+CU
+
+DSDOM
+
+FCM
+
+ICP
+
+IEC/CCC
+
+MILDA
+
+PNLP
+
+RBM
+
+PECADOM
+
+TPI
+
+UR
+
+VAD
+
+Combinaison à base d'artémisinine
+
+Aspersion intra domiciliaire
+
+Consultation prénatale
+
+Chimio-prévention du paludisme saisonnier
+
+Couverture universelle en moustiquaires imprégnées à longue durée d'action Dispensateur de soins à domicile
+
+Football Combating Malaria
+
+Infirmier chef de poste
+
+Information, Education, Communication/Communication pour le changement de comportement Moustiquaire imprégnée à longue durée d'action
+
+Programme National de Lutte contre le Paludisme
+
+Partenariat Roll Back Malaria (Partenariat Faire reculer le paludisme)
+
+Prise en charge des cas de paludisme à domicile
+
+Traitement préventif intermittent
+
+Unité de recensement
+
+Visite à domicile
+
+Avant-propos du Pr. Awa Marie Coll-Seck
+
+Ministre de la Santé et de l'Action sociale du Sénégal
+
+Le paludisme est considéré comme l'une des principales causes de décès dans le monde avec des chiffres qui avoisinent 700 000 par an selon l'Organisation mondiale de la santé (OMS). Au Sénégal, des progrès significatifs ont été réalisés grâce aux efforts du gouvernement à travers le Programme National de Lutte contre le Paludisme (PNLP) et le soutien des partenaires. Les indicateurs de morbidité et de mortalité connaissent une courbe descendante depuis 2006. En effet, entre 2006 et 2013, le taux de mortalité dû au paludisme a baissé de 61%. Ceci a été rendu possible grâce aux investissements massifs sur le plan de la prévention, notamment par l'utilisation des moustiquaires imprégnées à longue durée d'action (MILDA) et les innovations scientifiques telles que les tests de diagnostic rapide (TDR) qui par leur fiabilité permettent de confirmer instantanément l'existence de la maladie chez l'individu. Les TDR sont disponibles dans les structures sanitaires du pays jusqu'au niveau communautaire et sont par ailleurs gratuits tout comme les médicaments contre le paludisme (ACT).
+
+Malgré ces efforts soutenus, le défi de vaincre la maladie demeure. Il convient alors d'élargir le front de lutte à d'autres partenaires stratégiques. La production d'un guide sur le paludisme destiné à la sensibilisation au paludisme en milieu communautaire vient ainsi à son heure. Une initiative comme Football Combating Malaria mise en œuvre par la Fondation Leo Messi, Aspire Academy et Speak Up Africa vise à faire acquérir aux populations, des attitudes et aptitudes qui leur permettent de prévenir le paludisme. En soutenant cette expérience pilote dans notre pays, nous renforçons les bases de notre lutte contre cette maladie à laquelle nous entendons mettre un terme par l'application de règles et l'acquisition de comportements adéquats. En confiant aux populations elles-mêmes le soin de conseiller leurs familles et voisins, la campagne Football Combating Malaria fait des bénéficiaires les acteurs principaux du projet national d'élimination du paludisme.
+
+Nous sommes certains que cette campagne Football Combating Malaria créera un engouement au niveau des populations, tout particulièrement la jeunesse. Mobiliser les communautés de façon significative pour garantir l'adoption de comportements positifs en matière de santé fait partie des éléments essentiels à la réalisation des objectifs nationaux d'élimination de la maladie.
+
+Ce guide se concentre sur le processus impliqué dans l'adoption de nouvelles attitudes et développe une stratégie de conscientisation et de mobilisation sociale visant à l'appropriation des populations de la lutte contre le paludisme à travers le pays. Au-delà du personnel sanitaire chargé de programmes sur le paludisme, la campagne s'adresse directement aux habitants des communautés bénéficiaires. Ainsi, elle tient compte des orientations du plan stratégique national de lutte contre le paludisme. Tout comme le Partenariat mondial Roll Back Malaria, la volonté exprimée du Gouvernement du Sénégal est de mener une lutte organisée contre le paludisme afin de, non seulement, réduire son impact sur la population mais surtout d'arriver à son élimination à travers le territoire. Le Gouvernement souhaite que la mise en œuvre de ce plan élaboré contribue amplement à l'amélioration de l'état de santé de la population sénégalaise.
+
+Contexte et justification
+
+Le Partenariat Roll Back Malaria (RBM) a élaboré le Plan d'action mondial contre le paludisme pour apporter un soutien aux pays où le paludisme est endémique. Ce Plan fournit un cadre global pour l'action autour duquel les partenaires peuvent coordonner leurs efforts. Il expose la vision du Partenariat RBM en vue d'obtenir à court et moyen termes, une réduction significative et durable du fardeau que représente le paludisme et à long terme, l'éradication potentielle du paludisme à l'échelle mondiale.
+
+Au Sénégal, entre 2006 et 2013, grâce à la combinaison des stratégies de prise en charge des cas et de renforcement de la prévention, il a été constaté une baisse significative de 61% de la morbidité et de la mortalité dues au paludisme.
+
+Afin de renforcer la lutte contre le paludisme et d'accroître le recours aux outils essentiels de prévention et de traitement du paludisme, Aspire Academy et la fondation Leo Messi collaborent avec Speak Up Africa et le PNLP pour protéger des centaines de milliers de personnes avec la distribution de moustiquaires imprégnées et la formation de près de 400 ambassadeurs de la lutte contre le paludisme à travers les districts du Sénégal. En partenariat avec le PNLP, ces agents communautaires seront formés sur les méthodes de prévention du paludisme afin de réduire davantage le fardeau de cette maladie dans les zones rurales. Ces modules de formation viseront également à influer positivement sur le taux de mortalité des communautés.
+
+Ce guide de formation est destiné à préparer les formateurs à enseigner la communication pour le changement de comportement aux volontaires travaillant dans les communautés.
+
+La communication pour le changement de comportement est un moyen très efficace de combattre le paludisme en encourageant des comportements plus sains comme l'utilisation de la moustiquaire imprégnée. Les informations contenues dans le présent guide vous préparent à enseigner ces méthodes de communication aux agents de changement pour qu'ils soient plus aptes à aider leur communauté à modifier leurs comportements. Votre rôle s'inscrit dans l'action plus large menée par le Programme National de Lutte contre le Paludisme (PNLP) dans votre district sanitaire.
+
+Former le personnel de terrain à donner des informations essentielles aux membres de la communauté pour les inciter à modifier leur comportement en matière de santé est une manière tangible d'aider les membres du groupe à améliorer le bien-être dans leur communauté. Grâce à ce guide, vous serez préparés à aider les agents de changement à utiliser avec succès ces méthodes de communication dans leur communauté.
+
+Le guide du formateur vise à fournir toutes les instructions et tous les supports techniques nécessaires pour une séance de formation de cinq jours pour les formateurs et de deux jours pour les agents de changement. Il est accompagné de la boîte à outils des volontaires contenant des messages clés et d'autres outils qui seront distribués aux participants à la formation et utilisés par les volontaires pour leurs activités de communication dans la communauté.
+
+Sensibilisation à la lutte contre le paludisme
+
+La lutte contre le paludisme et ses enjeux
+
+Objectif de la session:
+
+Fournir aux participants les données clés sur la lutte contre le paludisme dans le monde et au Sénégal en particulier.
+
+Introduction
+
+Le paludisme est une maladie infectieuse évitable et curable qui se transmet par les moustiques. Elle tue près de 700 000 personnes chaque année, principalement en Afrique subsaharienne où le paludisme est la première cause de mortalité chez les enfants de moins de cinq ans.
+
+Le paludisme est une urgence mondiale qui perpétue un cycle vicieux de pauvreté dans les pays en voie de développement. Les maladies et les décès associés au paludisme coûtent à l'économie africaine environ 12 milliards de dollars par an.
+
+A l'heure actuelle, le paludisme peut être évité, diagnostiqué et traité à l'aide d'une combinaison d'outils.
+
+Toutefois, les estimations mondiales indiquent qu'il faut 4,2 milliards de dollars chaque année pour financer entièrement la lutte contre le paludisme.
+
+L'impact du paludisme dans le monde
+
+Le paludisme est l'une des plus grandes causes de mortalité des enfants en Afrique et représente ainsi une lourde menace sur la santé, l'économie et le bien-être de tous.
+
+Chaque année, plus de 216 millions de cas sont diagnostiqués dans le monde.
+
+Plus de 655,000 décès par an.
+
+91% des décès dus au paludisme sont enregistrés en Afrique.
+
+En Afrique, 12 milliards de dollars US de PIB sont perdus.
+
+10 millions de jours d'école sont perdus par année pour cause d'absentéisme lié au paludisme.
+
+La lutte contre le paludisme
+
+Les leaders des secteurs public et privé à travers le monde se sont engagés dans la lutte contre le paludisme et ont généré une hausse importante des financements ces dix dernières années.
+
+* Liste non-exhaustive des partenaires
+
+Sources : Fonds mondial / PMI
+
+L'impact
+
+Le financement international de la lutte antipaludique est passé de moins de 100 millions en 2000 à près de 2 milliards de dollars américains en 2012. Les financements ont permis l'achat d'une plus grande quantité d'outils de contrôle et de traitement (MILDA, médicaments, tests de diagnostic rapide, aspersions intra domiciliaires) à travers l'Afrique et ont réduit l'impact du paludisme.
+
+Maintenir les acquis
+
+Maintenir les progrès réalisés dans la lutte contre le paludisme est critique. Avec un financement international incertain, les gouvernements et le secteur privé africains doivent renforcer leurs engagements.
+
+Défis Majeurs
+
+Pour la première fois depuis dix ans, il y a eu une baisse des financements pour la lutte contre le paludisme en 2012.
+
+Solutions proposées par Speak Up Africa
+
+Mise en œuvre de campagnes de plaidoyer à l'encontre des décideurs pour assurer au paludisme une prééminence dans l'agenda public.
+
+Création de partenariats public-privé pour tirer parti des financements du secteur privé et de ses compétences de base, pour un impact réel sur la population et la notoriété pour l'entreprise.
+
+Mise en œuvre de stratégies de communication créatives pour maintenir le paludisme au devant de la scène internationale.
+
+Retour sur le Sénégal
+
+Au Sénégal, le paludisme est endémique tout au long de l'année, avec un pic saisonnier de transmission pendant les périodes de pluies.
+
+L'incidence du paludisme est passée de 130 cas pour 1 000 habitants en 2006 à 14 cas pour 1 000 habitants en 2009.
+
+Cette faible incidence peut s'expliquer par la mise en œuvre d'une série de stratégies prouvées et recommandées par l'Organisation Mondiale de la Santé (OMS), et aussi par le fait que les populations ont une meilleure compréhension de la maladie.
+
+Chez les enfants de moins de 5 ans, le nombre de cas de paludisme est passé de 408 588 cas en Le nombre de décès dus au paludisme dans le même groupe cible est passé de 650 en 2006 à 216 Pour les femmes enceintes, le nombre de cas de paludisme a diminué de 47 859 en 2006 à 6 749 en 2009. Le nombre de cas de mortalité liés au paludisme chez les femmes enceintes a chuté de De 2006 à 2013, la mortalité due au paludisme a baissé de 61% à travers le Sénégal.
+
+Source : PNLP
+
+Pendant de nombreuses années les stratégies de lutte contre le paludisme se sont plus concentrées sur les femmes enceintes et les enfants de moins de 5 ans, alors considérés comme les groupes les plus vulnérables. Néanmoins, en 2009, les informations de routine ont montré que la charge de morbidité et de mortalité est équivalente sur la population générale.
+
+Les analyses d'incidence de morbidité et de mortalité dues au paludisme au Sénégal montrent clairement une disparité entre les régions. Le fardeau du paludisme est beaucoup plus lourd dans les régions du centre, du sud et de l'est du pays. Cela s'explique par des facteurs différents, notamment, la densité de population, les aspects épidémiologiques, la pluviométrie, ainsi que l'accès géographique et financier aux installations sanitaires.
+
+Le système de santé au Sénégal
+
+Le Sénégal dispose d'un système de santé décentralisé. Au delà du niveau national, toutes les activités liées au paludisme sont gérées par les médecins des régions et des districts, ainsi que par les travailleurs de la santé œuvrant dans les structures dédiées.
+
+Type d'interventions mises en œuvre
+
+Stratégies de lutte contre le paludisme
+
+Interventions de lutte contre le paludisme
+
+Couverture universelle en moustiquaire imprégnée à longue durée d'action En 2010, le Ministère de la Santé et de l'Action sociale, le PNLP et les partenaires du secteur de la santé se sont associés pour lancer une campagne de couverture universelle en moustiquaires imprégnées à longue durée d'action, avec l'objectif d'équiper de moustiquaires imprégnées tous les espaces de couchage à travers le Sénégal et d'augmenter leurs taux d'utilisation.
+
+De 2010 à 2013, le Sénégal a ainsi distribué plus 6.5 millions de MILDA aux populations.
+
+Prise en charge des cas de paludisme à domicile
+
+La PECADOM (Prise en charge des cas de paludisme à domicile) est une stratégie de prise en charge du paludisme visant à améliorer l'accès aux soins pour les populations vivant dans les zones où les structures sanitaires sont difficiles à atteindre.
+
+Elle a pour but de faire en sorte que les populations affectées par la maladie puissent bénéficier précocement de soins de qualité en cas d'accès palustre.
+
+Aspersion intra-domiciliaire
+
+Les aspersions intra-domiciliaires (AID) consistent à asperger les murs d'insecticides afin de tuer les moustiques présents dans les habitations. Les AID sont mises en oeuvre dans des districts cibles.
+
+Traitement préventif intermittent
+
+Le traitement préventif intermittent vise exclusivement les femmes enceintes. Il consiste à administrer gratuitement la Sulfadoxine Pyriméthamine (SP) durant les consultations prénatales et à donner aux femmes enceintes des MILDA.
+
+Chimio-prévention du paludisme saisonnier
+
+En fin 2013, le Sénégal a mis en oeuvre sa première campagne de chimio prévention du paludisme saisonnier ou CPS.
+
+Cette campagne a eu lieu dans des zones d'intervention déterminées sur la base des deux principaux critères d'éligibilité, à savoir: (1) les enfants de 3 à 120 mois, (2) vivant dans les zones à forte endémicité avec un taux d'incidence du paludisme supérieur à 15 pour 1000.
+
+La stratégie utilisée pour la CPS se base essentiellement sur la participation de volontaires ou d'agents de santé communautaire habitant le village.
+
+Cette nouvelle intervention est considérée comme une stratégie pouvant réduire de 75% la morbidité due au paludisme au sein de la cible.
+
+Personnel de santé engagé dans la lutte contre le paludisme
+
+Kassack, avril 2014. © Crédit photo: Genevieve Sauvalle.
+
+La campagne
+
+Football Combating Malaria
+
+Objectifs de la campagne Football Combating Malaria
+
+Le programme Football Combating Malaria sera considéré comme un succès si les objectifs suivants sont atteints:
+
+Accroître les connaissances sur le paludisme et l'utilisation de moustiquaires imprégnées dans les communautés ciblées.
+
+Distribuer des moustiquaires imprégnées aux élèves fréquentant le cours élémentaire dans des communautés pré-sélectionnées.
+
+Renforcer les capacités et l'autonomie des communautés ciblées, par la formation d'individus à travers le Sénégal, pour renforcer la sensibilisation sur l'importance du recours précoce aux soins.
+
+Sensibiliser la population à tous les moyens de prévention permettant de lutter efficacement et durablement contre le paludisme.
+
+Maintenir l'attention sur la lutte contre le paludisme au niveau national et international.
+
+Objectifs de la formation
+
+La formation vise à fournir aux agents de changement les compétences nécessaires à la réalisation de la campagne Football Combating Malaria, notamment une communication de proximité sur les méthodes de prévention du paludisme, ainsi que le suivi de l'activité. La formation a pour objectif de:
+
+Décrire les stratégies et modalités pratiques du programme de sensibilisation à travers les agents de changement.
+
+Mettre à la disposition des formateurs les informations essentielles à la formation des agents de changement, à la planification et au suivi du programme de sensibilisation.
+
+Pour le formateur
+
+Les éléments contenus dans ce guide sont conçus pour vous fournir la trame de la formation. Tous les exercices, les méthodes et les plans de cours sont des suggestions. Il vous est conseillé d'adapter le matériel ou le contenu de la formation aux besoins de votre audience. La réussite de la formation passe par une préparation approfondie. Il est essentiel de bien connaître le sujet de chaque cours et d'avoir le matériel nécessaire pour les différentes activités à mener. Il vous est recommandé de :
+
+Lire le guide du formateur et de vous familiariser avec les aspects techniques du contenu des séances.
+
+Lire les instructions destinées au formateur avant chaque séance, réfléchir aux besoins particuliers de votre auditoire et à l'agencement de la salle et être prêt à adapter «sur mesure» la présentation de votre cours pour le rendre vivant.
+
+Vous noterez qu'il vous faudra peut-être adapter les activités en fonction du nombre de participants.
+
+Si, par exemple, l'activité prévue est une discussion par deux et que vous n'avez que trois participants, vous devrez la transformer en une discussion en petit groupe. Modifiez, au besoin, le programme et les supports destinés aux participants pour qu'ils soient mieux adaptés au contexte local de votre formation.
+
+Matériel nécessaire pour la formation
+
+Une montre pour pouvoir surveiller l'heure.
+
+Un exemplaire du programme de travail pour chaque participant.
+
+Une MILDA, avec cordons et accessoires, pour les exercices de groupe.
+
+Avant de commencer : quelques suggestions pour les formateurs
+
+Bien gérer le temps
+
+Les durées suggérées pour les différentes activités présentées dans le programme indicatif sont approximatives. Connaissant bien votre auditoire, vous serez à même de savoir s'il lui faut plus ou moins de temps que ce qui est indiqué pour apprendre. Les objectifs qui figurent au début de chaque séance donnent la structure et la substance de ce qu'il faut apprendre. Si la maîtrise du temps vous échappe ou si votre auditoire sort du sujet, utilisez les règles de base pour revenir au sujet.
+
+Disposition de la salle
+
+Disposez la salle de telle sorte que les participants puissent tous se voir et que vous puissiez facilement animer une conversation dans le groupe. Veillez à ce que les démonstrations soient visibles pour tous. Evitez les alignements de chaises et les longues tables. Préférez des petites tables de quatre à six personnes ou une disposition en fer à cheval ou en U.
+
+Répartition des participants en petits groupes
+
+Pour que votre auditoire participe aux activités et aux discussions, il vous sera souvent suggéré dans ce guide de constituer des petits groupes. Vous pouvez former les groupes arbitrairement en comptant les participants ou distribuer des objets de couleurs différentes ou des bandes de papier portant le nom de chaque groupe. Il est généralement judicieux de désigner, pour chaque activité, un chef de groupe et rapporteur qui prendra des notes et rendra compte des activités du petit groupe devant les autres. Il s'agit souvent d'un bon moyen de motiver et de dynamiser le groupe. Pendant la formation, tous les participants doivent avoir la possibilité d'être chef de groupe et rapporteur.
+
+Participer à des activités et à des débats est un bon moyen d'apprendre. Votre travail consiste à soutenir l'intérêt des participants et à les écouter d'une oreille attentive.
+
+Assane Sène
+
+Mouhamadou Konaté
+
+Boubacar Badji
+
+Fodé Touré
+
+Superviseur communautaire.
+
+Superviseur communautaire.
+
+Superviseur communautaire.
+
+Superviseur communautaire.
+
+Yacine Diop Djibo
+
+Abasse Guèye, Fara Ndiaye & Jean-Pierre Sambou
+
+Présidente & fondatrice de Speak Up Africa
+
+Fara est la Directrice des programmes de Speak Up Africa.
+
+Lamine Savané & Assane Sène
+
+Patrick Sagna & Amadou Diop Diagne
+
+Superviseurs communautaires.
+
+Lamine est le Directeur Afrique de Aspire Football Dreams et
+
+Assane Sène est superviseur communautaire.
+
+Ndèye Aissatou Barry, Pape Amar Mbodj & Oumou Sène
+
+Mamadou Sy
+
+Ndary Aidara & Cheikh Oumar Thiam
+
+Anta Gaye
+
+Superviseurs communautaires.
+
+Superviseurs communautaires.
+
+Superviseur communautaire.
+
+Assistante administrative et financière de la campagne Football Combating Malaria
+
+Fara Ndiaye & Jésus Navarro
+
+Fara est la Directrice des programmes de Speak Up Africa et Jésus Navarro est l'Administrateur du projet Football Combating Malaria
+
+Deuxième partie:
+
+Modules de formation des agents de changement
+
+Football Combating Mala aria - Guide de formation
+
+Module A
+
+La moustiquaire imprégnée
+
+Objectifs de la session:
+
+Présenter les différents types de moustiquaires.
+
+Enumérer les avantages des MILDA.
+
+Décrire la technique de suspension des MILDA.
+
+Décrire le mode d'entretien des MILDA.
+
+Introduction
+
+L'utilisation des moustiquaires imprégnées occupe une place très importante dans la lutte contre le paludisme. En effet, les moustiquaires constituent un obstacle physique pour les moustiques. Lorsqu'elles sont imprégnées d'insecticide et bien entretenues, elles diffusent un halo chimique qui repousse ou empêche les moustiques de piquer. Avec les MILDA qui les privent de repas sanguin, ces moustiques sont incapables de transmettre l'infection et leur durée de vie est ainsi raccourcie. Pour réduire la morbidité et mortalité liées au paludisme, le Sénégal a déroulé une campagne de couverture universelle en MILDA dans toutes les régions. Cette couverture universelle a été réalisée après une distribution gratuite des MILDA à toutes les familles après recensement des couchages dans tous les ménages.
+
+A retenir:
+
+Le paludisme, transmis à l'homme par la piqûre d'un moustique femelle du genre Anopheles infecté par un parasite du genre Plasmodium, compte parmi les maladies infectieuses les plus meurtrières.
+
+Plusieurs espèces de parasites du genre Plasmodium sont responsables de la maladie chez l'homme (P. falciparum, P. vivax, P. ovalae, P. malariae) mais le Plasmodium falciparum est l'espèce la plus pathogène et responsable des cas mortels. Le principal moustique en cause est l'Anopheles gambiae sur le continent africain.
+
+La distribution a couvert l'ensemble des couchages en tenant compte des moustiquaires disponibles et utilisables. Les objectifs du projet de couverture universelle en cours d'exécution étaient les suivants:
+
+Assurer la couverture de 100% des couchages habituels en MILDA dans les ménages ciblés.
+
+Amener au moins 80% de la population générale des zones ciblées à dormir sous MILDA toutes les nuits et durant toute l'année.
+
+Au fil du temps, ces MILDA distribuées pourraient se perdre, se détériorer et de nouveaux espaces de couchages pourraient se créer. Ainsi pour maintenir la couverture universelle à un niveau stable, le PNLP en collaboration avec ses partenaires, a mis en oeuvre une stratégie de renforcement de la distribution de MILDA qui vise à distribuer des moustiquaires à toute personne fréquentant les structures de santé, plus particulièrement aux femmes enceintes.
+
+L'acquisition de MILDA est gratuite pour les femmes enceintes lors des consultations prénatales. Outre les femmes enceintes, il est possible de se procurer des MILDA subventionnées moyennant un prix de 500 FCFA dans les structures de santé. Les coupons de gratuité et de réduction sont disponibles auprès des prestataires de santé.
+
+Types de moustiquaires:
+
+Il existe 3 types de moustiquaires qui sont classées en fonction de leur état d'imprégnation et de leur durée d'efficacité :
+
+Moustiquaires non imprégnées
+
+Les moustiquaires non imprégnées d'insecticide ont un rôle de barrière mécanique. Les moustiques peuvent parvenir à piquer les personnes dormant sous ces moustiquaires en cas de déchirures ou si une partie de l'hôte est collée au tulle. Ainsi, leur efficacité peut être renforcée en les imprégnant avec des insecticides préférablement de longue durée pour qu'elles deviennent des MILDA.
+
+Moustiquaires imprégnées d'insecticide (MII)
+
+Il s'agit de moustiquaires imprégnées avec insecticide à durée d'efficacité limitée à moins de six mois. La contrainte majeure est le renouvellement de l'imprégnation tous les six mois ou après plus de 3 lavages.
+
+Leur imprégnation avec des insecticides de longue durée d'action permet de les rendre MILDA.
+
+Moustiquaires imprégnées d'insecticide à longue durée d'Action (MILDA)
+
+Une MILDA est une moustiquaire imprégnée capable de conserver ses propriétés insecticides pendant trois à cinq ans, rendant leur réimprégnation inutile si elle est bien entretenue. Elle est généralement prétraitée industriellement par des procédés spécifiques qui lui permettent d'être efficace jusqu'à 20 lavages. L'insecticide incorporé dans les fibres pendant la fabrication se libère lentement et migre dans le textile vers la surface de la moustiquaire.
+
+Utilisation et entretien des MILDA
+
+Une fois déballée, la MILDA doit être étalée et laissée à l'air libre pendant 24h avant toute utilisation.
+
+Pour éviter que les moustiques ou autres insectes ne rentrent dans la moustiquaire, il faut veiller à la border sous le matelas. Si on dort à l'extérieur, la moustiquaire doit être placée au-dessus de la natte de couchage ou du lit, accrochée à des piquets disposés à chaque coin ou sous un arbre.
+
+Le lavage doit se faire avec de l'eau froide et du savon ordinaire en prenant soin de frotter doucement et en évitant de le faire trop fréquemment. Le séchage se fera à l'abri des rayons solaires. Si une moustiquaire est déchirée, il faudra la raccommoder pour empêcher les moustiques ou autres insectes de pénétrer à l'intérieur.
+
+Tout le monde doit dormir sous une moustiquaire imprégnée. Elle doit être utilisée toutes les nuits et pendant toute l'année.
+
+Module B
+
+Le recensement lors des visites à domicile
+
+Objectifs de la session:
+
+Définir les notions clés du recensement.
+
+Décrire le rôle de l'agent de changement avant, pendant et après le recensement.
+
+Citer et décrire les outils de gestion utilisés lors du recensement.
+
+Principes de base
+
+Le recensement des couchages et MILDA disponibles dans les ménages est une étape fondamentale dans la mise en œuvre de la campagne. Il permettra aux agents de changement de consolider leur propre base de données quant au nombre de MILDA nécessaires pour maintenir la couverture universelle. Cette phase de recensement, qui a lieu lors des visites à domicile, permet également aux agents de changement de recueillir toutes informations qui pourraient s'avérer utiles pour les autorités sanitaires.
+
+Ce recensement se fait dans la zone de couverture de la structure sanitaire subdivisée en unité de recensement (UR).
+
+L'UR est composée d'un village, groupe de villages, quartier ou groupe de quartiers.
+
+Objectifs du recensement
+
+Déterminer le nombre de couchages dans chaque ménage d'une UR.
+
+Sensibiliser la population sur la CU et la nouvelle campagne Football Combating Malaria.
+
+Définitions des concepts clés
+
+En collectant les données, l'agent de changement doit avoir une compréhension claire des concepts clés de la campagne.
+
+Unité de recensement : L'UR est une aire géographique composée d'un village, groupe de villages, quartier ou groupe de quartiers qu'un groupe d'agents doit visiter durant une période déterminée pour faire le recensement dans l'ensemble des ménages. Chaque UR est recensée par un agent ou groupe d'agents issu du village et formé sur les approches essentielles de la campagne. Les agents doivent visiter l'ensemble des ménages de l'UR et entrer dans les chambres pour vérifier la disponibilité des moustiquaires et/ou apprécier leur état.
+
+Recensement : C'est le dénombrement des personnes vivant dans un ménage, des lits/couchages habituels et des MILDA disponibles et utilisables.
+
+Lit ou couchage : Le lit ou couchage constitue le lieu de dortoir habituel ; les lits/couchages placés dans les cours de maison et utilisés occasionnellement doivent par conséquent être exclus du recensement. Si quelqu'un dort occasionnellement dehors, il faudrait qu'il détache sa MILDA pour l'accrocher au dessus de son lieu de couchage.
+
+Ménage : Le ménage est une sous unité de la concession dans certaines régions. Il peut être composé par un chef de ménage, sa ou ses épouses et ses enfants ; une seule personne ayant loué une chambre ou un appartement dans une concession peut constituer un ménage. Dans certaines régions, cette définition n'est pas toujours valable; Il faudrait ainsi l'adapter au contexte socioculturel pour éviter toute confusion lors du recensement.
+
+Moustiquaire disponible et utilisable : Il s'agit d'une MILDA non déchirée ou qui présente des trous réparables.
+
+Taches de l'agent de changement lors du recensement
+
+Avant le recensement :
+
+Participer à la formation organisée par le superviseur communautaire en collaboration avec le poste de santé.
+
+Bien connaître son aire de recensement.
+
+Préparer les fiches de recensement et les outils de communication appropriés.
+
+Ranger tous les outils dans un classeur.
+
+Préparer tout le matériel FCM (Tee-shirt, dossard, etc.)
+
+Rappeler aux leaders communautaires le but des visites à domicile.
+
+Pendant le recensement :
+
+Visiter toutes les concessions de l'unité de recensement.
+
+Identifier les ménages dans chaque concession visitée.
+
+Demander à avoir un entretien avec le chef de ménage ou son représentant pour lui expliquer les raisons de la visite et le sensibiliser sur la campagne Football Combating Malaria et sur l'importance des méthodes de prévention du paludisme.
+
+Collecter les informations sur le nombre de personnes dans le ménage, le nombre d'enfants âgés de 1- 6 ans , le nombre de jeunes âgés entre 7 et 15 ans, le nombre de lits et couchage habituels, le nombre de moustiquaires en bon état, le nombre de couchage/lit sans moustiquaires imprégnées.
+
+Vérifier la disponibilité des moustiquaires en entrant dans les chambres.
+
+Enregistrer toutes les informations collectées sur la fiche de recensement.
+
+Après le recensement :
+
+Classer les fiches de recensement par village/quartier.
+
+Transmettre les fiches de recensement au superviseur communautaire.
+
+Participer à la réunion de validation des résultats du recensement.
+
+Fiche de recensement des bénéficiaires
+
+Recensement niveau village / quartier
+
+Noms des agents: Date:
+
+Région: District sanitaire:
+
+Poste de santé:
+
+Unité de recensement:
+
+Nom du chef de ménage ou de son représentant
+
+Nombre de personnes vivant dans le même ménage
+
+Nombre
+
+Nombre de d'enfants âgés jeunes âgés de 1 à 6 ans de 7 à 15 ans
+
+Nombre de couchages habituels
+
+Nombre de
+
+MILDA disponibles
+
+Module C
+
+La distribution de MILDA aux enfants
+
+Objectifs de la session :
+
+Enumérer les objectifs de la distribution.
+
+Décrire le rôle de l'agent de changement avant, pendant et après la distribution.
+
+Citer et décrire les outils de gestion utilisés lors de la distribution.
+
+Contexte
+
+Dans le cadre de la mise à l'échelle des interventions à efficacité prouvée, le PNLP en collaboration avec ses partenaires met en œuvre depuis 2010 un programme de couverture universelle en MILDA. Ce programme s'articule autour de la distribution ponctuelle des MILDA lors des campagnes de masse et de la distribution continue des MILDA en routine.
+
+La distribution de masse exclusive ne permet pas de maintenir à un niveau acceptable la couverture en moustiquaires imprégnées. C'est ainsi qu'une analyse des canaux potentiels de distribution continue des MILDA a été commanditée par le PNLP en août 2012. A l'issu de cette analyse, le PNLP a retenu la combinaison des canaux de distribution continue des MILDA à travers les structures sanitaires, les organisations communautaires, les écoles et les structures privées.
+
+La campagne FCM se concentre essentiellement sur la distribution via le canal scolaire. Cette distribution cible les élèves du cycle primaire, ces derniers pouvant constituer des agents de changement potentiels au sein de leur domicile.
+
+Objectif de la distribution
+
+La distribution de MILDA dans les écoles primaires a pour objectif de :
+
+Sensibiliser les enfants sur l'importance de l'utilisation de la MILDA par toute la famille, toutes les nuits et durant toute l'année.
+
+Renforcer la stratégie de distribution de routine des MILDA du PNLP pour maintenir la couverture universelle.
+
+Etapes de la distribution
+
+Phase préparatoire
+
+La distribution des MILDA nécessite l'implication accrue de tous les acteurs du niveau central au niveau communautaire. Elle requiert une logistique adaptée pouvant garantir l'acheminement des MILDA vers tous les bénéficiaires, une bonne disponibilité des outils de gestion, un renforcement des capacités des différents acteurs et une mobilisation communautaire.
+
+phase opérationnelle de la distribution
+
+Les agents de changement se regroupent au niveau de l'école et sont assistés par les superviseurs communautaires, le directeur de l'école et le poste de santé, pour l'organisation de la distribution qui constitue un moment important de communication. Il s'agit d'une cérémonie qui comporte les étapes décrites comme suit :
+
+Communication sur le paludisme
+
+Accueillir et installer les enfants et leurs parents de manière à faciliter la communication.
+
+Sensibiliser les enfants et leurs parents sur le paludisme et l'importance des MILDA.
+
+Rappeler les messages clés de la campagne Football Combating Malaria.
+
+Rappeler aux familles que les visites à domicile des agents de changement Football Combating Malaria vont se poursuivre après la distribution.
+
+Effectuer une démonstration sur la suspension de la MILDA
+
+Demander aux parents de veiller régulièrement à la suspension des MILDA dans l'ensemble des chambres du ménage et de leur utilisation continue pendant toute l'année.
+
+Donner des conseils sur l'entretien des MILDA (lavage, séchage, réparation, etc.).
+
+Remise des lots de MILDA aux bénéficiaires
+
+Ranger les MILDA sans emballage sur des nattes ou autres supports appropriés.
+
+Appeler les bénéficiaires par leur nom en suivant la fiche des élèves inscrits ou la disposition des lots sur la natte ou le support utilisé.
+
+Remettre la moustiquaire imprégnée à l'enfant.
+
+Durant la distribution, le superviseur communautaire et l'ICP effectuent la supervision avec des grilles adaptées et assistent au besoin l'agent dans la correction des erreurs, la gestion des conflits éventuels et la gestion de la foule.
+
+Gestion des données
+
+Reporter le nombre total de MILDA distribuées au niveau de l'école dans la colonne appropriée de la fiche de suivi.
+
+Gestion des emballages
+
+Collecter tous les emballages dans les sacs ayant servi au transport des MILDA.
+
+Procéder à la destruction des emballages de MILDA par incinération, suivie d'un enfouissement.
+
+Phase post-opérationnelle
+
+La synthèse et l'analyse des résultats de la distribution seront faites au niveau communautaire, district, régional et national, respectivement par les superviseurs communautaires et les ICP. A chaque niveau, un rapport de synthèse est élaboré et partagé avec les tous acteurs.
+
+Les fiches de recensement seront archivées très soigneusement par le superviseur communautaire en vue de la création d'une base de données.
+
+Tâches de l'agent de changement lors de la distribution
+
+Avant la séance de distribution
+
+Préparation des intrants et
+
+Pendant la séance de distribution
+
+Communication sur le paludisme communication
+
+Préparer le matériel de communication (Affiche,
+
+Banderole, tee shirt, dépliant etc..).
+
+Réceptionner les
+
+MILDA provenant du poste de santé.
+
+Effectuer une démonstration sur la suspension et l'entretien de la MILDA.
+
+Rappeler aux instituteurs et aux parents d'élèves la date de la distribution.
+
+Demander aux enfants et aux parents de veiller régulièrement à la suspension des MILDA dans l'ensemble des chambres du ménage et à leur utilisation continue pendant toute l'année.
+
+Préparer les nattes l'étalage des MILDA.
+
+pour
+
+Préparer une MILDA pour la démonstration.
+
+Identifier un lieu de distribution ombragé et propre dans la cour de l'école en relation avec l'instituteur et le directeur de l'école.
+
+Constitution des lots de MILDA la veille de la distribution
+
+Ouvrir l'emballage de chaque
+
+MILDA.
+
+Ecrire sur chaque moustiquaire le nom de l'école, l'année de livraison et le nom de l'enfant pour minimiser les risques de coulage
+
+Donner des conseils sur l'entretien des MILDA (lavage ; séchage ; réparation..).
+
+Après la séance de distribution
+
+Retourner les MILDA restantes vers l'ICP ou le directeur d'école.
+
+Faire la synthèse des résultats de la distribution par site de distribution.
+
+Transmettre la synthèse des résultats au comité de suivi du poste de sante.
+
+Soumettre les éventuelles réclamations au comité de suivi.
+
+Rangement des MILDA et remise des lots aux bénéficiaires
+
+Appeler les élèves par leur nom en suivant la fiche des inscriptions ou la disposition des lots sur la natte ou le support utilisé.
+
+Remettre la moustiquaire imprégnée à l'élève.
+
+Gestion des données
+
+Gestion des déchets
+
+Procéder à la destruction des emballages de
+
+MILDA par incinération suivie d'un enfouissement (voir service d'hygiène en cas de besoin).
+
+Fiche de recensement des bénéficiaires
+
+Distribution au niveau de l'école
+
+Nom du superviseur communautaire:
+
+Date:
+
+Région: District sanitaire:
+
+Poste de santé:
+
+Unité de recensement:
+
+Nom de l'école
+
+Nombre de MILDA pré-positionnées
+
+Nombre d'enfants ayant reçu une MILDA
+
+Nombre de MILDA restantes
+
+La fiche de suivi de la distribution permet de suivre les mouvements du stock de MILDA au niveau de site de distribution.
+
+Avant le démarrage des activités, l'agent de changement remplit les deux premières colonnes Nom de l'école siège du point de distribution.
+
+Nombre de MILDA pré-positionnées.
+
+Après la distribution, l'agent de changement complète le remplissage de la fiche de suivi de la distribution:
+
+Nombre d'enfants ayant reçu leur MILDA.
+
+Nombre de MILDA restantes.
+
+Communication dans les familles
+
+L'élève bénéficiaire de MILDA joue le rôle d'agent de changement au sein de son ménage pour assurer le suivi de l'utilisation correcte des MILDA. Il doit ainsi :
+
+Partager toutes les informations reçues à l'école avec ses parents.
+
+Rappeler l'utilisation des MILDA par toute la famille, toutes les nuits et toute l'année (3T).
+
+Aider à l'accrochage, à la transformation et à la réparation des MILDA.
+
+Le superviseur communautaire veillera régulièrement sur l'effectivité de l'implication des élèves dans le suivi de l'utilisation des MILDA au sein de leurs familles.
+
+Module D
+
+La communication pour le changement de comportement
+
+Objectifs de la session:
+
+Maîtrise des différentes techniques de communication pour le changement de comportement.
+
+Décrire les messages clés de la campagne FCM et les 4 axes de communication du PNLP.
+
+Décrire les tâches de l'agent communautaire lors d'une visite à domicile.
+
+Principes de base
+
+Pour garantir l'utilisation optimale des MILDA, les agents communautaires doivent systématiquement effectuer des visites à domicile (VAD) dans l'ensemble des concessions du village/ quartier.
+
+Cette visite à domicile constitue un moment fort de sensibilisation de la famille sur le paludisme et sur l'importance de la bonne utilisation des MILDA et autres moyens de prévention du paludisme.
+
+Elle permet à l'agent d'apprécier le niveau réel d'utilisation des moustiquaires, de déterminer les facteurs pouvant limiter la suspension des moustiquaires dans un ménage et d'assister des membres de la famille dans l'accrochage et l'entretien de leur MILDA.
+
+Objectifs des VAD
+
+Transmettre les messages de sensibilisation de la campagne FCM.
+
+Vérifier si les moustiquaires sont accrochées.
+
+Déterminer les facteurs pouvant limiter la suspension des moustiquaires dans un ménage.
+
+Aider à l'accrochage des moustiquaires.
+
+Donner les informations sur les bons comportements à adopter.
+
+Etapes de la VAD
+
+Préparation de la visite à domicile:
+
+L'agent doit préparer les fiches et les cartes conseil sur les messages clés et les ranger dans le classeur.
+
+Préparer les dossards et tout autre matériel brandé FCM.
+
+Elaborer le plan de progression pour les VAD et le soumettre au superviseur communautaire.
+
+Rappeler la période de la VAD aux leaders communautaires.
+
+La visite à domicile proprement dite:
+
+Condition requise
+
+L'agent de changement qui a effectué la VAD devra également effectuer le recensement dans sa zone de responsabilité. L'agent visitera, sous la supervision de son superviseur communautaire, tous les ménages de sa zone de responsabilité suivant les procédures ci-après :
+
+Vérifier certains aspects importants de la gestion des MILDA au sein du ménage Disponibilité dans le ménage des MILDA distribuées dans le cadre de la campagne CU.
+
+Accrochage de ces MILDA dans les chambres.
+
+Utilisation des MILDA par toute la famille, toute les nuits et durant toute l'année.
+
+Entretien des MILDA.
+
+Déterminer les causes des insuffisances notées dans la gestion des MILDA au sein du ménage MILDA livrées lors de la dernière campagne ne sont pas toutes disponibles dans le ménage.
+
+Certaines MILDA ne sont pas encore accrochées dans les chambres.
+
+Certains membres de la famille ne dorment pas sous MILDA.
+
+Conditions d'entretien des MILDA ne sont pas respectées.
+
+Assister les membres de la famille dans l'accrochage et l'entretien des MILDA Démonstration sur l'accrochage d'une MILDA.
+
+Démonstration sur le lavage et séchage d'une MILDA.
+
+Démonstration sur la réparation d'une MILDA déchirée si possible.
+
+Sensibiliser les membres de la famille
+
+Après avoir fait le point sur la situation des MILDA et démontré certaines techniques importantes, utilisez les dépliants de la CU et de la campagne FCM pour sensibiliser les membres de la famille sur les aspects ci après :
+
+Importance du recours précoce aux soins.
+
+Importance de la MILDA.
+
+Entretien de la MILDA (lavage, réparation).
+
+Utilisation de la MILDA par toute la famille, toutes les nuits et toute l'année.
+
+Tâches de l'agent de changement
+
+Effectuer une visite au chef de village et expliquer les objectifs de la campagne.
+
+Fixer les rendez-vous avec les familles.
+
+Préparer les fiches de suivi et les outils de communication appropriés.
+
+Ranger tous les outils dans un classeur.
+
+Effectuer les VAD.
+
+Vérifier si toutes les moustiquaires sont accrochées.
+
+Transmettre les messages clefs de la campagne FCM.
+
+Aider au besoin à l'accrochage.
+
+Remplir les fiches de VAD selon le modèle fourni.
+
+Participer aux réunions de coordination organisées par le superviseur communautaire.
+
+Transmettre les fiches au superviseur communautaire ou partager les données du cahier de l'agent de changement.
+
+Outils de VAD
+
+Nom des agents: Date:
+
+Région: District sanitaire:
+
+Unité de recensement:
+
+Observations Générales
+
+Aide mémoire pour la communication
+
+Qu'est-ce que la Campagne Football Combating Malaria ?
+
+C'est un programme de sensibilisation visant à renforcer l'utilisation des MILDA distribuées lors de la campagne de couverture universelle. FCM distribuera également des MILDA «brandées» à l'effigie de Lionel Messi, pour non seulement, appuyer les efforts précédemment déployés, mais également pour protéger sa cible privilégiée (les élèves au cours élémentaire).
+
+Quels types de moustiquaires seront distribués ?
+
+Le Ministère de la Santé, à travers le PNLP et en collaboration avec Aspire Academy, Leo Messi Foundation et Speak Up Africa, distribueront des moustiquaires imprégnées à longue durée d'action (MILDA).
+
+La MILDA est spécialement traitée à l'aide d'un insecticide inoffensif pour les humains mais qui éloigne ou tue les moustiques.
+
+Les MILDA sont recommandées par le Ministère de la Santé et l'Organisation Mondiale de la Santé (OMS) comme un moyen sûr et efficace de se protéger du paludisme. Bien entretenue, la moustiquaire MILDA peut garder son efficacité au moins pendant 4 ans.
+
+Qui doit utiliser la moustiquaire MILDA ?
+
+Toute la famille !
+
+Il faut s'assurer que tous les membres de la famille dorment sous moustiquaire MILDA.
+
+En dormant sous moustiquaire MILDA, toute la famille est protégée contre les piqûres des moustiques qui transmettent le paludisme.
+
+Est-ce qu'il y a une période particulière durant l'année où il faut dormir sous moustiquaire MILDA ?
+
+Toute l'année !
+
+Au Sénégal, le risque d'attraper le paludisme est permanent quelle que soit la saison. Après les pluies les moustiques sont toujours présents et continuent à piquer, même s'ils sont moins nombreux et qu'on ne les voit pas. Les moustiques qui transmettent le paludisme sont présents durant toutes les saisons.
+
+Quand faut-il utiliser la moustiquaire MILDA ?
+
+Toutes les nuits !
+
+La nuit est le moment de prédilection des moustiques qui en piquant transmettent le paludisme.
+
+Il faut utiliser les MILDA toutes les nuits, durant toute la nuit, quel que soit le lieu ou l'endroit de couchage. Il est également important de l'utiliser à l'intérieur comme à l'extérieur de la maison, quand il fait chaud ou frais, et même quand on dort à la belle étoile.
+
+« Les 3 Toutes » La MILDA doit être utilisée par toute la famille, toute l'année, toutes les nuits ! Parce que les moustiques sont toujours là !
+
+Comment faut-il utiliser la MILDA ?
+
+Etalez votre MILDA à l'ombre 24 heures avant la première utilisation. Sinon elle peut irriter pour votre peau.
+
+Attachez la moustiquaire MILDA en s'assurant qu'elle couvre bien tout le couchage.
+
+Il faut bien border la moustiquaire sous le couchage.
+
+Assurez-vous qu'il n'y a aucun moustique à l'intérieur de la moustiquaire MILDA.
+
+La seule fonction de la moustiquaire MILDA est de protéger les personnes du paludisme, toute autre utilisation comme protéger les semis ou récoltes ou tailler des robes par exemple, est fortement déconseillée.
+
+Comment laver la MILDA ?
+
+Lavez votre moustiquaire MILDA seulement quand c'est nécessaire. Mais attention ! Après 20 lavages, l'insecticide utilisé pour l'imprégnation de la MILDA va perdre son efficacité.
+
+Lavez la moustiquaire MILDA seulement avec de l'eau non chauffée et du savon ordinaire.
+
+L'eau de javel et les détergents en poudre ou liquide sont trop forts et peuvent rendre l'insecticide de votre MILDA inefficace contre les moustiques.
+
+Frottez doucement. La moustiquaire MILDA est fragile et peut se déchirer facilement.
+
+Comment sécher votre MILDA ?
+
+Toujours sécher la moustiquaire MILDA à l'ombre et jamais au soleil. Les rayons solaires détruisent l'insecticide et rendent votre moustiquaire inefficace.
+
+Evitez d'étaler la moustiquaire MILDA sur les palissades « tapâtes » pour les sécher puisque cela peut facilement la déchirer. Il est plus sûr d'accrocher votre MILDA sur une ligne à l'ombre.
+
+Les règles d'or du lavage et du séchage
+
+1 Lavez votre moustiquaire seulement quand c'est nécessaire.
+
+2 Utilisez de l'eau non chauffée et du savon ordinaire sans frotter trop fort.
+
+3 N'oubliez pas de la sécher toujours à l'ombre.
+
+Que pouvez-vous faire d'autre pour garder la moustiquaire MILDA en bon état pendant plusieurs années ?
+
+Faites un grand nœud avec les moustiquaires circulaires, ou détachez et repliez les moustiquaires carrées pour les protéger pendant la journée.
+
+Assurez-vous qu'il n'y ait rien qui puisse déchirer la moustiquaire. Faites attention lors de la manipulation et du rangement dans la maison.
+
+Réparez immédiatement votre moustiquaire MILDA s'il existe des petits trous ou déchirures. La moustiquaire MILDA trouée peut être réparée facilement avec un fil et une aiguille.
+
+Changez votre moustiquaire si les déchirures ne sont plus réparables ou après 5 ans ou 20 lavages.
+
+Protégez votre moustiquaire et elle vous protégera également !
+
+Comment l'utilisation de la moustiquaire vous permet d'économiser de l'argent ?
+
+L'utilisation correcte de la moustiquaire par toute la famille, durant toute la nuit et pendant toute l'année, vous protège du paludisme donc moins de dépenses pour l'achat des ordonnances et des frais de transport vers les structures sanitaires pour les soins.
+
+Si on se protège du paludisme selon les principes des « 3 Toutes » on aura moins de jours de travail ou d'école perdus.
+
+Bien entretenue, la moustiquaire peut durer au moins 4 ans sans frais supplémentaires. Inutile d'acheter quotidiennement des anti-moustiques (spirales ou bombes).
+
+Qui doit veiller à ce que toute la famille dorme sous moustiquaire MILDA toute l'année et toutes les nuits ?
+
+Le chef de ménage est responsable des frais de nourriture, de logement, de scolarité et de la santé de la famille.
+
+Le chef du ménage doit veiller à ce que les membres de la famille dorment bien sous moustiquaire MILDA à temps.
+
+Tous les membres de la famille doivent dormir sous moustiquaire MILDA pour se protéger du paludisme.
+
+La santé de votre famille c'est votre responsabilité !
+
+Protégez votre famille, faites la dormir toutes les nuits sous une MILDA !
+
+Les 4 axes de communication du PNLP
+
+Protection et sécurité
+
+En dormant sous une moustiquaire MILDA la famille est protégée contre les moustiques qui transmettent le paludisme.
+
+La moustiquaire MILDA est traitée à l'aide d'un insecticide inoffensif pour les humains mais qui éloigne ou tue les moustiques.
+
+Responsabilité
+
+Le Ministère de la Santé souhaite que tout le monde dorme sous une moustiquaire toute l'année et toutes les nuits.
+
+La santé de votre famille c'est votre responsabilité; protégez votre famille, faites la dormir toutes les nuits et toute l'année sous moustiquaire MILDA.
+
+Gain financier
+
+Si toute la famille se protège toutes les nuits et toute l'année on économisera sur :
+
+Les frais médicaux.
+
+Les médicaments.
+
+Le transport.
+
+Les jours de travail.
+
+Les jours d'école perdus.
+
+Opportunité d'accès
+
+Pendant une période spécifique, des MILDA seront distribuées gratuitement aux enfants par les agents de changement.
+
+Messages de la campagne Football Combating Malaria
+
+Dors sous ta moustiquaire imprégnée toute l'année et protège tes rêves et tes objectifs.
+
+Rappelle à ta maman que toute femme enceinte doit aller en consultation prénatale pour bénéficier gratuitement du médicament qui la protègera elle et son enfant du paludisme.
+
+Protège bien ta moustiquaire et elle te protégera à son tour.
+
+En cas de paludisme, assure-toi de prendre la totalité de ton traitement pour vite guérir.
+
+N'oublie pas de demander à ta maman de raccommoder ta moustiquaire imprégnée avec du fil et une aiguille si jamais elle a des trous.
+
+Ne joue pas à côté des flaques d'eau stagnante qui sont des repères à moustiques.
+
+Toute fièvre n'est pas synonyme de paludisme. N'attend pas pour aller au centre de santé. Il existe un test simple et gratuit pour savoir s'il s'agit du paludisme.
+
+N'oublie pas que le lavage de ta moustiquaire imprégnée ne doit se faire qu'avec de l'eau et du savon ordinaire.
+
+Grâce à l'utilisation d'insecticides, de médicaments et de moustiquaires imprégnées, le paludisme a été éliminé en grande partie dans le monde.
+
+10 En te protégeant toi et ta famille contre le paludisme, tu peux aider à éliminer cette maladie au Sénégal.
+
+Jeux de rôles - Facilitation des séances de CCC
+
+Constituer 6 groupes de travail qui simuleront des situations qui auront pour objectif de mieux comprendre le rôle de l'agent de changement pour :
+
+Sensibiliser les chefs de ménage sur les moyens de lutter contre le paludisme, sur la campagne Football Combating Malaria, sur l'importance de dormir sous MILDA et de bien l'entretenir.
+
+Recenser les besoins en MILDA et vérifier leur bonne utilisation.
+
+Distribuer les MILDA aux écoles ciblées.
+
+Etude de cas
+
+Après avoir préparé leurs scénarios, les participants désignés simuleront des situations qui mettront en évidence la mission et les responsabilités des agents de changement.
+
+Au terme de chaque simulation, les participants, observateurs et formateurs s'appuieront sur ces cas pour consolider les acquis théoriques.
+
+2 groupes simuleront des visites de courtoisie :
+
+Groupes 01 et 02
+
+La prise de contact avec le chef de ménage.
+
+La présentation de la campagne FCM.
+
+La sensibilisation pour un changement de comportement (CCC).
+
+L'information sur l'utilisation et l'entretien de la MILDA.
+
+2 autres groupes simuleront des visites de recensement :
+
+Groupes 03 et 04
+
+La prise de contact avec le chef de ménage.
+
+La CCC.
+
+Le recensement et le remplissage des fiches.
+
+2 autres groupes simuleront des étapes de la distribution de MILDA à l'école :
+
+Groupes 05 et 06
+
+La présentation de la campagne FCM.
+
+L'information sur le paludisme.
+
+La présentation de la MILDA : utilisation, entretien et transformation.
+
+Distribution de MILDA au centre de santé de Tiabakh
+
+Tiabakh, avril 2014. © Crédit photo: Genevieve Sauvalle.
+
+Module E
+
+Le suivi et l'évaluation du programme
+
+Objectifs de la session:
+
+Décrire les objectifs de la supervision.
+
+Décrire le rôle du superviseur communautaire dans le suivi.
+
+Remplir correctement une grille de supervision.
+
+Principes de base
+
+Le suivi & évaluation est un volet important dans la mise en œuvre de la campagne. Il permet de garantir la qualité des activités réalisées, d'améliorer la coordination, de suivre régulièrement le rythme de progression des activités et d'apprécier l'impact de l'intervention. Il offre aux différents acteurs l'opportunité d'identifier les problèmes et de proposer des stratégies correctrices.
+
+Le suivi & évaluation est réalisé au niveau central, régional, des districts et des communautés, suivant des procédures et périodicité spécifiques.
+
+Dans le cadre de la campagne seront surtout décrits les indicateurs clés, le cadre logique, les principes de base et les procédures opérationnelles du suivi, de la supervision, du contrôle rapide et de l'évaluation.
+
+Objectifs du suivi & évaluation
+
+Assurer la qualité des activités de recensement, de distribution, de communication et de gestion logistique.
+
+Appuyer les agents de changement et les autres acteurs dans la mise en œuvre de la campagne.
+
+Suivre le rythme de progression des activités au niveau opérationnel.
+
+Identifier les problèmes rencontrés et aider à leur résolution.
+
+Assurer la synthèse et l'analyse des données collectées.
+
+Rôles des superviseurs communautaires
+
+Acteurs
+
+Superviseurs communautaires
+
+Recensement
+
+Distribution
+
+Suivre les équipes porte à porte pour vérifier que les agents travaillent selon les directives en utilisant la grille de supervision.
+
+Suivre la distribution des MILDA pour vérifier qu'elle est faite selon les directives.
+
+Identifier et résoudre tous les problèmes survenus et rendre compte à l'ICP ou l'agent du centre de santé.
+
+Identifier et résoudre tous les problèmes survenus avec l'ICP ou l'agent du centre de santé.
+
+Se réunir avec l'ICP et partager avec lui les problèmes et les fiches de recensement.
+
+Place du superviseur communautaire dans le cadre du suivi :
+
+Niveau
+
+Tâches acteurs
+
+Acteur
+
+Collecte quotidienne des fiches de recensement par le superviseur communautaire.
+
+Communautaire
+
+Collecte des fiches de suivi à la fin de la distribution dans l'école.
+
+Superviseur communautaire
+
+Partage des fiches avec l'ICP.
+
+Archivages des fiches au niveau du poste ou du superviseur communautaire.
+
+Poste de santé
+
+Organisation d'une réunion mensuelle avec l'ICP pour discuter des problèmes et de leurs éventuelles solutions ainsi que du rythme de progression et des données collectées.
+
+Superviseur communautaire
+
+Outils de suivi
+
+Grille de supervision
+
+Recensement
+
+Date: Heure: Village/quartier:
+
+District: Poste de santé: Superviseur:
+
+Equipe: Région:
+
+A - Organisation de l'équipe de recensement a) Tous les membres de l'équipe de recensement sont-ils présents ?
+
+oui non b) Tous les membres de l'équipe de recensement ont-ils été formés ?
+
+oui non c) Les membres de l'équipe ont-ils des rôles clairement définis ?
+
+oui non d) Le schéma de l'itinéraire de l'équipe est-il disponible ?
+
+oui
+
+Non
+
+Observations/conseils:
+
+B - Procédure du recensement par l'agent de changement a) Identifie tous les ménages dans chaque concession visitée ?
+
+oui non b) Demande à parler avec le chef de ménage ou représentant ?
+
+oui non c) Explique les raisons de sa visite ?
+
+oui non d) Enregistre toutes les informations collectées sur la fiche de recensement ?
+
+oui
+
+Non
+
+Observations/conseils:
+
+C - Appréciation de l'équipe de recensement sur l'organisation et les problèmes rencontrés par rapport au recensement
+
+Grille de supervision
+
+Distribution des MILDA
+
+Date: Heure: Village/quartier:
+
+District: Poste de santé: Superviseur:
+
+Equipe: Région :
+
+A - Organisation de l'équipe de recensement a) Tous les membres de l'équipe sont-ils présents ?
+
+oui non b) Tous les membres de l'équipe ont-ils été formés ?
+
+oui non d) L'affluence est-elle bien gérée ?
+
+oui
+
+Non
+
+Observations/conseils:
+
+B - Information / Education / Communication par l'équipe de distribution :
+
+a) L'assistance est-elle bien installée de manière à faciliter la communication ?
+
+oui non b) Les agents de changement informent-ils les bénéficiaires sur l'importance de l'utilisation des MILDA ?
+
+oui non
+
+Aérer à l'ombre 24 heures avant de l'utiliser.
+
+oui non
+
+Comment laver et sécher le MILDA.
+
+oui non
+
+Importance de réparer la MILDA en cas de déchirure.
+
+oui non c) Effectue une démonstration sur la suspension de la MILDA ?
+
+oui non d) Demande à l'assistance de veiller à la suspension des MILDA ?
+
+oui non
+
+Observations/Conseils:
+
+C - Constitution des lots des MILDA et la remise aux bénéficiaires a) Les MILDA sont-elles stockées dans un endroit en sécurité ?
+
+oui non b) Le nom du village, l'année de livraison et le nom de l'enfant sont-ils notés sur la MILDA ?
+
+oui non c) Les MILDA sont-elles rangées sans emballage sur des nattes ou autres supports appropriés ?
+
+oui non d) Les bénéficiaires sont-ils appelés par nom en suivant la fiche de distribution ou la disposition des lots ?
+
+oui non
+
+Observations/Conseils:
+
+D - Gestion des outils de collecte des données et des déchets a) Les fiches de recensement sont-elles bien remplies ?
+
+oui non b) Toutes les fiches de recensement/distribution sont-elles en place et bien conservées ?
+
+oui non c) Les emballages de MILDA sont-ils incinérés ou enfouis suivant les directives ?
+
+oui non
+
+Observations/Conseils:
+
+Formation Football Combating Malaria, Groupe 08
+
+Saly, août 2014. © Crédit photo: Speak Up Africa.
+
+Grille de supervision
+
+Le superviseur communautaire
+
+Rubriques
+
+Le superviseur communautaire dispose d'outils de gestion appropriés (liste nominative des inscrits et fiches de distribution).
+
+Le superviseur communautaire vérifie si les quantités de MILDA livrées sont conformes à l'effectif de la classe.
+
+Le superviseur communautaire procède avant la remise de la MILDA à une communication sur la gravité du paludisme et l'importance des MILDA.
+
+Le superviseur communautaire remet à chaque élève une MILDA après avoir déchiré l'emballage.
+
+Le superviseur communautaire renseigne correctement les outils.
+
+Le superviseur communautaire fait des démonstrations sur la transformation et l'accrochage de la MILDA.
+
+Le superviseur communautaire demande aux élèves de s'impliquer dans le suivi de l'utilisation des MILDA au sein de leur famille.
+
+Oui
+
+Non
+
+Fiche de séance
+
+District: Poste de santé:
+
+Date activité: Quartier/village:
+
+Heures de début: Superviseur:
+
+Heure de fin:
+
+Type d'activité
+
+Causerie
+
+Visite à domicile
+
+Autre
+
+Mobilisation sociale
+
+Thèmes abordés
+
+Supports utilisés
+
+Dépliants
+
+Projections de films
+
+Carte conseil
+
+Boite à image
+
+Théatre/Sketch
+
+Autre
+
+Affiche
+
+Résultats (nombre de personnes sensibilisées)
+
+Cibles
+
+Nombre sensibilisés
+
+Total référés
+
+OBSERVATIONS
+
+Hommes adultes
+
+Femmes adultes
+
+Jeunes garçons
+
+Jeunes filles
+
+Produits distribués
+
+Leçons apprises
+
+Points forts de l'activité :
+
+Points à améliorer:
+
+Anecdotes :
+
+Jeux de rôle - Simulation d'une visite de supervision
+
+Constituer 6 groupes de travail qui simuleront des situations qui auront pour objectif de mieux comprendre le rôle et les fonctions du superviseur communautaire pour :
+
+Sensibiliser les populations sur les enjeux de la lutte contre le paludisme, sur la campagne Football Combating Malaria, sur l'importance de dormir sous MILDA, de bien l'utiliser et de bien l'entretenir.
+
+Recenser les besoins en MILDA.
+
+Vérifier la bonne utilisation des MILDA lors des visites à domicile.
+
+Distribuer les MILDA dans les écoles ciblées.
+
+Encadrer les agents de changement.
+
+Etude de cas
+
+Après avoir préparé leurs scénarios, les participants désignés simuleront des situations qui mettront en évidence les activités des équipes d'agents de changement et des superviseurs communautaires.
+
+Au terme de chaque simulation, les participants, observateurs et animateurs s'appuieront sur ces études de cas pour consolider les acquis théoriques.
+
+2 groupes simuleront des recensements:
+
+Groupes 01 et 02
+
+La prise de contact avec les chefs de ménages suite aux visites de courtoisies.
+
+La sensibilisation et le recensement.
+
+Le débriefing entre le superviseur et les agents de changement.
+
+2 autres groupes simuleront des distributions de MILDA à l'école.
+
+Groupes 03 et 04
+
+L'ouverture : salutations et remerciements aux invités.
+
+Rappel des objectifs de la campagne FCM et sensibilisation pour un changement de comportement.
+
+La présentation de la MILDA (Groupe 03) ou remise des MILDA aux bénéficiaires (Groupe 04).
+
+Le suivi et la coordination du projet.
+
+Le remplissage des fiches de suivi et le débriefing entre l'agent de changement et le superviseur.
+
+2 autres groupes simuleront des visites à domicile (VAD).
+
+Groupes 05 et 06
+
+La prise de contact avec le chef de ménage.
+
+La vérification de l'utilisation des MILDA.
+
+La sensibilisation pour un changement de comportement.
+
+Le remplissage des fiches de suivi (VAD).
+
+Formation Football Combating Malaria, Groupe 07
+
+Saly, août 2014. © Crédit photo: Speak Up Africa.
+
+Module F
+
+La revue du matériel pédagogique
+
+Objectif de la session:
+
+Revue de la mise en œuvre de la seconde phase des formations destinées aux agents de changement au niveau communautaire.
+
+Revue du matériel pédagogique.
+
+Répondre aux questions éventuelles des participants sur la seconde phase de la formation.
+
+Cette séance vise à fournir les ressources nécessaires pour la formation des agents de changement.
+
+A la fin de cette session, les participants seront capables de créer un environnement de formation adapté aux agents de changement. Les superviseurs communautaires seront en mesure de dispenser la formation selon les principes stipulés dans le guide de formation.
+
+L'animation de ce jeu permet de réviser de manière ludique les différents thèmes abordés lors du programme.
+
+Les équipes qui se sont formées lors des jeux de rôles s'affrontent lors de cette compétition. Avant le démarrage du jeu, déterminer un nom et un slogan par équipe.
+
+Pendant le jeu, ne pas déroger aux règles jusqu'à la désignation de l'équipe gagnante.
+
+Les réponses pourront être commentées au terme de l'exercice.
+
+L'équipe gagnante sera prise en photo et mise à l'honneur, avec son slogan.
+
+Passement de jambes - Jeu de «mort subite»
+
+Consigne
+
+Constituer 6 équipes de 4 à 6 personnes.
+
+Identifier un candidat par équipe pour concourir au nom de l'équipe sur le thème donné.
+
+Les candidats doivent répondre au fur et à mesure, instantanément. Ils sont éliminés en cas de mauvaise réponse, jusqu'au dernier candidat qui marque un point pour son équipe. Les observateurs qui soufflent des réponses ou perturbent le jeu verront leur candidat éliminé.
+
+4 tours seront effectués avant la désignation du vainqueur final qui sera de l'équipe ayant marqué le plus de points.
+
+En cas d'égalité, un dernier tour sera effectué entre les équipes ex-aequo.
+
+Les thèmes proposés sont les suivants:
+
+Le paludisme et ses enjeux.
+
+La campagne FCM et ses messages.
+
+Les moustiquaires.
+
+La communication pour le changement de comportement.
+
+Questions générales.
+
+Propositions de questions
+
+1. Plus de 9 millions de MILDA ont été distribuées par le PNLP lors de la CU. (Faux) 2. CU veut dire Couverture Universelle en moustiquaire imprégnée. (Vrai) 3. Il existe trois types de moustiquaires. (Vrai)
+
+4. La MILDA a une efficacité qui peut durer jusqu'à 5 ans. (Vrai)
+
+5. Le recensement se fait lors d'une visite à domicile de l'agent de changement. (Vrai) 6. Le nombre de MILDA distribué dépend du nombre de couchages sans MILDA du ménage. (Vrai) 7. Les fiches de recensement doivent être remplies par l'agent de changement en précisant le nom du chef de ménage. (Vrai)
+
+8. La colonne «Besoins en MILDA» est remplie par l'agent de changement lors de la réunion de validation des résultats du recensement. (Faux)
+
+9. Le paludisme est la plus grande cause de mortalité des enfants en Afrique. (Vrai) 10. Chaque année, plus de 216 millions de cas de paludisme sont diagnostiqués au Sénégal. (Faux) 11. 91% des décès dus au paludisme sont enregistrés en Afrique. (Vrai)
+
+12. Le paludisme est transmis aux animaux par un moustique appelé anophèle femelle. (Faux) 13. Le paludisme coûte plus de 12 milliards de dollars américains à l'économie africaine par an. (Vrai) 14. Les élèves africains manquent 10 000 jours d'école par an à cause du paludisme. (Faux) 15. Le test de diagnostic rapide est gratuit dans les structures de santé. (Vrai) 16. Entre 2006 et 2013, le taux de mortalité dû au paludisme a chuté de 26%. (Faux) 17. Le paludisme est une maladie évitable et curable. (Vrai)
+
+18. Une zone rouge selon le PNLP veut dire qu'il y a moins de 5 cas de paludisme pour 1000 recensés.
+
+(Faux)
+
+19. PNLP veut dire Programme National de Lutte contre le Paludisme. (Vrai) 20. Le PNLP dépend du Ministère de l'environnement. (Faux)
+
+21. Il faut dormir sous MILDA tous les soirs de l'année. (Vrai)
+
+22. L'anophèle femelle pique entre 19h et 5h du matin. (Faux)
+
+23. Les VAD servent à vérifier que les MILDA sont bien utilisées. (Vrai) 24. Les MILDA fraichement lavées doivent être séchées au soleil. (Faux)
+
+25. La MILDA peut être lavée avec de l'eau de javel. (Faux)
+
+26. La MILDA est inoffensive pour les humains. (Vrai)
+
+27. La carte conseil est l'aide-mémoire de l'agent de changement. (Vrai) 28. Un des messages de FCM est «Protégez votre MILDA et elle vous protégera». (Vrai) 29. Toute fièvre est systématiquement synonyme de paludisme. (Faux)
+
+30. Les femmes enceintes reçoivent gratuitement une MILDA lors des consultations prénatales. (Vrai) 31. Dormir sous MILDA peut vous sauver la vie et préserver vos objectifs. (Vrai) 32. En cas de fièvre, il faut avoir recours à un médecin dans les 48h. (Faux) 33. Leo Messi a lancé la campagne FCM en 2012. (Faux)
+
+34. Les VAD doivent se dérouler dans la langue du chef de ménage. (Vrai) 35. Le superviseur doit récupérer les fiches de recensement après le passage des agents de changement (Vrai)
+
+36. Le superviseur doit systématiquement accompagner les agents de changement dans chaque maison.
+
+(Faux)
+
+37. FCM veut dire Football Club Malaria. (Faux)
+
+38. Le projet FCM est une initiative de Speak Up Africa, Aspire Football Dreams et le PNLP. (Faux) 40. Zero Palu! Je m'engage est une campagne de communication lancée lors de la Journée mondiale de lutte contre le paludisme 2014. (Vrai)
+
+41. Pour le suivi & l'évaluation, c'est l'agent de changement qui transmet les fiches et les coupons à l'équipe cadre de district. (Faux)
+
+42. Le suivi et l'évaluation permettent d'identifier les problèmes rencontrés et proposer des solutions appropriées. (Vrai)
+
+43. Il y a cinq règles d'or du lavage (Faux)
+
+44. Les rayons du soleil sont bénéfiques pour le maintien de la MILDA (Faux) 45. Les réseaux sociaux peuvent servir à maximiser la communication autour de la campagne FCM. (Vrai)
+
+Troisième partie:
+
+Au delà de la campagne
+
+Football Combating Malaria
+
+La technologie au service de la lutte contre le paludisme
+
+Objectifs de la session:
+
+Présenter le plan de communication de la campagne FCM.
+
+Mise en œuvre du plan de communication externe de la campagne.
+
+Revue des techniques de communication via les réseaux sociaux.
+
+Les réseaux sociaux au service de la lutte contre le paludisme
+
+1. L'importance des réseaux sociaux
+
+Le web est un canal de communication par lequel les entités (organisations non gouvernementales, institutions, entreprises, individus) peuvent atteindre directement un auditoire cible.
+
+Les médias sociaux reposent sur une communication bidirectionnelle (à la différence des panneaux d'affichage ou des spots télévisuels ou radios).
+
+2. Comment les réseaux sociaux peuvent-ils contribuer à la lutte contre le paludisme ?
+
+Transmettre une information, en temps réel, sur la distribution des produits.
+
+Diffuser des messages de prévention sur la lutte contre le paludisme.
+
+Permettre aux travailleurs de santé de répondre aux questions sur le paludisme.
+
+Cartographier les « mentions » sur le paludisme.
+
+Mobiliser l'opinion publique pour rappeler aux gouvernements leurs engagements concernant la lutte contre la maladie.
+
+Collaborer avec d'autres partenaires pour promouvoir la diffusion de messages.
+
+3. La portée des réseaux sociaux en Afrique:
+
+1 personne sur 10 a une connexion internet.
+
+Plus de 170 millions de personnes « surfent » sur le net.
+
+Les réseaux sociaux constituent plus de la moitié des 10 sites les plus visités.
+
+Il y a plus de 51 millions d'utilisateurs Facebook.
+
+Il y aura plus d'un milliard de téléphones mobiles sur le continent en 2016. Les plateformes de réseaux sociaux ont été ainsi repensées pour s'adapter aux connexions à faibles bandes passantes.
+
+4. Le pouvoir des réseaux sociaux
+
+Les réseaux sociaux favorisent la discussion, l'innovation et l'engagement communautaire.
+
+Ils permettent d'engager et d'impliquer la communauté (internautes) en facilitant la communication.
+
+Ils améliorent les programmes existants et fournissent une plateforme d'idées innovantes.
+
+Ils apportent aux citoyens des informations précises et accessibles leur permettant de prendre de meilleures décisions en matière de santé.
+
+Créer et gérer un compte
+
+Créer un compte
+
+Choisir un nom facilement identifiable.
+
+Ajouter une photo et une description claire.
+
+Elements à retenir
+
+Les médias sociaux sont un engagement, nécessitant une stratégie ciblée et le développement d'un contenu.
+
+Tout le contenu affiché à partir de votre compte est le reflet de vos idées, votre vision et les actions de votre organisation.
+
+Assurez-vous que votre message reste cohérent et positif.
+
+Développer une stratégie pour les réseaux sociaux
+
+Comment les médias sociaux me permettent de réaliser mes objectifs ?
+
+Comment les médias sociaux m'aident à cibler mon audience ?
+
+Comment vais-je maintenir l'engagement des utilisateurs ?
+
+Comment mesurer l'impact ?
+
+A retenir
+
+Que doit-on publier ?
+
+Des faits précis et des liens de vidéos et d'articles.
+
+Ne pas poster: de critiques trop sévères, de plaintes, d'informations confidentielles.
+
+Les messages doivent être brefs. Les « posts » les plus populaires sont toujours les plus courts.
+
+A quelle fréquence doit-on poster ?
+
+Facebook: Entre 16h et 20h.
+
+Twitter: Entre 13h et 18h.
+
+Poster beaucoup d'articles n'entraine pas une hausse d'affluence ou d'engagement. La qualité doit toujours être préférée à la quantité.
+
+Promouvoir une communauté
+
+Utilisez vos réseaux sociaux comme un outil de collaboration avec d'autres leaders d'opinion.
+
+Suggestion d'organisations à suivre
+
+@RollBackMalaria
+
+@GlobalFundNews
+
+@WHO
+
+@UNICEF
+
+@PeaceCorps
+
+@GatesFoundation
+
+@PATHTweets
+
+@Malaria_Envoy
+
+@ALMA2015
+
+@Friends_Africa
+
+@WorldBankHealth
+
+@MalariaNoMore
+
+@SpeakUpAfrica1
+
+@LeoMessi
+
+Mener une campagne ciblée sur les réseaux sociaux
+
+Le déroulement de la campagne sera entièrement relayé sur les réseaux sociaux. De plus, Speak Up Africa postera sur ses comptes (facebook et twitter) ainsi que sur les comptes de la campagne Football Combating Malaria (comptes créés et alimentés par Speak Up Africa), les messages suivants :
+
+Dès son plus jeune âge, Lionel Messi jonglait avec un ballon pendant plus d'un quart d'heure, ceci n'aurait pas été possible si il avait eu le #paludisme. #FootballCombatingMalaria #FCM #LeoMessi #WorldCup14.
+
+A 13 ans Lionel Messi s'est rendu à Barcelone pour signer l'éminent club catalan, cela n'aurait pas été possible si il avait eu le #paludisme. #FootballCombatingMalaria #FCM #LeoMessi #WorldCup14.
+
+A 17 ans Lionel Messi a effectué son premier « hat-trick » donnant la victoire au FC Barcelone, cela n'aurait pas été possible si il avait eu le #paludisme. #FootballCombatingMalaria #FCM #LeoMessi #WorldCup14.
+
+La sensibilisation des leaders d'opinion
+
+Toujours sur les réseaux sociaux, des messages seront ajoutés concernant la campagne en chiffres. Ces messages décriront concrètement la portée de l'action et de l'engagement de Lionel Messi et de Aspire Academy:
+
+Grâce à l'engagement de #LeoMessi et de #AspireAcademy 70 000 moustiquaires imprégnées vont être distribuées au #Sénégal.
+
+Grâce à #AspireAcademy et à #LeoMessi près de 400 agents de changements vont être formés au #Sénégal. Ces agents veilleront à sensibiliser et à appuyer les populations dans la lutte contre le #paludisme.
+
+Les agents de changement formés grâce à l'appui de #LeoMessi et de #AspireAcademy s'engagent pour l'élimination du #paludisme au #Sénégal.
+
+Création d'un site internet
+
+Ce site présente les avancées de la campagne. De plus, cette plateforme permettra de localiser les superviseurs communautaires formés tout au long des quatre mois de formation. Ce site permettra de compiler les témoignages des agents de changement et des populations ainsi que les photos, vidéos, blogs et articles concernant la campagne.
+
+L'application « Football Combating Malaria »
+
+La finalité de cette application est le support et le renforcement du programme de formation de la campagne Football Combating Malaria.
+
+Cette application permettra de mettre en place une base de données utilisateurs qui servira à assurer un suivi des populations, de leurs comportements et de la situation du programme de distribution des moustiquaires imprégnées. Un onglet permettra de personnaliser le compte de chaque formateur, le rendant ainsi identifiable, particularisant ainsi les informations recueillies au travers des formulaires.
+
+Une fonction de journalisme citoyen, vidéo/photo, permettra aussi de capturer des mini-reportages et clichés témoins des actions, des rencontres, des événements et témoignages sur le terrain, avec une géolocalisation, un titre et/ou commentaire. Ces vidéos et photos seront automatiquement reportées sur le site internet et les réseaux sociaux de la campagne Football Combating Malaria, des acteurs et partenaires, accompagnants l'application. Les visiteurs et « followers » pourront ainsi être des témoins de l'action menée et des résultats obtenus, et ce sans délai. Le système de géolocalisation pourra être utilisé afin de rester informé des déplacements et actions des agents de changement. Animé par la suite il permettra de constater l'évolution de la mise en œuvre de la campagne sur le terrain. De plus, un accès aux réseaux sociaux des partenaires et organismes concernés sera mis en place afin que les formateurs suivent eux aussi leur travail et le résultat obtenu.
+
+Les partenaires de ce projet auront tous leur page de référence sur l'application, mettant en valeur leurs engagements et implications dans la lutte contre le paludisme au Sénégal.
+
+Créer une génération Football Combating Malaria
+
+Engager les décideurs politiques
+
+Faire comprendre aux décideurs les enjeux liés à leur circonscription politique.
+
+Leur donner l'opportunité de s'associer aux icônes culturelles.
+
+Mettre en place des plateformes pour renforcer une image publique positive.
+
+Utiliser les médias et le marketing pour atteindre une audience nationale.
+
+Attirer l'attention
+
+Créer un événement de lancement de la campagne pour générer le buzz.
+
+Associer la campagne à des messages populaires.
+
+Cibler les différents secteurs de la société.
+
+S'associer aux plateformes populaires pré-existantes.
+
+Mobiliser les ressources
+
+Démontrer que la campagne attire l'attention.
+
+Associer à des célébrités nationales et internationales.
+
+Durabilité de l'impact
+
+Les messages doivent être dynamiques.
+
+Les messages doivent être subtiles mais convaincants.
+
+Les messages doivent être diffusés par des célébrités influentes.
+
+La campagne doit inspirer un mouvement local, national et international.
+
+Que faire en tant qu'ambassadeurs
+
+Football Combating Malaria
+
+Objectif de la session:
+
+Comment créer des partenariats et intéresser les populations à la lutte contre le paludisme ?
+
+Vaincre le paludisme
+
+Comment y arriver ?
+
+Afin de mettre un terme aux décès dus au paludisme, tous les secteurs de la société doivent être impliqués:
+
+1 - Les gouvernements nationaux et internationaux.
+
+2 - Les populations.
+
+3 - Le secteur privé.
+
+4 - Les leaders religieux.
+
+5 - Les célébrités (artistes, sportifs, etc.).
+
+Quelques questions pour commencer
+
+Quelle est votre demande ?
+
+Quel résultat cherchez vous à atteindre ?
+
+Quel est votre auditoire ?
+
+Comment présenter vos objectifs de façon à intéresser votre auditoire ?
+
+Quelle est la meilleure personne dans votre entourage ou votre équipe pour présenter votre demande ?
+
+Prenez le temps de vous exercer !
+
+Au delà du recrutement
+
+A quoi ressemble le partenariat ?
+
+Souligner les principes du partenariat.
+
+Définir et gérer les attentes.
+
+Faire un suivi avec ses interlocuteurs.
+
+Maintenir la relation
+
+Comment répondre aux besoins de l'autre partie prenante ?
+
+Comment ce partenariat s'intègre-t-il dans un contexte plus global ?
+
+A quoi ressemble le succès sur le long terme ?
+
+Entretenir l'intérêt et l'investissement dans l'initiative.
+
+Le partenaire commence à développer sa propre idée et envisage de nouvelles façons de contribuer.
+
+Questions clés
+
+Choisissez un membre influent de la communauté:
+
+Qui est-il?
+
+Quelle est sa position ?
+
+Quels sont ses atouts ?
+
+Comment pouvez-vous mettre à profit sa position pour faire avancer notre lutte contre le paludisme?
+
+Simulation d'une visite de plaidoyer
+
+Consigne
+
+Les 6 équipes doivent imaginer des cas pratiques de mise en route de projets nécessitant l'intervention d'une personne influente qui les aidera dans la facilitation, l'organisation, ou la réalisation d'un événement lié à la sensibilisation des populations sur la campagne FCM (mobilisation de radios communautaires, réalisation d'événements sportifs, causeries...).
+
+Simuler l'entretien qui permettra de rallier cette personnalité à votre cause (prendre 6 exemples de personnalités différentes).
+
+Se référer aux questions clés mentionnées ci-dessus.
+
+La campagne
+
+Zéro Palu ! Je m'engage
+
+Objectif de la session:
+
+Présenter les concepts liés à la campagne «Zéro Palu! Je m'engage».
+
+Contexte
+
+La campagne «Zéro Palu! Je m'engage» vise à mettre en marche un mouvement national en faveur de l'élimination du paludisme au Sénégal. Elle s'intègre dans une stratégie de plaidoyer inclusive visant à accroître la sensibilisation, la priorisation et l'engagement national envers l'élimination du paludisme. Les objectifs spécifiques de la campagne sont comme suit:
+
+Susciter un engagement politique au plus haut niveau de l'Etat sénégalais en faveur de l'élimination du paludisme.
+
+Mobiliser les ressources financières nécessaires pour mettre un terme au paludisme une fois pour toutes au Sénégal.
+
+Valoriser les progrès et les efforts des citoyens et partenaires réalisés à ce jour.
+
+Lors de la Journée mondiale contre le paludisme (JMP) 2014, le Ministre de la Santé et de l'Action sociale, le Pr. Awa Marie Coll-Seck, a lancé officiellement la campagne « Zéro Palu ! Je m'engage »! Les partenaires ont présenté l'exposition photo itinérante «Zéro Palu! Je m'engage». Cette exposition a été rendue possible grâce à l'engagement de quatre photographes professionnels qui ont bénévolement contribué, par leur travail et leur passion, à la lutte contre le paludisme. Leur engagement nous rappelle que nous pouvons tous contribuer à bâtir un Sénégal émergent sans paludisme. L'exposition met en avant tous les différents acteurs, depuis Son Excellence Macky Sall, le Président de la République, qui s'engage à mettre tous les moyens nécessaires pour faire de l'élimination du paludisme une réalité au Sénégal, jusqu'à Aminata, une petite fille de 5 ans qui s'engage à dormir toutes les nuits sous une moustiquaire imprégnée. Ces images positives mettent en avant la contribution de tous les acteurs de la société et l'impact de nos actions individuelles ou collectives sur les progrès vers l'élimination du paludisme. Depuis la JMP, l'exposition photo, qui a vocation à être mobile s'est déjà déplacée dans différents lieux au Sénégal.
+
+L'engagement des communautés
+
+Sur les thèmes de la sensibilisation, de l'action et de la responsabilité, le PNLP et ses partenaires travaillent sur une stratégie orientée vers les communautés pour assurer le soutien et l'acceptation de l'élimination du paludisme dans le cadre de programmes plus large.
+
+La mobilisation sociale joue un rôle clé. Elle permet de lier les communautés aux programmes d'élimination du paludisme. De cette façon, les membres des communautés travaillent conjointement avec les agents de santé, permettant ainsi d'améliorer la disponibilité et la qualité des services de santé.
+
+Les agents de santé communautaire et autres héros ordinaires feront l'objet d'une émission hebdomadaire retraçant leur quotidien au service des populations. Cette émission intitulée «l'élimination au quotidien» se fera en partenariat avec une chaine de télévision sénégalaise.
+
+L'engagement du secteur privé
+
+L'engagement du secteur privé est essentiel pour l'élimination du paludisme au Sénégal. Dans le cadre de ce partenariat gagnant-gagnant :
+
+Les employeurs peuvent améliorer la vie de leurs employés et de leurs familles en les aidant à se protéger contre le paludisme. Cette meilleure prise en charge du paludisme va de pair avec une réduction de l'absentéisme et donc un accroissement de la productivité et une réduction des frais médicaux.
+
+En contribuant au fonds de solidarité pour la lutte contre le paludisme, les entreprises jouent pleinement leur rôle d'acteurs clés de la société sénégalaise en participant activement à la lutte contre le paludisme.
+
+Enfin, l'entreprise augmente sa visibilité en devenant partenaire de la campagne « Zéro Palu ! Je m'engage » qui est largement relayée dans les différents médias.
+
+Annexes
+
+Cérémonie de lancement de la campagne Football Combating Malaria
+
+Mbour, 2013. © Crédit photo: Speak Up Africa.
+
+Annexe 01
+
+Programme indicatif de la formation des superviseurs communautaires
+
+Jour 1
+
+Horaires
+
+Jour 4
+
+Horaires
+
+Présentation des participants - Tour de table
+
+Rappel de la 3e journée - (Rapporteurs)
+
+Pré-test
+
+Faire connaître l'aventure FCM
+
+Présentation de Speak Up Africa
+
+11h00 - 11h15 Pause
+
+10h00 - 10h30 Campagne Football Combating Malaria
+
+11h15 - 12h30 Rôle des ambassadeurs FCM
+
+Enjeux de la lutte contre le paludisme
+
+Pause
+
+12h30 - 13h00 Projet d'élimination du partenariat public-privé paludisme et
+
+13h00 - 15h00 Pause déjeuner
+
+11h15 - 13h00 La moustiquaire imprégnée
+
+13h00 - 15h00 Pause déjeuner
+
+15h00 - 17h15 Jeux de rôles - Simulation de visites de plaidoyer
+
+15h00 - 16h00 Recensement
+
+17h15 - 17h30 Post test
+
+16h00 - 17h30 Distribution des MILDA dans les écoles
+
+Fin de la quatrième journée
+
+Fin de la première journée
+
+Jour 5
+
+Horaires
+
+Jour 2
+
+Horaires
+
+Rappel de la 1e journée - (Rapporteurs)
+
+Qu'est ce que la CCC?
+
+Rappel de la 4e journée - (Rapporteurs)
+
+Revue du matériel pédagogique
+
+11h00 - 11h15 Pause
+
+11h15 - 12h15 Comment contribuer à la lutte contre le paludisme? Zéro Palu! Je m'engage
+
+11h00 - 11h15 Pause
+
+12h30 - 13h00 Synthèse et évaluation de la formation
+
+11h15 - 12h30 Suite de la séance sur la CCC
+
+12h30 - 13h00 Campagne Zéro Palu! Je m'engage
+
+13h00 - 15h00 Pause déjeuner
+
+13h00 - 15h00 Pause déjeuner
+
+Fin de la formation
+
+15h00 - 17h30 Jeux de rôles - Facilitation des séances de
+
+CCC avec la communauté
+
+Fin de la deuxième journée
+
+Jour 3
+
+Horaires
+
+Rappel de la 2e journée - (Rapporteurs)
+
+Suivi & évaluation de la campagne
+
+11h00 - 11h15 Pause
+
+11h30 - 12h30 Revue des outils de suivi
+
+12h30 - 13h00 Prise en charge des cas de paludisme à domicile (PECADOM)
+
+13h00 - 15h00 Pause déjeuner
+
+15h00 - 17h30 Jeux de rôles - Simulation d'une supervision
+
+Fin de la troisième journée
+
+Annexe 02
+
+Programme indicatif de la formation des agents de changement
+
+Jour 1
+
+Horaires
+
+Horaires
+
+Jour 2: Suivi & évaluation
+
+Présentation des participants
+
+Rappel de la 2e journée - (Rapporteurs)
+
+La moustiquaire imprégnée
+
+Suivi & évaluation de la campagne
+
+Pause café
+
+11h00 - 11h15 Pause café
+
+11h30 - 12h30 Recensement et distribution
+
+12h30 - 14h30 Pause déjeuner
+
+14h30 - 18h00 Qu'est ce que la CCC? (Messages clés et supports de la campagne FCM, Jeux de rôle
+
+- Facilitation des séances de CCC avec la communauté)
+
+11h30 - 13h00 Revue des outils de suivi et première partie de la simulation d'une supervision
+
+13h00 - 15h00 Pause déjeuner
+
+15h00 - 17h30 Suite et fin de la simulation d'une supervision
+
+Synthèse et évaluation de la formation
+
+Pour plus d'information, veuillez contacter
+
+Speak Up Africa
+
+18 Avenue Léopold Sédar Senghor, Suite 87b, Dakar, Sénégal info@speakupafrica.org
+
+Www.SpeakUpAfrica.org

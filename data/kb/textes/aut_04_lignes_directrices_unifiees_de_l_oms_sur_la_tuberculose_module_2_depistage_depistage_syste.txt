@@ -1,0 +1,1383 @@
+Lignes directrices unifiées de l'OMS sur la tuberculose
+
+Module 2 : Dépistage
+
+Dépistage systématique de la tuberculose
+
+Lignes directrices unifiées de l'OMS sur la tuberculose
+
+Module 2 : Dépistage
+
+Dépistage systématique de la tuberculose
+
+Lignes directrices unifiées de l'OMS sur la tuberculose. Module 2 : dépistage. Dépistage systématique de la tuberculose [WHO consolidated guidelines on tuberculosis. Module 2: screening - systematic screening for tuberculosis disease] ISBN 978-92-4-004796-9 (version électronique)
+
+ISBN 978-92-4-004797-6 (version imprimée)
+
+© Organisation mondiale de la Santé 2022
+
+Certains droits réservés. La présente œuvre est disponible sous la licence Creative Commons Attribution – Pas d'utilisation commerciale – Partage dans les mêmes conditions 3.0 IGO (CC BY-NC-SA 3.0 IGO ; https://creativecommons.org/licenses/by-nc-sa/3.0/igo/deed.fr).
+
+Aux termes de cette licence, vous pouvez copier, distribuer et adapter l'œuvre à des fins non commerciales, pour autant que l'œuvre soit citée de manière appropriée, comme il est indiqué ci dessous. Dans l'utilisation qui sera faite de l'œuvre, quelle qu'elle soit, il ne devra pas être suggéré que l'OMS approuve une organisation, des produits ou des services particuliers. L'utilisation du logo de l'OMS est interdite. Si vous adaptez cette œuvre, vous êtes tenu de diffuser toute nouvelle œuvre sous la même licence Creative Commons ou sous une licence équivalente. Si vous traduisez cette œuvre, il vous est demandé d'ajouter la clause de non-responsabilité suivante à la citation suggérée :
+
+« La présente traduction n'a pas été établie par l'Organisation mondiale de la Santé (OMS). L'OMS ne saurait être tenue pour responsable du contenu ou de l'exactitude de la présente traduction. L'édition originale anglaise est l'édition authentique qui fait foi ».
+
+Toute médiation relative à un différend survenu dans le cadre de la licence sera menée conformément au Règlement de médiation de l'Organisation mondiale de la propriété intellectuelle (https://www.wipo.int/amc/fr/mediation/rules/index.html).
+
+Citation suggérée. Lignes directrices unifiées de l'OMS sur la tuberculose. Module 2 : dépistage. Dépistage systématique de la tuberculose [WHO consolidated guidelines on tuberculosis. Module 2: screening - systematic screening for tuberculosis disease]. Genève, Organisation mondiale de la Santé, 2022. Licence : CC BY-NC-SA 3.0 IGO.
+
+Catalogage à la source. Disponible à l'adresse https://apps.who.int/iris/?locale-attribute=fr&.
+
+Ventes, droits et licences. Pour acheter les publications de l'OMS, voir http://apps.who.int/bookorders. Pour soumettre une demande en vue d'un usage commercial ou une demande concernant les droits et licences, voir https://www.who.int/fr/copyright.
+
+Matériel attribué à des tiers. Si vous souhaitez réutiliser du matériel figurant dans la présente œuvre qui est attribué à un tiers, tel que des tableaux, figures ou images, il vous appartient de déterminer si une permission doit être obtenue pour un tel usage et d'obtenir cette permission du titulaire du droit d'auteur. L'utilisateur s'expose seul au risque de plaintes résultant d'une infraction au droit d'auteur dont est titulaire un tiers sur un élément de la présente œuvre.
+
+Clause générale de non-responsabilité. Les appellations employées dans la présente publication et la présentation des données qui y figurent n'impliquent de la part de l'OMS aucune prise de position quant au statut juridique des pays, territoires, villes ou zones, ou de leurs autorités, ni quant au tracé de leurs frontières ou limites. Les traits discontinus formés d'une succession de points ou de tirets sur les cartes représentent des frontières approximatives dont le tracé peut ne pas avoir fait l'objet d'un accord définitif.
+
+La mention de firmes et de produits commerciaux ne signifie pas que ces firmes et ces produits commerciaux sont agréés ou recommandés par l'OMS, de préférence à d'autres de nature analogue. Sauf erreur ou omission, une majuscule initiale indique qu'il s'agit d'un nom déposé.
+
+L'OMS a pris toutes les précautions raisonnables pour vérifier les informations contenues dans la présente publication. Toutefois, le matériel publié est diffusé sans aucune garantie, expresse ou implicite. La responsabilité de l'interprétation et de l'utilisation dudit matériel incombe au lecteur. En aucun cas, l'OMS ne saurait être tenue pour responsable des préjudices subis du fait de son utilisation.
+
+Graphisme : Inís Communication
+
+2.7 Dépistage systématique de la tuberculose-maladie chez les personnes fréquentant les services de santé qui présentent des facteurs de risque cliniques de tuberculose
+
+3. Recommandations relatives aux outils pour le dépistage systématique de la tuberculose-maladie
+
+3.1 Outils de dépistage de la tuberculose-maladie dans la population générale et les groupes à haut risque
+
+3.2 Utilisation d'un logiciel de détection assistée par ordinateur pour la lecture automatisée de radiographies thoraciques numériques
+
+3.3 Outils pour le dépistage de la tuberculose-maladie chez les personnes vivant avec le VIH
+
+3.4 Outils pour le dépistage systématique de la tuberculose chez les enfants et les adolescents
+
+4. Suivi et évaluation
+
+4.1 Indicateurs
+
+4.2 Routines pour l'enregistrement et les rapports
+
+4.3 Évaluations programmatiques
+
+4.4 Étalonnage initial pour les technologies de détection assistée par ordinateur
+
+5. Lacunes de la recherche
+
+5.1 Dépistage de la tuberculose dans les populations cibles
+
+5.2 Outils pour le dépistage de la tuberculose
+
+5.3 Recherches opérationnelles
+
+6. Références bibliographiques
+
+Tableau supplémentaire
+
+Web annexes
+
+Remerciements
+
+La production des Lignes directrices unifiées de l'OMS sur la tuberculose. Module 2 : Dépistage a été coordonnée et rédigée par Cecily Miller, avec le soutien d'Annabel Baddeley, de Dennis Falzon et de Matteo Zignol, sous la direction générale de Tereza Kasaeva, Directrice du Programme mondial de lutte contre la tuberculose de l'Organisation mondiale de la Santé (OMS). Le Programme mondial de lutte contre la tuberculose de l'OMS exprime sa gratitude à toutes les personnes qui ont apporté leur expertise pour la production de ces lignes directrices1. Cette mise à jour a été financée par des subventions octroyées à l'OMS par l'Agence des États-Unis pour le développement international (USAID) et par la Fédération de Russie.
+
+Groupe d'élaboration des lignes directrices
+
+Le Groupe d'élaboration des lignes directrices (Guideline Development Group, ou GDG) était composé de Denise Arakaki-Sanchez (Ministère de la santé, Brésil), Omolola Atalabi (University College Hospital, Ibadan, Nigeria), Helen Ayles (London School of Hygiene and Tropical Medicine, Royaume-Uni de GrandeBretagne et d'Irlande du Nord, et Zambart, Zambie), David Branigan (Treatment Action Group, États-Unis d'Amérique), Jeremiah Chakaya (The UNION [the International Union Against Tuberculosis and Lung Disease], Kenya), Gavin Churchyard (The Aurum Institute, Afrique du Sud), Elizabeth Corbett (London School of Hygiene and Tropical Medicine, Royaume-Uni, et Malawi-Liverpool-Wellcome Trust Clinical Research Programme, Malawi), Anand Date (Centers for Disease Control and Prevention, États-Unis d'Amérique), Esty Febriani (Équipe spéciale de la société civile, Indonésie), Celine Garfin (Programme national de lutte contre la tuberculose, Philippines), Amir M Khan (Association pour le développement social, Pakistan), Katharina Kranzer (London School of Hygiene and Tropical Medicine, Royaume-Uni), Tamara Kredo (University of Cape Town, Afrique du Sud), Knut Lönnroth (Karolinska Institute, Suède), Guy Marks (University of Sydney, Australie), Andrey Maryandyshev (Northern State Medical University, Fédération de Russie), David Mungai (Équipe spéciale de la société civile, Kenya), Iveta Ozere (Centre pour la tuberculose et les affections pulmonaires, Lettonie), Alena Skrahina (Programme national de lutte contre la tuberculose, Bélarus) et Marieke J van der Werf (Centre européen de prévention et de contrôle des maladies, Suède). Jeremiah Chakaya et Tamara Kredo ont coprésidé les réunions du GDG.
+
+Groupe d'examen externe
+
+Les personnes chargées de l'examen externe étaient Grania Brigden (The UNION, France), Connie Erkens (Fondation contre la tuberculose [KNCV], Pays-Bas), Andrew Kerkhoff (University of California, San Francisco, États-Unis d'Amérique), Giovanni B Migliori (Fondazione Salvatore Maugeri, Italie), Ikushi Onozaki (Association japonaise de lutte contre la tuberculose, Japon), Srinath Satyanarayana (The UNION, Inde), James Seddon (Imperial College London, Royaume-Uni), Ivan Solovic (Programme national de lutte contre la tuberculose, Slovaquie) et Sabira Tahseen (Laboratoire national de référence sur la tuberculose, Pakistan).
+
+Examinateurs chargés d'évaluer les données
+
+Les personnes suivantes ont contribué à l'examen et résumé les données probantes pour les lignes directrices à l'aide du cadre Population, intervention, comparaison, résultat (Population, Intervention, Comparator and Outcomes, ou PICO) (pour plus d'informations sur les questions PICO, voir la Sous-section 1.3).
+
+Des informations complémentaires relatives aux domaines d'expertise, au genre et à la répartition géographique des personnes ayant participé, ainsi que les déclarations d'intérêts et la gestion des conflits potentiels pour les membres du GDG et du Groupe d'examen externe sont synthétisées dans l'Annexe Web A.
+
+Remerciements
+
+Questions PICO 1 à 4 (effets du dépistage sur les individus) : Lily Telisinghe, Maria Ruperez, Tila Mainga, Modope Amofa-Seki, Lawrence Mwenge, Virginia Bond, Ramya Kumar, Cyrus Daneshvar et Maged Hassan (London School of Hygiene and Tropical Medicine, Royaume-Uni et Zambart, Zambie); et Eveline Klinkenberg (consultante indépendante, Pays-Bas).
+
+Questions PICO 5 à 7 (effets du dépistage sur les communautés) : Peter MacPherson, Marriott Nliwasa, Rachael Burke et Helene Feasy (Liverpool School of Tropical Medicine, Angleterre et Malawi-LiverpoolWellcome Trust Clinical Research Programme, Malawi).
+
+Question PICO 8 (précision des approches de dépistage chez les personnes vivant avec le VIH) : Gary Maartens et Ashar Dhana (University of Cape Town, Afrique du Sud).
+
+Question PICO 9 (précision des approches de dépistage dans la population générale) : Anja Van't Hoog (Amsterdam Institute for Global Health and Development, Pays-Bas), Miranda Langendam et Ba Da Yang (Amsterdam University Medical Centre, Pays-Bas), Yemisi Takwoingi (Université de Birmingham, RoyaumeUni) et Olivia Biermann (Karolinska Institute, Suède).
+
+Question PICO 10 (précision des approches de dépistage chez les enfants et les adolescents) : Anna Mandalakas, Tara Ness et Bryan Vonasek (Baylor College of Medicine, États-Unis d'Amérique) ; et Karen Steingart (Cochrane Infectious Diseases Group, Liverpool School of Tropical Medicine, Royaume-Uni).
+
+Question PICO 11 (précision des logiciels de détection assistée par ordinateur): Sandra Kik, Morten Ruhwald, Claudia Denkinger, Stefano Ongarello et Samuel Schumacher (Fondation pour de nouveaux diagnostics innovants, Suisse); Faiz Ahmad Khan, Mikashmi Kohli et Gamuchirai Tavaziva (Université McGill, Canada) ;
+
+Sifrash Gelaw (Organisation internationale pour la migration, Philippines) ; et Jacob Creswell et Zhi Zhen Qin (Partenariat Halte à la tuberculose, Suisse).
+
+Question PICO 12 (précision des tests moléculaires rapides recommandés par l'OMS pour le dépistage) :
+
+Adrienne Shapiro (University of Washington, États-Unis d'Amérique) et Karen Steingart (Cochrane Infectious Diseases Group, Liverpool School of Tropical Medicine, Royaume-Uni).
+
+Question PICO 13 (nombre de sujets à dépister pour la population générale et les groupes à haut risque) :
+
+Lelia Chaisson (University of Illinois at Chicago, États-Unis d'Amérique) ; Jonathan Golub, Fahd Naufal, Katherine Robsky, Hector Manzo et Pamela Delgado (Johns Hopkins University, États-Unis d'Amérique) ;
+
+et Adrienne Shapiro (University of Washington, États-Unis d'Amérique).
+
+Question PICO 14 (nombre de sujets à dépister et efficacité du dépistage parmi les contacts) : Gregory Fox et Kavindhran Velen (University of Sydney, Australie), Mariana Velleca (University of California San Francisco, États-Unis d'Amérique).
+
+Question PICO 15 (facteurs de risque de tuberculose) : Rafia Bosan (Harvard University, États-Unis d'Amérique) et Lelia Chaisson (University of Illinois Chicago, États-Unis d'Amérique).
+
+Question PICO 16 (coûts et rapport coût/efficacité du dépistage de la tuberculose) : Hannah Alsdurf, Brianna Empringham et Alice Zwerling (Université d'Ottawa, Canada).
+
+Question PICO 17 (perceptions du dépistage de la tuberculose par les communautés) : Paul Garner et Nancy Medley (Liverpool School of Tropical Medicine, Royaume-Uni).
+
+Comité d'orientation de l'OMS pour l'élaboration des lignes directrices
+
+Le Comité d'orientation de l'OMS pour l'élaboration des lignes directrices était composé de Annabel Baddeley, Dennis Falzon, Avinash Kanchar, Alexei Korobitsyn, Cecily Miller, Nobu Nishikiori, Linh N Nguyen, Sabine Verkuijl et Matteo Zignol (Programme mondial de lutte contre la tuberculose de l'OMS) ; Satvinder Singh et Lara Vojnov (Programmes mondiaux de l'OMS de lutte contre le VIH, l'hépatite et les infections sexuellement transmissibles); Andreas Reis (Department of Health Ethics and Governance); Maria del Rosario Perez (Department of Radiation and Health); Farai Mavhunga (Bureau régional OMS de l'Afrique) ;
+
+Muhammad Akhtar (Bureau régional OMS de la Méditerranée orientale) ; Mukta Sharma (Bureau régional OMS de l'Asie du Sud-Est) ; Tauhidul Islam (Bureau régional OMS du Pacifique occidental); et Askar Yedilbayev (Bureau régional OMS de l'Europe).
+
+Autres personnes
+
+Holger Schünemann (Université McMaster, Canada) a servi de ressource technique pour la méthodologie GRADE (Grading of Recommendations Assessment, Development and Evaluation). Les personnes suivantes ont participé aux réunions du GDG en tant qu'observateurs: Sevim Ahmedov et Charlotte Colvin (Agence des États-Unis pour le développement international [USAID], États-Unis d'Amérique), Draurio Barreira Cravo Neto (Unitaid, Suisse), Olivia Bierman (Karolinska Institute, Suède), Michael Campbell (Clinton Health Access Initiative, États-Unis d'Amérique), Jacob Creswell (Partenariat Halte à la tuberculose), PierreMarie David (Université de Montréal, Canada), Christopher Gilpin (Organisation internationale pour la migration, Suisse), Brian Kaiser (Global Drug Facility, Suisse) et Mohammed Yassin (Fonds mondial de lutte contre le sida, la tuberculose et le paludisme, Suisse). Kerri Viney (Programme mondial de lutte contre la tuberculose de l'OMS) a contribué aux examens relatifs à la précision des approches de dépistage dans la population générale. Le document a été révisé par Miriam Pinchuk. Le Programme mondial de lutte contre la tuberculose de l'OMS remercie également le Comité d'examen des lignes directrices et son secrétariat OMS pour leur examen et leur approbation des lignes directrices.
+
+Remerciements
+
+Abréviations et acronymes
+
+TAR traitement antirétroviral
+
+DAO détection assistée par ordinateur des anomalies évocatrices de la tuberculose sur les radiographies thoraciques intervalle de confiance
+
+CRP protéine C-réactive
+
+RT radiographie thoracique
+
+GEE
+
+Groupe d'examen externe
+
+GDG
+
+Groupe d'élaboration des lignes directrices
+
+GRADE
+
+Grading of Recommendations Assessment, Development and Evaluation
+
+DIP données individuelles des patients
+
+LF-LAM dosage urinaire du lipoarabinomannane (LAM) sur bandelette à flux latéral mWRD test moléculaire rapide recommandé par l'OMS
+
+NSD nombre de sujets à dépister (pour détecter une personne atteinte de tuberculose)
+
+PICO population, intervention, comparaison, résultat (cadre)
+
+RR risque relatif
+
+TB tuberculose
+
+TPT traitement préventif de la tuberculose
+
+W4SS dépistage à quatre symptômes recommandé par l'OMS
+
+OMS
+
+Organisation mondiale de la Santé
+
+Définitions
+
+Les définitions ci-dessous s'appliquent aux termes utilisés dans les présentes lignes directrices et peuvent avoir des significations différentes ailleurs.
+
+Détection active des cas (de tuberculose) (DAC) : dépistage et tests effectués au sein des communautés, initiés par un prestataire et réalisés par des équipes mobiles, souvent à l'aide d'appareils de radiographie mobiles et de tests moléculaires rapides. Cette expression est parfois utilisée en tant que synonyme de « dépistage systématique ».
+
+Détection assistée par ordinateur (DAO) : utilisation d'un logiciel spécialisé pour interpréter, sur les radiographies thoraciques, les anomalies évocatrices d'une tuberculose. Les résultats sont exprimés sous la forme d'un score d'anomalie. La DAO peut être utilisée pour le dépistage ou le triage.
+
+Identification améliorée des cas (de tuberculose) : campagnes de sensibilisation, d'éducation ou d'information sanitaire visant à fournir des informations sur le type approprié de comportement de recherche de soins de santé lorsque des personnes ont des symptômes de tuberculose. Ce type d'identification des cas peut être associé à une amélioration de l'accès aux services de diagnostic. L'identification améliorée des cas peut être combinée au dépistage.
+
+Dépistage initial : premier dépistage (test, examen ou autre procédure) appliqué à la population éligible au dépistage.
+
+Nombre de sujets à dépister (NSD) : nombre de personnes devant faire l'objet d'un dépistage pour réussir à diagnostiquer une personne atteinte de tuberculose-maladie.
+
+Détection passive des cas : parcours de diagnostic de la tuberculose initié par le patient, qui comprend ce qui suit : (1) une personne atteinte de tuberculose-maladie a des symptômes qu'elle estime être graves ;
+
+(2) cette personne a accès à des soins de santé, les recherche, et se rend spontanément dans un centre de santé adéquat ; (3) un agent de santé évalue correctement que la personne satisfait aux critères de présomption de tuberculose ; et (4) utilisation réussie d'un algorithme de diagnostic ayant une sensibilité et une spécificité suffisantes pour diagnostiquer la tuberculose.
+
+Répétition du dépistage : nouveau dépistage d'une même population à un intervalle donné.
+
+Groupe à risque : groupe de personnes au sein duquel la prévalence ou l'incidence de la tuberculose est beaucoup plus élevée que dans la population générale.
+
+Test, examen ou procédure de dépistage de la tuberculose-maladie : test, examen ou autre procédure utilisé(e) pour distinguer les personnes qui ont une probabilité élevée d'être atteintes de tuberculose-maladie de celles qui sont très peu susceptibles de l'être. Un test de dépistage n'a pas vocation à servir de test de diagnostic. Les personnes qui ont obtenu un résultat positif au test de dépistage doivent faire l'objet d'une évaluation ultérieure, en fonction de l'algorithme de dépistage utilisé.
+
+Deuxième dépistage : deuxième test, examen ou autre procédure effectué(e) chez les personnes qui ont obtenu un résultat positif lors du dépistage initial.
+
+Dépistage systématique de la tuberculose-maladie : identification systématique, dans un groupe cible prédéfini, des personnes à risque de tuberculose-maladie, à travers l'évaluation des symptômes et l'utilisation de tests, d'examens ou d'autres procédures qui peuvent être réalisés rapidement. Pour les personnes qui obtiennent un résultat positif au dépistage, le diagnostic doit être confirmé par un ou plusieurs tests de diagnostic et des évaluations cliniques complémentaires. Cette expression est parfois
+
+Définitions utilisée en tant que synonyme de « détection active des cas de tuberculose ». Elle doit être distinguée des tests ciblant l'infection tuberculeuse (au moyen d'un test cutané ou d'un test de quantification de la libération d'interféron gamma).
+
+Triage : processus de choix du diagnostic et du parcours de soins des patients en fonction de leurs signes et symptômes, de leurs marqueurs de risque et des résultats de leurs tests. Le triage comporte une évaluation de la probabilité de plusieurs diagnostics différentiels pour soutenir la prise de décisions cliniques. Il peut suivre des protocoles et des algorithmes plus ou moins normalisés et être réalisé en plusieurs étapes.
+
+Test de triage de la tuberculose : test pouvant être réalisé rapidement chez les personnes qui se rendent dans un centre de santé, en vue de distinguer celles qui doivent faire l'objet d'un diagnostic ultérieur de la tuberculose de celles devant faire l'objet de diagnostics ultérieurs non liés à la tuberculose.
+
+Tuberculose-maladie : maladie causée par Mycobacterium tuberculosis. Elle est généralement caractérisée par des manifestations cliniques, ce qui la distingue de l'infection tuberculeuse sans signes ni symptômes (auparavant appelée infection tuberculeuse latente). Elle est également appelée tuberculose active.
+
+Résumé d'orientation
+
+La tuberculose est la première cause de décès par un agent infectieux unique, alors que c'est une maladie qui est évitable et guérissable. En 2019, on estime que 2,9 des 10 millions de personnes qui ont contracté la tuberculose n'ont pas été diagnostiquées ou signalées à l'Organisation mondiale de la Santé (OMS).
+
+La Déclaration politique adoptée en septembre 2018 par l'Assemblée générale des Nations Unies lors de la Réunion de haut niveau sur la lutte contre la tuberculose a pris l'engagement, entre autres buts, de diagnostiquer et de traiter 40 millions de personnes atteintes de tuberculose avant 2022. Pour atteindre cet objectif ambitieux, il est urgent de déployer des stratégies visant à améliorer le diagnostic et la mise en place de soins pour les personnes atteintes de tuberculose. L'une de ces stratégies est le dépistage systématique de la tuberculose-maladie, qui constitue un élément central du premier pilier de la Stratégie de l'OMS pour mettre fin à la tuberculose, pilier qui vise à garantir un diagnostic précoce de toutes les personnes atteintes de tuberculose.
+
+Pour faciliter la mise en œuvre du dépistage de la tuberculose au niveau de chaque pays, l'OMS a publié en 2013 des lignes directrices intitulées Dépistage systématique de la tuberculose active : principes et recommandations. Depuis lors, de nouvelles études importantes ont évalué l'impact des interventions de dépistage sur les résultats individuels et communautaires en matière de tuberculose, et de nouvelles recherches ont évalué des outils innovants de dépistage de la tuberculose – notamment l'utilisation de la détection assistée par ordinateur sur les radiographies numériques, de la protéine C-réactive et des tests moléculaires rapides recommandés par l'OMS – au sein de larges populations à haut risque de tuberculose-maladie.
+
+Au vu de ces nouveaux développements et des demandes des pays souhaitant recevoir davantage de conseils, l'OMS a convoqué en 2020 un Groupe d'élaboration des lignes directrices (GDG) pour examiner les données probantes et mettre à jour les lignes directrices de 2013. Le GDG s'est réuni en sessions virtuelles entre juin et octobre 2020 et a proposé plusieurs recommandations, nouvelles ou mises à jour, en matière de dépistage de la tuberculose. L'OMS tient à remercier pour leur travail les membres du GDG, les examinateurs des données probantes, les représentants des programmes nationaux de lutte contre la tuberculose et le VIH, les collègues de l'OMS, les partenaires techniques et financiers, les représentants de la société civile, les patients et toutes les autres personnes qui ont fourni les données utilisées pour la mise à jour des présentes lignes directrices.
+
+Les données examinées pour répondre aux questions des lignes directrices proviennent d'essais, d'études, de données programmatiques, d'enquêtes et de travaux de modélisation. La certitude des données probantes et la force des recommandations ont été évaluées selon la méthode GRADE (Grading of Recommendations Assessment, Development and Evaluation). Les décisions relatives à la force d'une recommandation et à la qualité des données probantes dépendent de la confiance accordée aux estimations et d'autres considérations essentielles, telles que l'acceptabilité, la faisabilité, l'utilisation des ressources et l'impact sur l'équité en matière de santé.
+
+L'utilisation de la radiographie thoracique comme outil de dépistage de la tuberculose-maladie au sein de différentes populations a été examinée, notamment dans la population générale, chez les personnes vivant avec le VIH, chez les personnes de moins de 15 ans qui sont en contact avec des tuberculeux et dans d'autres groupes à haut risque. Dans toutes les populations étudiées, la radiographie thoracique a montré qu'elle était un outil de dépistage sensible qui, bien que n'ayant pas une spécificité suffisante pour confirmer un diagnostic de tuberculose, joue un rôle important dans la détection précoce de la tuberculose chez les enfants et les adultes qui présentent un risque plus élevé de tuberculose, et est en mesure de réduire le fardeau de la tuberculose-maladie sur la population lorsqu'elle est associée à un traitement précoce.
+
+Résumé d'orientation
+
+Ces dernières années, des progiciels de détection assistée par ordinateur (DAO) ont été développés et introduits pour automatiser l'interprétation des radiographies thoraciques numériques et produire un score numérique indiquant la probabilité d'une tuberculose. Trois évaluations indépendantes de la DAO ont été examinées afin d'élaborer des recommandations en matière de dépistage et de triage de la tuberculose.
+
+La précision diagnostique et les performances globales des logiciels de DAO étaient similaires à celles de l'interprétation humaine d'une radiographie thoracique numérique, tant pour le dépistage que pour le triage. Toutefois, les évaluations ont montré une variation substantielle de la précision diagnostique dans différents milieux. L'utilisation de la DAO nécessitera donc un étalonnage qui sera spécifique au but et au milieu où elle sera mise en œuvre.
+
+La protéine C-réactive (CRP) est un marqueur de l'inflammation générale qui peut être mesuré à l'aide de tests réalisables sur le lieu des soins, qui sont effectués sur du sang capillaire prélevé au bout d'un doigt.
+
+La précision de la CRP pour détecter une tuberculose bactériologiquement confirmée chez les personnes vivant avec le VIH a été évaluée à l'aide d'une méta-analyse des données individuelles des patients dépistés dans des milieux à forte et moyenne charge de tuberculose. La CRP a montré une sensibilité similaire et une spécificité similaire ou supérieure au dépistage des symptômes dans toutes les sous-populations testées. La CRP offre une amélioration cliniquement significative de la précision par rapport au dépistage à quatre symptômes recommandé par l'OMS chez les personnes mobiles vivant avec le VIH qui viennent d'être prises en charge et ne sont pas encore sous traitement antirétroviral – une sous-population pour laquelle la précision du dépistage à quatre symptômes est faible.
+
+Les tests moléculaires rapides recommandés par l'OMS pour la tuberculose (p. ex. Xpert MTB/ RIF) ont fait l'objet d'un examen en vue de leur utilisation en tant qu'outils de dépistage de la tuberculose au sein de différentes populations à haut risque de tuberculose. Les données probantes montrent une amélioration de la précision et de l'efficacité chez les personnes vivant avec le VIH et dans d'autres populations à haut risque. Les données les plus solides concernent les patients séropositifs hospitalisés dans des milieux à forte charge de tuberculose, étant donné la valeur limitée du dépistage des symptômes et les graves conséquences du défaut de mise en place rapide d'un traitement antituberculeux dans ce groupe de patients.
+
+Ces mises à jour ont permis l'élaboration de 17 recommandations, nouvelles ou mises à jour, pour le dépistage de la tuberculose-maladie (Tableau 1).
+
+Les principaux changements par rapport aux précédentes lignes directrices de l'OMS sont résumés dans l'Encadré 1. Ces nouvelles lignes directrices remplacent toutes les publications précédentes relatives au dépistage de la tuberculose. Les recommandations sont accompagnées de lignes directrices opérationnelles mises à jour, rassemblées dans le Manuel opérationnel de l'OMS sur la tuberculose. Module 2 : dépistage – dépistage systématique de la tuberculose, qui décrit plus en détail les populations cibles et les outils à utiliser pour le dépistage systématique, y compris les algorithmes révisés et les estimations modélisées de leurs performances.
+
+Tableau 1. Recommandations présentes dans les Lignes directrices unifiées de l'OMS sur la tuberculose. Module 2 : dépistage – dépistage systématique de la tuberculose, 2021 Dépistage de la tuberculose dans les populations cibles
+
+Un dépistage systématique de la tuberculose-maladie peut être effectué dans la population générale dans les zones où l'on estime que la prévalence de la tuberculose est supérieure ou égale à 0,5 % (recommandation mise à jour : recommandation conditionnelle, faible certitude quant aux données).
+
+Le dépistage systématique de la tuberculose-maladie peut être réalisé dans les souspopulations présentant des facteurs de risque structurels de tuberculose. Cela comprend les communautés urbaines pauvres, les sans-abri, les communautés vivant dans des zones éloignées ou isolées, les populations autochtones, les migrants, les réfugiés, les personnes déplacées à l'intérieur de leur propre pays et d'autres groupes vulnérables ou marginalisés ayant un accès limité aux soins de santé (recommandation existante : recommandation conditionnelle, très faible certitude quant aux données).
+
+Les personnes vivant avec le VIH doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie à chacune de leurs visites dans un centre de santé (recommandation existante : recommandation forte, très faible certitude quant aux données).
+
+Les contacts familiaux et les autres contacts proches de personnes atteintes de tuberculosemaladie doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie (recommandation mise à jour : recommandation forte, certitude moyenne quant aux données).
+
+Un dépistage systématique de la tuberculose-maladie doit être effectué dans les prisons et les établissements pénitentiaires (recommandation mise à jour : recommandation forte, très faible certitude quant aux données).
+
+Dépistage de la tuberculose dans les populations cibles
+
+Les personnes travaillant ou ayant travaillé dans des lieux comportant une exposition à la silice doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie (recommandation existante : recommandation forte, faible certitude quant aux données).
+
+Dans les milieux où la prévalence de la tuberculose dans la population générale est supérieure ou égale à 100/100 000, un dépistage systématique de la tuberculose peut être effectué chez les personnes présentant un facteur de risque de tuberculose qui viennent pour des soins de santé ou sont déjà prises en charge (recommandation existante : recommandation conditionnelle, très faible certitude quant aux données).
+
+Les personnes dont la radiographie thoracique présente une lésion fibreuse non traitée peuvent faire l'objet d'un dépistage systématique de la tuberculose (recommandation existante : recommandation conditionnelle, très faible certitude quant aux données).
+
+Outils pour le dépistage de la tuberculose
+
+Chez les sujets âgés de 15 ans et plus dans les populations où un dépistage de la tuberculose est recommandé, le dépistage systématique de la tuberculose-maladie peut être effectué au moyen d'un dépistage des symptômes, d'une radiographie thoracique ou d'un test moléculaire rapide recommandé par l'OMS (mWRD), ou de toute combinaison de ces approches (nouvelle recommandation : recommandation conditionnelle, très faible certitude quant aux données de précision du test).
+
+Chez les sujets âgés de 15 ans et plus dans les populations où un dépistage de la tuberculose est recommandé, des logiciels de détection assistée par ordinateur peuvent remplacer les lecteurs humains pour l'interprétation des radiographies thoraciques numériques dans le dépistage et le triage de la tuberculose-maladie (nouvelle recommandation : recommandation conditionnelle, faible certitude quant aux données).
+
+Résumé d'orientation
+
+Chez les adultes et les adolescents vivant avec le VIH, un dépistage systématique de la tuberculose-maladie doit être réalisé au moyen du dépistage à quatre symptômes recommandé par l'OMS : les personnes qui mentionnent l'un quelconque des symptômes (toux, fièvre, perte de poids ou sueurs nocturnes) peuvent être atteintes de tuberculose et doivent être évaluées pour la tuberculose et les autres affections (recommandation existante : recommandation forte, certitude moyenne quant aux données).
+
+Chez les adultes et les adolescents vivant avec le VIH, la protéine C-réactive avec un seuil > 5 mg/l peut être utilisée pour dépister la tuberculose-maladie (nouvelle recommandation : recommandation conditionnelle, faible certitude quant aux données de précision du test).
+
+Chez les adultes et les adolescents vivant avec le VIH, la radiographie thoracique peut être utilisée pour dépister la tuberculose-maladie (nouvelle recommandation : recommandation conditionnelle, certitude moyenne quant aux données de précision du test).
+
+Chez les adultes et les adolescents vivant avec le VIH, les tests moléculaires rapides recommandés par l'OMS peuvent être utilisés pour le dépistage de la tuberculose-maladie (nouvelle recommandation : recommandation conditionnelle, certitude moyenne quant aux données de précision du test).
+
+Les adultes et les adolescents vivant avec le VIH qui sont hospitalisés dans des services de médecine où la prévalence de la tuberculose est supérieure à 10 % doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie au moyen d'un test moléculaire rapide recommandé par l'OMS (nouvelle recommandation : recommandation forte, certitude moyenne quant aux données de précision du test).
+
+Chez les personnes de moins de 15 ans qui sont en contact proche avec un patient tuberculeux, un dépistage systématique de la tuberculose-maladie doit être effectué à l'aide d'un dépistage des symptômes de toux, fièvre ou faible prise de poids, ou d'une radiographie thoracique, voire des deux approches (nouvelle recommandation : recommandation forte, certitude moyenne à faible quant aux données de précision du test).
+
+Chez les enfants de moins de 10 ans vivant avec le VIH, un dépistage systématique de la tuberculose-maladie doit être effectué à l'aide d'un dépistage des symptômes de toux, fièvre, faible prise de poids ou contact étroit avec un patient tuberculeux (nouvelle recommandation : recommandation forte, faible certitude quant aux données de précision du test).
+
+TB: tuberculose.
+
+Encadré 1. Principales modifications apportées aux lignes directrices dans la présente mise à jour
+
+Î Un dépistage systématique effectué à l'échelle de la communauté à l'aide d'un algorithme précis de dépistage et de diagnostic peut être utilisé dans les milieux où la prévalence de la tuberculose est supérieure ou égale à 0,5 %, sur la base de nouvelles données bénéfiques pour la santé publique.
+
+Î La détection assistée par ordinateur (DAO) est, pour la première fois, recommandée comme alternative à l'interprétation humaine des radiographies thoraciques numériques pour le dépistage et le triage de la tuberculose. Son utilisation doit être limitée à l'interprétation des radiographies thoraciques sans préparation de tuberculose pulmonaire chez les personnes âgées de 15 ans ou plus.
+
+Î Les tests moléculaires rapides recommandés par l'OMS (mWRD) peuvent être utilisés pour améliorer la précision du dépistage des symptômes dans les populations à haut risque de tuberculose.
+
+Î Lors de l'application à plus grande échelle des radiographies thoraciques et des innovations telles que la DAO, la protéine C-réactive et les tests moléculaires rapides pour le dépistage, il convient de veiller à ne pas créer d'inégalités. L'utilisation des tests moléculaires rapides doit être réservée en priorité au diagnostic de patients ayant une présomption de tuberculose. La mise en œuvre de la DAO nécessitera une étude approfondie des besoins en infrastructures, notamment la disponibilité d'appareils de radiographie numérique, d'ordinateurs et d'un accès à Internet, et des coûts pour les licences et l'utilisation des différents produits de DAO.
+
+Î Chez les adultes et les adolescents vivant avec le VIH :
+
+y Le dépistage à l'aide des radiographies thoraciques améliore la sensibilité du dépistage à quatre symptômes recommandé par l'OMS (toux, fièvre, perte de poids ou sueurs nocturnes) pour la détection de la tuberculose, y compris chez les patients qui se rendent dans des services de soins du VIH pour recevoir un traitement antirétroviral ;
+
+y La protéine C-réactive peut être utilisée pour le dépistage de la tuberculose en complément du dépistage à quatre symptômes recommandé par l'OMS chez toutes les personnes vivant avec le VIH dans les milieux à forte charge de tuberculose ;
+
+y Les mWRD peuvent être utilisés pour dépister la tuberculose chez toutes les personnes vivant avec le VIH et chez les autres populations à haut risque dans les milieux à forte charge de tuberculose. Ils offrent l'avantage d'un diagnostic et d'un traitement rapides chez les patients vivant avec le VIH qui sont hospitalisés dans des services de médecine dans les milieux à forte charge de tuberculose.
+
+Résumé d'orientation
+
+1. Introduction
+
+1.1 Contexte
+
+La tuberculose est la première cause de décès par un agent infectieux unique, alors que c'est une maladie qui est évitable et guérissable. En 2019, on estime que 2,9 des 10 millions de personnes qui ont contracté la tuberculose n'ont pas été diagnostiquées ou signalées à l'Organisation mondiale de la Santé (OMS) (1).
+
+La Stratégie de l'OMS pour mettre fin à la tuberculose prévoit une réduction de 90 % de l'incidence de la tuberculose et une diminution de 95 % des décès dus à la tuberculose d'ici 2035 (2, 3), et la Déclaration adoptée en septembre 2018 par l'Assemblée générale des Nations Unies lors de la Réunion de haut niveau sur la lutte contre la tuberculose a pris l'engagement de diagnostiquer et de traiter 40 millions de personnes atteintes de tuberculose avant 2022 (4). Pour atteindre ces objectifs ambitieux, il est urgent de déployer des stratégies visant à améliorer le diagnostic et la mise en place de soins pour les personnes atteintes de tuberculose. Une stratégie essentielle est le dépistage systématique de la tuberculose-maladie, qui constitue un élément central du premier pilier de la Stratégie de l'OMS pour mettre fin à la tuberculose, pilier qui vise à garantir un diagnostic précoce pour tous les tuberculeux.
+
+Pour faciliter la mise en œuvre du dépistage de la tuberculose au niveau de chaque pays, l'OMS a publié en 2013 des lignes directrices sur le dépistage systématique de la tuberculose (5). Depuis lors, de nouvelles études importantes ont évalué l'impact des interventions de dépistage sur les résultats individuels et communautaires en matière de tuberculose, et de nouvelles recherches ont évalué des outils innovants de dépistage de la tuberculose au sein de larges populations à haut risque de tuberculose-maladie. Au vu de ces nouveaux développements et des demandes répétées des pays souhaitant recevoir des conseils sur comment effectuer un dépistage efficace de la tuberculose, l'OMS a convoqué en 2020 un Groupe d'élaboration des lignes directrices (GDG) pour examiner les données probantes en vue de mettre à jour les lignes directrices et recommandations de l'OMS en matière de dépistage de la tuberculose-maladie.
+
+1.2 Définition et objectifs du dépistage systématique de la tuberculose-maladie
+
+Dans le cadre des présentes lignes directrices, le dépistage systématique de la tuberculose-maladie désigne l'identification systématique, dans un groupe cible prédéfini, des personnes à risque de tuberculose au moyen d'un examen des symptômes et d'une évaluation basée sur des tests, des examens ou d'autres procédures pouvant être appliqués rapidement. Les tests, examens et autres procédures de dépistage doivent faire une distinction efficace entre les personnes qui ont une forte probabilité d'être atteintes de tuberculose-maladie et celles qui ne sont pas susceptibles de l'être. Parmi les personnes qui ont obtenu un résultat positif au dépistage, le diagnostic doit être établi au moyen d'une évaluation basée sur un ou plusieurs tests de diagnostic et un examen clinique, qui ont ensemble une précision élevée.
+
+Le dépistage systématique de la tuberculose-maladie est principalement initié par un prestataire. Il peut être effectué chez les personnes qui ne cherchent pas à obtenir des soins de santé car elles n'ont pas de symptômes ou n'en ressentent pas, ou parce qu'elles ne perçoivent pas qu'elles ont un problème de santé qui nécessite une prise en charge médicale, ou parce qu'elles rencontrent à des obstacles qui les empêchent d'accéder aux soins, ou pour d'autres raisons. Il peut également cibler des personnes qui cherchent à se faire soigner et qui peuvent avoir (ou pas) des symptômes et des signes compatibles avec la tuberculose mais n'ont pas été identifiées comme potentiellement atteintes de tuberculose par les méthodes de
+
+1. Introduction détection passive des cas. Les personnes venant se faire soigner qui pourraient être éligibles au dépistage de la tuberculose comprennent les patients qui ont une pathologie constituant un facteur de risque pour la tuberculose (comme les personnes vivant avec le VIH ou les diabétiques) et qui cherchent à obtenir des soins pour des raisons autres que des symptômes compatibles avec la tuberculose.
+
+Le dépistage de la tuberculose a deux objectifs principaux : détecter précocement la tuberculose-maladie et mettre en place rapidement un traitement afin de réduire le risque de mauvais résultats thérapeutiques, de séquelles et de conséquences socio-économiques négatives ; et réduire la prévalence communautaire de la tuberculose-maladie afin de diminuer la transmission de Mycobacterium tuberculosis et d'éviter les cas de tuberculose qui pourraient en découler. Au-delà de la tuberculose-maladie, le dépistage peut également permettre d'identifier les personnes qui sont éligibles à un traitement préventif de la tuberculose (TPT) et pourraient en tirer profit une fois la tuberculose-maladie exclue, afin d'éviter les cas de tuberculose qui pourraient en découler.
+
+Ces deux objectifs principaux mettent en lumière les deux principaux niveaux où le dépistage peut améliorer les pratiques habituelles de prise en charge de la tuberculose : le niveau individuel et le niveau communautaire. Pour les patients atteints de tuberculose-maladie, les interventions de dépistage peuvent accélérer et augmenter la probabilité d'être diagnostiqués et traités grâce au contournement des obstacles au diagnostic et à la prise en charge que les personnes atteintes de tuberculose-maladie peuvent rencontrer, tels que (6) :
+
+-
+
+-
+
+-
+
+-
+
+- manque d'informations concernant les signes et les symptômes de la tuberculose ;
+
+non-identification des symptômes ;
+
+incapacité d'obtenir des soins de santé ou manque de ressources pour les obtenir ;
+
+manque d'accès aux services de diagnostic et de traitement de la tuberculose ;
+
+obtention de soins auprès de prestataires qui n'ont pas une connaissance suffisante de la tuberculose ou dans des centres de santé où les services de diagnostic et de traitement de la tuberculose ne sont pas disponibles ou sont de qualité insuffisante.
+
+Outre l'amélioration de la santé et du bien-être des individus, les interventions de dépistage des maladies infectieuses telles que la tuberculose s'attaquent aussi à l'épidémiologie de la maladie au niveau communautaire. En permettant l'identification et le traitement d'une partie des personnes atteintes de tuberculose-maladie au sein d'une communauté donnée, le dépistage de la tuberculose vise à réduire la prévalence, la transmission et l'incidence future de la maladie, afin de contribuer au but à long terme de l'éradication de la maladie au sein de la population.
+
+Les recommandations décrites dans le présent document s'appliquent aux interventions de dépistage effectuées dans le but d'apporter un bénéfice direct aux personnes dépistées à travers une amélioration de la détection et de la prise en charge des cas de tuberculose et, par ricochet, un bénéfice à la communauté élargie à travers une réduction de la charge de la tuberculose dans la population.
+
+1.3 Objet de la mise à jour de 2021
+
+La Figure 1 résume l'apport potentiel du dépistage de la tuberculose aux pratiques habituelles de prise en charge de la tuberculose sur la base des cadres de dépistage de la tuberculose décrits ci-dessus et montre le cadre conceptuel qui a sous-tendu la mise à jour de 2021 des lignes directrices sur le dépistage de la tuberculose.
+
+Fig. 1. Cadre conceptuel pour la mise à jour de 2021 par l'OMS des lignes directrices sur le dépistage systématique de la tuberculose. Les nombres entre parenthèses font référence aux questions PICO (population, intervention, comparaison et résultat) qui ont guidé la collecte de données probantes
+
+INTRANTS
+
+ACTIVITÉS
+
+RÉSULTATS AU
+
+NIVEAU INDIVIDUEL
+
+RÉSULTATS AU NIVEAU
+
+COMMUNAUTAIRE
+
+Meilleure connaissance de la tuberculose, sensibilisation, obtention de soins (5)
+
+Engagement des décideurs politiques et des parties prenantes
+
+Ressources financières
+
+Ressources humaines
+
+Équipements et fournitures
+
+Amélioration du diagnostic de la tuberculose et de la mise en place du traitement (4, 6)
+
+Interventions et activités de dépistage (notamment un éventail d'activités dans les centres de santé, la communauté et les foyers en vue d'effectuer un dépistage systématique de la tuberculose)
+
+Diminution du retard de diagnostic, et diagnostic plus précoce de la tuberculose (1)
+
+Diminution de la durée d'infectiosité et de la prévalence des cas infectieux dans la communauté
+
+Amélioration des résultats du traitement (2)
+
+Diminution de la transmission de la tuberculose (7)
+
+Diminution des coûts de traitement, des pertes financières et du risque de conséquences sociales négatives de la maladie (3)
+
+Diminution de l'incidence et de la prévalence de la tuberculose (7)
+
+Une série de questions PICO (population, intervention, comparaison et résultat) a été élaborée, et pour chacune d'elles et pour les questions contextuelles prioritaires, des études systématiques ont été cherchées ou commandées.
+
+Les premières questions PICO visaient à résumer les données probantes concernant l'efficacité des interventions de dépistage systématique de la tuberculose-maladie pour résoudre les défis individuels et communautaires.
+
+1. Chez les personnes atteintes de tuberculose-maladie, le dépistage de la tuberculose permet-il d'identifier les patients à un stade plus précoce de la maladie que la détection passive des cas ?
+
+2. Les résultats du traitement de la tuberculose diffèrent-ils entre les patients tuberculeux identifiés grâce aux interventions de dépistage et ceux identifiés au moyen de la détection passive des cas ?
+
+3. Pour les patients atteints de tuberculose-maladie et leur famille, le coût de la maladie et le risque de conséquences sociales négatives diffère-t-il selon que le diagnostic a été posé et le traitement a été suivi après la détection des cas par dépistage ou après un diagnostic obtenu par la détection passive des cas ?
+
+4. Pour les personnes dépistées qui ne sont pas atteintes de tuberculose-maladie, quelles sont les conséquences du dépistage de la tuberculose ?
+
+5. Le dépistage de la tuberculose utilisé en complément de la détection passive des cas affecte-t-il le comportement de recherche de soins de santé ultérieur par rapport à la seule détection passive des cas ?
+
+1. Introduction
+
+6. Le dépistage de la tuberculose augmente-t-il initialement le nombre de personnes atteintes de tuberculose par rapport à la seule détection passive des cas ?
+
+7. Au niveau communautaire, le dépistage de la tuberculose affecte-t-il l'épidémiologie de la tuberculose – en particulier la prévalence, l'incidence et la transmission – par rapport à la seule détection passive des cas ?
+
+Une série de questions centrées sur la précision diagnostique et les performances des outils de dépistage a également fait l'objet d'une priorisation.
+
+8. Chez les personnes vivant avec le VIH, quelles sont les performances d'un éventail d'outils de dépistage par rapport à un étalon de référence microbiologique ?
+
+9. Dans la population générale et les groupes à haut risque éligibles au dépistage de la tuberculose, quelles sont les performances d'un éventail d'outils de dépistage par rapport à un étalon de référence microbiologique ?
+
+10. Chez les enfants et les adolescents éligibles au dépistage de la tuberculose, quelles sont les performances d'un éventail d'outils de dépistage par rapport à un étalon de référence microbiologique ou composite ?
+
+11. Quelles sont les performances des logiciels de détection assistée par ordinateur (DAO) dans la lecture automatisée des radiographies thoraciques numériques pour la détection de la tuberculose-maladie dans les cas d'utilisation du dépistage et du triage ?
+
+12. Dans la population générale et les groupes à haut risque éligibles au dépistage de la tuberculose, quelles sont les performances des tests moléculaires rapides recommandés par l'OMS (mWRD) pour le dépistage de la tuberculose-maladie par rapport à un étalon de référence microbiologique ?
+
+Enfin, outre les questions PICO visant à évaluer la précision et l'efficacité des interventions de dépistage, la priorisation a inclus une série de questions de fond pouvant éclairer la mise en œuvre des interventions de dépistage de la tuberculose.
+
+13. Dans la population générale et les populations à haut risque, quel est le nombre de sujets à dépister (NSD) pour détecter une personne atteinte de tuberculose-maladie ?
+
+14. Au sein des contacts de patients tuberculeux, quel est le NSD pour détecter une personne atteinte de tuberculose-maladie ?
+
+15. Quelles sont les estimations des risques relatifs de tuberculose associés à une série de facteurs de risque ?
+
+16. Quels sont les coûts et le rapport coût/efficacité de la mise en œuvre des interventions de dépistage de la tuberculose ?
+
+17. Quelles sont les perceptions et les attitudes des communautés envers les programmes de dépistage de la tuberculose ?
+
+1.4 Motif de la mise à jour des lignes directrices
+
+Depuis la publication en 2013 des premières lignes directrices de l'OMS sur le dépistage systématique de la tuberculose (5), un grand nombre d'études – dont des revues, des études d'observation, des essais contrôlés randomisés et des travaux de recherche sur la modélisation et le rapport coût/efficacité – ont évalué les impacts réels ou potentiels des interventions de dépistage sur les résultats liés à la tuberculose, au niveau tant individuel que communautaire. Les nombreuses enquêtes de prévalence qui ont également eu lieu depuis 2013 ont éclairé d'un nouveau jour l'ampleur de la charge de la tuberculose dans différents pays essentiels. La majorité des enquêtes de prévalence a montré que la charge de la tuberculose est supérieure à ce que l'on pensait jusqu'ici.
+
+1.5 Buts de la mise à jour des lignes directrices
+
+Les buts spécifiques de la mise à jour des lignes directrices sont les suivants :
+
+1. aider les États Membres à mettre en œuvre des interventions de dépistage de la tuberculose efficaces à travers la fourniture d'informations à jour concernant l'impact attendu du dépistage de la tuberculose sur les résultats importants pour les patients et sur l'épidémiologie de la tuberculose, le rendement attendu des interventions de dépistage et les performances attendues des différents algorithmes et outils de dépistage ;
+
+2. contribuer à détecter davantage de personnes atteintes de tuberculose, et les détecter à un stade plus précoce de la maladie afin de réduire la charge de la maladie, la morbidité et la mortalité, et les coûts et les difficultés financières chez les personnes atteintes de tuberculose.
+
+La présente mise à jour permettra aux décideurs politiques des ministères de la santé de choisir la meilleure approche pour la planification et la mise en œuvre des activités de dépistage et de détection active des cas, selon le contexte. Elle offrira également une base robuste à partir de laquelle élaborer ou mettre à jour les lignes directrices nationales sur le dépistage de la tuberculose fondées sur l'épidémiologie de la tuberculose et le système de fourniture des soins de santé dans le pays.
+
+1.6 Public cible
+
+Les présentes lignes directrices s'adressent aux personnels des ministères de la santé qui travaillent pour les programmes nationaux de lutte contre la tuberculose, les programmes nationaux VIH/SIDA (ou leurs équivalents) et les autres programmes nationaux de santé pertinents ; aux personnels des autres ministères concernés par la santé publique et le dépistage ; et aux décideurs politiques en matière de santé, aux cliniciens et aux praticiens de santé publique qui travaillent sur la tuberculose, le VIH et les maladies infectieuses dans les secteurs public et privé. Les recommandations qui y figurent doivent être adaptées à la situation locale. Un manuel opérationnel, intitulé Manuel opérationnel de l'OMS sur la tuberculose. Module 2 : dépistage – dépistage systématique de la tuberculose (7) décrit plus en détail comment il est possible d'adapter les recommandations en matière de dépistage pour tenir compte des conditions et des buts du dépistage dans des contextes spécifiques. Les programmes nationaux de lutte contre la tuberculose et les partenaires et autres agences de santé publique nationales et infranationales doivent élaborer des recommandations nationales et infranationales. Les recommandations, élaborées par les agences nationales et infranationales, doivent guider le personnel de santé travaillant dans des milieux spécifiques.
+
+1. Introduction
+
+2. Recommandations pour le dépistage systématique de la tuberculose-maladie dans les populations ciblées
+
+Les présentes lignes directrices comprennent des recommandations en matière de dépistage systématique de la tuberculose-maladie élaborées pour des populations particulières, pour qui il a été estimé que les avantages et les effets souhaités du dépistage l'emportaient sur les effets néfastes potentiels.
+
+Le dépistage systématique de la tuberculose-maladie peut soit être effectué pour l'ensemble d'une population (dépistage communautaire), soit cibler certains groupes à risque ou certaines sous-populations qui présentent un risque plus élevé d'exposition à la tuberculose, de développement de la tuberculosemaladie ou de conséquences néfastes de la tuberculose, ou toute combinaison de ces risques. Le dépistage systématique peut cibler tant les personnes qui veulent obtenir des soins de santé (avec ou sans symptômes ou signes compatibles avec la tuberculose) que celles qui n'en cherchent pas (parce qu'elles ne perçoivent pas qu'elles ont un problème de santé qui nécessite une prise en charge médicale, ou parce qu'elles rencontrent des obstacles qui les empêchent d'accéder aux soins, ou pour d'autres raisons). En outre, le dépistage peut permettre d'identifier les personnes à très haut risque de développer la tuberculose-maladie qui peuvent donc nécessiter un dépistage régulier, comme les personnes présentant une radiographie thoracique anormale compatible avec la tuberculose et chez qui la tuberculose n'a pas été diagnostiquée au moment du dépistage, ou comme les patients pour qui le TPT est recommandé. La combinaison du dépistage de la tuberculose et du dépistage des facteurs de risque de tuberculose peut aussi aider à cartographier aux niveaux individuel et communautaire les facteurs de risque, les comorbidités et les déterminants socio-économiques à prendre en compte pour prévenir efficacement la maladie.
+
+Les recommandations fortes sont formulées pour les sous-populations ou les groupes à risque pour lesquels il a été estimé que les effets souhaitables liés à la mise en œuvre des recommandations l'emportaient clairement sur les effets indésirables. Pour ces recommandations, le dépistage est jugé faisable, acceptable et abordable dans tous les milieux. Les recommandations conditionnelles sont formulées pour les groupes à risque pour lesquels les effets souhaitables du dépistage de la tuberculose l'emportent probablement sur les effets indésirables, mais où il n'existe pas de certitude concernant les compromis, le rapport coût/efficacité, la faisabilité ou l'accessibilité financière, ou toute combinaison de ces paramètres. Les causes de cette absence de certitude peuvent comprendre un manque de données probantes de qualité pour soutenir la recommandation, des preuves limitées du bénéfice lié à la mise en œuvre de la recommandation, des coûts élevés ou une faible faisabilité ou acceptabilité, ou toute combinaison de ces facteurs.
+
+Il est important de diagnostiquer la tuberculose précocement dans les groupes qui ont une probabilité très élevée de tuberculose non détectée ou un risque élevé de mauvais résultats sanitaires, voire les deux, en l'absence d'un diagnostic et d'un traitement précoces, même si l'on ne dispose pas de données probantes directes du bénéfice lié au dépistage. C'est la raison qui a poussé à faire des recommandations fortes malgré le manque de données probantes de haute qualité pour certains groupes à risque. Toutefois, la priorisation doit aussi prendre en compte les risques associés au dépistage, notamment les diagnostics faussement positifs, le surtraitement et les coûts d'opportunité du dépistage en termes de besoins en ressources, tant dans les groupes à risque qu'en relation avec les autres interventions qui visent à améliorer le diagnostic,
+
+2. Recommandations pour le dépistage systématique de la tuberculose-maladie dans les populations ciblées le traitement et la prévention précoces. Par conséquent, compte tenu du manque de données probantes de haute qualité comparant les avantages et les effets néfastes et détaillant le rapport coût/efficacité du dépistage dans bon nombre des populations concernées, une grande partie des recommandations formulées pour le dépistage de populations spécifiques sont conditionnelles.
+
+Le degré d'incertitude sur les compromis entre les effets souhaitables et les effets indésirables varie selon les milieux et dépend de la situation épidémiologique et du système de santé. De ce fait, une recommandation conditionnelle dans les présentes lignes directrices signifie qu'il est nécessaire d'évaluer l'opportunité de suivre la recommandation pour chaque milieu et de prioriser le dépistage entre les groupes à risque dans le milieu concerné.
+
+Pour les recommandations de dépistage de la tuberculose dans toutes les populations et tous les milieux, il convient d'offrir des conseils et des tests pour le VIH à toutes les personnes ayant une présomption de tuberculose-maladie. Dans les milieux où la prévalence du VIH est élevée, les conseils et les tests pour le VIH peuvent être offerts à toutes les personnes qui font l'objet d'un dépistage de la tuberculose (8). Les personnes chez qui le dépistage a détecté des symptômes ou des anomalies évocateurs de la tuberculose mais chez qui la tuberculose-maladie n'a pas été diagnostiquée doivent bénéficier de conseils et de soutien pour l'obtention de soins de santé si leurs symptômes persistent, apparaissent, réapparaissent ou s'aggravent. Si possible, ces personnes doivent se voir proposer un deuxième dépistage de la tuberculose.
+
+Les personnes diagnostiquées comme atteintes de tuberculose-maladie par le dépistage doivent faire l'objet d'un examen et d'une évaluation de leur nutrition. Toute malnutrition doit être gérée conformément aux recommandations de l'OMS sur la prise en charge et l'assistance nutritionnelles pour les patients tuberculeux. Des préoccupations liées à la perte de poids ou à l'absence de gain pondéral doivent déclencher une évaluation nutritionnelle et des évaluations cliniques supplémentaires (p. ex. pour déterminer une éventuelle résistance aux médicaments antituberculeux, une mauvaise adhérence au traitement, ou des comorbidités) afin de déterminer les interventions les plus appropriées (9).
+
+Le dépistage de groupes de population à plus haut risque de tuberculose est éthiquement justifié s'il est conçu et effectué dans le but d'améliorer la santé et le bien-être de la population et des individus.
+
+Il contribuera ainsi au bien commun et soutiendra le principe éthique de responsabilité. À ce titre, le dépistage doit toujours être effectué dans le but d'offrir des soins de santé à ceux qui en ont besoin, et jamais en vue d'exclure l'entrée ou l'emploi ou de discriminer des individus (10).
+
+Toutefois, le dépistage de groupes de population basé principalement sur le risque soulève une série de questions d'éthique (10). Premièrement, la plupart des personnes qui se voient proposer un dépistage ne sont ni atteintes de tuberculose-maladie ni contagieuses. Les obligations éthiques sont donc différentes de celles associées aux tests sur les personnes qui cherchent à obtenir des soins parce qu'elles sont malades.
+
+Par exemple, l'absence de risque immédiat de transmission rend contraire à l'éthique le fait de restreindre les déplacements d'une personne à qui le dépistage a été proposé. Le refus de dépistage doit être respecté et ne doit pas introduire une quelconque discrimination. Un programme de dépistage ne doit pas créer d'inégalités dans l'accès aux soins pour la tuberculose-maladie ou toute autre raison.
+
+Deuxièmement, un test de dépistage positif comporte des incertitudes. Des tests de confirmation doivent donc être disponibles pour garantir un parcours diagnostique efficace. Le consentement éclairé nécessite une communication efficace avec chaque personne au sujet de ces incertitudes (p. ex. résultat faussement positif, risque de surtraitement). Les mécanismes appropriés d'obtention d'un consentement éclairé doivent respecter les droits humains internationaux et tenir compte des différences de langue, de niveau d'alphabétisation et de statut juridique. Les risques et les incertitudes doivent être communiqués sous une forme culturellement et linguistiquement appropriée, y compris aux personnes dont la langue maternelle est différente de celle du milieu local, aux enfants et aux personnes incarcérées.
+
+Troisièmement, la tuberculose affecte de manière disproportionnée des individus et des groupes qui sont déjà désavantagés par leur situation socio-économique, leur statut juridique ou la maladie, entre autres désavantages. Par conséquent, des efforts sont nécessaires pour garantir l'équité et les droits humains, afin que la vulnérabilité des groupes cibles ne permette pas que leurs droits soient bafoués ou n'empêche pas leur accès au dépistage et au traitement. Toute intervention en faveur de groupes vulnérables – tels que les migrants, les détenus et les enfants – doit comprendre des mesures visant à réduire au minimum le risque de stigmatisation. Un résultat positif à un test de dépistage – comme à un diagnostic de tuberculose confirmé – ne doit pas influer sur une procédure d'immigration ou être utilisé pour forcer une migration ou refuser l'entrée dans un pays. Un dépistage effectué à des fins de migration ou d'emploi doit respecter des principes éthiques ; cela doit être reflété dans les lois ou les autres réglementations politiques (10).
+
+Les individus doivent se voir proposer le dépistage dans le strict respect des droits humains et des considérations éthiques (11). Les politiques doivent être évaluées d'un point de vue éthique par les personnes qui utilisent les lignes directrices. Après leur mise en œuvre, les avis et les expériences des populations concernées doivent être collectés, à la fois pour tenir compte d'éventuels effets inattendus et pour veiller à ce que les données probantes sur lesquelles elles reposent restent d'actualité et pertinentes (12).
+
+Des soins centrés sur la personne impliquent, entre autres considérations, qu'ils soient offerts d'une manière équitable sans désavantager davantage les populations vulnérables et marginalisées ; ils se concentrent sur les aspects du dépistage liés aux droits humains afin de disposer, dans les lois, les politiques et la pratique, de garde-fous adéquats pour réduire au minimum tout ajout de stigmatisation, de discrimination, de violation de l'intégrité physique ou de restrictions à la liberté de déplacement ; et les personnes qui se voient proposer un test et un traitement doivent comprendre les incertitudes associées, ce qui les aidera à prendre des décisions concernant les possibilités de soins. Les droits humains établis, tels que le consentement, l'absence de coercition et la confidentialité, doivent être respectés.
+
+2.1 Dépistage systématique de la tuberculosemaladie dans la population générale 1. Un dépistage systématique de la tuberculose-maladie peut être effectué dans la population générale dans les zones où l'on estime que la prévalence de la tuberculose est supérieure ou égale à 0,5 % (recommandation mise à jour : recommandation conditionnelle, faible certitude quant aux données).
+
+2.1.1 Résumé des données probantes et du raisonnement
+
+Le dépistage systématique dans la population générale est effectué à condition qu'il entraîne un double bénéfice : pour les personnes diagnostiquées comme tuberculeuses et pour la communauté au sein de laquelle le dépistage est effectué. Les individus diagnostiqués comme tuberculeux peuvent bénéficier d'une réduction du retard de diagnostic, de meilleurs résultats de traitement et de moindres pertes financières et coûts associés à la maladie. Le dépistage bénéficie également à la santé publique grâce à une diminution de la prévalence de la tuberculose au sein de la population, qui entraîne une diminution de la transmission ultérieure de la tuberculose.
+
+Il existe peu de données probantes directes concernant le bénéfice pour les individus lié à une meilleure réussite du traitement ou à une diminution de la mortalité lorsque le dépistage de la tuberculose est effectué dans la population générale. Certaines données montrent que le dépistage systématique contribue à réduire le retard du diagnostic de la tuberculose et permet de détecter les patients à un stade plus précoce de leur maladie. Des données montrent aussi que les interventions de dépistage entraînent une diminution des coûts pour les patients détectés grâce au dépistage et, de manière plus fondamentale, une réduction du risque de coûts catastrophiques pour les patients détectés grâce au dépistage et pour leur famille. Toutefois, certaines données montrent que la proportion de personnes qui ne commencent pas un traitement est plus élevée chez les individus identifiés grâce au dépistage que chez ceux qui présentent les symptômes de la maladie.
+
+Concernant les avantages du dépistage pour la communauté, les données divergent quant au fait que le dépistage systématique de la tuberculose améliore la détection et la notification dans la population générale, et aucune série de données n'est issue d'essais randomisés. Toutefois, des données probantes montrent un effet sur la prévalence et la transmission de la tuberculose. Un essai réalisé au Viet Nam dans une population ayant une prévalence estimée de 0,35 %, qui a utilisé 3 années de collecte annuelle
+
+2. Recommandations pour le dépistage systématique de la tuberculose-maladie dans les populations ciblées d'expectorations en porte à porte et de tests annuels réalisés à l'aide du test Xpert MTB/RIF, a montré que le dépistage systématique avait réduit la prévalence de la tuberculose-maladie chez les adultes (13). Une étude d'observation effectuée en Chine entre 2013 et 2015 a conclu que trois vagues de dépistage des symptômes en porte à porte suivies d'une radiographie thoracique étaient associées à des réductions en série du nombre absolu de personnes détectées comme tuberculeuses (14). En outre, deux essais ont montré des fréquences inférieures d'infection tuberculeuse chez les enfants dans les « clusters »
+
+(ou grappes de cas) où l'intervention avait lieu par rapport à ceux qui n'avaient pas bénéficié de l'intervention (13, 15).
+
+Il s'agit d'une recommandation mise à jour : auparavant, le dépistage systématique de la tuberculosemaladie dans la population générale était recommandé dans des populations spécifiques présentant des niveaux extrêmement élevés de tuberculose non détectée, définies par une prévalence supérieure ou égale à 1 %. Sur la base des données probantes mises à jour examinées, le GDG a conclu que le seuil de 1 % recommandé dans les lignes directrices de 2013 pouvait être abaissé, mais a considéré que le dépistage dans des conditions programmatiques n'aurait pas d'aussi bons résultats que ceux observés dans l'essai réalisé au Viet Nam et a donc proposé un seuil de 0,5 % pour orienter la mise en œuvre dans les pays. Le GDG a donc recommandé que le dépistage dans la population générale soit envisagé dans des zones bien définies où la prévalence de la tuberculose non détectée est supérieure ou égale à 0,5 % (voir l'Annexe Web B, Tableaux 1 et 2, et l'Annexe Web C, Tableau 1).
+
+2.1.2 Considérations relatives à la mise en œuvre
+
+L'ampleur et l'équilibre des effets souhaitables et indésirables varient selon les conditions épidémiologiques (prévalence de la tuberculose et des facteurs de risque) et l'intensité de l'intervention de dépistage mise en œuvre (couverture de la population et sensibilité de l'algorithme et du test de dépistage). Il n'existe actuellement aucune preuve que le dépistage à l'échelle de la population réalisé à l'aide d'algorithmes de dépistage moins sensibles qui commencent par le dépistage des symptômes soit efficace pour réduire la prévalence ou la transmission de la tuberculose dans la population. Cependant, des preuves limitées montrent que le dépistage à l'aide d'outils de dépistage fondés sur les symptômes peut être bénéfique pour les personnes chez qui la tuberculose a été diagnostiquée, en permettant un diagnostic plus précoce et une tuberculose-maladie moins grave, des coûts moindres pour le patient et un risque moindre de coûts catastrophiques liés à l'évolution de la maladie. L'équilibre entre les avantages et les effets néfastes potentiels du dépistage peut pencher en faveur de l'intervention en fonction de certains facteurs tels que la prévalence de la tuberculose dans la population à dépister (en particulier la tuberculose non détectée), la précision des tests de dépistage et de diagnostic utilisés, le niveau actuel de détection des cas de tuberculose et la vulnérabilité de la population à dépister.
+
+Le dépistage doit être effectué à l'aide de l'algorithme de dépistage le plus sensible et le plus spécifique possible, avec un test de dépistage pour identifier les personnes les plus susceptibles d'être atteintes de tuberculose et un test de diagnostic pour confirmer le diagnostic. Les tests de dépistage très précis, tels que la radiographie thoracique et les mWRD, ont une sensibilité ou une spécificité élevée, voire les deux ; cependant, la faisabilité de leur utilisation est affectée par les exigences liées aux ressources et à la mise en œuvre. Le dépistage des symptômes est moins précis (sensibilité ou spécificité réduite, voire les deux), mais il est généralement considéré comme beaucoup plus facile à mettre en œuvre. Des données récentes suggèrent qu'il est possible de réduire la prévalence de la tuberculose dans la population en procédant à des dépistages annuels répétés à l'aide d'un algorithme de dépistage sensible (mWRD suivi d'une évaluation clinique) (13). Pour une discussion plus approfondie sur ce sujet, voir à la Section 3 les recommandations sur les outils de dépistage.
+
+Si la mise en œuvre d'un programme de dépistage à l'échelle de la population nécessite inévitablement un investissement important de ressources, elle pourrait permettre aux services de santé de réaliser des économies à long terme grâce à une réduction de l'incidence future. Les coûts du dépistage à l'échelle de la communauté varient considérablement, car ils dépendent des tests de dépistage et de diagnostic utilisés et de la prévalence de la tuberculose dans la population. Le rapport coût/efficacité d'un dépistage à l'échelle de la population à l'aide d'un algorithme très précis n'est pas connu, mais plus la prévalence est élevée, plus le rapport coût/efficacité de l'intervention sera élevé. L'utilisation d'un algorithme de dépistage et de diagnostic très précis nécessitera inévitablement plus de ressources que les approches de dépistage basées sur les symptômes, mais son potentiel de diminution de la charge de la tuberculose dans la population est plus élevé.
+
+La fréquence optimale du dépistage dans la population générale pour obtenir des avantages au niveau des individus ou de la communauté reste floue. Il existe également des incertitudes quant à la manière dont les individus évaluent les avantages attendus du dépistage. Un examen des études qualitatives sur les perceptions communautaires du dépistage de la tuberculose a montré qu'en général, le dépistage était considéré comme acceptable. Cependant, la résistance au dépistage était fréquente. Elle résultait d'une combinaison de facteurs disparates, tels que la perception d'un faible risque de tuberculose chez les participants en bonne santé, le peu de conviction quant à l'efficacité du dépistage, la mauvaise opinion des services de lutte contre la tuberculose offerts dans la communauté, les inquiétudes concernant la confidentialité et la divulgation possible du diagnostic, et l'anxiété quant à la nécessité de prendre des médicaments antituberculeux.
+
+Des recommandations distinctes sont formulées pour certains groupes à haut risque dans les sections suivantes. Voir le manuel opérationnel pour plus de détails sur les aspects pratiques de la mise en œuvre des interventions de dépistage de la tuberculose à l'aide des différents outils et algorithmes (7).
+
+2.2 Dépistage systématique de la tuberculosemaladie chez les personnes présentant des facteurs de risque structurels de tuberculose
+
+2. Le dépistage systématique de la tuberculose-maladie peut être réalisé dans les sous-populations présentant des facteurs de risque structurels de tuberculose. Ces populations comprennent les communautés urbaines pauvres, les sans-abri, les communautés vivant dans des zones éloignées ou isolées, les populations autochtones, les migrants, les réfugiés, les personnes déplacées à l'intérieur de leur propre pays et d'autres groupes vulnérables ou marginalisés ayant un accès limité aux soins de santé (recommandation existante : recommandation conditionnelle, très faible certitude quant aux données).
+
+2.2.1 Résumé des données probantes et du raisonnement
+
+Les populations présentant des facteurs de risque structurels de tuberculose sont celles qui sont exposées à un risque accru de tuberculose et à de mauvais résultats sanitaires dus à la tuberculose en raison des déterminants structurels de leur environnement, définis comme les conditions qui génèrent ou renforcent la stratification sociale (p. ex. les inégalités socio-économiques, la croissance démographique, l'urbanisation), qui engendrent alors une répartition inégale des principaux déterminants sociaux de l'épidémiologie de la tuberculose, tels que les mauvaises conditions de logement, la pauvreté et la malnutrition, qui influent à leur tour sur l'exposition au risque, la vulnérabilité et la capacité à se rétablir après avoir développé la maladie (16, 17). Les facteurs de risque structurels de la tuberculose comprennent la pauvreté, la malnutrition, un accès limité ou inexistant aux soins de santé, et des conditions de vie, de travail et de rassemblement surpeuplées et mal ventilées. Ces facteurs de risque ne s'excluent pas mutuellement et n'excluent pas non plus les facteurs de risque cliniques décrits dans d'autres recommandations ; au contraire, ils se combinent souvent les uns aux autres.
+
+Cette recommandation n'a pas été modifiée par rapport aux lignes directrices de 2013 car, depuis la dernière réunion du GDG, aucune nouvelle preuve n'a été trouvée pour comparer l'impact du dépistage systématique de la tuberculose-maladie à celui des pratiques de détection passive des cas dans ces groupes à risque. Les études d'observation réalisées au cours de la période 2013-2020 suggèrent que le dépistage de la tuberculose effectué auprès des populations présentant des facteurs de risque structurels peut initialement augmenter les notifications de cas de tuberculose et diminuer la prévalence de la tuberculose ;
+
+cependant, toutes les études présentaient un risque majeur de biais.
+
+2.2.2 Considérations relatives à la mise en œuvre
+
+En raison du manque inhérent d'accès aux soins de santé qui caractérise les groupes à risque décrits dans cette recommandation, les interventions de dépistage doivent être menées et étendues dans les communautés où vivent et travaillent les membres de ces populations afin d'atteindre et de couvrir efficacement ces groupes.
+
+La liste des populations potentielles affectées par les facteurs de risque structurels incluse dans cette recommandation n'est pas exhaustive, et cette recommandation peut s'appliquer à d'autres groupes présentant un risque élevé de tuberculose et ayant un accès limité aux soins de santé, y compris un accès limité à des services de qualité en matière de lutte contre la tuberculose.
+
+Il n'existe pas de données probantes concernant l'efficacité des différents intervalles de dépistage ; de ce fait, le choix de l'intervalle de dépistage doit être guidé par la faisabilité. Dans la mesure du possible, le dépistage communautaire doit être associé au dépistage d'autres maladies ou facteurs de risque et à des activités de promotion de la santé ou de soutien social. Lorsque le dépistage est effectué dans des camps de réfugiés et au sein de populations déplacées, il convient de consulter le document sur la prise en charge de la tuberculose et la lutte antituberculeuse dans les populations réfugiées et déplacées, intitulé Tuberculosis care and control in refugee and displaced populations (18) pour trouver des recommandations sur la prise en charge de la tuberculose et les considérations opérationnelles.
+
+2.3 Dépistage systématique de la tuberculose-maladie chez les personnes vivant avec le VIH
+
+3. Les personnes vivant avec le VIH doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie à chacune de leurs visites dans un centre de santé (recommandation existante : recommandation forte, très faible certitude quant aux données).
+
+2.3.1 Résumé des données probantes et du raisonnement
+
+Les personnes vivant avec le VIH sont environ 19 fois plus susceptibles de développer la tuberculosemaladie que les personnes non infectées par le VIH. De plus, en 2019, on estime que 44 % des personnes vivant avec le VIH et atteintes de tuberculose-maladie n'ont pas pu obtenir des soins, et que 30 % de tous les décès liés au VIH étaient dus à la tuberculose (1). Il est donc essentiel de garantir un dépistage et un traitement précoces de la tuberculose chez toutes les personnes vivant avec le VIH pour réduire la morbidité et la mortalité dans ce groupe.
+
+Cette recommandation, qui s'applique aux personnes de tous âges, a été publiée pour la première fois en 2011 dans le document de l'OMS intitulé Directives pour l'intensification du dépistage de la tuberculose et l'administration du traitement préventif à l'isoniazide chez les personnes vivant avec le VIH dans un contexte de ressources limitées (19) ; elle est toujours en vigueur. Le GDG a accordé une grande importance au diagnostic précoce de la tuberculose dans ce groupe à risque, qui a une forte probabilité de tuberculose non détectée et un risque élevé de mauvais résultats sanitaires en l'absence de diagnostic et de traitement précoces.
+
+2.3.2 Considérations relatives à la mise en œuvre
+
+Les recommandations sur les outils spécifiques à utiliser pour le dépistage des personnes vivant avec le VIH sont décrites en détail dans la Section 3. Les personnes vivant avec le VIH dont le test de dépistage est positif ou anormal doivent subir des tests de diagnostic primaires pour confirmer ou exclure la tuberculosemaladie, y compris un test mWRD et un test de dosage urinaire du lipoarabinomannane sur bandelette à flux latéral (LF-LAM), si elles sont éligibles (8). Une fois la tuberculose-maladie exclue – soit par un test de dépistage normal, soit après une évaluation diagnostique négative – les personnes vivant avec le VIH doivent faire l'objet d'une évaluation relative au TPT dans le cadre d'un ensemble complet de soins du VIH (20).
+
+2.4 Dépistage systématique de la tuberculosemaladie chez les contacts familiaux et les autres contacts proches des personnes atteintes de tuberculose-maladie
+
+4. Les contacts familiaux et les autres contacts proches de personnes atteintes de tuberculosemaladie doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie (recommandation mise à jour : recommandation forte, certitude moyenne quant aux données).
+
+2.4.1 Résumé des données probantes et du raisonnement
+
+Les contacts familiaux et les contacts proches des personnes atteintes de tuberculose-maladie présentent un risque élevé d'infection tuberculeuse et de développement de la tuberculose-maladie. Une étude systématique réalisée pour la mise à jour des lignes directrices a révélé que la prévalence globale pondérée de la tuberculose-maladie chez tous les contacts proches de patients tuberculeux était de 3,6 % (intervalle de confiance [IC] à 95 % : 3,3-4,0), avec un NSD médian de 35 (IC à 95 % : 17-65). Le dépistage systématique est fortement recommandé depuis 2012 pour les contacts des personnes atteintes de tuberculose-maladie (21), compte tenu de la prévalence élevée de la maladie dans cette population. Lors de la réunion du GDG, des données probantes ont également été présentées sur les effets du dépistage des contacts proches des patients tuberculeux aux niveaux individuel et communautaire. Un essai de dépistage des contacts familiaux au Viet Nam a montré une multiplication par 2,5 de la notification des contacts diagnostiqués avec une tuberculose à la suite de l'intervention (risque relatif [RR] : 2,5 ; IC à 95 % : 2,0-3,2), ainsi qu'une réduction de 40 % de la mortalité toutes causes confondues chez les contacts familiaux (RR : 0,6 ; IC à 95 % : 0,4-0,8) (22). Un autre essai sur le dépistage des contacts en Afrique du Sud et en Zambie a montré que le dépistage des contacts familiaux avait pu réduire la prévalence de la tuberculose dans l'ensemble de la communauté après 4 ans d'étude des contacts, sans toutefois atteindre une signification statistique (rapport de prévalence : 0,82 ; IC à 95 % : 0,64-1,04) ; il a également été suggéré que l'intervention réduisait la transmission de la tuberculose, mesurée par l'incidence de l'infection tuberculeuse chez les écoliers (RR : 0,45 ; IC à 95 % : 0,20-1,05) (voir l'Annexe Web B, Tableau 3, et l'Annexe Web C, Tableau 2) (15).
+
+L'éligibilité au TPT doit être évaluée pour tous les contacts de patients tuberculeux qui font l'objet d'un dépistage et ne présentent pas de signes de tuberculose-maladie (20). Les enfants âgés de moins de 5 ans qui sont des contacts familiaux ou proches de personnes atteintes de tuberculose pulmonaire bactériologiquement confirmée et pour qui une évaluation clinique appropriée ou des lignes directrices nationales n'indiquent pas qu'ils sont atteints de tuberculose-maladie doivent recevoir le TPT même si le test de dépistage de la tuberculose-infection n'est pas disponible. Les enfants âgés de 5 ans et plus, les adolescents et les adultes qui sont des contacts familiaux ou proches de personnes atteintes de tuberculose pulmonaire bactériologiquement confirmée et pour qui une évaluation clinique appropriée ou des lignes directrices nationales n'indiquent pas qu'ils sont atteints de tuberculose-maladie peuvent également recevoir le TPT. Les contacts des patients tuberculeux vivant avec le VIH, quel que soit leur âge, chez qui la tuberculose a été exclue, doivent recevoir le TPT dans le cadre d'un ensemble complet de soins du VIH (20).
+
+2.4.2 Considérations relatives à la mise en œuvre
+
+Le dépistage des contacts doit toujours être effectué lorsqu'une personne atteinte de tuberculose présente l'une des caractéristiques suivantes : tuberculose pulmonaire bactériologiquement confirmée, tuberculose multirésistante ou ultrarésistante prouvée ou présumée, personne vivant avec le VIH ou enfant de moins de 5 ans. Parmi les contacts des patients atteints de tuberculose bactériologiquement confirmée, la prévalence globale pondérée de la tuberculose était de 3,4 % (IC à 95 % : 2,9-3,8). Parmi les contacts des patients atteints de tuberculose multirésistante ou ultrarésistante, la prévalence globale pondérée de la tuberculose était de 3,7 % (IC à 95 % : 2,4-5,3). La prévalence globale pondérée de la tuberculose chez 2. Recommandations pour le dépistage systématique de la tuberculose-maladie dans les populations ciblées les contacts séropositifs était de 11,6 % (IC à 95 % : 8,2-15,4), avec un NSD médian de 9 (IC à 95 % :
+
+5-13). La prévalence globale pondérée chez les contacts âgés de moins de 5 ans était de 3,9 % (IC à 95 % : 2,5-5,4), avec un NSD médian de 30 (IC à 95 % : 12-62), tandis que la prévalence chez les contacts âgés de 5 à 14 ans était de 2,4 % (IC à 95 % : 1,6-3,4), avec un NSD médian de 36 (IC à 95 % : 17-61).
+
+Une recherche des contacts peut également être effectuée pour les patients tuberculeux présentant toute autre forme de maladie.
+
+La définition d'un contact familial ou d'un contact proche peut varier considérablement d'un milieu à l'autre, et dans certains cas, il n'existe pas de distinction claire entre les deux ; par conséquent, les décisions concernant le dépistage des contacts familiaux et des contacts proches doivent être fondées sur les définitions et les politiques locales, en donnant la priorité aux contacts à dépister en fonction de l'évaluation de leur niveau d'exposition.
+
+2.4.3 Considérations relatives aux sous-groupes
+
+Les enfants et les adolescents revêtent une importance particulière dans le dépistage des contacts, étant donné la prévalence élevée observée dans les groupes d'âge les plus jeunes et l'importance d'un diagnostic et d'un traitement rapides en raison du risque de progression rapide de la maladie chez les enfants de moins de 5 ans (23), ainsi que l'importance de mettre en place un traitement préventif si la tuberculosemaladie a été exclue (voir la Sous-section 2.4.2).
+
+Les contacts vivant avec le VIH revêtent également une importance particulière dans le dépistage des contacts, étant donné la prévalence extrêmement élevée de la tuberculose-maladie dans ce sous-groupe.
+
+Les contacts vivant avec le VIH présentent également un risque accru de progression rapide vers la tuberculose-maladie et, s'ils la développent, ont un risque accru de mortalité. Les contacts de patients tuberculeux vivant avec le VIH ont une probabilité plus élevée d'être eux-mêmes séropositifs, même s'ils ne sont pas conscients de leur statut. Ainsi, dans les milieux où la prévalence du VIH est élevée ou lorsque le cas index est une personne vivant avec le VIH, ou les deux, tous les contacts familiaux ou proches doivent se voir proposer des conseils et des tests pour le VIH. Les personnes vivant avec le VIH qui sont des contacts familiaux ou proches d'une personne atteinte de tuberculose-maladie et pour qui une évaluation clinique appropriée montre qu'elles ne sont pas atteintes de tuberculose-maladie doivent faire l'objet d'une évaluation relative au TPT.
+
+2.5 Dépistage systématique de la tuberculosemaladie dans les prisons et autres établissements pénitentiaires
+
+5. Un dépistage systématique de la tuberculose-maladie doit être effectué dans les prisons et les établissements pénitentiaires (recommandation mise à jour : recommandation forte, très faible certitude quant aux données).
+
+2.5.1 Résumé des données probantes et du raisonnement
+
+Les personnes se trouvant dans les prisons et autres établissements pénitentiaires présentent un risque accru de tuberculose par rapport à la population générale. En outre, elles ont souvent un accès limité aux services de soins de santé. L'incidence estimée de la tuberculose chez les personnes résidant en prison est 23 fois plus élevée que dans la population générale (24). Les données examinées lors de la réunion du GDG suggèrent que le dépistage dans les prisons peut améliorer la détection précoce des cas, augmenter la détection globale des cas et réduire la prévalence de la tuberculose. Une étude d'observation a montré que la proportion de patients tuberculeux se trouvant en prison et dont la maladie a été détectée par le dépistage étaient à un stade avancé de la maladie était plus faible que celle des patients diagnostiqués par les services de détection passive des cas (25). Deux études d'observation ont montré que le dépistage de la tuberculose dans les prisons pouvait réduire la prévalence de la tuberculose dans ces établissements (26, 27). Un essai a montré que le dépistage dans les prisons pouvait augmenter de plus de 50 % la détection des cas (28).
+
+Sur la base de ces nouvelles données probantes et du risque élevé de tuberculose dans cette population, le GDG a estimé que ce groupe à risque méritait désormais une recommandation forte pour le dépistage de la tuberculose (voir l'Annexe Web B, Tableau 4, et l'Annexe Web C, Tableau 3). Le GDG a estimé que la mise en œuvre du dépistage de la tuberculose dans les prisons pourrait accroître l'équité dans l'accès aux soins de santé, en particulier dans les milieux où les services de santé dans les prisons sont sous-optimaux.
+
+2.5.2 Considérations relatives à la mise en œuvre
+
+Un prisonnier désigne une personne détenue dans un établissement de justice pénale ou un établissement correctionnel pendant l'enquête sur un crime, une personne en attente de jugement ou une personne condamnée. De plus, comme les personnes résidant dans un établissement correctionnel sont presque toujours en contact proche avec plusieurs autres détenus, il convient d'examiner les détenus qui ont été en contact proche avec toute personne résidant en prison qui reçoit un diagnostic de tuberculose (voir la Recommandation 4). Les personnes qui travaillent dans les prisons et autres établissements pénitentiaires présentent également un risque élevé d'exposition à la tuberculose et doivent aussi être éligibles au dépistage.
+
+Au minimum, le dépistage dans les prisons et autres établissements pénitentiaires doit toujours inclure un dépistage lors de l'entrée d'une personne dans un établissement de détention, un dépistage annuel, et un dépistage lors de la libération afin de prévenir la réintroduction de la tuberculose dans la communauté élargie. Le traitement et le suivi après la libération doivent également être assurés.
+
+Le dépistage dans les prisons doit être associé à des efforts visant à améliorer les conditions de vie et à mettre en place des mesures de lutte anti-infectieuse. Dans la mesure du possible, le dépistage de la tuberculose dans les prisons et autres établissements pénitentiaires doit être associé au dépistage d'autres maladies, dont le VIH, et à des activités de promotion de la santé destinées aux personnes vivant dans ces établissements. Au moment de commencer le dépistage, il est important de s'assurer que l'on dispose d'un traitement de haute qualité, d'une gestion efficace des cas et de mécanismes efficaces pour poursuivre le traitement après le transfert ou la libération. Pour les recommandations sur la prévention de la tuberculose dans les prisons et autres établissements pénitentiaires et les aspects opérationnels associés aux soins antituberculeux, voir le document de l'OMS intitulé Guidelines for the control of tuberculosis in prisons (29).
+
+Cependant, même si les pratiques de gestion de la tuberculose sont sous-optimales, un dépistage peut être entrepris pour évaluer la charge de la tuberculose non détectée chez les détenus afin de justifier le renforcement des services généraux de diagnostic et de traitement de la tuberculose, ainsi que la mise en œuvre de mesures visant à améliorer la lutte anti-infectieuse et les conditions de vie. En plus du dépistage systématique, tout détenu qui présente des symptômes évocateurs de la tuberculose devrait avoir un accès facile à des tests de diagnostic. Les personnes identifiées par le dépistage et présumées atteintes de tuberculose-maladie chez qui une tuberculose active n'a pas été diagnostiquée doivent être informées de l'importance de consulter un médecin si les symptômes de la tuberculose persistent, apparaissent, réapparaissent ou s'aggravent.
+
+2.6 Dépistage systématique de la tuberculosemaladie chez les travailleurs des mines et autres personnes exposées à la poussière de silice
+
+6. Les personnes travaillant ou ayant travaillé dans des lieux comportant une exposition à la silice doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie (recommandation existante : recommandation forte, faible certitude quant aux données).
+
+2.6.1 Résumé des données probantes et du raisonnement
+
+L'exposition à la poussière de silice et la silicose font partie des facteurs de risque les plus importants pour la tuberculose, avec un risque relatif compris entre 2,8 et 39 pour la silicose, selon la gravité de la maladie (30). La silicose est fréquente chez les travailleurs des mines (31, 32), ce qui explique en grande partie l'incidence élevée de la tuberculose dans cette population, à laquelle s'ajoute souvent une forte prévalence du VIH. Les patients tuberculeux atteints de silicose présentent un risque accru de décès (RR : 3,0 ; IC à 95 % : 1,4-6,3) (33). Par conséquent, malgré la faiblesse de la qualité des données probantes directes concernant le bénéfice du dépistage de la tuberculose chez les employés travaillant sur les lieux de travail comportant une exposition à la silice, le GDG a accordé une grande importance à la garantie d'un diagnostic précoce de la tuberculose dans ce groupe à risque, qui a une forte probabilité d'avoir une tuberculose non détectée ainsi que d'autres maladies pulmonaires qui peuvent être détectées par le dépistage. Cette recommandation n'a pas été modifiée par rapport aux lignes directrices de 2013 en l'absence de nouvelles données probantes permettant d'éclairer le sujet depuis la dernière réunion sur les lignes directrices.
+
+2.6.2 Considérations relatives à la mise en œuvre
+
+Les données probantes sur l'efficacité des différents intervalles de dépistage sont limitées. Le GDG suggère que l'intervalle de dépistage ne soit pas supérieur à 12 mois, si cela est possible, et qu'un intervalle inférieur à 12 mois pourrait être plus bénéfique. Dans la mesure du possible, le dépistage de la tuberculose doit être combiné au dépistage d'autres maladies et à des activités de promotion de la santé, ainsi qu'à des efforts visant à améliorer les conditions de travail (notamment en réduisant l'exposition à la silice) et les conditions de vie. Pendant l'emploi, le dépistage doit être considéré comme relevant de la responsabilité de l'employeur, et les pays peuvent disposer d'une législation sur la santé et la sécurité au travail qui couvre ce point.
+
+2.7 Dépistage systématique de la tuberculosemaladie chez les personnes fréquentant les services de santé qui présentent des facteurs de risque cliniques de tuberculose
+
+7. Dans les milieux où la prévalence de la tuberculose dans la population générale est supérieure ou égale à 100/100 000, un dépistage systématique de la tuberculose peut être effectué chez les personnes présentant un facteur de risque de tuberculose qui viennent pour des soins de santé ou sont déjà prises en charge (recommandation existante : recommandation conditionnelle, très faible certitude quant aux données).
+
+8. Les personnes dont la radiographie thoracique présente une lésion fibreuse non traitée peuvent faire l'objet d'un dépistage systématique de la tuberculose (recommandation existante : recommandation conditionnelle, très faible certitude quant aux données).
+
+2.7.1 Résumé des données probantes et du raisonnement
+
+Plusieurs caractéristiques cliniques, affections et comorbidités peuvent indiquer un risque accru de développer une tuberculose-maladie ou de subir une aggravation de l'issue de la maladie, voire les deux. Les personnes qui présentent des lésions fibreuses non traitées à la radiographie thoracique et qui ne sont pas diagnostiquées comme ayant une tuberculose-maladie ont un risque accru de développer une tuberculose-maladie (34 à 37). Ces personnes sont souvent identifiées lors d'un dépistage ou d'une évaluation clinique de la tuberculose ou lors d'une évaluation clinique effectuée pour d'autres raisons. Les personnes présentant d'autres facteurs de risque de tuberculose ou des facteurs de risque de mauvais résultats liés à la tuberculose peuvent souvent être identifiées plus facilement dans les centres de santé (38 à 66). Le Tableau 2 résume les données probantes concernant les principaux facteurs de risque de la tuberculose et des mauvais résultats sanitaires liés à la tuberculose. Les groupes présentant d'autres facteurs de risque – comme les personnes atteintes de tumeurs malignes ou d'autres troubles qui compromettent leur système immunitaire et les patients recevant des traitements immunomodulateurs – peuvent également être prioritaires, en fonction de l'épidémiologie locale et de la capacité du système de santé.
+
+Cette recommandation n'a pas été modifiée par rapport aux lignes directrices de 2013 car depuis la dernière réunion du GDG, aucune nouvelle preuve solide n'a été trouvée sur l'impact du dépistage systématique de la tuberculose-maladie par rapport à la détection passive des cas en matière de dépistage des personnes présentant des facteurs de risque.
+
+Tableau 2. Facteurs de risque de tuberculose à prendre en compte pour prioriser le dépistage de la tuberculose chez les personnes fréquentant les services de santé Facteur de risque
+
+Risque de tuberculose ou de mauvais résultats
+
+Lésions fibreuses à la radiographie thoracique
+
+Des études ont montré un risque accru de développer une tuberculosemaladie chez les personnes présentant des lésions fibreuses à la radiographie thoracique chez qui la tuberculose-maladie n'a pas été diagnostiquée.a
+
+Diabète sucré (DS)
+
+Des études systématiques ont montré que le risque de tuberculose chez les patients atteints de diabète sucré (DS) va de 1,5 à 2,0 et à 3,1, avec une diminution du risque chez les patients dont le DS est bien contrôlé. Les patients atteints de DS présentaient également un risque accru de rechute, d'échec du traitement et de décès.b
+
+Antécédents de tuberculose
+
+Les patients ayant des antécédents de tuberculose présentent un risque accru d'épisodes ultérieurs de tuberculose, de mauvais résultats et de développement d'une tuberculose résistante aux médicaments.c
+
+Maladie pulmonaire chronique
+
+Chez les personnes atteintes de BPCO, des études ont montré des rapports de risque (RR) de développer la tuberculose allant de 2,5 en Chine à 3,0 en Suède.d
+
+Tabagisme
+
+Des études systématiques ont montré que les personnes qui fument ou qui ont des antécédents de tabagisme présentent un risque accru de tuberculose, le RR allant de 1,5 à 2,0 et à 3,3. De plus, les fumeurs courent un risque accru de tuberculose résistante aux médicaments et de mauvais résultats liés à la tuberculose, notamment la rechute et le décès.e
+
+Trouble de la consommation d'alcool
+
+Des études systématiques ont montré un RR de 1,35 à 1,9 associé à la consommation d'alcool et un RR de 3 à 3,33 associé au trouble de la consommation d'alcool, ainsi que des risques accrus d'échec du traitement et de développement d'une tuberculose résistante aux médicaments. Une analyse exposition-réponse a montré que chaque tranche de 10 à 20 g de consommation quotidienne d'alcool induisait une augmentation de 12 % du risque de tuberculose.f
+
+Troubles liés à la consommation de substances psychoactives
+
+Les personnes souffrant de troubles liés à la consommation de substances psychoactives courent un risque accru d'échec thérapeutique, de développement d'une résistance aux médicaments et de mortalité due à la tuberculose, en raison d'une faible adhérence au traitement et de facteurs de risque cliniques, socio-économiques et structurels concomitants.g
+
+Facteur de risque
+
+Risque de tuberculose ou de mauvais résultats
+
+Malnutrition
+
+Une étude systématique a montré qu'un IMC plus faible est associé à un risque accru de tuberculose, avec une réduction de l'incidence de la tuberculose de 13,8 % (IC à 95 % : 13,4-14,2) par unité d'augmentation de l'IMC dans la plage allant de 18,5 à 30 kg/m2. Il existe de multiples voies par lesquelles la sous-alimentation peut augmenter le risque de tuberculose, notamment l'immunité à médiation cellulaire et la carence en micronutriments. D'autres affections peuvent également augmenter le risque de sous-alimentation et de tuberculose, notamment les troubles de la santé mentale et les troubles liés à la consommation de substances psychoactives.h
+
+Grossesse
+
+Une étude basée sur le registre national des femmes enceintes a montré des RTI pour la tuberculose de 1,4 et de 1,9 pour les femmes post-partum par rapport aux femmes non enceintes. La tuberculose pendant la grossesse est associée à des conséquences indésirables et à des complications pendant l'accouchement. Ces conséquences comprennent un risque environ
+
+2 fois plus élevé de naissance prématurée, de faible poids à la naissance et de retard de croissance intra-utérine, et un risque 6 fois plus élevé de décès périnatal.i
+
+Situations d'immunodépression (transplantation d'organe, insuffisance rénale, dialyse)
+
+Des études systématiques ont montré que les patients immunodéprimés pour des raisons autres que le VIH, y compris ceux qui subissent une transplantation d'organe ou une hémodialyse et ceux qui souffrent d'insuffisance rénale, présentent un risque considérablement accru de tuberculose : une étude a montré que l'incidence de la tuberculose était
+
+20 à 74 fois plus élevée chez les patients ayant subi une transplantation d'organe que dans la population générale ; une autre étude a montré que l'incidence de la tuberculose était 10 à 25 fois plus élevée chez les personnes dialysées que dans la population générale ; et une étude de cohorte a montré que l'incidence de la tuberculose était 100 fois plus élevée chez les personnes hémodialysées que dans la population générale. j
+
+Agents de santé
+
+Une étude systématique a révélé que le RTI de la tuberculose-maladie pour les agents de santé était de 2,94 par rapport à la population générale.k
+
+IMC : indice de masse corporelle ; BPCO : bronchopneumopathie chronique obstructive ; DS : diabète sucré ; RTI : rapport des taux d'incidence ; RR : risque relatif.
+
+a
+
+b
+
+d
+
+Wang MG, Huang WW, Wang Y, Zhang YX, Zhang MM, Wu SQ, et al. Association between tobacco smoking and drug-resistant tuberculosis.
+
+e
+
+f
+
+h
+
+j
+
+k
+
+2.7.2 Considérations relatives à la mise en œuvre
+
+Cette recommandation concerne les interventions qui doivent être entreprises en plus des pratiques de détection passive des cas (à savoir le triage et l'évaluation corrects des personnes venant se faire soigner qui signalent des signes ou des symptômes de tuberculose), qui doivent être réalisées dans tous les milieux et qu'il est particulièrement important de mettre en œuvre de manière rigoureuse chez les personnes qui présentent des facteurs de risque de tuberculose.
+
+Les groupes doivent être classés par ordre de priorité en fonction de leur risque de tuberculose, du risque de mauvais résultats thérapeutiques si le diagnostic est retardé et de la taille du groupe à risque dans un milieu donné. Les personnes vivant avec le VIH, les personnes ayant eu un contact proche récent avec une personne atteinte de tuberculose et les personnes atteintes de silicose doivent toujours faire l'objet d'un dépistage de la tuberculose comme décrit ci-dessus (Recommandations 3, 4 et 6). D'autres facteurs de risque indiquant qu'une personne doit être prise en considération pour le dépistage sont énumérés dans le Tableau 2.
+
+Pour plusieurs des facteurs de risque cliniques indiqués ci-dessus, le TPT peut être bénéfique pour le patient, sous réserve de l'exposition et de l'éligibilité de ce dernier (20).
+
+Les agents de santé constituent un groupe spécifique qui mérite d'être pris en considération pour le dépistage dans les centres de santé, étant donné le niveau potentiellement élevé d'exposition professionnelle et le risque de transmission ultérieure aux patients.
+
+3. Recommandations relatives aux outils pour le dépistage systématique de la tuberculosemaladie
+
+Les outils de dépistage de la tuberculose sont conçus pour distinguer les personnes ayant une forte probabilité d'être atteintes de tuberculose-maladie de celles ayant une faible probabilité et pouvant être considérées comme exemptes de tuberculose-maladie. Ils n'ont pas vocation à fournir un diagnostic définitif. D'une manière générale, ils doivent pouvoir être mis en œuvre facilement et transmettre les résultats rapidement afin de fournir des informations utiles dans un contexte de dépistage. Les tests de dépistage doivent être suivis d'un test de diagnostic, proposé dans le cadre d'une évaluation clinique complète, afin de confirmer ou d'exclure la tuberculose-maladie chez les personnes dont le test de dépistage est positif.
+
+La stratégie de dépistage la plus souhaitable serait celle qui présente un rendement total élevé de cas de tuberculose réellement positifs, peu de faux positifs, un faible NSD, un faible coût, un algorithme rapide et simple et une grande acceptabilité par le client. Dans la pratique, comme nombre de ces facteurs ont tendance à aller dans des directions opposées, il est nécessaire d'utiliser une analyse multifactorielle pour choisir les outils de dépistage et les algorithmes à utiliser.
+
+En 2014, l'OMS a publié un rapport résumant les caractéristiques souhaitables, ou les profils de produits cibles, des tests de dépistage de la tuberculose-maladie (67). Le rapport souligne que les exigences minimales pour un test de dépistage cible seraient une sensibilité globale de 90 % et une spécificité de 70 % pour détecter ou exclure la tuberculose pulmonaire chez les personnes soumises au dépistage. Sur la base de ces points de référence, le GDG a examiné un ensemble d'outils potentiels pour le dépistage de la tuberculose-maladie dans différentes populations.
+
+9. Chez les sujets âgés de 15 ans et plus dans les populations où un dépistage de la tuberculose est recommandé, le dépistage systématique de la tuberculose-maladie peut être effectué au moyen d'un dépistage des symptômes, d'une radiographie thoracique ou d'un test moléculaire rapide recommandé par l'OMS (mWRD), ou de toute combinaison de ces approches (nouvelle recommandation : recommandation conditionnelle, très faible certitude quant aux données de précision du test).
+
+3.1.1 Résumé des données probantes et du raisonnement
+
+Les données utilisées pour étayer cette recommandation proviennent d'une étude systématique de la précision diagnostique de l'utilisation des symptômes et de la radiographie thoracique pour détecter la tuberculose-maladie chez les personnes âgées de 15 ans et plus dont le statut VIH est négatif ou inconnu.
+
+L'étude a porté sur des études de dépistage menées dans la population générale (y compris plusieurs enquêtes de prévalence réalisées dans des pays d'Afrique et d'Asie) et sur un dépistage mené dans des groupes à haut risque (y compris les contacts de patients tuberculeux et les prisonniers). Les données d'une étude distincte sur la précision diagnostique des mWRD utilisés comme outil de dépistage chez les personnes âgées de 15 ans et plus appartenant à des groupes à haut risque (y compris les contacts de patients, les prisonniers et les travailleurs des mines, dont le statut VIH était négatif ou inconnu) ont également été utilisées pour guider cette recommandation. Toutes les données ont été regroupées pour estimer la sensibilité et la spécificité de chaque outil de dépistage, car les données probantes étaient insuffisantes pour estimer la précision des outils de dépistage dans chaque groupe à haut risque (les performances des outils chez les personnes vivant avec le VIH sont présentées plus loin, dans les Recommandations 11 à 15). L'étalon de référence utilisé tout au long du processus était la tuberculose pulmonaire bactériologiquement confirmée. Le Tableau 3 résume la précision diagnostique des outils de dépistage envisagés (pour plus de détails, voir l'Annexe Web B, Tableaux 5 à 10).
+
+Tableau 3. Précision diagnostique des symptômes, de la radiographie thoracique et des tests moléculaires rapides recommandés par l'OMS pour le dépistage de la tuberculose-maladie
+
+Sensibilité
+
+Nombre d'études (nombre de participants)
+
+Spécificité
+
+NA
+
+NA
+
+Toux prolongée (≥ 2 semaines)
+
+Toute toux
+
+Tout symptôme tuberculeux (toux, hémoptysie, fièvre, sueurs nocturnes, perte de poids)
+
+Radiographie thoracique (toute anomalie)
+
+Radiographie thoracique (anomalie évocatrice)
+
+Test de diagnostic rapide recommandé par l'OMS
+
+Test de dépistage
+
+Profil de produit cible de l'OMS
+
+Nombre d'études (nombre de participants)
+
+NA : non applicable.
+
+3.1.2 Considérations relatives à la mise en œuvre pour tous les outils
+
+Le GDG a considéré que les trois approches – dépistage des symptômes, radiographie thoracique et mWRD – pouvaient jouer un rôle dans le dépistage de la tuberculose dans la population générale. Pour les outils, le GDG a proposé le classement suivant en fonction de leur précision : premièrement, la radiographie thoracique ; deuxièmement, les mWRD ; troisièmement, le dépistage de tout symptôme de tuberculose (sensibilité plus élevée et spécificité plus faible) ; et quatrièmement, le dépistage de toute toux ou d'une toux durant plus de 2 semaines (sensibilité plus faible et spécificité plus élevée). Cependant, la facilité de mise en œuvre du dépistage des symptômes est de loin la plus élevée ; elle est nettement moindre pour la radiographie thoracique et les mWRD, qui nécessitent des équipements et des ressources supplémentaires.
+
+Le GDG a noté que des facteurs liés à la sélection des patients, au parcours et au moment du dépistage peuvent affecter les mesures de précision observées dans la radiographie thoracique utilisée pour détecter la tuberculose. Les inférences qu'il est possible de tirer sur l'utilisation des mWRD pour le dépistage dans la population générale se rapportent principalement à des études regroupées dans des populations à haut risque. Par conséquent, il n'est pas certain que les résultats soient directement applicables à une population générale ayant une charge de tuberculose comparable. Pour plus de détails sur la recommandation, voir l'Annexe Web C, Tableau 1.
+
+Le GDG a noté que les différentes approches de dépistage des symptômes présentent des compromis variables en termes de sensibilité et de spécificité. La faisabilité de la mise en œuvre du dépistage des symptômes en fait une option beaucoup plus accessible du point de vue programmatique. Le dépistage des symptômes fait partie intégrante du bilan clinique et peut être répété aussi souvent que nécessaire.
+
+En revanche, des ressources supplémentaires sont nécessaires pour réaliser des radiographies thoraciques et des mWRD. La radiographie implique une exposition à certains rayonnements ionisants, qui peuvent augmenter les risques à long terme de cancer. Ces dernières années, les innovations en matière de radiographie ont permis de réduire considérablement les niveaux d'exposition aux rayonnements. La radiographie thoracique est largement considérée comme sûre pour une dose de rayonnement de 0,1 mSv, qui correspond à 1/30 de la dose de rayonnement annuelle moyenne de l'environnement (3 mSv) et à 1/10 de la dose annuelle de rayonnement ionisant acceptée pour le grand public (1 mSv). Les femmes enceintes sont particulièrement vulnérables aux rayonnements ionisants provenant de la radiographie, et les enfants, qui ont une espérance de vie plus longue, ont plus de temps pour développer des effets sur la santé induits par les rayonnements. Cependant, pour une femme enceinte et son fœtus et pour les enfants, il a été estimé que lorsque les bonnes pratiques sont respectées, la radiographie thoracique ne présente pas de risque significatif, car le faisceau principal est éloigné du pelvis (68).
+
+La précision des mWRD diffère selon qu'ils sont utilisés pour le dépistage ou le diagnostic (69), et différentes valeurs prédictives sont associées à un test positif et à un test négatif en raison des différences de prévalence de la tuberculose dans les populations testées. De ce fait, les résultats doivent être interprétés de manière appropriée, et les personnes dont le dépistage de la tuberculose à l'aide d'un mWRD est positif doivent faire l'objet d'une évaluation clinique approfondie, qui peut inclure d'autres tests et procédures – comme une radiographie thoracique, un nouveau mWRD sur des expectorations supplémentaires, ou d'autres examens – pour établir un diagnostic définitif de la tuberculose avant de mettre en place un traitement. Ces tests ne peuvent être utilisés sur les expectorations que lorsque la personne peut expectorer.
+
+L'extension de l'utilisation des mWRD doit être envisagé en priorité pour le diagnostic (si l'accès total n'est pas encore atteint), avant une éventuelle extension au dépistage. L'utilisation d'un mWRD comme outil de dépistage nécessite des ressources importantes, notamment des capacités accrues de diagnostic et de transport des échantillons et l'expansion des réseaux correspondants. En fonction de la faisabilité et des ressources disponibles, les pays peuvent choisir de donner la priorité au dépistage de la tuberculose à l'aide des mWRD dans certaines sous-populations présentant un risque plus élevé de tuberculose.
+
+Les pays doivent positionner le dépistage des symptômes, la radiographie thoracique et les mWRD dans les algorithmes nationaux de dépistage et de diagnostic de la tuberculose, en fonction des buts et objectifs du dépistage, des populations dépistées, de la faisabilité, des ressources disponibles et de l'équité. Le manuel opérationnel présente un éventail d'algorithmes de filtrage possibles, avec les performances modélisées du rendement attendu.
+
+10. Chez les sujets âgés de 15 ans et plus dans les populations où un dépistage de la tuberculose est recommandé, des logiciels de détection assistée par ordinateur peuvent remplacer les lecteurs humains pour l'interprétation des radiographies thoraciques numériques dans le dépistage et le triage de la tuberculose-maladie (nouvelle recommandation : recommandation conditionnelle, faible certitude quant aux données).
+
+3.2.1 Résumé des données probantes et du raisonnement
+
+L'utilisation de la radiographie thoracique pour le dépistage de la tuberculose est une pratique qui remonte à plusieurs décennies. Les radiographies thoraciques sont également utilisées de manière systématique pour le triage des patients qui viennent se faire soigner et présentent des signes, des symptômes ou des facteurs de risque de tuberculose, afin de déterminer le parcours clinique le plus approprié pour une évaluation adéquate. Cependant, dans de nombreux milieux, l'utilisation de la radiographie thoracique pour le dépistage de la tuberculose et le triage des cas de tuberculose-maladie est limitée par le manque d'agents de santé formés à l'interprétation des radiographies et par une importante variabilité intra- et inter-lecteurs dans la précision de la détection des anomalies associées à la tuberculose (70 à 72).
+
+De nombreux progiciels spécifiques permettant une DAO, c'est-à-dire l'interprétation automatisée de radiographies thoraciques numériques dans le seul but de déterminer la probabilité d'une tuberculosemaladie, ont été développés et offrent une réponse technologique potentielle aux nombreux défis de mise en œuvre inhérents à l'interprétation humaine des radiographies thoraciques.
+
+Le GDG a examiné les performances des logiciels de DAO séparément pour les cas d'utilisation du dépistage et du triage. Dans les présentes lignes directrices, le tirage désigne le processus de choix du diagnostic et du parcours de soins des personnes en fonction de leurs signes et symptômes, de leurs marqueurs de risque et des résultats de leurs tests. Le triage comporte une évaluation de la probabilité de plusieurs diagnostics différentiels pour soutenir la prise de décisions cliniques (73). Il peut suivre des protocoles et des algorithmes plus ou moins normalisés et être réalisé en plusieurs étapes (68). Un test de triage de la tuberculose est un test pouvant être réalisé rapidement chez les personnes qui se rendent dans un centre de santé pour distinguer celles qui doivent faire l'objet d'un diagnostic ultérieur de la tuberculose (test de triage positif ou anormal) de celles qui doivent faire l'objet de diagnostics ultérieurs non liés à la tuberculose (test de triage négatif ou normal) (74). Bien que le triage et le dépistage puissent se chevaucher, il existe plusieurs raisons de distinguer le dépistage du triage lors de l'évaluation des performances d'un logiciel de DAO :
+
+- La présentation de la maladie peut être différente dans les populations dépistées où la probabilité de détecter à la radiographie thoracique une tuberculose précoce est plus élevée que dans les populations de triage. Par conséquent, le même point de sensibilité et de spécificité peut ne pas être atteint, ou il peut être atteint mais avec un score seuil différent.
+
+- La prévalence de la tuberculose sera généralement beaucoup plus faible dans les populations de dépistage (< 5 %) que dans les populations de triage (10 à 20 %). Cela aura un impact sur les valeurs prédictives d'un test et sur le nombre de personnes correctement et incorrectement diagnostiquées.
+
+- Les conséquences éthiques du fait de ne pas détecter la tuberculose ou d'obtenir d'autres résultats de radiographie thoracique non liés à la tuberculose (anomalies cliniquement pertinentes) qui nécessitent un examen de suivi diffèrent entre les populations qui ne cherchent pas à se faire soigner et celles qui le souhaitent (11).
+
+Une étude réalisée par l'OMS sur l'utilisation de la DAO pour l'interprétation automatisée des radiographies thoraciques numériques pour la tuberculose a déterminé que pour évaluer correctement la précision diagnostique, il était nécessaire d'évaluer le logiciel de DAO en utilisant un ensemble standard de fichiers de radiographies thoraciques – avec les données démographiques et cliniques associées (y compris le diagnostic de la tuberculose) – provenant d'une population représentative pour le cas d'utilisation correspondant. Il a été jugé essentiel que ces évaluations s'assurent que les bibliothèques de radiographies thoraciques utilisées pour une évaluation ne soient pas mises à disposition pour le développement, la formation ou l'évaluation des logiciels de DAO (68). Pour cette réunion du GDG, un examen de la portée des évaluations indépendantes qui satisfont à ces critères a été effectué. Trois évaluations indépendantes pour le cas d'utilisation du dépistage et trois pour le cas d'utilisation du triage qui ont évalué les performances de trois logiciels de DAO distincts ont été identifiées et présentées au GDG. Elles comprenaient toutes des produits qui avaient reçu un marquage CE (pour « Conformité Européenne », qui indique la conformité d'un produit aux directives ou aux normes de l'Espace économique européen) avant janvier 2020.2 Le GDG n'a pas été informé des noms de marque des logiciels. La qualité des évaluations a fait l'objet d'une étude distincte dont les résultats ont été présentés au GDG.
+
+Pour chaque lecture d'image, les logiciels de DAO produisent un score d'anomalie numérique qui peut ensuite être comparé à un seuil défini par l'utilisateur pour indiquer si le patient doit être aiguillé vers une évaluation diagnostique supplémentaire de la tuberculose. Puisque les scores d'anomalie produits sont continus, la sensibilité et la spécificité peuvent varier de 0 à 100 %, en fonction du seuil fixé. Aux fins de l'évaluation par le GDG, chaque logiciel a été réglé sur un seuil correspondant à une sensibilité de 90 % pour la détection de la tuberculose-maladie pulmonaire sur la base d'un étalon de référence microbiologique. La spécificité d'accompagnement résultante du logiciel à ce seuil a ensuite été comparée à la précision diagnostique des lecteurs humains interprétant les radiographies thoraciques dans les mêmes études.
+
+En raison de problèmes méthodologiques spécifiques, il n'a pas été possible de regrouper les estimations de la précision diagnostique de la DAO entre les logiciels ou entre les évaluations. C'est pourquoi les performances des logiciels de DAO et des lecteurs humains tirées des évaluations incluses ont été présentées sous forme de plages (voir Tableau 4). Les trois évaluations incluses ont étudié les performances de chaque logiciel dans différentes populations et différents milieux (voir l'Annexe Web B, Tableaux 11 et 12, et l'Annexe Web C, Tableaux 4 et 5).
+
+Tableau 4. Plages de sensibilité et de spécificité des logiciels de détection assistée par ordinateur et des lecteurs humains interprétant des radiographies thoraciques numériques pour la détection de la tuberculose bactériologiquement confirmée pour trois logiciels, d'après trois évaluations indépendantes des logiciels dans un éventail de populations et de milieux
+
+Plage de précision estimée
+
+Type de cas et type de lecteur
+
+Sensibilité
+
+Spécificité
+
+Profil de produit cible de l'OMS
+
+Logiciel de DAO
+
+Radiographie thoracique avec lecteur humain
+
+Logiciel de DAO
+
+Radiographie thoracique avec lecteur humain
+
+Cas d'utilisation du dépistage
+
+Cas d'utilisation du triage
+
+DAO : détection assistée par ordinateur.
+
+Les trois technologies qui disposaient d'un marquage CE en janvier 2020 et ont été incluses dans toutes les évaluations sont CAD4TB v6 (de Delft Imaging), Lunit Insight CXR (de Lunit Insight) et qXR v2 (de Qure.ai).
+
+Les résultats ont montré la variabilité des lecteurs humains et des logiciels de DAO dans des populations et des milieux différents. Les données issues de la comparaison entre la plage de précision de la DAO et celle des lecteurs humains interprétant les radiographies thoraciques – en notant la variabilité des lecteurs et le chevauchement substantiel entre les deux plages – suggèrent l'absence d'une différence marquée entre les deux approches. Par conséquent, le GDG a considéré que les logiciels de DAO peuvent être considérés comme précis par rapport aux lecteurs humains.
+
+Outre la précision des technologies, d'autres effets souhaitables pourraient inclure la possibilité d'étendre cette approche, et donc d'accroître l'accès à la radiographie thoracique, étant donné le manque de radiologues dans de nombreux milieux. En outre, les membres du GDG ont noté que dans de nombreux milieux, les radiographies thoraciques sont souvent interprétées par des médecins généralistes ou des prestataires dépourvus de formation spécifique en radiologie, qui peuvent ne pas être aussi qualifiés que les lecteurs utilisés pour la comparaison dans les évaluations considérées. Ainsi, les comparaisons présentées ici peuvent sous-estimer la véritable précision comparative des logiciels de DAO pour la détection de la tuberculose.
+
+L'inconvénient de l'interprétation des radiographies thoraciques par la DAO plutôt que par des lecteurs humains est que la DAO ne peut pas détecter d'autres pathologies pulmonaires en plus de la tuberculose.
+
+La capacité des technologies de DAO à dépister simultanément plusieurs pathologies pulmonaires ou thoraciques pourrait rendre les logiciels encore plus intéressants, mais le GDG n'a pas pu l'évaluer faute de données sur les performances de la DAO pour le diagnostic différentiel.
+
+Les technologies de DAO peuvent accroître l'équité dans la portée des interventions de dépistage de la tuberculose et dans l'accès aux soins antituberculeux si elles facilitent l'extension de la radiographie pour le dépistage et le triage de la tuberculose et améliorent l'interprétation des images.
+
+La recommandation s'applique aux marques de logiciels pour lesquelles une validation externe montre des performances non inférieures à celle des produits examinés par le GDG en 2020. Pour cette recommandation, l'analyse a été limitée à la tuberculose bactériologiquement confirmée. Par conséquent, la recommandation ne s'applique pas nécessairement aux autres formes de tuberculose (p. ex. la tuberculose exclusivement extrapulmonaire ou la tuberculose diagnostiquée cliniquement). Cette recommandation est spécifique aux adolescents âgés de 15 ans et plus et aux adultes. La recommandation ne s'applique qu'à l'interprétation des vues antéro-postérieures ou postéro-antérieures des radiographies thoraciques numériques simples pour la détection de la tuberculose pulmonaire. Elle ne s'applique pas à l'interprétation des vues latérales ou obliques, et son applicabilité à l'interprétation des radiographies thoraciques analogiques est inconnue.
+
+3.2.2 Considérations relatives à la mise en œuvre
+
+Les évaluations examinées par le GDG ont démontré une variation substantielle de la précision diagnostique (sensibilité et spécificité) des logiciels de DAO selon les milieux, même lorsque l'on utilise la même technologie réglée sur le même seuil. Pour un logiciel donné, il sera donc essentiel de fixer le seuil à utiliser en fonction de la population et du milieu où il sera utilisé afin de s'assurer que la précision, les valeurs prédictives, le rendement global et les besoins de tests de diagnostic supplémentaires sont conformes aux attentes. Des conseils supplémentaires sur l'étalonnage de la DAO dans un nouveau milieu sont fournis dans le manuel opérationnel accompagnant les présentes lignes directrices, qui renvoie à un protocole de collecte des données requises et à un outil en ligne pour faciliter l'analyse des données et le calcul des courbes caractéristiques de fonctionnement du récepteur et des valeurs de sensibilité et de spécificité pour un éventail de seuils (7).
+
+La faisabilité de la mise en œuvre de la DAO dépend fortement du milieu, notamment de la garantie d'un accès aux équipements nécessaires pour réaliser des radiographies numériques, d'une connexion Internet stable et de la maintenance requise pour le matériel et les logiciels. Les ressources nécessaires et le rapport coût/efficacité dépendront du milieu, et plus particulièrement de la disponibilité et des salaires des lecteurs humains.
+
+11. Chez les adultes et les adolescents vivant avec le VIH, un dépistage systématique de la tuberculose-maladie doit être réalisé au moyen du dépistage à quatre symptômes recommandé par l'OMS : les personnes qui mentionnent l'un quelconque des symptômes (toux, fièvre, perte de poids ou sueurs nocturnes) peuvent être atteintes de tuberculose et doivent être évaluées pour la tuberculose et les autres affections (recommandation existante : recommandation forte, certitude moyenne quant aux données).
+
+12. Chez les adultes et les adolescents vivant avec le VIH, la protéine C-réactive avec un seuil > 5 mg/l peut être utilisée pour dépister la tuberculose-maladie (nouvelle recommandation : recommandation conditionnelle, faible certitude quant aux données de précision du test).
+
+13. Chez les adultes et les adolescents vivant avec le VIH, la radiographie thoracique peut être utilisée pour dépister la tuberculose-maladie (nouvelle recommandation : recommandation conditionnelle, certitude moyenne quant aux données de précision du test).
+
+14. Chez les adultes et les adolescents vivant avec le VIH, les tests moléculaires rapides recommandés par l'OMS peuvent être utilisés pour le dépistage de la tuberculose-maladie (nouvelle recommandation : recommandation conditionnelle, certitude moyenne quant aux données de précision du test).
+
+15. Les adultes et les adolescents vivant avec le VIH qui sont hospitalisés dans des services de médecine où la prévalence de la tuberculose est supérieure à 10 % doivent être systématiquement testés pour la tuberculose-maladie à l'aide d'un test moléculaire de rapide recommandé par l'OMS (nouvelle recommandation : recommandation forte, certitude moyenne quant aux données de précision du test).
+
+3.3.1 Résumé des données probantes et du raisonnement
+
+À travers le monde, malgré l'impressionnante intensification du traitement antirétroviral (TAR), la tuberculose reste la principale cause de morbidité et de mortalité liées au sida. En 2019, la tuberculose était associée à environ 208 000 (30 %) des décès liés au sida (1). Les estimations mondiales montrent un écart de 44 % dans la détection des cas chez les personnes atteintes de tuberculose associée au VIH (1). Un examen systématique des études post-mortem portant sur les décès d'adultes liés au sida au niveau mondial a montré que la tuberculose était la principale cause de décès dans 37,2 % des cas (IC à 95 % : 25,7-48,7). La tuberculose n'avait pas été diagnostiquée avant le décès dans 45,8 % des cas (IC à 95 % : 32,6–59,1) (75).
+
+Détecter précocement la tuberculose et la traiter sans retard chez les personnes vivant avec le VIH est donc d'une importance capitale pour réduire la mortalité.
+
+Un élément clé de la cascade de soins du VIH est le dépistage à quatre symptômes recommandé par l'OMS (toux, fièvre, sueurs nocturnes ou perte de poids) pour les adultes et les adolescents vivant avec le VIH. Depuis son introduction en 2011, il s'agit de la seule stratégie de dépistage de la tuberculose recommandée par l'OMS pour les personnes vivant avec le VIH. Il est recommandé de l'utiliser à chaque rencontre entre le patient et un agent de santé (19). Conçu principalement pour exclure la tuberculose active avant la mise en place du TPT, en raison de sa valeur prédictive négative élevée, le dépistage à quatre symptômes (W4SS) a été élaboré à partir d'une méta-analyse des données individuelles des patients (DIP) provenant d'études d'observation menées avant 2010 et avant l'extension du TAR (76). Cependant, une étude systématique plus récente a montré, chez les personnes vivant avec le VIH qui étaient sous TAR, que la sensibilité groupée du W4SS était de 51 % (IC à 95 % : 28,4-73,2) et la spécificité de 70,7 % (IC à 95 % : 47,7-86,4) (77). Pour les personnes vivant avec le VIH qui n'étaient pas sous TAR, la sensibilité était de 89,3 % (IC à 95 % : 82,6-93,9) et la spécificité de 27,2 % (IC à 95 % : 17,3-40). Une autre étude
+
+3. Recommandations relatives aux outils pour le dépistage systématique de la tuberculose-maladie a montré que le W4SS avait une sensibilité de 42,9 % chez les femmes enceintes qui fréquentaient les services de prévention de la transmission mère-enfant au Kenya (78).
+
+Une méta-analyse des DIP et un examen systématique de la littérature ont donc été entrepris pour évaluer plus avant la précision du W4SS chez les personnes vivant avec le VIH, en général et au sein de sous-groupes importants, et pour identifier d'autres outils et stratégies de dépistage qui pourraient améliorer la détection de la tuberculose chez les personnes vivant avec le VIH. Les outils et stratégies de dépistage examinés par le GDG comprennent l'utilisation de la protéine C-réactive, de la radiographie thoracique et des mWRD, aussi bien en tant que tests autonomes qu'en combinaison avec le W4SS. La culture était l'étalon de référence pour évaluer la précision des différentes stratégies de dépistage. Ces recommandations s'appliquent aux adolescents âgés de 10 ans et plus et aux adultes vivant avec le VIH ; pour les recommandations concernant les enfants de moins de 10 ans vivant avec le VIH, voir la Sous-section 3.4.
+
+3.3.1.1 Dépistage à quatre symptômes recommandé par l'OMS
+
+La méta-analyse des DIP de 2020 comprenait 23 études portant sur 16 269 personnes vivant avec le VIH, qui ont toutes examiné la précision du W4SS. Les études ont principalement porté sur la tuberculose pulmonaire. La prévalence moyenne non pondérée de la tuberculose chez les participants à ces études était de 9,2 %, avec une plage allant de 1 % à 26 %, et 52 % des personnes vivant avec le VIH ont obtenu un résultat positif au test W4SS. La sensibilité du W4SS pour toutes les personnes vivant avec le VIH était de 83 % (IC à 95 % : 74-89) et la spécificité de 38 % (IC à 95 % : 25-53). Les estimations de la précision du W4SS dans différents sous-groupes de personnes vivant avec le VIH sont présentées dans le Tableau 5.
+
+Lorsqu'il est utilisé seul, le W4SS présente la sensibilité la plus faible chez les patients ambulatoires sous TAR et chez les femmes enceintes, et sa spécificité est remarquablement faible chez les patients hospitalisés.
+
+Tableau 5. Précision diagnostique du dépistage à quatre symptômes recommandé par l'OMS dans différentes sous-populations de personnes vivant avec le VIH par rapport à la culture utilisée comme étalon de référence
+
+Nombre d'études (nombre de participants)
+
+Sensibilité
+
+Spécificité
+
+NA
+
+Toutes les personnes vivant avec le VIH
+
+Patients hospitalisés
+
+Patients ambulatoires sous TAR
+
+Patients ambulatoires qui n'étaient pas sous TAR
+
+CD4 ≤ 200 cellules/μl
+
+Femmes enceintes vivant avec le VIH
+
+Population
+
+Profil de produit cible de l'OMS
+
+TAR : traitement antirétroviral ; IC : intervalle de confiance ; NA : non applicable.
+
+Si le W4SS peut présenter des limites dans la vie réelle quant à la cohérence et la qualité de la prestation qui ne sont pas forcément reflétées dans les études, il reste l'outil non invasif le plus simple à mettre en œuvre dans n'importe quel milieu, car il ne nécessite aucune infrastructure. Cependant, la forte proportion de positivité du W4SS (94 %) et sa très faible spécificité chez les patients vivant avec le VIH hospitalisés dans les milieux où la prévalence de la tuberculose chez les participants à l'étude était supérieure à 10 % lui confèrent une utilité limitée en tant que dépistage visant à exclure la tuberculose avant la confirmation du diagnostic par mWRD dans cette population très malade.
+
+La méta-analyse des DIP n'a pas trouvé d'autre stratégie ou outil de dépistage ayant une sensibilité et une spécificité significativement plus élevées que celles du W4SS ou répondant au profil de produit cible de l'OMS pour un test de dépistage sur les deux paramètres. Dans tous les cas, lorsque la sensibilité était plus élevée et satisfaisait aux exigences minimales du profil de produit cible, la spécificité était compromise, et vice versa. La décision d'un programme de privilégier une sensibilité ou une spécificité plus élevée orientera le choix d'autres outils ou combinaisons d'outils à utiliser pour compléter le W4SS.
+
+3.3.1.2 Protéine C-réactive
+
+Les données probantes examinées pour évaluer les performances de la CRP comprenaient 6 études du Kenya, d'Afrique du Sud et d'Ouganda qui totalisaient 3 971 participants (voir l'Annexe Web B, Tableau 13, et l'Annexe Web C, Tableau 6). La prévalence moyenne non pondérée de la tuberculose chez les participants aux études était de 14 %, avec une plage allant de 1 % à 26 %.
+
+Les données sur la précision de la CRP avec un seuil > 5 mg/l et > 10 mg/l comme indicateurs de la tuberculose-maladie ont été examinées, et les deux seuils ont été considérés comme ayant une précision similaire ou supérieure au W4SS. Le seuil > 5 mg/l a été recommandé pour deux raisons : il s'agit du seuil le plus bas indiquant une anomalie dans de nombreux milieux cliniques, et il présente une sensibilité plus élevée que le seuil > 10 mg/l. Le choix du seuil dépendra de la disponibilité de la technologie de la CRP dans un milieu donné, de la prévalence de la tuberculose et d'autres affections susceptibles d'augmenter la CRP, et de la préférence pour une sensibilité ou une spécificité plus élevée.
+
+La méta-analyse des DIP sur la CRP avec un seuil > 5 mg/l a montré une sensibilité similaire et une spécificité supérieure ou similaire à celle du W4SS dans toutes les sous-populations évaluées (voir le Tableau 6). Lorsqu'elle était utilisée en parallèle au W4SS – c'est-à-dire qu'un dépistage positif avec l'un ou l'autre outil conduisait à un test de diagnostic – elle a montré une sensibilité et une spécificité similaires ou supérieures à celles du W4SS pour toutes les populations, selon le seuil utilisé et la sous-population évaluée. La CRP a été la plus précise chez les patients ambulatoires qui n'étaient pas sous TAR, par rapport au W4SS utilisé seul, qui avait une sensibilité de 0,84 (IC à 95 % : 0,75-0,90) et une spécificité de 0,37 (IC à 95 % : 0,25-0,50) dans cette sous-population. Lorsqu'elle est réalisée de manière séquentielle après un W4SS positif chez les personnes vivant avec le VIH ne suivant pas de traitement antirétroviral, la CRP avec un seuil > 5 mg/l a montré une sensibilité similaire (0,84 ; ICà 95 % : 0,73-0,90) à celle du W4SS utilisé seul, mais une spécificité significativement plus élevée (0,64 ; IC à 95 % : 0,55-0,72). Comme pour le W4SS, la spécificité de la CRP pour le dépistage de la tuberculose chez les patients hospitalisés vivant avec le VIH a été extrêmement faible, probablement en raison des comorbidités concurrentes qui entraîneraient également des niveaux élevés de CRP et la présence de symptômes (voir l'Annexe Web C, Tableau 6).
+
+Tableau 6. Précision diagnostique de la protéine C-réactive avec un seuil > 5 mg/l dans différentes sous-populations de personnes vivant avec le VIH par rapport à la culture utilisée comme étalon de référence
+
+Nombre d'études (nombre de participants)
+
+Sensibilité
+
+Spécificité
+
+Profil de produit cible de l'OMS
+
+NA
+
+Toutes les personnes vivant avec le VIH
+
+Patients hospitalisés
+
+Patients ambulatoires sous TAR
+
+Patients ambulatoires qui n'étaient pas sous TAR
+
+CD4 ≤ 200 cellules/μl
+
+Femmes enceintes vivant avec le VIH
+
+Population
+
+En tant que test biomédical réalisable sur le lieu des soins, la CRP offre la possibilité d'améliorer le dépistage de la tuberculose chez les personnes vivant avec le VIH. Le personnel de santé et les patients pourraient être plus motivés pour effectuer un test de diagnostic de confirmation après un dépistage positif basé sur la CRP. Cependant, la spécificité et la valeur prédictive du test pour la détection de la tuberculose seront probablement réduites dans les milieux où la prévalence de la tuberculose est plus faible que dans ceux inclus dans la méta-analyse.
+
+3.3.1.3 Radiographie thoracique
+
+Lorsque la radiographie thoracique est disponible, l'OMS recommande de l'utiliser en parallèle avec le W4SS pour aider à exclure la tuberculose active avant de mettre en place le TPT chez les personnes vivant avec le VIH qui sont sous TAR. Le GDG a convenu que, en raison de l'augmentation de la sensibilité, les données probantes soutenaient l'utilisation de la radiographie thoracique en plus du W4SS comme stratégie de dépistage en parallèle dans laquelle un résultat positif ou anormal à l'un ou l'autre dépistage serait une indication pour l'aiguillage vers une évaluation diagnostique. Les données relatives à « toute anomalie » et à « anomalie évocatrice de la tuberculose » détectée par radiographie thoracique ont été examinées, et l'une ou l'autre approche est recommandée selon le contexte, la disponibilité de l'expertise radiologique, les ressources et la préférence pour une sensibilité ou une spécificité plus élevée.
+
+Les données probantes examinées concernant les performances de la radiographie thoracique et du W4SS pour toutes les personnes vivant avec le VIH proviennent de 8 études menées au Bénin, au Botswana, au Brésil, en Guinée, en Inde, au Kenya, au Malawi, au Myanmar, au Pérou, en Afrique du Sud et au Zimbabwe, qui totalisaient 6 238 participants (voir l'Annexe Web B, Tableau 14, et l'Annexe Web C, Tableau 7).
+
+Dans les études, la prévalence moyenne de la tuberculose chez toutes les personnes vivant avec le VIH était de 7 %, avec une plage allant de 3 % à 18 %. Chez les patients ambulatoires sous TAR, la prévalence moyenne était de 2,6 %.
+
+On a constaté que la radiographie thoracique utilisée seule avait une sensibilité similaire et une spécificité similaire ou supérieure à celles du W4SS dans toutes les sous-populations. Lorsqu'elle était utilisée dans une séquence où elle suivait un dépistage W4SS positif, la radiographie thoracique a montré une sensibilité inférieure ou similaire et une spécificité supérieure ou similaire. Lorsqu'elle était utilisée en parallèle avec le W4SS, elle a montré une sensibilité supérieure ou similaire et une spécificité similaire (voir Tableau 7).
+
+La méta-analyse des DIP a montré que cette stratégie présentait la sensibilité la plus élevée (0,85 ; IC à 95 % : 0,69-0,94) par rapport au W4SS (0,53 ; IC à 95 % : 0,36-0,69) et aux autres outils et stratégies évalués pour le dépistage de la tuberculose chez les patients ambulatoires sous TAR. Bien que les données sur les patients vivant avec le VIH hospitalisés soient limitées, la stratégie combinée de la radiographie thoracique et du W4SS avait une spécificité très faible (0,07 ; IC à 95 % : 0,03-0,19), similaire aux résultats de la CRP ou du W4SS utilisés seuls (voir Annexe Web C, Tableau 7).
+
+Tableau 7. Précision diagnostique, chez différentes sous-populations de personnes vivant avec le VIH, du dépistage à quatre symptômes recommandé par l'OMS associé à une radiographie thoracique (« toute anomalie »), comparée à la culture utilisée comme étalon de référence et en utilisant un résultat positif ou anormal sur l'un ou l'autre des dépistages ou sur les deux
+
+Nombre d'études (nombre de participants)
+
+Sensibilité
+
+Spécificité
+
+NA
+
+Toutes les personnes vivant avec le VIH
+
+Patients hospitalisés
+
+Patients ambulatoires sous TAR
+
+Patients ambulatoires qui n'étaient pas sous TAR
+
+CD4 ≤ 200 cellules/μl
+
+Femmes enceintes vivant avec le VIH
+
+Population
+
+Profil de produit cible de l'OMS
+
+3.3.1.4 ests moléculaires rapides recommandés par l'OMS (mWRD) pour les patients vivant avec le VIH hospitalisés dans des milieux à forte charge de tuberculose La tuberculose est la principale cause d'hospitalisation et de mortalité chez les personnes vivant avec le VIH. L'évaluation des performances d'un mWRD utilisé comme stratégie combinée de dépistage et de diagnostic de la tuberculose pour les patients vivant avec le VIH hospitalisés a inclus 4 études au Ghana, au Myanmar et en Afrique du Sud qui totalisaient 639 participants (voir l'Annexe Web B, Tableau 15, et l'Annexe Web C, Tableau 8). La prévalence de la tuberculose dans les études incluses était de 23,8 %, avec une plage allant de 7 % à 26 %. Le mWRD évalué dans les DIP était principalement le test Xpert MTB/RIF.
+
+Utilisé seul, le W4SS avait une sensibilité de 96 % et une spécificité de 11 % dans la méta-analyse des données individuelles des patients vivant avec le VIH hospitalisés, dont 94 % étaient positifs au test W4SS.
+
+Ainsi, la différence de précision était minime entre le mWRD utilisé seul et la stratégie complète de dépistage et de diagnostic basée sur le W4SS suivi du mWRD. Par conséquent, l'utilisation du W4SS avant un mWRD pour le dépistage de la tuberculose dans cette population a été jugée d'un intérêt limité, et le GDG a recommandé que les patients hospitalisés soient dépistés et testés avec un mWRD, indépendamment des symptômes, pour décider s'il fallait traiter ou non la tuberculose. Il est recommandé de fixer un seuil de 10 % pour la prévalence de la tuberculose chez les patients vivant avec le VIH hospitalisés, en tenant compte de la prévalence de la tuberculose chez les participants étudiés et en trouvant un équilibre entre la garantie d'un diagnostic rapide dans cette population gravement malade et la nécessité d'éviter un
+
+3. Recommandations relatives aux outils pour le dépistage systématique de la tuberculose-maladie surtraitement. Dans les milieux où la prévalence est faible, une stratégie de dépistage et de diagnostic basée sur le mWRD utilisé seul donnerait lieu à un nombre plus élevé de faux positifs, ce qui entraînerait un surtraitement et les conséquences économiques et sociales qui en découlent, notamment un retard potentiel dans la mise en place d'un TAR. Cette recommandation peut ne pas s'appliquer aux milieux où la probabilité de tuberculose avant test est plus faible.
+
+3.3.1.5 Tests moléculaires rapides recommandés par l'OMS pour toutes les autres personnes vivant avec le VIH
+
+L'étude systématique des performances d'un mWRD utilisé pour dépister la tuberculose chez les personnes vivant avec le VIH comprenait 14 études qui totalisaient 9 209 participants (voir l'Annexe Web B, Tableau 16, et l'Annexe Web C, Tableau 9). Le test Xpert MTB/RIF était le principal mWRD utilisé dans ces études.
+
+Dans les études, la prévalence de la tuberculose allait de 1 % à 26 %. La prévalence moyenne de la tuberculose chez les participants fréquentant les structures ambulatoires était de 8,6 %.
+
+Utilisé seul, le mWRD a montré une sensibilité de 0,69 (IC à 95 % : 0,60-0,76) et une spécificité de 0,98 (IC à 95 % : 0,97-0,99), par rapport au W4SS suivi d'un mWRD comme test de diagnostic où la sensibilité était de 0,62 (IC à 95 % : 0,56-0,69) et la spécificité de 0,99 (IC à 95 % : 0,97-0,99) (voir le Tableau 8).
+
+Aucune différence significative dans la précision du mWRD entre les différentes sous-populations n'a été constatée par rapport à l'utilisation du W4SS suivi du mWRD.
+
+En raison de la sensibilité accrue des mWRD, mais aussi des difficultés probables liées à l'accès, aux coûts élevés et à la faisabilité dans de nombreux pays, les mWRD sont recommandés comme option pour le dépistage de la tuberculose-maladie chez tous les adultes et adolescents vivant avec le VIH qui ne sont pas hospitalisés dans les milieux où la prévalence de la tuberculose dépasse 10 %. Comme pour tous les outils de dépistage, le GDG a souligné l'importance, dans tous les milieux, qu'un dépistage avec le mWRD soit suivi d'une évaluation diagnostique afin d'éviter les effets néfastes potentiels d'un surtraitement. En outre, il convient d'envisager de donner la priorité aux mWRD comme test de diagnostic pour toutes les personnes ayant une présomption de tuberculose avant de généraliser les mWRD comme test de dépistage.
+
+Tableau 8. Précision diagnostique des tests moléculaires rapides recommandés par l'OMS pour le dépistage de la tuberculose dans différentes sous-populations de personnes vivant avec le VIH par rapport à la culture utilisée comme étalon de référence Nombre d'études (nombre de participants)
+
+Sensibilité
+
+Spécificité
+
+NA
+
+Toutes les personnes vivant avec le VIH
+
+Patients hospitalisés
+
+Patients ambulatoires sous TAR
+
+Patients ambulatoires qui n'étaient pas sous TAR
+
+CD4 ≤ 200 cellules/μl
+
+Femmes enceintes vivant avec le VIH
+
+Population
+
+Profil de produit cible de l'OMS
+
+3.3.2 Considérations relatives à la mise en œuvre pour tous les outils de dépistage des personnes vivant avec le VIH
+
+Les pays doivent positionner le W4SS, la CRP, la radiographie thoracique et le mWRD en combinaison avec l'évaluation diagnostique utilisant les mWRD et le LF-LAM (8) dans les algorithmes nationaux de dépistage et de diagnostic de la tuberculose en fonction de leur faisabilité, du niveau du centre de santé, des ressources et de l'équité. Des algorithmes explorant les outils de dépistage disponibles sont présentés dans le manuel opérationnel, y compris une modélisation des performances pour la précision et le rendement (7). Bien que tous les outils de dépistage présentés soient recommandés pour toutes les personnes vivant avec le VIH pour des raisons de facilité de programmation, les données probantes ont montré que la CRP avait une précision notable pour le dépistage de la tuberculose chez les personnes qui ne sont pas encore sous TAR et que la radiographie thoracique améliorait la sensibilité du W4SS chez les personnes sous TAR. Ces deux conclusions pourraient être prises en compte lors du choix des algorithmes.
+
+Chez les patients hospitalisés dans des services de médecine où la charge de la tuberculose est élevée, les données probantes ont montré que le W4SS, la CRP et la radiographie thoracique avaient une précision limitée, en raison d'une spécificité extrêmement faible ou d'une sensibilité sous-optimale. De ce fait, l'utilisation du mWRD comme test de dépistage et de diagnostic initial est justifiée, notamment en raison de l'urgence d'un diagnostic rapide pour cette population.
+
+Bien qu'il existe peu de données sur la fréquence optimale de dépistage pour chaque outil, les données présentées au GDG sur les résultats de l'essai WHIP3TB (évaluant l'efficacité de l'association rifapentineisoniazide hebdomadaire pendant 3 mois par rapport à l'association rifapentine-isoniazide périodique pendant 3 mois et à l'isoniazide quotidien pendant 6 mois chez les personnes séropositives) (79) ont souligné la nécessité d'intensifier le dépistage de routine en complément du W4SS, y compris chez les patients sous TAR qui ont reçu le TPT. Le GDG a suggéré d'effectuer un dépistage plus intensif en complément du W4SS au moment du diagnostic initial du VIH, ou lors de la première visite de soins prénataux pour les femmes enceintes, puis une fois par an. Afin de réduire le fardeau pour le patient, le dépistage doit être aligné sur d'autres visites de routine liées à la prise en charge du VIH, comme celles pour contrôler la charge virale ou pour exclure la tuberculose avant de mettre en place le TPT, selon le milieu et les lignes directrices nationales sur le VIH. Le cas échéant, le W4SS doit également être réalisé dans le cadre d'une évaluation clinique complète et pour statuer sur la nécessité d'un contrôle accru de l'infection et d'autres tests de diagnostic, tels que le LF-LAM. Sinon, le dépistage avec le W4SS utilisé seul doit être effectué lors de toutes les autres interactions entre les patients et les agents de santé.
+
+Il convient également de prendre en considération l'avantage supplémentaire que représente l'inclusion de la CRP pour exclure la tuberculose-maladie avant de mettre en place le TPT chez les personnes vivant avec le VIH. Dans un milieu où la prévalence de la tuberculose est de 1 %, sur 1 000 patients ambulatoires dépistés, le W4SS suivi de la CRP donnerait 742 vrais négatifs qui seraient éligibles au TPT, alors que le W4SS seul n'en donnerait que 416. Comme c'est le cas pour l'utilisation de la radiographie thoracique afin d'exclure la tuberculose avant de mettre en place le TPT, un accès restreint à la CRP ou à la radiographie thoracique ne devrait pas être un obstacle à l'initiation du TPT.
+
+Lorsque l'on envisage d'utiliser le mWRD comme outil de dépistage de la tuberculose chez les personnes vivant avec le VIH, il convient d'abord de s'assurer de l'accès universel au mWRD comme test de diagnostic pour toute personne ayant une présomption de tuberculose. La mise en œuvre de l'utilisation du mWRD comme outil de dépistage nécessite des ressources importantes, notamment des capacités accrues de réseaux de diagnostic et l'expansion des réseaux de transport des échantillons. En fonction de la faisabilité et des ressources disponibles, les pays peuvent choisir de donner la priorité au dépistage de la tuberculose à l'aide des mWRD dans certaines sous-populations, comme les patients hospitalisés dans des milieux où la prévalence de la tuberculose est inférieure à 10 %, les autres patients gravement malades ou les femmes enceintes vivant avec le VIH. Le dépistage à l'aide du mWRD dans des milieux où la prévalence est plus faible que ceux inclus dans la méta-analyse des DIP peut entraîner un nombre plus élevé de faux positifs si le diagnostic n'est pas confirmé, avec les conséquences sociales, économiques et de surtraitement qui en découlent, notamment les retards potentiels dans la mise en place du TAR. Il est recommandé de procéder à une évaluation clinique minutieuse pour s'assurer que la tuberculose est bien la principale cause de la maladie et que les autres affections à l'origine du tableau clinique sont
+
+3. Recommandations relatives aux outils pour le dépistage systématique de la tuberculose-maladie également prises en charge. Un mWRD négatif n'exclut pas une tuberculose. Dans de tels milieux, les patients négatifs au mWRD mais manifestement malades peuvent ne pas être en mesure de produire des expectorations de qualité suffisante ou être atteints de tuberculose extrapulmonaire. Pour les patients ayant des antécédents de tuberculose qui remontent à moins de 5 ans, un résultat positif peut être dû à la détection d'ADN provenant de la tuberculose précédemment traitée. Si le patient n'est pas en mesure de fournir des expectorations, il convient d'envisager d'autres échantillons biologiques, selon l'indication (69). La prévalence de la tuberculose chez les personnes vivant avec le VIH hospitalisées dans des services de médecine peut être calculée comme le pourcentage de personnes admises pour une affection liée au VIH pendant une période de 6 à 12 mois chez qui on a diagnostiqué une tuberculose.
+
+Aux fins de la programmation et de la planification des ressources, les pays sont encouragés à suivre et à évaluer le rendement du dépistage de la tuberculose chez les personnes vivant avec le VIH, ventilé par outil de dépistage.
+
+16. Chez les personnes de moins de 15 ans qui sont en contact proche avec un patient tuberculeux, un dépistage systématique de la tuberculose-maladie doit être effectué à l'aide d'un dépistage des symptômes de toux, fièvre ou faible prise de poids, ou d'une radiographie thoracique, voire des deux approches (nouvelle recommandation : recommandation forte, certitude moyenne à faible quant aux données de précision du test).
+
+17. Chez les enfants de moins de 10 ans vivant avec le VIH, un dépistage systématique de la tuberculose-maladie doit être effectué à l'aide d'un dépistage des symptômes de toux, fièvre, faible prise de poids ou contact étroit avec un patient tuberculeux (nouvelle recommandation : recommandation forte, faible certitude quant aux données de précision du test).
+
+3.4.1 Résumé des données probantes et du raisonnement
+
+La détection des cas est une étape cruciale de la cascade de soins pour les enfants atteints de tuberculose ;
+
+cependant, la maladie n'est jamais diagnostiquée chez la plupart des enfants qui meurent de la tuberculose (80).
+
+En 2019, les enfants et les adolescents de moins de 15 ans représentaient environ 12 % des cas incidents mais 16 % des 1,4 million de décès estimés dus à la tuberculose (1). Ce pourcentage relativement plus élevé de mortalité chez les enfants souligne le besoin urgent d'améliorer la détection des cas et l'accès ultérieur aux traitements préventifs et curatifs dans ce groupe d'âge, en particulier pour ceux qui sont le plus à risque.
+
+Ces recommandations concernent les deux sous-populations d'enfants pour lesquelles le dépistage de la tuberculose est fortement recommandé mais pour lesquelles il n'existe pas encore d'approche de dépistage standard : les enfants et les adolescents de moins de 15 ans qui sont des contacts proches de personnes atteintes de tuberculose, et les enfants de moins de 10 ans qui vivent avec le VIH. Les adolescents vivant avec le VIH qui ont entre 10 et 19 ans sont couverts par les recommandations précédentes sur le dépistage des personnes vivant avec le VIH (voir les Recommandations 11 à 15), et le dépistage des contacts âgés de 15 ans et plus est couvert par la recommandation précédente sur les outils de dépistage (voir les Recommandations 9 et 10).
+
+Cette recommandation est fondée sur les données d'une étude systématique de la précision diagnostique de plusieurs outils de dépistage utilisés pour détecter la tuberculose chez les enfants et les adolescents, comparée à un étalon de référence microbiologique ou composite. Puisque les tests bactériologiques pour la tuberculose sont difficiles à réaliser chez les enfants, on utilise souvent un étalon de référence composite pour évaluer la précision diagnostique dans ce groupe d'âge.
+
+3.4.1.1 Contacts proches âgés de moins de 15 ans
+
+Les données probantes examinées concernant les performances du dépistage des symptômes chez les enfants et les adolescents de moins de 15 ans qui sont des contacts proches d'une personne atteinte de tuberculose comprenaient 4 études qui totalisaient 2 695 participants (voir l'Annexe Web B, Tableau 17, et l'Annexe Web C, Tableau 10). Dans cette population, le dépistage des symptômes de toux, fièvre ou faible prise de poids (la présence d'un quelconque de ces symptômes constituant un dépistage positif ), comparé à un étalon de référence composite, avait une sensibilité groupée de 0,89 (IC à 95 % : 0,52-0,98) et une spécificité groupée de 0,69 (IC à 95 % : 0,51-0,83).
+
+Les données probantes examinées concernant les performances de la radiographie thoracique chez les moins de 15 ans qui sont des contacts proches de patients tuberculeux comprenaient 4 études qui totalisaient 2 550 participants (voir l'Annexe Web B, Tableau 18, et l'Annexe Web C, Tableau 8). Par rapport à un étalon de référence composite, la radiographie thoracique utilisant des anomalies évocatrices de la tuberculose comme dépistage positif présentait une sensibilité groupée de 0,84 (IC à 95 % : 0,700,92) et une spécificité groupée de 0,91 (IC à 95 % : 0,90-0,92).
+
+Malgré l'absence de données probantes de forte certitude quant à la précision du test, le GDG a estimé que, pour les deux outils envisagés, une recommandation forte était justifiée pour les contacts proches âgés de moins de 15 ans compte tenu du risque élevé de maladie et de mortalité si le diagnostic n'est pas posé et si la tuberculose n'est pas traitée.
+
+3.4.1.2 Enfants âgés de moins de 10 ans vivant avec le VIH
+
+Les données probantes examinées concernant les performances du dépistage des symptômes (toux actuelle, fièvre, faible prise de poids ou contact proche avec une personne atteinte de tuberculose) comprenaient 2 études menées en milieu ambulatoire qui totalisaient 20 926 participants et comprenaient 203 135 dépistages (voir l'Annexe Web B, Tableau 19, et l'Annexe Web C, Tableau 10). Dans ce contexte, le dépistage combiné des symptômes (où la présence d'un quelconque symptôme constitue un dépistage positif ) a montré une sensibilité groupée de 0,61 (IC à 95 % : 0,58-0,64) et une spécificité groupée de Malgré l'absence de données probantes de forte certitude, le GDG a estimé que, pour le dépistage des symptômes, une recommandation forte était justifiée pour les enfants âgés de moins de 10 ans vivant avec le VIH compte tenu du risque élevé de maladie et de mortalité si le diagnostic n'est pas posé et si la tuberculose n'est pas traitée.
+
+3.4.2 Considérations relatives au dépistage chez les enfants et les adolescents
+
+Dans ces sous-populations d'enfants à haut risque, aucun des dépistages étudiés n'a atteint le profil de produit cible (sensibilité supérieure ou égale à 90 %), mais la radiographie thoracique était la plus proche de cette valeur. Des inquiétudes ont été soulevées quant au risque de biais d'incorporation en cas d'utilisation d'un étalon de référence composite pour ce groupe, car cela pourrait gonfler les estimations de la précision observée. Des inquiétudes ont également été soulevées quant au risque accru, chez les enfants, de diagnostics faussement positifs après un test de dépistage faussement positif par rapport au risque chez les adultes, car les enfants sont plus susceptibles d'être diagnostiqués par une évaluation clinique plutôt que par une confirmation bactériologique, et le processus de confirmation d'un diagnostic clinique pondère les résultats du ou des tests de dépistage. Dans le dépistage des groupes d'enfants à haut risque – y compris les contacts proches et les enfants vivant avec le VIH – l'équilibre entre les avantages de la détection précoce des cas grâce à des résultats de dépistage réellement positifs et le risque éventuel de surtraitement lié à des résultats de dépistage faussement positifs penche en faveur du dépistage. Dans le dépistage de populations d'enfants présentant un risque moindre de tuberculose ou dans les milieux à faible prévalence, l'équilibre entre la détection précoce des cas et l'éventuel surdiagnostic sera différent et devra faire l'objet d'un examen minutieux. Dans de telles situations, bien qu'une approche de dépistage très sensible soit importante pour maximiser la détection précoce des cas, les agents de santé doivent rester vigilants face à d'éventuels diagnostics faussement positifs et suivre attentivement les réponses au
+
+3. Recommandations relatives aux outils pour le dépistage systématique de la tuberculose-maladie traitement, notamment en recherchant d'autres diagnostics potentiels chez les enfants et les adolescents si les symptômes ou les anomalies à la radiographie thoracique persistent.
+
+Compte tenu du risque élevé de tuberculose et de mortalité chez les enfants séropositifs et chez ceux en contact proche avec des patients tuberculeux si la tuberculose n'est pas traitée, il est urgent d'utiliser tous les tests de dépistage disponibles afin d'accroître le diagnostic en temps utile dans ces populations à haut risque.
+
+Les enfants vivant avec le VIH représentent un groupe important qui doit faire l'objet d'un dépistage régulier de la tuberculose et d'une thérapie préventive, étant donné le risque élevé de tuberculose et de mauvais résultats s'ils ne sont pas diagnostiqués à temps. Pour ce groupe, une stratégie de dépistage minimale essentielle consisterait à effectuer un dépistage régulier des symptômes de la tuberculose lors de chaque visite dans un centre de santé. Malgré le manque de données permettant d'évaluer la radiographie thoracique en tant que dépistage initial chez les enfants vivant avec le VIH, cet outil constitue une partie utile de l'évaluation diagnostique de la tuberculose chez tous les enfants, y compris ceux vivant avec le VIH, et plus particulièrement les jeunes enfants chez qui l'évaluation bactériologique est généralement négative (68). Les enfants et les adolescents qui sont des contacts proches d'une personne atteinte de tuberculose représentent également un groupe important pour le dépistage de la tuberculose-maladie et la mise en place d'un traitement préventif, étant donné leur risque élevé de développer la tuberculose et l'évolution rapide de la maladie.
+
+Pour les enfants à haut risque de tuberculose, les pays devraient positionner le dépistage des symptômes et la radiographie thoracique de dépistage dans les algorithmes nationaux de dépistage et de diagnostic de la tuberculose, en fonction de leur faisabilité, du niveau du centre de santé, des ressources et de l'équité.
+
+Les algorithmes explorant les différents outils de dépistage sont présentés dans le manuel opérationnel (7).
+
+4. Suivi et évaluation
+
+Cette section décrit le suivi et l'évaluation nécessaires pour soutenir la mise en œuvre des programmes de dépistage de la tuberculose. Le manuel opérationnel contient plus de détails sur le suivi, la surveillance et l'évaluation des interventions de dépistage de la tuberculose (7).
+
+Lorsque l'on envisage de mettre en place un dépistage dans la population générale, il est important de connaître l'épidémiologie de la tuberculose et la prévalence de la tuberculose non détectée dans la communauté. Cela permettra d'estimer l'impact d'un éventuel programme de dépistage. Les enquêtes sur la prévalence de la tuberculose-maladie sont utilisées pour évaluer l'occurrence de base de la tuberculose dans les milieux à forte charge (81). Toutefois, ces enquêtes constituent une entreprise importante et ne sont pas faisables dans toutes les situations. Les données de surveillance basées sur les notifications de tuberculose peuvent être utilisées comme point de départ, mais elles doivent être prises en compte avec attention aux côtés d'autres facteurs qui affectent le risque de tuberculose et la probabilité de diagnostic, notamment la disponibilité des services de santé et la prévalence d'autres facteurs de risque de tuberculose (p. ex. le VIH, le diabète sucré, le tabagisme, la malnutrition, la pauvreté, les conditions de vie surpeuplées, l'âge avancé, les troubles liés à la consommation de substances psychoactives, et d'autres affections pulmonaires, telles que la silicose ou les lésions thoraciques fibreuses).
+
+Dans les milieux où l'on considère généralement que la charge de la tuberculose est plus élevée que dans l'ensemble de la population, comme les prisons, une surveillance et un suivi minutieux visant à évaluer la prévalence et l'incidence de la tuberculose doivent compléter le dépistage de la tuberculose. Si la charge de la tuberculose est faible et le reste pendant un certain temps, le dépistage de la tuberculose peut être interrompu. Cependant, une surveillance doit être effectuée afin de réduire au minimum les risques de tuberculose-maladie et de transmission.
+
+4.1 Indicateurs
+
+Un suivi continu peut aider les gestionnaires de programmes à évaluer les performances des composantes du dépistage de la tuberculose qui sont de leur ressort. Les indicateurs suivants doivent être pris en compte pour chaque groupe à risque ciblé :
+
+1. le nombre de personnes éligibles au dépistage ;
+
+2. le nombre de personnes dépistées (en considérant séparément le premier et le deuxième dépistage, le cas échéant) ;
+
+3. la proportion de personnes éligibles au dépistage qui ont été dépistées ;
+
+4. le nombre de personnes ayant une présomption de tuberculose qui ont été identifiées ;
+
+5. le nombre de personnes faisant l'objet d'une investigation diagnostique ;
+
+6. le nombre de personnes ayant reçu un diagnostic de tuberculose, stratifié par type de tuberculose ;
+
+7. la proportion de personnes faisant l'objet d'une investigation diagnostique qui sont atteintes de tuberculose ;
+
+8. le NSD pour détecter une personne atteinte de tuberculose ;
+
+9. la proportion de défaillants initiaux (c'est-à-dire le nombre de personnes chez qui la tuberculose a été diagnostiquée et qui ne commencent PAS le traitement, divisé par le nombre total de personnes chez qui la tuberculose a été diagnostiquée) ;
+
+10. le taux de réussite du traitement et le taux de décès (à l'aide d'analyses de cohortes standard).
+
+4. Suivi et évaluation
+
+Il est possible de procéder à une désagrégation supplémentaire – par exemple, par groupe d'âge et par sexe – mais cela nécessite la collecte de données plus détaillées pour chaque individu dépisté.
+
+Le taux de participation au dépistage dans un groupe à risque (c'est-à-dire la proportion de personnes éligibles au dépistage qui sont réellement dépistées) ne peut être évalué que si la taille du groupe cible a été bien définie. Il est généralement possible d'obtenir les informations pertinentes lorsque le dépistage est effectué dans des centres de santé ou des milieux fermés (comme les prisons) et par le biais d'enquêtes de contact. En revanche, il est souvent difficile d'obtenir ces informations dans le cadre de programmes de dépistage de proximité – par exemple, lorsque le dépistage est effectué dans la communauté. Toutefois, il est possible d'utiliser la taille estimée de la population d'une communauté ciblée pour avoir une estimation approximative de la population éligible.
+
+4.2 Routines pour l'enregistrement et les rapports
+
+Pour obtenir les informations requises pour les indicateurs décrits ci-dessus, il convient de disposer d'un système d'enregistrement et de rapports de la tuberculose comprenant un ensemble minimal d'éléments de données. Bien que des systèmes sur papier aient souvent été utilisés pour collecter ces données, il est aujourd'hui de plus en plus facile de le faire par voie électronique, ce qui devrait être la norme visée pour le suivi des activités de dépistage de la tuberculose. Les stratégies suivantes peuvent être utilisées pour collecter les données nécessaires :
+
+- tenir un journal du nombre de personnes dépistées dans chaque groupe à risque. Un registre spécial contenant des informations individuelles sur chaque personne dépistée peut être utilisé pour obtenir des données plus fines sur certaines sous-catégories de personnes au sein d'un groupe à risque. La collecte de ces données nécessite beaucoup de ressources, mais elle peut être pertinente lorsqu'un programme de dépistage est lancé dans le cadre d'une recherche opérationnelle. Ce type de collecte de données peut être effectué de manière continue pour certains groupes à risque, tels que les personnes qui viennent se faire soigner dans des centres de santé ;
+
+- tenir un registre de tous les patients ayant une présomption de tuberculose qui font l'objet d'une évaluation diagnostique plus poussée (si un registre est utilisé pour collecter des informations individuelles sur toutes les personnes qui font l'objet d'un dépistage, ces informations peuvent y être incluses) ;
+
+- dans le registre du laboratoire, inclure un champ pour indiquer si le patient testé a été identifié par dépistage et le groupe à risque auquel il appartient ;
+
+- dans le registre des traitements, inclure un champ pour indiquer si le patient testé a été identifié par dépistage et le groupe à risque auquel il appartient.
+
+4.3 Évaluations programmatiques
+
+Un programme de dépistage réussi peut aboutir à un rendement décroissant, du moins si le groupe à risque est une population fixe. Au fil du temps, l'évolution de la charge de fond de la tuberculose et les modifications du profil des patients tuberculeux dans la communauté (p. ex. une tendance à la diminution du nombre de patients présentant une tuberculose symptomatique) peuvent entraîner une réduction du rendement du dépistage, une augmentation du NSD, une réduction du rapport coût/efficacité et une modification du rapport avantages/inconvénients. Il convient de suivre les tendances de tous ces indicateurs et de réévaluer régulièrement la hiérarchisation des groupes à risque, le choix de l'approche de dépistage et l'intervalle de dépistage. Les critères d'arrêt du dépistage doivent être établis avant la mise en œuvre de l'initiative de dépistage.
+
+Le suivi des indicateurs susmentionnés peut souligner la nécessité d'une évaluation spéciale, par exemple pour explorer les raisons d'une faible participation au dépistage, d'une proportion étonnamment faible de personnes ayant une présomption de tuberculose identifiées par le dépistage, d'une faible proportion de personnes ayant une présomption de tuberculose faisant l'objet d'une investigation diagnostique, ou d'un NSD plus élevé que prévu. Des analyses quantitatives et qualitatives supplémentaires peuvent être nécessaires pour déterminer s'il existe des obstacles au dépistage et identifier les possibilités d'améliorer l'approche du dépistage.
+
+Lorsque la DAO est mise en œuvre, il est conseillé d'effectuer un étalonnage local afin d'adapter les seuils de score aux exigences du programme (voir le manuel opérationnel pour plus de détails sur comment procéder) (7). Après cet étalonnage initial, un suivi et une analyse continus des performances de la DAO doivent être effectués pour évaluer la corrélation avec les interprétations des lecteurs humains, avec la confirmation bactériologique et avec la proportion d'images interprétées comme présentant une anomalie et nécessitant un examen complémentaire.
+
+4. Suivi et évaluation
+
+5. Lacunes de la recherche
+
+5.1 Dépistage de la tuberculose dans les populations cibles
+
+5.1.1 Population générale et groupes à haut risque
+
+Des essais bien conçus et des études quasi-expérimentales rigoureuses dans différents milieux sont nécessaires pour étudier les effets du dépistage systématique de la tuberculose à l'échelle de la population sur les résultats au niveau individuel (retard de diagnostic, résultats du traitement, coûts pour les patients, conséquences sociales) et au niveau de la population (prévalence, incidence et transmission de la tuberculose), ainsi que pour orienter les choix de mise en œuvre (méthode d'exécution, algorithmes de dépistage, durée des intervalles de dépistage et fréquence de dépistage, et mode d'exécution de l'intervention).
+
+Les recherches sur les impacts à plus long terme du dépistage – notamment les éventuelles preuves d'une morbidité ou d'une mortalité évitées – n'apparaissent pas nécessairement dans les données existantes.
+
+Il est nécessaire de mener des recherches sur le rapport coût/efficacité du dépistage avec un horizon temporel plus long afin de prendre en compte de manière adéquate tous les éventuels coûts et effets à long terme, y compris la réduction potentielle de la prévalence et de l'incidence futures.
+
+La recherche observationnelle et les évaluations programmatiques mesurant l'impact du dépistage à l'échelle communautaire sur les taux de notification des cas de tuberculose – qui constituent une source importante de données probantes sur les impacts du dépistage dans des conditions programmatiques – doivent être soigneusement conçues et analysées pour réduire au minimum les biais.
+
+Les études sur les interventions de dépistage doivent comporter une évaluation qualitative et quantitative des effets indirects du dépistage, étant donné l'importance du comportement de recherche de soins de santé pour l'engagement en matière de soins antituberculeux et l'impact potentiel d'un dépistage à l'échelle de la population en vue de le modifier, et l'importance d'évaluer toute conséquence mentale, sociale ou économique involontaire du dépistage (y compris les effets indésirables, la charge liée au test et les résultats de la gestion clinique qui sera orientée par les résultats des tests).
+
+5.1.2 Personnes vivant avec le VIH
+
+Des essais cliniques bien conçus sont nécessaires pour renforcer les données probantes concernant la précision, l'efficacité (y compris l'impact sur les résultats importants pour le patient, tels que la mortalité), la faisabilité et les implications financières de l'utilisation du W4SS, de la CRP, de la radiographie thoracique et du mWRD pour dépister la tuberculose dans toutes les sous-populations de personnes vivant avec le VIH dans les milieux où les charges de VIH et de tuberculose sont faibles, moyennes et élevées, avec ou sans couverture élevée en TAR.
+
+Les sous-populations de personnes vivant avec le VIH pour lesquelles un examen plus approfondi est nécessaire comprennent, sans s'y limiter, les patients hospitalisés, les bénéficiaires de services de soins aigus, les patients pour lesquels le TAR a échoué, les patients nouvellement diagnostiqués comme séropositifs qui s'inscrivent dans des centres de TAR, les patients stables sous TAR, les femmes enceintes, et les enfants et les adolescents vivant avec le VIH.
+
+5. Lacunes de la recherche
+
+Des données supplémentaires sont nécessaires concernant l'efficacité, le rapport coût/efficacité, la faisabilité, l'acceptabilité, la fréquence et la périodicité optimale du dépistage systématique et régulier par le W4SS, la CRP, la radiographie thoracique et le mWRD chez les personnes vivant avec le VIH. Plus précisément, il convient de mener d'autres études pour déterminer si l'emplacement optimal des mWRD pour le dépistage est dans les établissements de soins prénatals ou dans les cliniques de TAR. Enfin, des recherches supplémentaires sont nécessaires concernant la possibilité de dépister les personnes vivant avec le VIH à l'aide des mWRD mais en utilisant des échantillons autres que les expectorations.
+
+5.1.3 Enfants et adolescents
+
+Le GDG a examiné les données sur l'utilisation des mWRD pour le dépistage des enfants et des adolescents accédant à des soins de santé ambulatoires. Il a conclu que les données – qui comprenaient 2 études totalisant 787 participants et dont les résultats montraient une hétérogénéité substantielle – constituaient des preuves insuffisantes pour estimer de manière précise et fiable la précision diagnostique des mWRD.
+
+Par conséquent, le GDG a décidé de ne pas émettre de recommandation pour ou contre leur utilisation comme outil de dépistage chez les enfants et les adolescents. Cela met en évidence, en tant que priorité de recherche, le besoin de disposer d'études plus rigoureuses évaluant l'utilisation des mWRD pour le dépistage des enfants et des adolescents.
+
+L'accent a également été mis sur l'urgente nécessité d'effectuer des recherches supplémentaires et de développer de meilleurs outils et approches de dépistage pour cette population, y compris pour disposer de davantage de données sur les approches de dépistage ciblant des tranches d'âge spécifiques et distinctes, notamment les nourrissons de moins de 12 mois, les enfants de moins de 5 ans, les enfants de moins de 10 ans et ceux âgés de 10 à 19 ans. Des données supplémentaires sont requises pour déterminer la fréquence à laquelle effectuer le dépistage dans les sous-populations d'enfants présentant le plus haut risque de tuberculose. Enfin, d'autres recherches basées sur des essais cliniques bien conçus sont nécessaires pour fournir des données probantes sur les résultats importants pour le patient provenant du dépistage de la tuberculose chez les enfants.
+
+5.2 Outils pour le dépistage de la tuberculose
+
+5.2.1 Détection assistée par ordinateur
+
+Des données probantes supplémentaires sont requises au sujet des performances des logiciels de DAO stratifiées en fonction des caractéristiques de l'individu évalué (p. ex. statut du frottis, statut VIH, cohorte d'âge, antécédents de tuberculose, tabagisme, sexe) afin de permettre un meilleur étalonnage des logiciels de DAO en fonction du milieu et des patients.
+
+Il est nécessaire d'approfondir les recherches sur les points de vue des utilisateurs concernant l'utilisation des technologies de DAO dans le dépistage et le triage de la tuberculose, y compris leur acceptabilité perçue par les patients, les prestataires et les autres parties prenantes.
+
+Il est urgent de développer et d'évaluer des logiciels de DAO pour la détection automatisée de la tuberculose chez les enfants, car la radiographie thoracique est un outil important pour la détection de la tuberculose pulmonaire chez les enfants et les adolescents, étant donné la difficulté de réaliser des tests et un diagnostic bactériologiques.
+
+5.2.2 Protéine C-réactive
+
+Pour les personnes vivant avec le VIH dans des milieux où la prévalence de la tuberculose varie, des recherches supplémentaires sont nécessaires pour évaluer la précision et la valeur prédictive de la mesure de la CRP au-dessus de tout seuil supérieur à 5 mg/l pour le dépistage de la tuberculose, qu'elle soit utilisée seule ou en combinaison avec d'autres tests de dépistage.
+
+5.2.3 Algorithmes de dépistage
+
+Pour l'ensemble des populations et des outils, des recherches supplémentaires sont requises pour évaluer la précision et l'efficacité d'algorithmes complets de dépistage et de diagnostic, comprenant le dépistage des symptômes, la radiographie thoracique, la CRP et les mWRD utilisés en diverses combinaisons avec l'évaluation diagnostique. Les recherches sur leur efficacité doivent inclure des mesures de l'impact sur les résultats importants pour le patient, tels que la mortalité et la réussite du traitement.
+
+5.3 Recherches opérationnelles
+
+Les procédures standard de suivi et d'évaluation peuvent être complétées par des recherches opérationnelles visant à améliorer les performances du dépistage dans le milieu local ou la base de données probantes mondiale sur le dépistage. Les thèmes qui peuvent être explorés incluent ce qui suit :
+
+- évaluer la précision et les performances des différents algorithmes de dépistage et de diagnostic ;
+
+- identifier les défis opérationnels et les solutions ;
+
+- identifier les meilleurs moyens d'améliorer l'acceptabilité et de réduire au minimum les effets néfastes du dépistage ;
+
+- établir l'efficacité et le rapport coût/efficacité du dépistage dans différents groupes à risque et dans différentes situations épidémiologiques ;
+
+- établir un étalonnage local des logiciels de DAO pour le cas spécifique d'un programme.
+
+Il convient de disposer d'essais randomisés plus nombreux, plus vastes et de meilleure qualité pour évaluer l'efficacité à court et à long terme et le rapport coût/efficacité du dépistage. La mise en œuvre de telles études nécessite une planification minutieuse et des ressources considérables.
+
+5. Lacunes de la recherche
+
+6. Références bibliographiques
+
+1.
+
+Rapport mondial sur la tuberculose 2020. Genève : Organisation mondiale de la Santé ; 2020 (https://apps.who.int/iris/bitstream/handle/10665/336069/9789240013131-eng.pdf, consulté le 19 février 2021).
+
+2.
+
+Uplekar M, Weil D, Lönnroth K, Jaramillo E, Lienhardt C, Dias HM, et al. WHO's new End TB Strategy. Lancet.
+
+3.
+
+La Stratégie pour mettre fin à la tuberculose [site Web]. Genève : Organisation mondiale de la Santé ; 2021 (http://www.who.int/tb/strategy/en/, consulté le 19 février 2021).
+
+4.
+
+Déclaration politique adoptée par l'Assemblée générale des Nations unies lors de la Réunion de haut niveau sur la lutte contre la tuberculose. New-York : Nations Unies ; 2018 (https://www.who.int/tb/ unhlmonTBDeclaration.pdf, consultée le 19 février 2021).
+
+5.
+
+Systematic screening for active tuberculosis: principles and recommendations. Genève : Organisation mondiale de la Santé ; 2013 (https://apps.who.int/iris/handle/10665/84971, consulté le 19 février 2021).
+
+6.
+
+Early detection of tuberculosis: an overview of approaches, guidelines and tools. Genève : Organisation mondiale de la Santé ; 2011 (https://apps.who.int/iris/handle/10665/70824, consulté le 19 février 2021).
+
+7.
+
+Manuel opérationnel de l'OMS sur la tuberculose. Module 2 : dépistage – dépistage systématique de la tuberculose. Genève : Organisation mondiale de la Santé ; 2021.
+
+8.
+
+Consolidated guidelines on HIV testing services: 2019. Genève : Organisation mondiale de la Santé ; 2020 (https://apps.who.int/iris/bitstream/handle/10665/94836/9789241506410_eng.pdf, consulté le 19 février 2021).
+
+9.
+
+Guideline: Nutritional care and support for patients with tuberculosis. Genève : Organisation mondiale de la Santé ; 2013 (https://apps.who.int/iris/bitstream/handle/10665/94836/9789241506410_eng.pdf, consulté le 19 février 2021).
+
+10. Ethics guidance for the implementation of the End TB Strategy. Genève : Organisation mondiale de la Santé ; 2017 (https://apps.who.int/iris/handle/10665/254820, consulté le 19 février 2021).
+
+11. Résolution WHA61.17. Santé des migrants. Dans : Soixante et unième Assemblée mondiale de la santé, Genève, 19 au 24 mai 2008. Résolutions et décisions ; annexes. Genève : Organisation mondiale de la Santé ; 2008 (https://www.who.int/ migrants/publications/A61-17.pdf, consultée le 19 février 2021).
+
+12. Kass NE. An ethics framework for public health. Am J Public Health. 2001;91:1776–82. doi:10.2105/ ajph.91.11.1776.
+
+13. Marks GB, Nguyen NV, Nguyen PTB, Nguyen TA, Nguyen HB, Tran KH, et al. Community-wide screening for tuberculosis in a high-prevalence setting. N Engl J Med. 2019;381:1347–57. doi:10.1056/NEJMoa1902129.
+
+16. Combler le fossé en une génération : instaurer l'équité en santé en agissant sur les déterminants sociaux de la santé. Rapport final de la Commission des Déterminants sociaux de la Santé. Genève : Organisation mondiale de la Santé ; 2008 (https://apps.who.int/iris/handle/10665/44083, consulté le 19 février 2021).
+
+6. Références bibliographiques
+
+from evidence to action. Am J Public Health. 2011;101:654–62. doi:10.2105/ajph.2010.199505.
+
+18. Connolly MA, Gayer M, Ottmani S, editors. Tuberculosis care and control in refugee and displaced populations: an interagency field manual, Second edition, Geneva: Organisation mondiale de la Santé ;
+
+2007 (https://apps.who. int/iris/handle/10665/43661, consulté le 19 février 2021).
+
+19. Directives pour l'intensification du dépistage de la tuberculose et l'administration du traitement préventif à l'isoniazide chez les personnes vivant avec le VIH dans un contexte de ressources limitées. Genève : Organisation mondiale de la Santé ; 2011 (https://apps.who.int/iris/ handle/10665/44781, consulté le 19 février 2021).
+
+20. WHO consolidated guidelines on tuberculosis. Module 1: prevention – tuberculosis preventive treatment.
+
+Genève : Organisation mondiale de la Santé ; 2020 (https://www.who.int/publications/i/item/whoconsolidated- guidelines-on-tuberculosis-module-1-prevention-tuberculosis-preventive-treatment, consulté le 19 février 2021).
+
+21. Recommendations for investigating contacts of persons with infectious tuberculosis in low- and middleincome countries. Genève : Organisation mondiale de la Santé ; 2012 (https://apps.who.int/iris/ handle/10665/77741, consulté le 19 février 2021).
+
+a five-year retrospective analysis. BMC Pulm Med. 2018;18:37. doi: 10.1186/s12890–018–0600–1.
+
+29. Guidelines for the control of tuberculosis in prisons. Genève : Organisation mondiale de la Santé ; 1998 (https:// www.who.int/tb/publications/control-prisons-guidelines/en/, consulté le 19 février 2021).
+
+31. Corbett EL, Churchyard GJ, Clayton TC, Williams BG, Mulder D, Hayes RJ, et al. HIV infection and silicosis:
+
+Int J Tuberc Lung Dis. 2000;4:705–12.
+
+35. Meijer J, Barnett GD, Kubík A, Stýblo K. Identification des sources d'infection. Bull Int Union Tuberc.
+
+36. Okada K, Onozaki I, Yamada N, Yoshiyama T, Miura T, Saint S, et al. Epidemiological impact of mass tuberculosis screening: a 2-year follow-up after a national prevalence survey. Int J Tuberc Lung Dis.
+
+41. Baker MA, Harries AD, Jeon CY, Hart JE, Kapur A, Lönnroth K, et al. The impact of diabetes on tuberculosis treatment outcomes: a systematic review. BMC Med. 2011;9:81. doi:10.1186/1741–7015–9-81.
+
+relapse or reinfection? Lancet Infect Dis. 2003;3:282–7. doi:10.1016/s1473–3099(03)00607–8.
+
+50. Wang MG, Huang WW, Wang Y, Zhang YX, Zhang MM, Wu SQ, et al. Association between tobacco smoking and drug-resistant tuberculosis. Infect Drug Resist. 2018;11:873–87. doi:10.2147/idr.s164596.
+
+6. Références bibliographiques
+
+54. Rehm J, Samokhvalov AV, Neuman MG, Room R, Parry C, Lönnroth K, et al. The association between alcohol use, alcohol use disorders and tuberculosis (TB). A systematic review. BMC Public Health. 2009;9:450.
+
+57. Silva DR, Muñoz-Torrico M, Duarte R, Galvão T, Bonini EH, Arbex FF, et al. Risk factors for tuberculosis:
+
+67. High-priority target product profiles for new tuberculosis diagnostics: report of a consensus meeting, 28–29 avril 2014, Genève, Suisse. Genève : Organisation mondiale de la Santé ; 2014 (https://apps.who.int/iris/ handle/10665/135617, consulté le 19 février 2021).
+
+68. Chest radiography in tuberculosis detection: summary of current who recommendations and guidance on programmatic approaches. Genève : Organisation mondiale de la Santé ; 2016 (https://apps.who.int/iris/ handle/10665/252424, consulté le 19 février 2021).
+
+69. WHO consolidated guidelines on tuberculosis. Module 3: diagnosis – rapid diagnostics for tuberculosis detection. Genève : Organisation mondiale de la Santé ; 2020 (https://www.who.int/publications/i/item/ who-consolidated-guidelines-on-tuberculosis-module-3-diagnosis---rapid-diagnostics-for-tuberculosisdetection, consulté le 19 février 2021).
+
+doi:10.1093/infdis/jiz243.
+
+77. Infection tuberculeuse latente : lignes directrices unifiées et actualisées pour la prise en charge programmatique. Genève : Organisation mondiale de la Santé ; 2018 (https://apps.who.int/iris/ handle/10665/312054, consulté le 19 février 2021).
+
+80. Dodd PJ, Yuen CM, Sismanidis C, Seddon JA, Jenkins HE. The global burden of tuberculosis mortality in children: a mathematical modelling study. Lancet Glob Health. 2017;5:e898–906. doi:10.1016/ 81. Tuberculosis prevalence surveys: a handbook. Genève : Organisation mondiale de la Santé ; 2011 (https://apps.who. int/iris/handle/10665/44481, consulté le 4 mars 2021).
+
+6. Références bibliographiques
+
+Tableau supplémentaire
+
+Résumé des modifications apportées aux recommandations existantes
+
+Recommandation de 2013
+
+Recommandation de 2021
+
+Les contacts familiaux et autres contacts proches doivent faire l'objet d'un dépistage systématique de la tuberculose active (recommandation forte, données de très faible qualité).
+
+Les contacts familiaux et autres contacts proches de personnes atteintes de tuberculose doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie (recommandation forte, certitude moyenne quant aux données).
+
+Les personnes vivant avec le VIH doivent faire l'objet d'un dépistage systématique de la tuberculose active lors de chaque visite dans un centre de santé (recommandation forte, données de très faible qualité).
+
+Les personnes vivant avec le VIH doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie lors de chaque visite dans un centre de santé (recommandation forte, très faible certitude quant aux données).
+
+Les personnes travaillant ou ayant travaillé dans des lieux comportant une exposition à la silice doivent faire l'objet d'un dépistage systématique de la tuberculose active (recommandation forte, données de faible qualité).
+
+Les personnes travaillant ou ayant travaillé dans des lieux comportant une exposition à la silice doivent faire l'objet d'un dépistage systématique de la tuberculose-maladie (recommandation forte, faible certitude quant aux données).
+
+Un dépistage systématique de la tuberculose active doit être envisagé dans les prisons et autres établissements pénitentiaires (recommandation conditionnelle, données de très faible qualité).
+
+Un dépistage systématique de la tuberculosemaladie doit être effectué dans les prisons et autres établissements pénitentiaires (recommandation forte, très faible certitude quant aux données).
+
+Un dépistage systématique de la tuberculose active doit être envisagé chez les personnes dont la radiographie thoracique présente une lésion fibreuse non traitée (recommandation conditionnelle, données de très faible qualité).
+
+Les personnes dont la radiographie thoracique présente une lésion fibreuse non traitée peuvent faire l'objet d'un dépistage systématique de la tuberculose-maladie (recommandation conditionnelle, très faible certitude quant aux données).
+
+Dans les milieux où la prévalence de la tuberculose dans la population générale est supérieure ou égale à 100/100 000, un dépistage systématique de la tuberculose active doit être envisagé chez les personnes qui viennent se faire soigner ou sont déjà soignées et appartiennent à certains groupes à risque (recommandation conditionnelle, données de très faible qualité).
+
+Dans les milieux où la prévalence de la tuberculose dans la population générale est supérieure ou égale à 100/100 000, un dépistage systématique de la tuberculosemaladie peut être effectué chez les personnes présentant un facteur de risque pour la tuberculose qui veulent se faire soigner ou sont déjà soignées (recommandation conditionnelle, très faible certitude quant aux données).
+
+Recommandation de 2013
+
+Recommandation de 2021
+
+Un dépistage systématique de la tuberculose active peut être envisagé pour des souspopulations géographiques particulières présentant des niveaux extrêmement élevés de tuberculose non détectée (prévalence supérieure ou égale à 1 %) (recommandation conditionnelle, données de très faible qualité).
+
+Un dépistage systématique de la tuberculosemaladie peut être effectué dans la population générale dans les zones où l'on estime que la prévalence de la tuberculose est supérieure ou égale à 0,5 % (recommandation mise à jour :
+
+recommandation conditionnelle, faible certitude quant aux données).
+
+Un dépistage systématique de la tuberculose active peut aussi être envisagé pour d'autres sous-populations qui ont un accès très limité aux soins de santé, telles que les personnes vivant dans des bidonvilles urbains, les sansabri, les personnes vivant dans des zones isolées ayant un accès limité aux soins de santé, et d'autres groupes vulnérables ou marginalisés comprenant certaines populations autochtones, les migrants et les réfugiés (recommandation conditionnelle, données de très faible qualité).
+
+Un dépistage systématique de la tuberculosemaladie peut être réalisé dans les sous-populations présentant des facteurs de risque structurels de tuberculose. Ces populations comprennent les communautés urbaines pauvres, les sans-abri, les communautés vivant dans des zones éloignées ou isolées, les populations autochtones, les migrants, les réfugiés, les personnes déplacées à l'intérieur de leur propre pays et d'autres groupes vulnérables ou marginalisés ayant un accès limité aux soins de santé (recommandation conditionnelle, très faible certitude quant aux données).
+
+Les adultes et les adolescents vivant avec le
+
+VIH qui sont dépistés pour la tuberculose à l'aide d'un algorithme clinique et signalent l'un quelconque des symptômes de toux, fièvre, perte de poids ou sueurs nocturnes peuvent être atteints de tuberculose active et doivent être évaluées pour la tuberculose et d'autres affections (recommandation forte, données de qualité moyenne).
+
+Chez les adultes et les adolescents vivant avec le VIH, un dépistage systématique de la tuberculose-maladie doit être réalisé à l'aide du dépistage à quatre symptômes recommandé par l'OMS, et les personnes qui signalent l'un quelconque des symptômes de toux actuelle, fièvre, perte de poids ou sueurs nocturnes peuvent être atteintes de tuberculose et doivent être évaluées pour la tuberculose et d'autres affections (recommandation forte, certitude moyenne quant aux données).
+
+Tableau supplémentaire
+
+Pour de plus amples informations, veuillez contacter :
+
+Programme mondial de lutte contre la tuberculose
+
+Organisation mondiale de la Santé
+
+20, Avenue Appia – CH-1211 Genève 27 – Suisse
+
+Site Web : www.who.int/tb

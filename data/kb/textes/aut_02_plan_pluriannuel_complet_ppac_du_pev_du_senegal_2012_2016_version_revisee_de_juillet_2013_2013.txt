@@ -1,0 +1,3515 @@
+République du Sénégal
+
+Un Peuple - Un But - Une Foi
+
+MINISTERE DE LA SANTE ET DE L'ACTION SOCIALE
+
+DIRECTION DE LA PREVENTION
+
+Version du 21 Juillet 2013
+
+PREFACE
+
+Au Sénégal comme dans les autres pays de l'Afrique subsaharienne, les maladies évitables par la vaccination sont les premières causes de la mortalité des enfants de moins de 5 ans. La politique de vaccination au Sénégal s'inspire du Plan National de Développement Sanitaire (PNDS) qui repose lui-même sur les stratégies proposées par le Document de Politique Economique et Sociale (DPES) représentant le cadre unique d'intervention de tous les acteurs au développement au Sénégal.
+
+Depuis 2001 le programme Elargi de Vaccination au Sénégal est un programme dynamique et performant qui couvre 9 maladies. En 2004 le Sénégal a introduit dans le PEV de routine le vaccin contre l'Hépatite B et en 2005 celui contre les infections à HIB sous forme de vaccin pentavalent. La couverture au DTC3 (penta3 à partir de 2005) est passée de 45% en 2001 à 87% en 2009 celle du vaccin contre la rougeole de 42% en 2001 à 80 % en 2009. Le Sénégal a été déclaré libre de circulation du Polio Virus Sauvage autochtone en 2004. Depuis 2004 aucun cas de décès dû à la rougeole n'a été notifié alors que le pays avait enregistré plus de 1000 cas en 2001.Tous les districts ont en 2009 atteint l'objectif de moins d'un cas de Tétanos Néonatal pour 1000 naissances vivantes. La validation de l'élimination du TMN par le pays a été effective en 2011. Tous les districts ont eu à organiser des campagnes préventives ou de riposte contre la fièvre jaune entre 2002 et 2007. L'incidence de la méningite bactérienne à HIB chez les enfants de moins de 1 an est passée de 21,5 cas pour 100.000 à 1,4 de 2003 à 2007 suite à l'introduction du vaccin en 2005.
+
+Le présent Plan Pluri Annuel Complet (PPAC) couvre la période 2012-2016. Il a été élaboré en 2011 et révisé en 2012, puis en Juin 2013. Son objectif est de contribuer à la réduction de la mortalité infanto juvénile et l'amélioration de la santé de la mère par la vaccination et la surveillance des maladies. Sa rédaction s'est appuyée sur une bonne analyse situationnelle avec notamment une enquête sur la gestion efficace des vaccins en 2009, puis en 2012 et un inventaire de la logistique (en 2009 et 2013)et une revue externe en 2010. Cette analyse situationnelle a permis de résumer les performances du PEV et de formuler des recommandations pertinentes pour son amélioration. Ce plan établit les priorités, développe les stratégies, détermine les principales activités, évalue les coûts et les sources de financement pour la période 2012 à 2016. La particularité de ce plan réside dans l'introduction de 3 nouveaux vaccins dans la routine : le vaccin contre le pneumocoque en 2013, les vaccins contre les rotavirus, la rubéole et la deuxième dose de rougeole en 2014 et un projet de démonstration de vaccination contre le Papilloma virus. Le coût du PEV sur la période 20122016 est de $144 809 071 (72 404 535 647 FCFA) et est couvert à hauteur de 99% si l'État maintient ses engagements et si les partenaires confirment leurs intentions (financements assurés et probables).
+
+L'élaboration de ce plan est le fruit d'une participation de tous les intervenants du secteur de la vaccination au Sénégal. Le Ministère de la Santé et de l'action sociale le considère comme le document de référence nationale et recommande son appropriation par tous les acteurs afin de permettre une meilleure synergie d'action pour sa mise en œuvre à travers les divers projets, programmes et autres plans de travail.
+
+Le plan pluriannuel 2012- 2016 sera mis en œuvre avec une révision annuelle et par des plans de travail annuels. Ce processus dynamique permettra de prendre en compte d'éventuels changements.
+
+Le Ministre de la Santé et de l'Action Sociale
+
+LISTE DES ABREVIATIONS
+
+ANR
+
+BCG
+
+BCI
+
+BRISE
+
+BS
+
+CCIA
+
+CDF
+
+CDMT
+
+CDSMT
+
+CIP
+
+CNCPEV
+
+CPN
+
+DAGE
+
+DAN
+
+DI
+
+DPES
+
+DPM
+
+DL
+
+DP
+
+DPRS
+
+DREAT
+
+DGS
+
+DSRV
+
+DSRP
+
+DTC
+
+ECD
+
+ECR
+
+EDS
+
+ESIS
+
+GAVI
+
+GIVS
+
+IEC
+
+JNM
+
+JNV
+
+JSE
+
+LUXDEV
+
+MAPI
+
+MCA
+
+MCD
+
+MCR
+
+MII
+
+MLM
+
+OCB
+
+OMD
+
+OMS
+
+ONG
+
+PC
+
+PCIME
+
+PCV
+
+PDV
+
+PEV
+
+PFA
+
+Autorité Nationale de Réglementation
+
+Bacille de Calmette et Guérin (vaccin contre la tuberculose)
+
+Budget consolidé d'investissement
+
+Bureau Régional de L'immunisation et de la Surveillance Epidémiologique Boite de Sécurité
+
+Communication pour le Changement de Comportement
+
+Comité de Coordination Inter Agences
+
+Chaine de froid
+
+Cadre de Dépenses à Moyen Terme
+
+Cadre de dépenses sectorielles à moyen terme
+
+Communication inter personnelle
+
+Comité National de Coordination du Programme Elargi de Vaccination Consultation Prénatale
+
+Couverture Vaccinale
+
+Direction de l'administration générale et de l'équipement
+
+Division de l'Alimentation et de la Nutrition
+
+Division de l'Immunisation
+
+Document de politique économique et sociale
+
+Direction de La Pharmacie et du Médicament
+
+Direction du Laboratoire
+
+Direction de la Prévention
+
+Direction de la Planification de la Recherche et de la Statistique Délégation à la réforme de l'état et à l'assistance technique
+
+Direction Générale de la Santé
+
+Division de la Surveillance et de la Riposte Vaccinale
+
+Document de Stratégie de Réduction de la Pauvreté
+
+Diphtérie Tétanos Coqueluche (vaccin)
+
+Equipe Cadre de District
+
+Equipe Cadre de Région
+
+Enquête Démographique et de Santé
+
+Enquête Sénégalaise sur les Indicateurs de Santé
+
+Alliance Mondiale pour les Vaccins et la Vaccination
+
+Global immunization: vision and strategies
+
+Information Education Communication
+
+Journées nationales de micronutriments
+
+Journées nationales de vaccination
+
+Journées de survie de l'enfant
+
+Coopération luxembourgeoise pour le développement
+
+Manifestations Adverse Post Immunisation
+
+Millénium Challenge Account
+
+Médecin Chef de District
+
+Médecin Chef de Région
+
+Moustiquaires imprégnées d'insecticide
+
+Mid Level Management
+
+Organisation Communautaire de Base
+
+Objectifs du Millénaire pour le Développement
+
+Organisation mondiale de la santé
+
+Organisation non gouvernementale
+
+Paquet complet
+
+Prise en Charge Intégrée des Maladies de L'enfant
+
+Pastille de contrôle des vaccins
+
+Perdus de vue
+
+Programme Elargi de Vaccination
+
+Paralysie Flasque Aigue
+
+PM
+
+PNA
+
+PNDS
+
+PNLP
+
+PNT
+
+PPS
+
+PPTE
+
+PRA
+
+PRONALIN
+
+PTA
+
+PVS
+
+RED
+
+RGPH
+
+RSS
+
+SAB
+
+SASDE
+
+SD
+
+SIMR
+
+SNEIPS
+
+TNM
+
+TPIn
+
+TT
+
+Td
+
+UNICEF
+
+USAID
+
+VAA
+
+VAR
+
+VAT
+
+VPO
+
+VVM
+
+Paquet minimum
+
+Pharmacie Nationale d'approvisionnement
+
+Plan National de Développement Sanitaire et Social
+
+Programme national de lute contre le paludisme
+
+Programme national de lutte contre la tuberculose
+
+Point de Prestation de Services
+
+Pays Pauvres Très Endettés
+
+Pharmacie Régionale d'Approvisionnement
+
+Programme National de Lutte Contre les Infections Nosocomiales
+
+Plan de travail annuel
+
+Poliovirus Sauvage
+
+Reach Every District
+
+Recensement général de la population et de l'habitat
+
+Renforcement du système de santé
+
+Seringue Autobloquante
+
+Stratégie Accélérée pour la Survie et le Développement de L'enfant Seringue de dilution
+
+Surveillance intégrée des maladies et de la riposte
+
+Service national de l'éducation et de l'information pour la santé
+
+Tétanos Néonatal et Maternel
+
+Traitement préventif intermittent chez les nourrissons
+
+Toxine Tétanique
+
+Tétanos diphtérie
+
+Fonds des Nations Unies pour l'Enfance
+
+United states aid for development
+
+Vaccin Anti Amaril (contre la Fièvre Jaune)
+
+Vaccin Anti Rougeoleux
+
+Vaccin Antitétanique
+
+Vaccin Polio Oral
+
+Vaccine vial monitor
+
+LISTE DES TABLEAUX
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Tableau I : Estimation des besoins de la capacité de stockage en litre au niveau central de 2012 à 2013.
+
+Tableau II : Calendrier vaccinal en vigueur au Sénégal
+
+Tableau III : Evolution des indicateurs de performance de la surveillance des maladies cibles Tableau IV : Couvertures vaccinales et caractéristiques socio démographiques selon l'enquête EDSV de Tableau V : Couverture vaccinales des campagnes rougeoles
+
+Tableau VI: Evolution des indicateurs de risque/protection du TMN de 2006 à 2009* Tableau VII : Synthèse de l'analyse situationnelle du PEV du Sénégal Tableau VIII : axes stratégiques et lignes d'action
+
+Tableau IX : Plan de mise en œuvre
+
+Tableau X : prévision de vaccins pour la vaccination de routine 2012-2016 Tableau XI : Estimation des consommables pour la période 2012 à 2016 Tableau XII : Estimation des coûts pour les vaccins et consommables la période 2012 à 2016 Tableau XIII : prévision de vaccins et consommables pour les campagnes Tableau XIV : Coûts du PEV en 2011
+
+Tableau XV : Synthèse des coûts du PEV pour la durée du PPAC
+
+Tableau XVI : Sources de financement Assuré et Probable pour le PPAC Tableau XVII : Répartition des écarts financiers tenant compte des financements assurés et probables Tableau XVIII : Evolution du cofinancement des nouveaux vaccins pneumocoque, et rota virus Tableau XIX : Suivi des indicateurs du PPAC
+
+LISTE DES GRAPHIQUES
+
+Graphique I : Tendance de la mortalité infantile et de la mortalité infanto-juvénile au Sénégal selon les enquêtes EDS
+
+Graphique II : évolution des taux de perte par antigène de 2001 à 2009 Graphique III : Nombre de cas de MAPI (majeurs et mineurs) notifié de 2001 à 2009 Graphique IV : évolution de la promptitude et de complétude des données de 2001 à 2009 Graphique V : Evolution des couvertures vaccinale du PEV au Sénégal selon les données administratives Graphique VI : Performances des districts selon DTC3/Penta3 de 2001 à 2009 Graphique VII : évolution du taux d'abandon DTC1 (Penta1)/DTC3(Penta 3) de 2001 à 2009 Graphique VIII : Couvertures vaccinales du PEV au Sénégal selon les données d'enquêtes Graphique IX : Evolution des cas suspects et décès liés à la Rougeole de 2001 à 2009 Graphique X : Evolution de la couverture en VAT2+ chez les femmes enceintes et de la notification du TMN de Graphique XI: Nombre de cas et proportion de HIB parmi les méningites bactériennes à l'hôpital Albert Royer de Dakar de 2002 à 2008
+
+Graphique XII : Structure des coûts en 2011
+
+Graphique XIII : profil du financement en 2011
+
+Graphique XIV : Evolution des couts du PPAC par stratégies
+
+Graphique XV : Répartition des coûts en fonction des postes de dépenses Graphique XVI : Evolution des coûts du PEV de 2012 à 2016
+
+Graphique XVII : Coûts du PEV de 2012 à 2016 en fonction des postes de dépenses Graphique XVIII : profil des sources de financement du plan (2012-2016) Graphique XIX : projection du financement assuré et probable de 2012 à 2016 LISTE DES CARTES
+
+Carte 1 : Localisation du Sénégal dans la sous région
+
+SOMMAIRE
+
+I INTRODUCTION
+
+La vaccination occupe une place très importante dans la politique nationale de santé du Sénégal depuis l'adoption des soins de santé primaires avec l'intégration du programme élargi de vaccination (PEV) pour la prévention des maladies évitables par l'immunisation.
+
+Le Sénégal s'est engagé en 2000 dans la relance du PEV au décours d'une période difficile marquée par la baisse des niveaux de couverture vaccinale et la recrudescence des maladies telles que la rougeole. Suite à la revue du PEV de 2000 et l'élaboration des plans stratégiques 2001 -2005 et 2007-2011, un certain nombre d'actions et de mesures ont été prises dont:
+
+- le renforcement de la coordination du Programme au niveau central par la création d'une Division de l'immunisation logée à la Direction de la Prévention;
+
+- la création d'un CCIA (comité national de coordination du PEV) regroupant le ministère de la santé et les partenaires impliqués ;
+
+- l'inscription et l'augmentation d'une ligne budgétaire consacrée à l'achat des vaccins et consommables qui a amélioré la disponibilité en vaccins ;
+
+- le renouvellement de la logistique roulante et de la chaîne du Froid ;
+
+- le renforcement des capacités gestionnaires du personnel de santé à tous les niveaux ;
+
+- le renforcement des activités de vaccination et de la sécurité des injections grâce au soutien de GAVI ;
+
+- le monitorage régulier des performances du PEV.
+
+Cet engagement s'est traduit par une nette amélioration de la gestion du programme à tous les niveaux même s'il reste encore des défis à relever. Parmi les résultats, on peut citer :
+
+- une augmentation soutenue et constante des couvertures vaccinales
+
+- une gestion efficace et efficiente des vaccins à tous les niveaux
+
+- un système efficace de surveillance de la sécurité vaccinale
+
+- l'allocation de ressources financières adéquates et leur mobilisation en vue d'assurer un financement pérenne du programme national de vaccination.
+
+La plupart des contraintes et obstacles à l'atteinte des résultats escomptés en matière de vaccination restent liées au système de santé dont le renforcement est indispensable pour garantir la pérennité de la performance du PEV.
+
+En 2010 une autre revue externe du PEV a été exécutée, à la demande du Ministère de la Santé, motivée par une baisse notable des performances du programme à partir de 2008. Les principales conclusions et recommandations de cette dernière revue ont été intégrées dans le PPAC.
+
+La 58ème Assemblée Mondiale de la santé a adopté en avril 2005 le projet intitulé « La Vaccination dans le monde : vision et stratégie » dans sa résolution WHA 53.12 qui présente la vaccination comme un facteur important pour promouvoir la santé de l'enfant. Cette nouvelle vision pour la vaccination dans le monde (GIVS) s'inscrit en droite ligne de la stratégie de réduction de la pauvreté, dont l'une des composantes essentielles est la santé. Les ressources additionnelles tirées de l'initiative PPTE seront orientées pour cibler les groupes les plus vulnérables dans le but d'atteindre les OMD.
+
+La mise en œuvre de la politique de santé a permis des avancées notables dont la réduction du taux de mortalité infanto juvénile qui est passé de 121 ‰ à 72‰ entre EDS IV (2005) et EDS V-MICS (2010/2011). Le PEV a fortement contribué à cette baisse qui a été constatée par la mise en œuvre d'initiatives et de stratégies de lutte accélérée contre les maladies notamment contre la poliomyélite, la rougeole et par l'introduction de nouveaux vaccins (Hépatite b et Hib).
+
+Le présent plan stratégique du PEV et de la surveillance qui fait siennes les orientations cidessus est la concrétisation d'une volonté politique nationale et d'un engagement des partenaires. Il définit les axes majeurs d'intervention pour la période 2012-2016 en vue de contribuer en synergie avec les autres programmes de santé maternelle et infantile à la réduction significative des taux de morbidité et de mortalité liés aux maladies évitables par la vaccination et à l'amélioration de la santé et de la qualité de vie des populations en général.
+
+II CONTEXTE
+
+II.1 GENERALITES
+
+Situé à l'Ouest du continent Africain (entre les 12,5 et 16,5 degrés de latitude Nord), le Sénégal s'étend sur 196.722 km2, limité au Nord par la Mauritanie, à l'Est par le Mali, au Sud par la Guinée et la Guinée Bissau. Le pays est divisé en 14 régions, 45 départements, 121 arrondissements, 150 communes, 46 communes d'arrondissement et 370 communautés rurales englobant les villages. Le climat est du type soudano- sahélien avec une saison sèche allant de novembre à juin et une saison des pluies de juillet à octobre. La pluviométrie annuelle passe de 300 mm au Nord du Pays quasi désertique à 1200 mm dans le Sud.
+
+Figure 1 : Carte du Sénégal
+
+La population est estimée (projection du RGPH 2002) en 2012 à 13 215 541 habitants avec un taux d'accroissement annuel de 2,7 % (source ANSD). Le taux de natalité est de 39‰ (EDSVMICS_2010-2011) alors que l'indice synthétique de fécondité est estimé à 5,0 enfants par femme. Avec 67,3 habitants au Km2, le Sénégal a l'un des taux d'urbanisation les plus élevés d'Afrique noire (DPS 2005). La population est jeune avec environ 50 % de moins de 16 ans.
+
+Les enfants de 0 à 5 ans représentent 19,4 % de la population totale.
+
+La pauvreté est considérée au Sénégal comme étant un paquet de manques relatifs au revenu monétaire, à la nourriture, l'habillement, le logement décent, et l'accès à l'éducation, la santé et l'eau potable. L'approche empirique de cette définition de la pauvreté est traduite par un panier de biens alimentaires et non-alimentaires, indispensables, à chaque individu ou groupe d'individus, pour vivre dans des conditions décentes. Ainsi, l'incidence de la pauvreté indique la proportion d'individus n'ayant pas accès à ce panier minimal.
+
+Selon les résultats de l'étude sur la pauvreté chronique en 2008-2009, le profil de pauvreté au Sénégal révèle que 6 personnes sur 10 sont soit pauvres soit vulnérables. Sur 6 personnes dans la catégorie pauvre, 4 sont pauvres et 2 sont en réalité vulnérables à un choc (économique, sanitaire et écologique) qui peut les faire rapidement basculer dans la pauvreté. Au Sénégal, sur 100 pauvres, 54%résident en milieu rural, 29 % à Dakar et sa banlieue et à 17 % dans les autres villes. Les vulnérabilités sont particulièrement fortes en milieu rural qui concentre 94% des vulnérables contre seulement 4%dans les autres villes et 2% à Dakar. Les principaux indicateurs sanitaires de l'EDSV-MICS_2010-2011, portant sur2010/2011, montrent que des progrès ont été réalisés mais que l'état de santé de la mère et de l'enfant reste préoccupant :
+
+- Taux de mortalité maternelle : de 332 pour 100.000 naissances vivantes
+
+- Taux de mortalité infantile : 47‰ (rural 59 et urbain 44)
+
+- Taux de mortalité infanto juvénile : 72‰ (rural 102 et urbain 62) Il ressort de ces indicateurs que les zones rurales, pauvres et souvent éloignées payent le plus lourd tribut de la morbidité et de la mortalité au niveau des groupes les plus vulnérables que sont les femmes et les enfants.
+
+Graphique 1 : Tendance de la mortalité infantile et de la mortalité infanto-juvénile au Sénégal selon les enquêtes EDS IV et V-MICS
+
+II.2 DOCUMENTS ET POLITIQUES DE SANTE
+
+Dans le cadre d'une démarche inclusive, l'Etat du Sénégal met en place, depuis le milieu des années 1990, des politiques, stratégies et programmes intégrés avec comme objectif fondamental une lutte plus efficiente contre la pauvreté et la recherche de l'émergence économique. Les années 2000, notamment à partir de 2003, sont ainsi marquées par la mise en œuvre du Document de Stratégie de Réduction de la Pauvreté (DSRP-I, 2003-2005) réactualisé en 2006 pour couvrir la période 2006-2010 (DSRP-II). En l'occurrence, le DSRP s'est avéré être un cadre de référence partagé en matière de politique économique et sociale pour la croissance et la réduction de la pauvreté, dans le contexte général de poursuite des Objectifs du Millénaire pour le Développement (OMD).
+
+Pour la période quinquennale 2011-2015, l'ensemble des acteurs ont convenu de la nécessité d'élaborer, une stratégie nationale empreinte à la fois de réalisme et de rupture : le Document de Politique Economique et Sociale (DPES). La présente stratégie, cadre unique d'intervention de tous les acteurs au développement, s'inscrit dans une vision de long terme et contre l'exclusion sociale qui appelle des politiques de gouvernance centrale et locale engagées, dont l'objectif intermédiaire est l'atteinte des OMD en 2015. Cadre de référence de la politique économique et sociale du Sénégal, ce document analyse la situation de base en dressant un bilan-diagnostic du DSRP-II, décline la vision et les orientations stratégiques, déroule le plan d'actions prioritaires et expose les mécanismes de sa mise en œuvre.
+
+Le sous-secteur de la santé a connu des résultats positifs entre 2006 et 2007. Cependant, certains indicateurs ont fluctué négativement, notamment ceux en rapport avec les OMD.
+
+Ainsi, pour une meilleure prise en charge de la santé de la mère et de l'enfant, la lutte contre les grandes maladies, les objectifs et politiques suivants sont visés pendant la période 20112015 afin d'assurer des services performants du système de santé :
+
+- réduire le fardeau de la morbidité et de la mortalité maternelles et infanto-juvéniles par des actions et mesures d'une généralisation de l'assistance à l'accouchement dans les formations sanitaires et assistés par du personnel qualifié, d'un renforcement de l'assistance à la consultation postnatale et d'une promotion de la survie de l'enfant par la vaccination et l'amélioration de l'état nutritionnel ;
+
+- améliorer les performances du sous-secteur de la santé en matière de prévention et de lutte contre les grandes maladies en assurant la promotion du dépistage et en renforçant le système de surveillance médicale ;
+
+- renforcer durablement le système de santé en assurant la maintenance et le renouvellement des équipements et en améliorant la qualité des soins ;
+
+- améliorer la gouvernance du sous-secteur de la santé en assurant l'efficience et l'efficacité des dépenses de santé ainsi qu'une meilleure implication les Collectivités Locales dans le financement de la santé et en développant l'approche communautaire et le partenariat multisectoriel.
+
+Les éléments décrits ci-dessus dans le DPES figurant dans le DSRPII ont servis de base à l'élaboration du Plan National de Développement Sanitaire 2009-2018 qui repose sa vision sur un Sénégal où tous les individus, tous les ménages et toutes les collectivités bénéficient d'un accès universel à des services de santé promotionnels, préventifs, curatifs et ré-adaptatifs de qualité sans aucune forme d'exclusion et où il leur est garanti un niveau de santé économiquement et socialement productif. La mise en œuvre de ce plan s'inscrit dans l'atteinte des objectifs nationaux et internationaux en matière de santé notamment les objectifs du DPES et des OMD.
+
+Les stratégies d'intervention au cours des dix prochaines années seront véritablement tournées vers la réalisation du bien-être des familles sénégalaises par l'amélioration de la qualité de l'offre de services. Cette orientation majeure passe par un système de santé accessible à tous, avec des collectivités locales et des agents de santé responsables et qui rendent compte, des populations organisées qui participent et contrôlent, des partenaires techniques et financiers qui s'alignent de manière synergique aux priorités nationales. Les principes qui vont guider la mise en œuvre du PNDS 2009-2018 sont la participation, la multisectorialité, la transparence, la solidarité et la sexo-spécificité.
+
+Les orientations stratégiques du PNDS II sont les suivantes:
+
+- Accélération de la lutte contre la mortalité et morbidité maternelles néonatales et infanto juvéniles ;
+
+- Amélioration de la Promotion de la santé,
+
+- Renforcement de la prise en charge de la maladie
+
+- Renforcement de la surveillance intégrée de la maladie et de la riposte
+
+- Développement des ressources humaines,
+
+- Renforcement des Infrastructures, des Equipements et de la Maintenance,
+
+- Amélioration de la disponibilité des médicaments et produits médico-chirurgicaux,
+
+- Renforcement du système d'information et de la recherche en santé ;
+
+- Promotion de la gestion axée sur les résultats,
+
+- Amélioration des capacités du secteur en matière de planification et de gestion administrative et financière,
+
+- Renforcement de la couverture du risque maladie en mettant l'accent sur les groupes vulnérables.
+
+- Intégration des nouveaux vaccins
+
+II.2.3 POLITIQUE NATIONALE DE VACCINATION
+
+Les orientations du PNDS ont été reprises dans PPAC. En effet le PEV, initié au Sénégal depuis 1979, vise la réduction de la morbidité et de la mortalité liées aux maladies cibles évitables par la vaccination. Dans le cadre de la vaccination de routine qui se fait en stratégie fixe, avancée et mobile tous les antigènes doivent être administrés aux enfants avant leur premier anniversaire et aux femmes enceintes.
+
+Avec l'introduction du vaccin pentavalent en 2005, neuf antigènes sont offerts à travers le PEV dans toutes les localités du pays. Une attention particulière est accordée à la qualité de conservation des vaccins, à la sécurité des injections avec l'utilisation d'un matériel d'injection à usage unique et à la gestion des déchets piquants. Les axes stratégiques majeurs du PEV sont :
+
+- le renforcement du système de santé et de vaccination ;
+
+- l'amélioration des capacités gestionnaires à tous les niveaux ;
+
+- l'approvisionnement suffisant en vaccins de qualité ;
+
+- la maintenance et le renouvellement de la logistique ;
+
+- le renforcement de la communication et de la mobilisation sociale en faveur du PEV ;
+
+- un financement adéquat et durable du PEV.
+
+II.2.2 SYSTEME DE SANTE
+
+II.2.2.1 organisation du système
+
+Le système de santé du Sénégal est organisé selon une structure pyramidale à trois niveaux :
+
+central, intermédiaire constitué par les Régions Médicales et périphérique appelé district sanitaire. L'Etat envisage une réforme du système de santé et le travail confié à la DREAT en cours de finalisation.
+
+Niveau Central
+
+Le niveau central regroupe, outre le Cabinet du Ministre, le Secrétariat Général, des Directions et des Services rattachés. Trois ordres de difficultés gênent le fonctionnement des services sur le plan institutionnel : (i) le nombre important de services rattachés, (ii) le conflit de compétences entre services centraux partageant les mêmes missions, (iii) le manque de précision dans les missions du fait de l'absence d'arrêtés d'application.
+
+Niveau intermédiaire : La Région Médicale (RM)
+
+Le Sénégal compte 14 régions médicales. La région médicale, dont l'aire d'intervention correspond à celle de la région administrative, assure la coordination, la supervision, l'inspection et le contrôle des structures sanitaires publiques et privées de la région. Elle organise la collaboration technique entre toutes les structures régionales de santé et les assiste dans leur tâche d'administration, de gestion et de planification. Toutefois, les Régions Médicales jouent difficilement ce rôle en raison de l'insuffisance des capacités et des ressources humaines et logistiques.
+
+Niveau périphérique : District Sanitaire (DS)
+
+Le Sénégal compte 76 districts sanitaires qui constituent une subdivision sanitaire proche des populations. Le district est l'unité opérationnelle la plus périphérique de la pyramide sanitaire.
+
+Il s'y applique la médecine dans son aspect quadridimensionnel : curatif, préventif, social et éducatif. Le district est constitué d'un ou de plusieurs centres de santé et englobe un réseau de postes de santé eux-mêmes supervisant les cases de santé et les maternités rurales. Les districts comme les régions médicales manquent de capacités. Cette situation explique la faiblesse des équipes cadres.
+
+II.2.2.2 Renforcement du Système de Santé
+
+Le renforcement du système de santé du Sénégal, vise l'amélioration de l'utilisation et de l'offre de service de santé de qualité y compris la vaccination. Il s'inscrit dans le cadre de l'atteinte des objectifs retenus pour la mise en œuvre de la deuxième phase du Programme National de Développement Sanitaire (PNDS, 2004-2008), du Cadre de Dépenses Sectorielles à Moyen Terme (CDSMT, 2008-2010) et du plan stratégique de Survie de l'enfant (20082015). Le RSS a pour but de renforcer les capacités du système de santé en vue d'améliorer les performances des programmes de santé maternelle et infantile. Les principaux objectifs visés par le renforcement du système sont :
+
+1. Renforcer les compétences des agents de santé sur la gestion des programmes impliqués dans la santé de la mère, du nouveau né et de l'enfant
+
+2. Augmenter les capacités opérationnelles des districts
+
+3. Améliorer le système de suivi-évaluation des programmes de santé
+
+III ANALYSE DE LA SITUATION
+
+III.1 ORGANISATION ET GESTION DU PROGRAMME
+
+Au plan institutionnel, l'organisation et la gestion du PEV ont tiré profit de la restructuration du ministère de la santé en 2005avec la mise en place d'une Direction de la Prévention Médicale au sein de laquelle se trouvent la Division de l'Immunisation et celle de la Surveillance Epidémiologique. Cette restructuration s'est accompagnée d'un renforcement en ressources humaines au niveau central et a permis d'améliorer de manière significative la gestion du programme. Cependant le programme manque encore d'autonomie notamment financière.
+
+DP
+
+Division
+
+Immunisation
+
+Division
+
+Surveillance et
+
+Riposte Vaccinale
+
+Régions Médicales (14)
+
+-
+
+-
+
+-
+
+-
+
+Définition Politiques, Stratégies, Normes et Directives
+
+Mobilisation et allocation ressources
+
+Coordination et suivi
+
+Appui aux Régions et Districts
+
+Application des Politiques et Normes
+
+Coordination et Supervision
+
+Suivi évaluation et Monitorage
+
+Districts Sanitaires (76)
+
+III.1.1 Planification
+
+Organigramme de la DP et place du PEV
+
+Le pays a élaboré un plan pluriannuel complet pour le PEV 2007/2011 avec une mise à jour annuelle régulière. En 2010, 83% des districts visités dans le cadre de la revue externe disposaient d'un plan de travail annuel (PTA) avec des activités de vaccination.
+
+III.1.2 Coordination
+
+La coordination des activités de vaccination se fait à tous les niveaux :
+
+Le Sénégal dispose d'un comité consultatif pour la vaccination (CCVS) qui est un organe consultatif chargé d'apporter aux autorités sanitaires et aux gestionnaires du Programme national de vaccination des orientations dans la définition et la mise en œuvre des politiques et stratégies nationales de vaccination. Il est composé d'experts nationaux dans différentes disciplines et émet des avis ou recommandations dans le domaine des vaccins et de la vaccination. Les termes de références décrivant le mandat, les rôles et responsabilités, la composition, les réunions du comité, les aspects de confidentialité et conflit d'intérêt du comité sont en annexe du présents PPAC.
+
+Le CCIA politique réunissant tous les partenaires et présidé par le Ministre de la santé est planifié par trimestre. Il doit valider les décisions proposées par le CCIA technique et assurer la mobilisation des ressources. Cependant il ne se réunit pas régulièrement.
+
+Le CCIA technique qui réunit les partenaires techniques autour du staff de la DPM se tient régulièrement. Cependant sa composition n'intègre pas toutes les parties prenantes.
+
+Les différentes réunions de bilan, de monitorage, de coordination au niveau des régions médicales et des districts ne sont pas régulières
+
+III.1.3 Supervision
+
+Les supervisions planifiées du niveau central vers les régions (tous les six mois), des régions vers les districts (tous les 3 mois) et des districts vers les postes de santé (tous les mois) ne sont pas régulièrement menées.
+
+Dans 92% des districts une grille de supervision était disponible. Seuls 42% des districts visités disposaient d'un plan de supervision pour 2010.
+
+Les supervisions ne sont pas toujours documentées .Un feedback écrit aux postes de santé n'a été retrouvé que dans 17% des districts visités et les cahiers de supervision au niveau poste ont été rarement retrouvés.
+
+III.2
+
+APPROVISIONNEMENT
+
+CONSOMMABLES
+
+CONSERVATION
+
+DES
+
+VACCINS
+
+ET
+
+III.2.1 Estimation des besoins en vaccins et approvisionnement
+
+Depuis 2001, un plan d'approvisionnement en vaccins et consommables est élaboré chaque année à partir de l'outil forecast, ce qui permet d'avoir une disponibilité permanente en vaccins et consommables au niveau central et intermédiaire. Les procédures standards de réception des vaccins et consommables et du transport de l'aéroport et du port jusqu'au dépôt central sont généralement respectées.
+
+La méthode d'estimation des besoins en vaccins est basée sur la population cible à tous les niveaux. Du fait de la non maitrise des cibles, certains districts et unités de vaccinations réajustent leurs besoins en tenant compte de la consommation antérieure.
+
+Les rythmes d'approvisionnement selon les niveaux sont les suivants :
+
+Le niveau central s'approvisionne tous les 6 mois ;
+
+Le niveau régional tous les 3 mois
+
+Le district tous les 2 mois ;
+
+Le poste de santé tous les mois.
+
+Des progrès importants ont été notés dans la régularité de l'approvisionnement en vaccins aux niveaux central, régional et district. Le taux de disponibilité des vaccins s'est nettement amélioré à tous les niveaux. Depuis 2010 la ligne est régulièrement libérée et aucune rupture n'a été enregistrée au niveau central.
+
+III.2.2 Conservation des vaccins
+
+Les dépositaires conservent les vaccins conformément aux recommandations de l'OMS. Au niveau central, les chambres froides n'étant pas équipées de système d'enregistrement automatique des températures, les enregistrements se font manuellement.
+
+Au niveau des dépôts régionaux et de district, 72% des responsables effectuent un relevé manuel biquotidien des températures et l'archivage des fiches mérite d'être amélioré (GEV 2012).La majorité des postes dispose de relevés manuels journaliers des températures qui ne sont pas systématiquement archivés. L'exploitation de ces relevés n'est presque jamais faite en fin de mois pour évaluer la qualité du stockage. L'inventaire physique mensuel des vaccins et consommables, est rarement effectué et/ou documenté.
+
+Des enregistreurs continus de températures sont disponibles et ils seront distribués à tous les niveaux. Ce qui permettra de corriger les manquements notés sur le monitorage des températures.
+
+Actuellement, selon la directive nationale, il est interdit de congeler les vaccins au niveau intermédiaire et périphérique quelles que soient par ailleurs leurs natures.
+
+III.2.3 Utilisation des vaccins
+
+Comme le montre le graphique II, on note une baisse constante dans les taux de perte en vaccins depuis 2001. Les taux de perte des vaccins sont assez bien maîtrisés pour les vaccins liquides (moins de 10%) et acceptables pour les vaccins lyophilisés (<25%).
+
+Grapique 2 : évolution des taux de perte par antigène de 2001 à 2009
+
+5. Logistique, Chaîne de froid et transport
+
+Une évaluation de la gestion efficace des vaccins (GEV) a été réalisée en 2012, suite à celle de 2009. Il a été remarqué une amélioration nette des neufs critères. Dans le cadre de la mise en œuvre des recommandations de la GEV 2012, un inventaire de la logistique du PEV a été réalisé et les gaps en matière de chaîne de froid sont en train d'être comblés. Une autre évaluation est prévue en septembre 2015.
+
+5.1 Chaîne de froid
+
+Au niveau central 5 chambres froides positives (3 de 30m 3 et 2 de 40 m3) d'une capacité nette totale de 53125 litres et une chambre froide négative (20m3) d'une capacité nette totale de 6 250 litres sont disponibles.
+
+Avec l'introduction au niveau national des vaccins contre le pneumocoque en 2013, de la deuxième dose de rougeole, du vaccin contre le rota virus ,du vaccin contre le Papillomavirus humain en 2014 dans deux districts, les besoins estimés à 26418 litres en positif seront couverts jusqu'en 2016 (voir tableau 1)
+
+Tableau 1 : Estimation des besoins de la capacité de stockage en litre au niveau central de 2012 à 2016.
+
+Besoins
+
+Annuels
+
++2°C à
+
+Besoins périodiques
+
++2°C à
+
+Capacité disponible
+
++2°C à
+
+ANNEE
+
+Gap à combler
+
++2°C à
+
+Pneumo
+
+Rota+RR
+
+Au niveau de chaque région médicale, Il est prévu de mettre une chambre froide de capacité de 10 à 12 m3 cette (5 sont déjà installées sur 14) ce qui permet de combler tous les gaps à ce niveau et ce jusqu'en 2016.
+
+Au niveau des districts, les gaps sont passés de 79 (2012) à 14 frigos grâce aux acquisitions faites par l'UNICEF, par l'Etat et dans le cadre du RSS GAVI. Les réfrigérateurs disponibles au niveau des régions médicales (40), après mise en place des chambres froides régionales, seront redéployés vers les districts sanitaires.
+
+Au niveau des unités de vaccination, l'inventaire national de la chaîne de froid effectuée en Janvier 2013 a permis d'avoir une situation précise de l'existant et des gaps. A partir de Mars
+
+2013, la mise en place de 279 RCW50, 70 Sibir et 12 TCW2000 a permis de combler les gaps jusqu'en 2016.
+
+5.2 Logistique roulante
+
+La DP dispose de 7 véhicules dont 6 datant de plus de cinq ans. Depuis janvier 2011, le transport des vaccins et consommables du niveau central au niveau des régions, est assuré par la PNA, dans le cadre d'une convention la liant avec la DP .
+
+L'inventaire de Janvier 2013 a montré que 20 districts sur 76 ne disposent pas de véhicule fonctionnel et 502 unités de vaccination sur 1262 étaient sans motos fonctionnelles.
+
+Dans La région de Saint Louis, la distribution des vaccins est assurée par des entrepôts mobiles jusqu'au niveau des unités de vaccination (acquis de l'ancien projet Optimize).
+
+III.3 COMMUNICATION
+
+Un plan stratégique de communication pour le PEV a été élaboré en 2002 pour la période 2002
+
+- 2007. Un nouveau plan est en cours d'élaboration pour prendre en compte les recommandations de la revue externe de 2010 de l'enquête de couverture de 2013 , et de l'introduction des nouveaux vaccins .
+
+On note la présence de comités de mobilisation sociale à tous les niveaux avec une bonne adhésion des populations à la vaccination. Cependant quelques insuffisances sont notées :
+
+- Insuffisance de ressources humaines et matérielles au Bureau communication de la DP
+
+- Insuffisance des supports et autres matériels de communication pour le PEV de routine
+
+- Mobilisation sociale plus évènementielle notamment lors des campagnes de vaccination de masse au détriment de la routine
+
+- Faiblesse dans l'évaluation et le suivi des activités de communication du PEV Il existe cependant des opportunités avec un maillage dense d'organisations communautaires de base (OCB) ainsi que des relais assurant des activités de promotion de la santé par la communication interpersonnelle et la mobilisation sociale. De plus les radios publiques, privées et communautaires sont bien réparties sur l'ensemble du pays. Par ailleurs, le développement des médias sociaux constitue une bonne opportunité pour communiquer autour de la vaccination notamment avec la cible jeune
+
+La mise en œuvre du plan de communication à l'occasion de l'introduction de nouveaux vaccins (Pentavalent , Menafrivac ) , l'organisation d'AVS (Polio, Rougeole, Fièvre jaune, Tétanos) , et de Semaines Africaines de vaccination ont été des opportunités pour renforcer les activités de communication en faveur du PEV de façon intense sur l'ensemble du territoire.
+
+Ainsi, l'expérience acquise servira de base pour l'introduction d'autres nouveaux vaccins.
+
+En ce qui concerne la vaccination contre le papillomavirus, un accent particulier sera mis sur la spécificité du vaccin et de la cible des jeunes filles âgées de 9 à 13 ans Pour le rota virus, son introduction sera l'occasion de renforcer la communication sur les MAPI.
+
+III.4 RENFORCEMENT DES COMPETENCES
+
+III.4.1 Formation initiale
+
+Des enseignants de la Faculté de Médecine et de l'Ecole Nationale de Développement Sanitaire ont reçu une formation sur le PEV dans le but de l'intégrer dans la formation initiale des médecins, infirmiers et sages-femmes. Ainsi, après la révision des curricula de formation des pédiatres et l'ouverture du Diplôme Interuniversitaire d'Immunologie (DIUI), l'intégration du PEV dans les curricula de formation des infirmiers, sages femmes et assistants infirmiers et la formation des enseignants de l'ENDSS et des CRF contribueront à la production en fin de cycle déjà de ressources humaines compétentes pour manager le programme.
+
+Il existe un centre national de formation en maintenance hospitalière qui forme des techniciens supérieurs. La prise en compte de la maintenance des équipements de la CDF du PEV dans leurs curricula pourra permettre de prendre en charge la préoccupation du programme.
+
+III.4.2 Formation continue
+
+D'après les résultats de la revue externe du PEV de 2010, seuls 58% des prestataires des districts visités avaient bénéficié d'une formation formelle en PEV de routine durant les trois dernières années, et 17% des MCD d'une formation en management.
+
+Le guide national du PEV révisé donne des orientations claires sur la façon dont les activités de vaccination doivent être menées au niveau du pays, et sera mis par le niveau central à la disposition des districts sanitaires. Ce guide prend en compte les nouvelles orientations en matière d'introduction de nouveaux vaccins.
+
+Un plan de formation a été élaboré et est entrain d'être mis en œuvre ; ce plan prévoit de former ou recycler tous les prestataires avant fin 2013 grâce au pool national de formateurs mis en place et à l'appui des partenaires techniques et financiers.
+
+III.5 PRESTATION DES SERVICES
+
+La vaccination de routine au niveau des points de prestation de service se fait en stratégie fixe, avancée et mobile. Après le vaccin contre l'hépatite B en 2004 et celui contre hæmophilus influenzae type B (Hib) en juillet 2005, le calendrier vaccinal en vigueur se présente comme indiqué au tableau 2.Il n'y a pas de directives nationales concernant le rattrapage des enfants de plus d'un an. Cette activité est laissée à l'appréciation des districts sanitaires.
+
+Le pays a organisé plusieurs campagnes de masse contre la poliomyélite, la fièvre jaune, le tétanos, la rougeole et la méningite.
+
+Tableau 2 : Calendrier vaccinal en vigueur au Sénégal
+
+Enfants 0-11 mois
+
+- Naissance
+
+- 6 semaines
+
+- 10 semaines
+
+- 14 semaines
+
+- 9 mois
+
+Femmes enceintes
+
+- Dès le premier contact
+
+- 4 semaines après
+
+- 6 mois après
+
+- 12 mois après
+
+- 12 mois
+
+Vaccins
+
+BCG, VPO 0
+
+Pentavalent1, VPO1
+
+Pentavalent 2, VPO2
+
+Pentavalent 3, VPO3
+
+Rougeole, Fièvre jaune
+
+VAT
+
+VAT1
+
+VAT2
+
+VAT3
+
+VAT4
+
+VAT5
+
+La revue externe a permis de faire les constats suivants :
+
+Toutes les unités vaccinent en fixe au moins une fois par mois mais les stratégies avancée et mobile planifiées ne sont mises en œuvre que dans 33% des districts visités.
+
+La cartographie existe dans la majorité des districts sanitaires, cependant les zones difficiles d'accès ne sont matérialisées que dans 33% des cas.
+
+Les plans spécifiques pour atteindre les populations d'accès difficile n'existent que dans 17% des districts visités.
+
+Une courbe d'auto monitorage des performances à jour a été retrouvée dans 36% des unités visitées.
+
+Un plan de relance des perdus de vues (PDV) impliquant la communauté existe dans la plupart des districts visités même si aucune évaluation de ces plans n'est disponible.
+
+L'observation directe a révélé une bonne organisation des séances de vaccination dans les postes visités. Des insuffisances ont été notées au niveau de certaines unités (recapuchonnage des aiguilles, défaut d'enregistrement, des ruptures de vaccins en cours de séances...).
+
+L'insuffisance de la communication inter personnelle (CIP) lors de séances de vaccination a été notée dans toutes les observations.
+
+III.6 SECURITE DES INJECTIONS
+
+La revue externe a révélé une bonne maitrise de la technique de vaccination par les agents et une utilisation des vaccins lyophilisés avec les diluants des fabricants. L'utilisation exclusive de SAB et des boites de sécurité est systématique depuis 2004. Il n'y a jamais eu de rupture pour ces consommables.
+
+Les directives nationales en matière d'élimination des BS sont claires. Toutes les boites doivent être incinérées selon un plan élaboré au niveau de chaque district. La gestion des BS est bien documentée à partir des fiches mises en place et des rapports mensuels. Pendant les campagnes de masse, les industries locales et les hôpitaux disposant de grandes capacités sont mis à contribution pour l'incinération des BS. Lors de la revue il a été noté des BS en souffrance au niveau de certaines structures. Le besoin en incinérateur au niveau national est estimé à 46 par l'inventaire de 2010 réalisé dans le cadre du projet Optimize. L'UNICEF prévoit de construire 20 incinérateurs d'ici fin 2016. En attendant de couvrir le gap restant, les stratégies actuellement en place consistant à utiliser les incinérateurs des hôpitaux et des industries seront maintenues.
+
+Selon la revue externe du PEV de 2010, les outils de gestion des MAPI sont disponibles au niveau des unités mais rarement utilisés (36% des unités visitées).La DPM est responsable du système de pharmacovigilance, y compris la surveillance des MAPI, en étroite collaboration avec la DP qui lui transmet les notifications. Elle transmet les données au centre antipoison chargé de l'imputabilité des cas notifiés.
+
+L'évolution du nombre MAPI notifiés, entre 2004 et 2012 est présentée dans le tableau suivant :
+
+Graphique 3: Nombre de cas incidents de MAPI (majeures et mineures) notifiés de 2001 à
+
+III.7 SURVEILLANCE DES MALADIES ET RIPOSTE
+
+Le système de surveillance est centré sur le district sanitaire. Il existe un système fonctionnel de surveillance basée sur le cas portant sur les maladies évitables par la vaccination (polio, rougeole, fièvre jaune, TMN, méningite). D'autres maladies à potentiel épidémique comme le choléra et la shigellose sont surveillées en routine dans toutes les structures. Des sites sentinelles sont mis en place pour la grippe, la Méningite Bactérienne Pédiatrique et le Rotavirus. En ce qui concerne la méningite, le Sénégal est passé de la surveillance de la Méningite Cérébrospinale à la Surveillance Renforcée des Méningites en routine, pour mieux suivre l'efficacité de la campagne de vaccination avec le MenAfriVac dans le cadre de l'élimination du Neisseria meningitidis A en 2012, l'introduction de l'Hib dans le PEV en 2006 et l'introduction prochaine du pneumocoque.
+
+Au niveau des régions, districts et hôpitaux, tous les Points Focaux de Surveillance ont été mis en place et formés. La Revue Rapide de la Surveillance des PFA en juin 2012 a montré la complétude des rapports à 100%, l'organisation régulière des réunions de coordination et la régularité de la rétro-information. Les deux (2) indicateurs majeurs de la surveillance des PFA ont été atteints en 2012. Le taux de PFA chez les enfants de moins de 15 ans et la proportion de selles prélevées dans les 14 jours sont respectivement de 2,6 pour 100.000 et 80%.
+
+Un bulletin hebdomadaire de surveillance épidémiologique est régulièrement publié et prend en compte toutes les maladies sous surveillance. Les résultats de la surveillance sont généralement satisfaisants, avec atteinte des performances requises pour les indicateurs majeurs (Tableau III).
+
+Le système de surveillance des maladies à potentiel épidémique souffre de la faible capacité diagnostique des laboratoires périphériques pour la confirmation des diarrhées sanglantes, du choléra, et de la méningite cérébro-spinale.
+
+Tableau3: Evolution des indicateurs de performance de la surveillance des maladies cibles INDICATEURS
+
+Taux de PFA non polio
+
+-
+
+-
+
+-
+
+-
+
+Échantillons prélevés dans les 14 jours suivant la paralysie (%)
+
+Proportion de districts avec au moins un cas suspect de fièvre jaune investigué avec un échantillon de sang prélevé
+
+Proportion de districts avec au moins un cas suspect de rougeole investigué avec un échantillon de sang prélevé
+
+Proportion de cas de TNN ayant fait l'objet d'investigation
+
+Proportion de cas de TNN ayant fait l'objet de riposte
+
+Les indicateurs relatifs au dépistage des cas de PFA et de rougeole ont connu une baisse en 2011, expliquée surtout par la non formation des nouveaux Points Focaux. La situation est corrigée en 2012 pour les PFA et stationnaire pour la rougeole, même si par ailleurs l'objectif du taux d'affections fébriles non rougeoleuses a été dépassé. Sa valeur en 2012 était de 2,2 pour 100.000 habitants.
+
+III.8 GESTION DES DONNEES
+
+Les données de vaccination sont collectées au niveau des unités de vaccination à partir des TACOJO (tableau de collationnement journalier des données) et transmises au District par le rapport mensuel. La saisie informatique sur la maquette de gestion des données est faite au niveau district et transmise à la région médicale et au niveau national. Un bulletin de rétro information est publié chaque mois par le niveau national après synthèse et analyse des données.
+
+Comme le montre le graphique IV, la complétude des rapports des districts est de 100% depuis 2001.La promptitude est faible et n'a dépassée 50% qu'en 2005.La répartition des enfants vaccinés selon le sexe n'est pas analysée car les informations sur le sexe ne sont pas prises en compte par les outils de collecte actuellement utilisés.
+
+De Juin 2010 à Mars 2013,il y'a eu une rétention des informations du PEV , du fait d'un mot d'ordre syndical .
+
+Graphique 4 : évolution de la promptitude et de complétude des données de 2001 à 2009 III.9 INTRODUCTION DE NOUVEAUX VACCINS
+
+III.9.1 LEÇONS TIREES DE L'INTRODUCTION DE NOUVEAUX VACCINS
+
+Ayant intégré le GIVS qui préconise l'élargissement de la gamme des vaccins pour protéger contre plus de maladies, le Sénégal a introduit avec succès dans son PEV de routine le vaccin anti hépatite B en 2004 et le vaccin contre les infections à Haemophilus influenzae type b (Hib) en 2005 avec le soutien de GAVI. Les décisions se sont appuyées sur un fort engagement des autorités sanitaires et sur les données de surveillance. Le Sénégal s'est engagé à poursuivre la vaccination après la fin du financement GAVI et a pour cela, développé un plan financier pour atteindre cet objectif. De l'évaluation de l'introduction du Hib on retiendra les points suivants :
+
+Un plan détaillé pour l'introduction du vaccin a été rédigé. Toutes les activités de ce plan ont été financées et mises en œuvre.
+
+La stratégie était d'introduire d'emblée le vaccin sur l'ensemble du territoire national.
+
+Les enfants qui avaient commencé leur série vaccinale avec le DTC-Hep ont continué avec le penta. Il n'y a pas eu de système de rattrapage pour les enfants qui n'ont reçu qu'une ou deux doses de penta ;
+
+Il n'y a pas eu de problème pour les capacités de stockage car un inventaire avait été fait pour identifier les gaps et ensuite les combler.
+
+Pour prévenir le risque de gel du penta, une nouvelle directive a été édictée interdisant la congélation de tous les types de vaccins au niveau intermédiaire et périphérique. Il est aussi envisagé actuellement de mettre en place des enregistreurs automatiques de température au niveau de tous les dépôts de vaccins à l'échelle du pays d'ici fin 2016.
+
+Les taux de pertes qui étaient en baisse constante depuis 2001 ont augmenté après l'introduction du penta en 2005. Ceci s'explique par la perturbation du système de rapportage et également par la destruction des stocks de DTC-Hep au niveau des unités de vaccination.
+
+Suite aux supervisions formatives et à l'harmonisation du système de rapportage les taux de pertes ont fortement diminués.
+
+Avant l'introduction tous les agents ont été formés. Les modules de formation utilisés ont intégré les connaissances sur les vaccins traditionnels, la surveillance et les principes de gestion couvrant tous les domaines de compétence du PEV. Cette formation a été consolidée sur le terrain par une supervision formative. Cette supervision a été l'occasion d'appuyer toutes les directives du PEV et de la surveillance.
+
+Pour faire le marketing des nouveaux vaccins, des supports nouveaux ont été confectionnés.
+
+Ceci a permis à côté de la campagne médiatique, d'améliorer la visibilité du programme avec un accent particulier sur les nouveaux vaccins.
+
+La nécessité de surveiller les effets des nouveaux vaccins ont permis de relancer la surveillance des MAPI pour tous les antigènes.
+
+Tous les supports ont été revisités, révisés et mis à jour tout en y intégrant les nouveaux vaccins. Les données collectées ont connu une déperdition à travers le DTC et l'hépatite (HB) qui n'étaient plus comptabilisées dans le nouveau système qui a adopté Penta1, Penta2, Penta3 à la place de DTC- HB1, DTC- HB2, DTC- HB3.
+
+Suite à cette introduction, les Partenaires ont fait le plaidoyer auprès des Autorités Politiques pour un engagement dans le Co financement. Cet engagement a permis de veiller davantage à la mobilisation de la ligne d'achat des vaccins et consommables et cette ligne a même connu une hausse.
+
+On a noté une légère baisse des couvertures (PENTA 3 /DTC3) et une augmentation des taux d'abandons en 2005. Ces situations sont consécutives à un problème de rapportage des données. Les enfants qui ont complétés leur série avec le penta ont été reportés comme penta 1 en lieu et place de DTC2 ou DTC3. Ce problème a été vite résolu par les supervisions.
+
+Une baisse significative de l'incidence des méningites bactérienne à HIB a été notée III.9.2 INTRODUCTION DE NOUVEAUX VACCINS
+
+La stratégie du GIVS est de protéger davantage de personnes dans un monde qui change, en adoptant de nouveaux vaccins et de nouvelles technologies. C'est ainsi que le vaccin contre l'hépatite B a été introduit dans le PEV en 2004, suivi du vaccin cotre le Hib sous forme Pentavalent (DTCP-Hib-HeB) en Juillet 2005.
+
+Le vaccin MenAfrivac (Vaccin Conjugué A contre la Méningite) a été introduit en campagne de masse dans 8 régions. Le vaccin contre le Pneumo PCV 13 a été approuvé par GAVI en 2012, et son introduction est prévue en octobre 2013.
+
+Toutefois, en Afrique sub-saharienne, les infections au rotavirus, au papillomavirus et le syndrome de rubéole congénitale demeurent un problème de santé publique.
+
+En effet, 110 à 230 000 décès sont liés aux infections à rotavirus par an, et donc la principale cause de diarrhée grave chez les jeunes enfants ; presque tous les enfants sont infectés à l'âge de 2-3 ans.
+
+Au Sénégal, 38,5% des cas suspects de Rougeole sont IgM positifs à la Rubéole. Selon les données issues du site sentinelle de l'hôpital d'enfants Albert Royer (HEAR) de 2006 à 2011, 86 enfants de moins d'un an ont un Syndrôme Rubéole Congénitale (SRC) confirmé.
+
+S'agissant des infections à papillomavirus, le cancer du col est le premier cancer gynécologique au Sénégal. Selon les informations issues du Globocan 2008, l'incidence pour tous âges est de 19,7 p 100 000 femmes, avec une mortalité de 36 p 100 000 femmes.
+
+Par conséquent, le Sénégal, à l'instar des Pays d'Afrique est dans la dynamique d'accélérer les progrès pour atteindre les OMD, ceci dans le cadre de la stratégie de vision mondiale de la vaccination (GIVS). Pour y arriver, l'un des leviers essentiels est de poursuivre l'introduction de nouveaux vaccins. Ainsi, après avoir élargi la gamme des vaccins offerte au pentavalent et au vaccin anti-pneumococcique, le pays envisage d'introduire d'abord le vaccin contre les infections à Rotavirus, ensuite les vaccins contre la rubéole, et la rougeole (deuxième dose), et enfin le vaccin contre les infections à papillomavirus en démonstration dans deux districts pilotes en 2014.
+
+D'abord l'introduction du vaccin contre le rotavirus va permettre d'améliorer l'accès et les bénéfices de la prestation à une très grande majorité des enfants de moins de 5 ans.
+
+Ensuite, la stratégie d'administration du vaccin anti rougeoleux combiné au vaccin anti rubéoleux fournit une possibilité de synergie et un tremplin pour faire progresser l'élimination de la rougeole d'une part, et d'autre part de la rubéole.
+
+Enfin, la vaccination contre le papillomavirus couplée au dépistage, va réduire la prévalence globale des cancers du col et des lésions précancéreuses.
+
+III.10 ASPECTS D'INTEGRATION
+
+La Vitamine A entraîne une réduction de 23% du taux de mortalité des enfants âgés de moins de cinq (5) ans et une réduction de 70% du taux de cécité d'où son impact sur l'OMD 4 qui a pour objectif de réduire de 2/3 entre 1990 et 2015, la mortalité infantile. Pour y arriver, le Sénégal a élaboré récemment un plan de routinisation de l'administration de la Vitamine A pour remplacer les journées de supplémentation plus coûteuses et moins pérennes. Parmi les occasions identifiées pour procéder à la Supplémentation, on retrouve:
+
+- La vaccination du nourrisson au BCG (pour la mère dans les 6 semaines après l'accouchement) ;
+
+- La vaccination du nourrisson contre la rougeole et la fièvre jaune La mise en œuvre de la stratégie PCIME dans certains districts a permis l'intégration effective de la vaccination à d'autres activités telles que : la vérification du statut nutritionnel, le traitement des maladies, la supplémentation en Vitamine A et le déparasitage. Le passage à l'échelle de cette intervention est en cours.
+
+Les campagnes de vaccination de masse ont été souvent couplées à la distribution de vitamine A, de Moustiquaires imprégnées et le déparasitage.
+
+Le Sénégal a mené de 2006 à 2009 une étude de faisabilité du traitement préventif intermittent du paludisme chez l'enfant de 0 à 1 an couplé au PEV dans les districts de Vélingara, Kédougou et Saraya situés au Sud-Est du pays dans une zone de transmission stable du paludisme. Les résultats ont montré que l'intégration avec le TPIn a permis de renforcer le PEV de routine qui en est la locomotive. La volonté de mise à l'échelle initialement affirmée dans les zones de transmission intense à modérée a été abandonnée au profit de la chimioprévention du paludisme saisonnier conformément aux recommandations de l'OMS Il s'agit d'organiser en 3-4 passages une campagne d'administration de la combinaison Amodiaquine sulfadoxine pyrimethamine avec un intervalle d'un mois entre les passages pour les enfants âgés de 3 mois à 10 ans des régions de Tambacounda, Kédougou, Kolda et Sédhiou. Cette volonté a été affirmée dans la circulaire de révision des directives de prise en charge du paludisme et dans le plan de la chimioprévention du paludisme saisonnier tous deux élaborés en 2013. La stratégie utilisée sera le porte à porte avec des acteurs traditionnellement impliqués dans les AVS et sera l'occasion d'intégrer d'autres interventions notamment le PEV de routine.
+
+Le Sénégal connait depuis 2011, une crise nutritionnelle et la vaccination constitue un élément important de la réponse et du paquet de service offert aussi bien au niveau communautaire, qu'au niveau structure (UREN et CREN)
+
+Il est envisagé d'intégrer le transport et la distribution des vaccins et consommables dans le circuit PNA-PRA. Rappelons que c'est ce circuit qui est utilisé pour distribuer les médicaments et produits essentiels génériques et ceux des autres programmes. A cet effet, une étude pilote est en train d'être menée dans la région de saint louis avec le projet Optimize. Si les résultats de cette étude s'avèrent concluants, l'approche sera mise progressivement à l'échelle au niveau national.
+
+Le Sénégal a adopté la stratégie régionale de surveillance intégrée de la maladie et de la riposte (SIMR). Au sein du Ministère de la santé et la prévention, la surveillance est logée dans la même direction que le PEV. Les maladies faisant l'objet de surveillance sont :
+
+Les maladies cibles du PEV notamment celles objet d'éradication ou d'élimination Les maladies à potentiel épidémique : choléra, méningite, les shighelloses ; la grippe La rage
+
+Les MAPI.
+
+Dans le cadre du suivi, en plus des revues annuelles conjointes nationale et régionales pour évaluer les PTA, des supervisions conjointes sont organisées sous l'égide de la Direction de la Santé avec la participation des programmes prioritaires (PEV, PNLP, PNT et VIH)s. L'objectif visé était d'une part une optimisation des ressources utilisées mais aussi une meilleure planification des activités permettant ainsi aux districts et régions de disposer de plans d'actions globaux et intégrés.
+
+III.11RESULTATS ATTEINTS PAR LE PROGRAMME
+
+III.11.1 Couvertures vaccinales
+
+Aussi bien les données administratives que les enquêtes attestent que le PEV du Sénégal est un programme dynamique avec des couvertures en hausse depuis 2001.
+
+Selon les données administratives, le PEV du Sénégal présente une amélioration significative des performances en matière de couvertures pour tous les antigènes depuis 2001 (graphique V).
+
+L'évolution des couvertures peut se décliner en 4 périodes :
+
+- De 2001 à 2004 avec une augmentation très importante des couvertures
+
+- De 2004 à 2007 avec une augmentation moins forte
+
+- De 2007 à 2009 avec une inflexion des couvertures en 2008.
+
+Graphique 5 : Evolution des couvertures vaccinale du PEV au Sénégal selon les données administratives
+
+La couverture au DTC3 (penta 3 à partir de 2005) est passée de 45% en 2001 à 87% en 2009 et celle du VAR de 42% en 2001 à 80 % en 2009. On note une augmentation constante de la proportion des districts ayant un taux de couverture DTC3/Penta 3 supérieur à 80%. Cette proportion est passée de 4% en 2001 à 71% en 2009. Dans le même temps, la proportion de districts avec une couverture inférieure à 50% a fortement diminué passant de 60% en 2001 à 0% depuis 2005(graphique VI).
+
+-
+
+-
+
+Les taux d'abandon Penta1/Penta3 sont restés à un niveau acceptable malgré une légère hausse entre 2005 et 2006 du fait d'un problème de reportage lié à l'introduction du penta et au retrait du DTC- Hep en milieu d'année. Les différences de couvertures entre le VAA et le VAR en 2004 et en 2009 sont le reflet d'une rupture de vaccins respectivement du VAR et du VAA. Les taux d'abandon DTC1 (Penta1) / DTC3(Penta3) ont connu une baisse constante depuis 2001 et sont actuellement en dessous du seuil des 10%(graphique VII). En 2005 ce taux avait augmenté suite à l'introduction du penta du fait d'un problème de rapportage entre ce vaccin et le DTC.
+
+De 2009 à 2013 : Rétention des données : Les données de 2010 à 2012 n'ont pas pu être recueillies du fait d'un mot d'ordre de grève préconisant une rétention d'informations sanitaires. Cependant il a été conduit des enquêtes de couverture vaccinale en 2010, puis en 2013 ciblant les enfants âgés de 12 à 23 mois. Les Résultats des Enquêtes de couverture vaccinale montrent une progression des couvertures (voir tableau).
+
+Tableau 4 : Résultats des enquêtes de couvertures vaccinales de 2010 et 2013
+
+BCG
+
+Penta 1
+
+Penta 2
+
+-
+
+Penta 3
+
+VAR
+
+Graphique VI :Performances des districts selon DTC3/Penta3 de 2001 à 2009
+
+Graphique 7 : évolution du taux d'abandon DTC1 (Penta1)/DTC3(Penta 3) de 2001 à 2009 Les données d'enquêtes (graphique VIII) montrent également une progression constante des couvertures vaccinales dans le temps. L'enquête de couverture vaccinale de décembre 2010 ciblant les enfants âgés de 12 à 23 mois a donné les résultats suivants selon cartes et Histoires :
+
+BCG (95%), Penta 3 (74%), VAR (79%). Selon l'EDSV (tableau IV) réalisée en 2010/2011 le PEV du Sénégal présente :
+
+- Une bonne accessibilité avec des couvertures élevées en BCG (95%) et Penta 1 (94%)
+
+- De bonnes couvertures pour le Penta 3 (83%) et la rougeole (82%)
+
+- Une proportion acceptable d'enfants complètement vaccinés de 63%
+
+- Un taux d'abandon entre penta 1 et Penta 3 de 12%
+
+Graphique 8 : Couvertures vaccinales du PEV au Sénégal selon les données d'enquêtes Tableau 5 : Couvertures vaccinales et caractéristiques socio démographiques selon l'enquête EDSV de 2010/2011
+
+Caractéristiques sociodémographiques
+
+Sexe
+
+Masculin
+
+Féminin
+
+Milieu de résidence
+
+Urbain
+
+Rural
+
+Niveau d'instruction
+
+Aucun
+
+Elémentaire
+
+Moyen ou plus
+
+Ensemble
+
+BCG
+
+Penta 1
+
+Penta 3
+
+Rougeole
+
+ECV
+
+III.11.2 Lutte contre les maladies cibles du PEV
+
+III.11.2.1 Eradication de la poliomyélite
+
+Le dernier cas de poliomyélite à poliovirus sauvage autochtone au Sénégal a été notifié en 1998. Le Sénégal avait été déclaré libre de circulation du PVS en 2004. Ces résultats ont été obtenus grâce à une augmentation constante de la couverture au VPO3 à plus de 80%, une surveillance active des PFA atteignant annuellement les 2 indicateurs majeurs (taux de PFA non polio et proportion d'échantillons adéquats) et l'organisation entre 1997 et 2005 plusieurs éditions de JNV de qualité avec des taux de couverture dépassant 99%.Cependant, suite à la baisse des performances constatées en 2007 et à la circulation intense du PVS en Afrique de l'Ouest, le pays a connu une importation de PVS et 18 cas ont été enregistrés dans le pays entre Janvier et Avril 2010, ce qui a poussé le pays à organiser six passages de JNV polio. Il n'y a pas eu de nouveau cas de PVS depuis le mois d'avril 2010.
+
+III.11.2.2 Lutte contre la Rougeole
+
+Le nombre de cas de rougeole était estimé à 25.000 en 2001 avec près de 1000 décès.
+
+L'organisation de la campagne de vaccination de rattrapage pour la cible 9 mois – 14 ans en janvier 2003 (95% de couverture) et l'augmentation de la couverture de routine au VAR qui est passée de 42% en 2001 à 80% en 2009 ont permis de baisser de façon significative le nombre de cas de rougeole (graphique IX). La surveillance basée sur le cas a permis de noter que le nombre de cas confirmés est passé respectivement de 31 cas en 2004 à zéro en 2005.Cependant en Juin 2009 le pays a connu une épidémie avec999 cas de rougeole (confirmés par le laboratoire ou le lien épidémiologique). Une Campagne de riposte a été organisée dans 47 districts à risque en Mars 2010 et une autre de suivi à l'échelle nationale au mois de Novembre de la même année. Par ailleurs il faut noter qu'aucun cas de décès dû à la rougeole n'a été notifié depuis 2005.
+
+L'évolution du nombre de cas et décès de rougeole durant les dix dernières années (2001 à 2012) est présentée dans le graphique suivant :
+
+Graphique 9 : Évolution du nombre de cas confirmés au laboratoire ou par lien épidémique, Sénégal, de 2001 à 2012.
+
+Tableau 6 : Couvertures vaccinales des campagnes rougeoles
+
+Couverture administrative
+
+ND
+
+Couverture enquête
+
+ND
+
+Actuellement, l'objectif de la lutte contre la rougeole au Sénégal est de réaliser son élimination d'ici à 2020, conformément au but de la Stratégie Régionale Africaine de l'OMS. On peut citer entre autres interventions prioritaires envisagées : le renforcement de la vaccination de routine, l'offre d'une seconde opportunité de vaccination des enfants, par l'organisation de campagnes de vaccination supplémentaires, l'introduction d'une deuxième dose de VAR dans le Programme Elargi de Vaccination ainsi que l'atteinte et le maintien d'une surveillance de la rougeole basée sur le cas et le laboratoire de haute qualité.
+
+III.11.2.3 Elimination du Tétanos maternel et néonatal
+
+Le nombre de cas de tétanos néonatal est passé de 33 à 16 entre 2003 et 2009 et pendant la même période, le nombre de Districts à risque élevé de TNN est passé de 14 à 2.Depuis 2008 aucun district n'a notifié plus d'un cas pour 1000 naissances vivantes. Ces résultats ont été obtenus grâce à l'amélioration des conditions d'accouchement, à l'amélioration des couvertures de routine et l'organisation de campagnes de vaccination des FAR dans les districts à haut risque.
+
+Graphique 10 : Evolution de la couverture en VAT2+ chez les femmes enceintes et de la notification du TMN de 2001 à 2009
+
+Tableau 7 : Evolution des indicateurs de risque/protection du TMN de 2006 à 2009* Indicateurs
+
+% VAT2+ chez femmes enceintes
+
+Taux d'utilisation de la CPN
+
+Taux d'accouchements assistés
+
+Proportion de districts ayant atteint l'objectif de moins d'un cas de TMN pour 100%
+
+1000 naissances vivantes
+
+*Source : données administratives du Ministère de la Santé et de la Prévention
+
+Afin de valider l'élimination du TMN au Sénégal une enquête auprès des ménages a été réalisé par la technique du contrôle de la qualité des lots couplé à un sondage en grappe en décembre 2011 dans le district de Matam qui présentait le plus haut risque pour le TMN dans le pays.
+
+Aucun cas de décès par tétanos néonatal n'ayant été identifié parmi les 1 423 naissances vivantes examinées, le TMN a été considéré comme éliminé dans le district de Matam et conséquemment au Sénégal pour la période du 1er novembre 2010 au 31 octobre 2011. Des recommandations ont été également formulées pour maintenir l'élimination du TMN.
+
+III.11.2.4 Contrôle de la fièvre jaune
+
+Depuis 2006 le Sénégal n'a pas enregistré de cas autochtone de fièvre jaune. La couverture de routine est passée de 33% en 2001 à 70% en 2010. Tous les districts ont eu à organiser des campagnes préventives ou de riposte entre 2002 et 2007. Suite à une notification de cas dans le district de Kédougou une campagne de riposte à l'échelle de la Région a été organisée.
+
+III.11.2.5 Méningites bactériennes à HIB
+
+Le nombre de cas de méningites bactériennes à HIB n'a cessé de décroître depuis l'introduction du vaccin en 2005 avec 1 seul cas en 2008 comme le montre le graphique XI.
+
+Dans le même temps, la proportion de méningites à HIB parmi les méningites bactériennes a également baissé. L'incidence chez les enfants de moins de 1 an est passée de 21,5 cas pour
+
+Graphique 11 : Nombre de cas et proportion de HIB parmi les méningites bactériennes à l'hôpital Albert Royer de Dakar de 2002 à 2008
+
+Tableau 8 : Synthèse de l'analyse situationnelle du PEV du Sénégal Composante
+
+Organisation & gestion du programme
+
+Forces
+
+Tenue des réunions du CCIA
+
+Politique et du comité technique
+
+Rôle de plaidoyer et de mobilisation des ressources par le CCIA politique et
+
+Tenue des réunions trimestrielles de monitorage
+
+Faiblesses
+
+Faible implication des ONG et organisation de la société civile au CCIA technique
+
+Faiblesse de Collaboration entre le PEV et les autres programmes de santé
+
+Les Bureaux régionaux de l'Immunisation et Surveillance Epidémiologique (BRISE) non fonctionnels dans la majorité des régions
+
+Faiblesse du positionnement institutionnel du PEV (manque d'autonomie de gestion pour renforcer le programme)
+
+Opportunités
+
+Programme de renforcement Système de santé (RSS)soutenus par plusieurs partenaires pour renforcer la collaboration entre les différents programmes
+
+Introduction de nouveaux vaccins
+
+Menaces
+
+Tension du climat social dans le secteur
+
+Logistique, gestion des vaccins et consommables, sécurité des injections
+
+Gestion informatisée des stocks
+
+Capacité de stockage suffisante au niveau national et des postes de santé
+
+Plan quinquennal de réhabilitation de la logistique
+
+Renforcement des ressources humaines au niveau de la logistique
+
+Convention avec la PNA pour le transport et la distribution des vaccins
+
+Utilisation systématique des
+
+SAB, SD et BS dans tous les PPS
+
+Bonne maitrise des techniques de vaccination
+
+Réhabilitation de la chaine de froid et capacité de stockage suffisante à tous les niveaux
+
+Monitorage régulier de la
+
+Température (enregistreur continue)
+
+Evaluation GEV suivi d'un plan d'amélioration
+
+Logistique de transport insuffisant (motos, véhicules de supervision) ;
+
+Absence de plan de maintenance des équipements
+
+Faible disponibilité des générateurs de secours au niveau périphérique
+
+Couverture insuffisante en incinérateur
+
+Lenteur dans les procédures d'acquisition à partir du budget de l'Etat
+
+Appui des partenaires au développement pour la réhabilitation de la logistique et la formation en maintenance.
+
+Perspectives de passage à l'échelle du projet d'entrepôts mobiles
+
+Discontinuité de la fourniture en électricité
+
+Communication et mobilisation sociale
+
+Adhésion des populations a la vaccination.
+
+Existence de structures chargées de la communication à tous les niveaux.
+
+Faible mise en œuvre du Plan National de Communication du PEV
+
+Faiblesse du Bureau communication de la Direction de la Prévention (DP)
+
+Suivi insuffisant des activités de communication du PEV
+
+Mobilisation sociale uniquement lors des campagnes
+
+Renforcement compétences
+
+Existence d'un guide national sur le PEV
+
+Disponibilité de modules de formation sur le PEV
+
+Existence d'un Pool national de formateurs sur le PEV
+
+Existence d'un DIU en vaccinologie
+
+Révision des curricula de formation des pédiatres pour prendre en compte les aspects pratiques du PEV
+
+Insuffisance de la formation initiale et continue du personnel au niveau des districts
+
+Irrégularité de la supervision formative à tous les niveaux
+
+Insuffisance de la documentation des supervisions effectuées
+
+Appui des partenaires
+
+Existence de réseaux communautaires la richesse et la diversité du paysage médiatique
+
+Possibilité d'intégration avec les autres programmes de santé
+
+Existence de réseaux de relais et acteurs communautaires.
+
+Existence du volet communautaire du programme sante l'USAID/
+
+SENEGAL
+
+Existence de ressources d'autres programmes pouvant être mobilisées pour une supervision intégrée au niveau district (palu, tuberculose, VIH ....)
+
+Projet de révision des curricula de formation des écoles de santé
+
+Composante
+
+Prestation des services de santé
+
+Forces
+
+Vaccination en stratégie fixe au quotidien dans toutes les unités
+
+Existence de plan de relance des Perdus de vue avec la communauté
+
+Formation des équipes de district pour la mise en œuvre de l'approche ACD
+
+Bonne expérience dans l'organisation des campagnes
+
+Bonne expérience dans l'introduction de nouveaux vaccins
+
+Faiblesses
+
+Insuffisance et irrégularité des stratégies avancées et mobiles
+
+Insuffisance de la CIP lors des séances de vaccination
+
+Insuffisance de la documentation des activités de recherche des PDV et des bonnes pratiques de manière générale.
+
+Surveillance
+
+Existence d'un système performant de surveillance épidémiologique
+
+Existence de laboratoires certifiés
+
+Existence de points focaux de surveillance dans les régions, districts et hôpitaux
+
+Existence de site sentinelle hospitalier pour la surveillance du Rotavirus avec des sous antennes
+
+Insuffisance de la surveillance à base communautaire pour toutes maladies évitables par la vaccination
+
+Financement
+
+Prise en compte du PEV et de la surveillance dans le CDSMT comme sous composantes
+
+Augmentation progressive de la ligne budgétaire annuelle sécurisée pour l'achat de vaccins et consommables
+
+Participation financière des comités de santé
+
+Le manque d'autonomie financière du
+
+PEV
+
+Faible participation des collectivités locales au financement du PEV
+
+Résultats
+
+Très bonne accessibilité :Penta1 à 96.7 % en 2013 (ENCV)
+
+Bonne couverture en en Penta
+
+Taux d'abandon faible : 1,7 % en 2013 (ENCV)
+
+Impact
+
+Contribution à la réduction morbidité et mortalité infantojuvénile
+
+Arrêt de la circulation du poliovirus sauvage (PVS) autochtone
+
+Aucun cas de décès de rougeole notifié depuis 2005
+
+Atteinte du seuil d'élimination
+
+TMN en 2011
+
+Nombre de site sentinelle insuffisant
+
+Insuffisance de monitorage de l'impact de l'introduction de nouveaux vaccins
+
+Opportunités
+
+Possibilité de mettre à profit les AVS pour améliorer la planification et l'organisation des prestations
+
+Organisation des Journée
+
+Survie de l'Enfant deux fois par an mise à profit pour intégrer la vaccination avec les autres programmes de santé
+
+Volonté politique de mettre en place une couverture médicale universelle
+
+.
+
+Existence d'un projet d'intégration de la surveillance à base communautaire dans le volet communautaire du programme sante l'USAID/
+
+SENEGAL
+
+Menaces
+
+Appui des partenaires au développement
+
+Risque de répercussion tardive de la crise financière mondiale
+
+Institutionnalisation de l'enquête nationale de couverture vaccinale avec l'appui des partenaires
+
+Rétention d'information pouvant compromettre le suivi régulier des performances
+
+Disponibilité d'outils de modélisation pour mesurer l'impact
+
+Risque d'importation du
+
+PVS
+
+IV.VISION ET PRIORITES
+
+La vision actuelle du PEV est en phase avec le GIVS et met l'accent sur les points suivants :
+
+La considération de la vaccination comme cruciale pour renforcer les systèmes de santé en général et atteindre les Objectifs du Millénaire pour le développement (OMD) notamment la réduction de la mortalité infanto juvénile et de la mortalité maternelle en partenariat avec les autres programmes de santé de l'enfant
+
+L'utilisation de la vaccination comme la meilleure façon pour améliorer la santé et la sécurité dans le monde
+
+La nécessaire solidarité de la communauté internationale pour garantir à tous un accès équitable aux vaccins indispensables
+
+Les axes prioritaires du programme pour la période 2012- 2016 sont :
+
+Eradication, élimination et contrôle des maladies évitables par la vaccination ;
+
+Financement durable du programme ;
+
+Approvisionnement régulier et amélioration de la gestion des vaccins ;
+
+Réhabilitation et maintenance adéquate des équipements de la CDF et de la logistique roulante Gestion des déchets ;
+
+Intégration avec les autres programmes de santé ;
+
+Equité dans les prestations de service ;
+
+Introduction de nouveaux vaccins ;
+
+Renforcement de la communication autour du PEV.
+
+V OBJECTIFS, ORIENTATIONS STRATEGIQUES ET LIGNES
+
+D'ACTION
+
+V.1 OBJECTIF
+
+L'objectif du PEV est de contribuer à la réduction de la mortalité infanto juvénile et l'amélioration de la santé de la mère par la vaccination et la surveillance des maladies cibles du PEV et à potentiel épidémique. De façon spécifique il s'agira d'ici 2016 de :
+
+Atteindre une couverture vaccinale d'au moins 95% au BCG, penta 3, polio 3, pneumo 3 et Rota 3 chez les enfants âgés de 0 à 11 mois, au niveau national
+
+Atteindre une couverture vaccinale d'au moins 90% pour le VAR/Rubéole , chez les enfants de 15 à 23 mois , au niveau national
+
+Atteindre une couverture vaccinale d'au moins 90% , pour le VAA chez les enfants âgés de 0 à 11 mois, au niveau national ;
+
+Atteindre une couverture vaccinale d'au moins 90% au BCG, au penta 3, polio 3, pneumo 3 et Rota 2chez les enfants âgés de 0 à 11 mois dans tous les districts ;
+
+Atteindre une couverture vaccinale d'au moins 90% pour le VAR/Rubéole et le VAA chez les enfants âgés de 0 à 11 mois dans tous les districts ;
+
+Atteindre une couverture vaccinale d'au moins 90 % au VAT 2+ chez les femmes enceintes dans chaque district ;
+
+Maintenir l'interruption de la circulation de poliovirus sauvage autochtone ;
+
+Interrompre la transmission du virus morbilleux autochtone ;
+
+Maintenir le statut d'élimination du tétanos maternel et néonatal (TMN) ;
+
+Assurer la prévention des épidémies de fièvre jaune ;
+
+Assurer la prévention des épidémies de méningite
+
+Introduire le vaccin anti-pneumococcique dans le PEV de routine en 2013 Introduire le vaccin contre la rubéole dans le PEV de routine 2014 Introduire le vaccin contre le rotavirus dans le PEV de routine 2014 Introduire le vaccin contre le papillomavirus dans le PEV de routine en 2016
+
+Assurer 100% du financement des vaccins traditionnels et consommables et le Cofinancement des nouveaux vaccins par le Budget national.
+
+V. 2. AXES STRATEGIQUES ET LIGNES D'ACTION
+
+La mise en œuvre des axes stratégiques à travers les lignes d'actions permettra d'atteindre les objectifs du programme pour chaque composante et de façon globale.
+
+L'amélioration de l'équité dans l'accès aux services de vaccination nécessite une meilleure connaissance des populations difficiles d'accès afin que leurs spécificités soient mieux prises en compte dans la planification. Ce faisant, le niveau national élaborera des directives en vue d'aider les districts dans cette perspective.
+
+Une bonne coordination de la mise en œuvre des stratégies permet un suivi régulier, une information partagée entre les différents acteurs en vue d'actions concertées plus efficaces pour accroître les performances du programme.
+
+Une des difficultés majeures rencontrées au niveau opérationnel notamment des postes de santé est la mauvaise maîtrise des cibles à vacciner avec des risques de couvertures vaccinales atteintes erronées et même des difficultés dans la gestion des vaccins. Le recensement et la mise à jour continue des cibles au niveau local est donc une nécessité.
+
+Le pays ayant adhéré aux lignes stratégiques du GIVS en vue d'atteindre les OMD, la gamme de vaccins offerts va s'étendre aux vaccins contre le pneumocoque, la rubéole et les Rotavirus dans le PEV de routine avec l'organisation de campagne de masse contre le méningo A et éventuellement son introduction également dans le PEV de routine.
+
+La revue externe du PEV a montré la nécessité de renforcer les capacités des intervenants pour une meilleure qualité de la gestion et la mise en œuvre du programme. Ceci se fera à travers la formation ainsi que la supervision formative dans les différents domaines du programme et la valorisation des bonnes performances.
+
+Un plan d'action suite à l'enquête sur la gestion efficace des vaccins et l'inventaire de la logistique a été élaboré pour accroitre les performances de la logistique du PEV. Le suivi de la mise en œuvre de ces directives sera une des priorités majeures du PPAC. Une évaluation de la gestion efficace des vaccins a été en septembre 2012.
+
+L'absence de plan spécifique de communication pour le PEV a été une des grandes insuffisances notées par la revue externe. Il est donc impératif de disposer d'un plan de communication qui sera basé sur des évidences en tenant compte des expériences réussies afin de rendre plus visible le programme et accroitre l'adhésion des populations. Cela devra se faire en étroite collaboration avec le SNEIPS et en partenariat avec tous les acteurs intervenant dans la communication.
+
+La faible confirmation bactériologique des maladies à potentiel épidémique reste un maillon faible du système de surveillance qui est globalement performant. Ainsi le renforcement des capacités des laboratoires dans ce domaine est une priorité du plan pour améliorer la détection précoce des cas en vue d'organiser les ripostes à temps.
+
+Les AVS vont être poursuivies pour maintenir les acquis en matière d'éradication, d'élimination et de contrôle des maladies en plus de l'accroissement des performances du PEV de routine. Compte tenu du risque d'importation du PVS et de la nécessité de renforcer l'immunité des enfants, deux AVS polio au moins seront organisés chaque année, jusqu'en 2014. Pour le contrôle de la rougeole, en raison de la possibilité d'accumulation des susceptibles, une campagne de vaccination sera organisée en 2013 couplée avec la rubéole.
+
+Pour le contrôle de la fièvre jaune, compte tenu des nouvelles orientations de l'OMS, il n'est plus nécessaire d'organiser des campagnes préventives. Toutefois, des campagnes de riposte pourront être menées en cas d'épidémie.
+
+Du fait de l'appartenance du pays à la ceinture méningitique, de la recrudescence des épidémies dans la sous région et de l'existence d'un nouveau vaccin efficace avec une longue durée de protection (10 ans), une campagne préventive contre la méningite A avec le MenAfriVac a été organisée dans les 8 régions les plus à risque en novembre 2012. Toutefois, des campagnes de riposte adaptées pourront être menées en cas d'épidémie de méningite à Etant donné que l'introduction de nouveaux vaccins dans le PEV de routine va accroitre substantiellement les besoins en ressources du fait de leurs coûts plus élevés que ceux des vaccins traditionnels, la question de la viabilité financière du programme devra être suivie de près.
+
+Pour chaque axe stratégique des lignes d'action sont identifiées comme le montre le tableau VIII.
+
+Tableau 9 : axes stratégiques et lignes d'action
+
+COMPOSANTES
+
+AXES STRATEGIQUES
+
+Amélioration de l'équité dans l'accès aux prestations de vaccination
+
+Organisation et gestion du programme
+
+Amélioration de la coordination à tous les niveaux
+
+Maitrise des cibles
+
+Renforcement des ressources humaines.
+
+Elargissement de la gamme des vaccins offerts
+
+Renforcement des capacités
+
+Formation/recyclage
+
+LIGNES D'ACTION
+
+Elaborer au niveau national un plan d'appui spécifique aux districts pour le renforcement de la vaccination dans les zones ou population difficile d'accès
+
+Elaborer un plan annuel PEV au niveau de tous les districts, intégrant les stratégies appropriées pour atteindre les populations d'accès difficiles
+
+Tenir les réunions du CCIA politique tous les six mois
+
+Impliquer tous les partenaires intéressés au CCIA technique
+
+Organiser régulièrement les réunions trimestrielles de monitorage regroupant le niveau central, régional et district
+
+Organiser régulièrement les réunions de coordination au niveau région et district
+
+Procéder au recensement de la cible des enfants âgés de moins d'un an dans tous les districts pour l'auto monitorage
+
+Renforcer en personnel les BRISE au niveau des 14 régions médicales afin de les rendre fonctionnels
+
+Introduire le vaccin contre le pneumocoque
+
+Introduire le vaccin contre le papillomavirus
+
+Introduire le vaccin contre la rubéole/deuxième dose de rougeole
+
+Introduire le vaccin contre les rotavirus
+
+Former et/ou recycler tout le personnel impliqué dans le management et la mise en œuvre du programme
+
+Former et/ou recycler les enseignants des écoles de formation paramédicales
+
+Finaliser la révision du guide du PEV
+
+Intégrer les modules PEV et maintenance de la CDF dans les curricula de formation de base des agents
+
+COMPOSANTES
+
+AXES STRATEGIQUES
+
+Supervision formative
+
+Logistique et gestion des vaccins
+
+Valorisation des bonnes performances
+
+Réhabilitation de la logistique
+
+Promotion des équipements à énergie solaire
+
+Maintenance des équipements
+
+Automatisation du monitorage des températures
+
+Renforcement du
+
+Système d'Information et de Gestion
+
+Améliorer la planification
+
+Amélioration de la qualité des prestations
+
+Prestations de services et intégration des activités
+
+Implication de la communauté
+
+Equité dans les prestations
+
+Auto monitorage des performances
+
+Suivi actif de la cible
+
+Intégration avec les autres programmes planification
+
+Capitalisation des expériences réussies
+
+Amélioration de la coordination
+
+Communication
+
+Mise à jour des outils suivi évaluation partenariat
+
+Mobilisation de ressources financières
+
+LIGNES D'ACTION
+
+Faire des supervisions formatives régulières et documentées avec des feed -back écrits à tous les niveaux (niveau central, régional et district)
+
+Mettre en place un système de valorisation des bonnes performances
+
+Mettre en œuvre le plan quinquennal de réhabilitation de la logistique et de la GEV
+
+Mettre en place des réfrigérateurs solaires sans batteries dans les zones ciblées
+
+Elaborer et mettre en œuvre un plan de maintenance des équipements de la CDF et de la logistique roulante
+
+Mettre en place des enregistreurs automatiques de température au niveau de tous les dépôts de vaccins
+
+Inclure dans les outils de collecte de données les informations concernant la logistique
+
+Assurer un archivage correct des données
+
+Faire une bonne planification des activités de vaccination exécuter correctement les activités planifiées
+
+Veiller à ce que la vaccination soit faite par le personnel qualifié Faire une bonne CIP lors des séances de vaccination
+
+Renforcer la surveillance & prise en charge des MAPI
+
+Associer la communauté dans la planification des activités de vaccination
+
+Identifier les populations difficiles d'accès et mettre en place des stratégies spécifiques pour les atteindre
+
+Mettre en place les courbes d'auto monitorage au niveau de chaque unité de vaccination et les tenir à jour
+
+Systématiser et documenter les activités de suivi actif de la cible Mettre à profit les AVS pour le suivi actif de la cible
+
+Intégrer la vaccination aux autres activités de la survie de l'enfant au niveau opérationnel
+
+Elaborer un plan de communication globale pour la vaccination de routine, basée sur des évidences
+
+Valoriser et diffuser les innovations et les expériences réussies de bonnes pratiques de communication en appui au PEV
+
+Prévoir des modalités de reconnaissance de bonnes performances
+
+Renforcer le bureau communication de la DP en ressources humaines
+
+Améliorer la collaboration entre le SNEIPS et la DP
+
+Redynamiser les comites de mobilisation sociale a tous les niveaux Réviser et adapter les outils et supports de communication
+
+Concevoir des outils et des mécanismes de suivi évaluation.
+
+Intégrer le PEV dans les activités de communication des autres programmes ( PNLP,PNT,DSR,CNLS, volet communautaire programme santé USAID/Sénégal) renforcer le partenariat avec les médias et les radios communautaires
+
+Développer un partenariat avec les ONG et OCB
+
+Mobiliser à partir du budget du programme des ressources pour soutenir les activités de communication du PEV
+
+COMPOSANTES
+
+Sécurité des injections et gestion des déchets
+
+AXES STRATEGIQUES
+
+Approvisionnement correct en SAB,SD et BS
+
+Elimination correcte des déchets
+
+Amélioration de la confirmation des cas
+
+Riposte adéquate aux épidémies
+
+Surveillance épidémiologique
+
+Financement du programme
+
+Eradication, élimination et contrôle des maladies cibles
+
+Autonomie financière du programme
+
+Viabilité financière
+
+LIGNES D'ACTION
+
+Maintenir les acquis en matière de disponibilité des SAB,SD et BS
+
+Mise en place d'au moins un grand incinérateur dans chaque région
+
+Etablir un partenariat avec le PRONALIN
+
+Etablir un partenariat avec les industries et les hôpitaux.
+
+Renforcement des capacités des laboratoires dans la confirmation bactériologique des maladies à potentiel épidémique
+
+Mettre en place un fond de riposte aux épidémies
+
+Mise en place des stocks sécurité pour les ripostes vaccinales
+
+Poursuivre les AVS polio
+
+Organiser une campagne contre la rougeole couplée avec la rubéole
+
+Organiser une campagne préventive contre la méningite avec le
+
+MenAfriVac dans 8 régions (Kaolack, Kaffrine, Tamba, Kolda,
+
+Diourbel, Fatick, Sédhiou et Kédougou)
+
+Mettre en œuvre les recommandations de l'enquête de validation du
+
+TMN
+
+Plaidoyer pour une réforme en vue de donner une autonomie financière au PEV
+
+Augmentation du budget PEV pour garantir l'achat des vaccins et soutenir les investissements
+
+VI. PLAN DE MISE EN ŒUVRE
+
+Tableau 10 : Plan de mise en œuvre
+
+AXES
+
+STRATEGIQUES
+
+Amélioration de la coordination à tous les niveaux
+
+Maitrise des cibles
+
+Renforcement des ressources humaines.
+
+LIGNES D'ACTION
+
+Elaborer au niveau national un plan d'appui spécifique aux districts pour le renforcement de la vaccination dans les zones ou populations difficile d'accès
+
+Tenir les réunions du CCIA politique tous les six mois
+
+Impliquer tous les partenaires intéressés au CCIA technique
+
+Organiser régulièrement les réunions trimestrielles de monitorage regroupement le niveau central, régional et district
+
+Introduire le vaccin contre le pneumocoque
+
+Introduire le vaccin contre la rubéole combinée à la ème
+
+2 dose de rougeole
+
+Elargissement de la gamme des vaccins offerts
+
+Introduire le vaccin contre le papillomavirus
+
+Introduire le vaccin contre les rotavirus
+
+Formation recyclage
+
+Supervision formative valorisation des bonnes performances
+
+Réhabilitation de la logistique
+
+Promotion des équipements à énergie solaire
+
+Finaliser la révision du guide du PEV
+
+Faire des supervisions formatives régulières et documentées avec un feed-back écrit à tous les niveaux (niveau central, régional et district)
+
+AXES
+
+STRATEGIQUES
+
+Maintenance des équipements
+
+Automatisation du monitorage des températures
+
+Renforcement du Système d'Information et de Gestion
+
+Amélioration de la qualité des prestations
+
+Implication de la communauté
+
+Equité dans les prestations
+
+Auto monitorage des performances
+
+LIGNES D'ACTION
+
+Assurer un archivage correct des données
+
+Exécuter correctement les activités planifiées
+
+Identifier les populations difficiles d'accès et mettre des stratégies spécifiques pour les atteindre
+
+Veiller à ce que la vaccination soit faite par le personnel qualifié
+
+Faire une bonne CIP lors des séances de vaccination
+
+Renforcer la prise en charge des MAPI
+
+Suivi actif de la cible
+
+Systématiser et documenter les activités de suivi actif de la cible
+
+Mettre à profit les AVS pour le suivi actif de la cible
+
+Intégration avec les autres programmes
+
+Planification
+
+Capitalisation des expériences réussies
+
+Amélioration de la coordination
+
+Mise à jour des outils suivi évaluation
+
+Partenariat
+
+Renforcer le bureau communication de la DPM en ressources humaines
+
+Améliorer la collaboration entre le SNEIPS et la DPM
+
+Redynamiser les comites de mobilisation sociales a tous les niveaux
+
+Réviser et adapter les outils et supports de communication
+
+Concevoir des outils et des mécanismes de suivi évaluation.
+
+AXES
+
+STRATEGIQUES
+
+Maintenir les acquis en matière de disponibilité des
+
+SAB,SD et BS
+
+Etablir un partenariat avec le PRONALIN.
+
+Amélioration de la confirmation des cas
+
+Riposte adéquate aux épidémies
+
+Mettre en place un fond de riposte aux épidémies
+
+Poursuivre les AVS polio
+
+Organiser une campagne contre la rougeole/rubéole
+
+Organiser une campagne préventive contre la fièvre jaune
+
+Organiser une campagne préventive contre la méningite dans les 8 régions ciblées
+
+Rougeole / rubéole lyophilisé
+
+10 doses
+
+HPV
+
+Mobilisation de ressources financières
+
+Approvisionnement correct en SAB,SD et
+
+BS
+
+Elimination correcte des déchets
+
+Eradication, élimination et contrôle des maladies cibles
+
+Financement du programme
+
+LIGNES D'ACTION
+
+Développer un partenariat avec les ONG et OCB
+
+Tableau 11: prévision de vaccins pour la vaccination de routine 2012-2016
+
+Anné es
+
+BCG lyophilisé
+
+20 doses
+
+TT
+
+YF
+
+PCV-13
+
+Rota
+
+VPO
+
+DTP-HepB-Hib Rougeole
+
+Liquide liquide lyophilisé liquide lyophilisé liquide Liquide
+
+10 doses 10 doses 10 doses
+
+1 dose
+
+1 dose
+
+10 doses
+
+1 dose
+
+Tableau 12 : Estimation des consommables pour la routine de 2012 à 2016 Années
+
+SAB 0.05 ml
+
+SAB 0.5 ml
+
+S. dilution 2 ml
+
+S. dilution 5 ml
+
+B S 5l
+
+Tableau n°13 : Estimation des coûts et besoins en ressources pour les campagnes Intrants
+
+Vaccins
+
+VPO
+
+SD
+
+BS
+
+Coûts
+
+Vaccins
+
+RR
+
+SAB
+
+Men A
+
+SAB
+
+SD
+
+BS
+
+Coûts
+
+Vaccins
+
+SAB
+
+SD
+
+BS
+
+Coûts
+
+Vaccins
+
+SAB
+
+SD
+
+BS
+
+Coûts
+
+Vaccins
+
+SAB
+
+SD
+
+BS
+
+Coûts
+
+.
+
+VII. ANALYSE DES COUTS ET FINANCEMENTS
+
+VII.1 SITUATION ACTUELLE
+
+Tableau 14 : Coûts du PEV en 2011
+
+Catégorie de coût
+
+Coûts récurrents courants
+
+Besoin en
+
+Ressources
+
+%du Total
+
+US$
+
+Vaccin de base
+
+Traditionnel
+
+Sous-utilisés
+
+-
+
+Nouveaux
+
+Matérielsd'Injections
+
+Personnel
+
+Salaires du personnel éxistant (vaccination specifique)
+
+Per-diems pour la stratégieavancée/mobile
+
+Per-diems pour la surveillance et le monitoring
+
+Transport
+
+Stratégie fixe et livraison des vaccins
+
+Stratégieavancée et Stratégie mobile
+
+Entretien et général
+
+Entretien de la Chaîne du Froid
+
+Entretiend'autreséquipements
+
+Bâtiments (l'électricité, l'eau...)
+
+Formation à court terme
+
+Mobilisationsociale et IEC
+
+Contrôle et surveillance des maladies
+
+Gestion du programme
+
+Autrescoûtsrécurrents
+
+Sous Total des Coûts Récurrents
+
+Coût en Capital
+
+Véhicules
+
+Équipement de la Chaîne du froid
+
+Autrescoûts de capital
+
+Sous Total des CoûtsRécurrents
+
+Campagnes de Vaccination
+
+Ex: Polio (spécifiez la campagnedans le tableau 0.0)
+
+Vaccins et Matérield'Injection
+
+Coûtsopérationnels
+
+Ex: Rougeole (spécifiez la campagnedans le tableau 0.0)
+
+Vaccins et Matérield'Injection
+
+Coûtsopérationnels
+
+Tétanos la campagnedans le tableau 0.0
+
+Vaccins et Matérield'Injection
+
+Coûtsopérationnels
+
+Méningite la campagnedans le tableau 0.0
+
+Vaccins et Matérield'Injection
+
+Coûtsopérationnels fiévrejauneedans le tableau 0.0
+
+Vaccins et Matérield'Injection
+
+Coûtsopérationnels
+
+Rougeolerubéole
+
+Vaccins et Matérield'Injection
+
+Coûtsopérationnels
+
+Spécifiez la campagnedans le tableau 0.0
+
+Vaccins et Matérield'Injection
+
+Coûtsopérationnels
+
+Spécifiez la campagnedans le tableau 0.0, Spécifiez la campagnedans le tableau 0.0, Spécifiez la campagnedans le tableau 0.0
+
+Vaccins et Matérield'Injection
+
+Coûtsopérationnels
+
+Sous Total des Coûts en Campagne
+
+Coûtspartagés
+
+Coûtspartagés de personnel
+
+Coûtspartagés de transport
+
+Bâtiments
+
+Subtotal Optional
+
+TOTAL GENERAL
+
+Services de Routine
+
+Campagnes de Vaccination
+
+Coûts partagés
+
+Coûts récurrents
+
+Coûts des campagnes
+
+Graphique 12 Graphique n° XII : Structure des coûts en 2011
+
+Coûts en capital
+
+Les coûts du PEV au Sénégal pour 2011 est de $19 311 030 soient 9 655 515 000 FCFA (voir Tableau N° 15). Il se répartit en quatre grandes catégories : les coûts récurrents, le coût en capital, les coûts de campagne et les coûts partagés (graphique XII). Les campagnes ont absorbé le tiers du total des dépenses, $6 743 215 soit 35%. La faiblesse des coûts en capital, $122 146 (1%) est liée au fait qu'il y'a eu peu d'investissement en 2011. Les coûts récurrents $9 131 451 (47%) sont essentiellement représentés par l'achat des vaccins et matériels d'injection $5 552 028 (61%), l'entretien de la chaîne de froid $70 443 (0,77%) et le personnel $5 552 028 2 288 683 (25%). Sur un total de $5 552 028 destinés à l'achat des vaccins et consommables 4 060 442 (73%) ont été consacrés aux nouveaux vaccins.
+
+Graphique 13 : profil du financement en 2011
+
+En 2011, bien que le financement extérieur soit le plus important (66%), le financement national (gouvernement et communauté) reste plus élevé si on prend individuellement les différentes sources (graphique XIII).
+
+Tableau No 15 : profil du financement en 2011
+
+USD
+
+%
+
+FCFA
+
+Gouv & Communauté
+
+OMS
+
+UNICEF
+
+GAVI
+
+PATH
+
+USAID
+
+Communauté
+
+Coopération Japon
+
+Union Européenne
+
+Luxembourg
+
+UNFPA
+
+Banque Mondiale
+
+Coopération Belge
+
+Chine
+
+TOTAL
+
+VII.2 EVOLUTION
+
+VII.2.1 ÉVOLUTION DES DIFFERENTES CATEGORIES DE COUTS DE 2012 à 2016
+
+Les coûts du PEV au Sénégal sur la période 2012-2016 sont de 144 809 071$ (soit 72 404 535 647FCFA) ; ce qui représente une moyenne de 28 961 814 par an (tableau xx). Les coûts globaux du programme varient légèrement dans le temps ; ils passeront de $22 457 138 en 2012 à 34,274 529$ en 2016. L'introduction de nouveaux vaccins prévue en 2013 (vaccin contre le pneumocoque), et en 2014 (vaccin combinée Rougeole-Rubeole en deux doses, vaccin contre le Rotavirus , démonstration de l'introduction du vaccin contre le HPV dans 2 Districts), vont occasionner des hausses de coût dans le PEV.
+
+Le financement des vaccins et matériel de vaccination est de l'ordre de 63 219 509 USD (31 609 754 388 FCFA), soit 44% des besoins de financement est assuré pour la période du plan 2012-2016. Par ailleurs, il n'y a pas d'écart de financement de la capacité de stockage des vaccins d'ici 2016.
+
+Tableau No 16 : Evolution des différents catégories de coûts du Plan (2012-2016) en USD & FCFA
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+Vaccins et Logistiques
+
+Prestation de service
+
+US$
+
+CFA
+
+%
+
+Plaidoyer et
+
+Communication
+
+Monitorage et
+
+Surveillance
+
+Epidémiologique
+
+1%
+
+1%
+
+Management du
+
+Programme
+
+1%
+
+Activités supplémentaires de vaccination
+
+Coûts partagés de systèmes de santé
+
+GRAND TOTAL
+
+Tableau 17 : Synthèse des coûts du PEV pour la durée du PPAC
+
+Catégorie de coût
+
+Coûtsrécurrents courants
+
+Vaccin de base
+
+Traditionnel
+
+Sous-utilisés
+
+Nouveaux
+
+Matérielsd'Injections
+
+Personnel
+
+Salaires du personnel éxistant (vaccination specifique)
+
+Per-diems pour la stratégieavancée/mobile
+
+Per-diems pour la surveillance et le monitoring
+
+Transport
+
+Stratégie fixe et livraison des vaccins
+
+Stratégie avancée
+
+Stratégie mobile
+
+Entretien et général
+
+Entretien de la Chaîne du Froid
+
+Entretiend'autres équipements
+
+Bâtiments (l'électricité, l'eau...)
+
+Formation à court terme
+
+Mobilisation sociale et IEC
+
+Contrôle et surveillance des maladies
+
+Gestion du programme
+
+Autres coûts récurrents
+
+Sous Total des CoûtsRécurrents
+
+US$
+
+Coût en Capital
+
+Véhicules
+
+Équipement de la Chaîne du froid
+
+Autres coûts de capital
+
+Sous Total des CoûtsRécurrents
+
+Campagnes de Vaccination
+
+Ex: Polio (spécifiez la campagne dans le tableau 0.0)
+
+Vaccins et Matériel d'Injection
+
+Coûts opérationnels
+
+Ex: Rougeole (spécifiez la campagne dans le tableau 0.0)
+
+Vaccins et Matérield'Injection
+
+Coûts opérationnels
+
+Tétanos la campagne dans le tableau
+
+Vaccins et Matérield'Injection
+
+Coûts opérationnels
+
+Méningite la campagne dans le tableau
+
+Vaccins et Matérield'Injection
+
+Coûts opérationnels
+
+Fiévre jaune dans le tableau 0.0
+
+Vaccins et Matériel d'Injection
+
+Coûtsopérationnels
+
+Rougeole rubéole
+
+Vaccins et Matériel d'Injection
+
+Coûts opérationnels
+
+Spécifiez la campagne dans le tableau
+
+Vaccins et Matériel d'Injection
+
+Coûtsopérationnels
+
+Spécifiez la campagne dans le tableau
+
+Vaccins et Matériel d'Injection
+
+Coûts opérationnels
+
+Spécifiez la campagne dans le tableau
+
+Vaccins et Matérield'Injection
+
+Coûts opérationnels
+
+Spécifiez la campagnedans le tableau
+
+Vaccins et Matériel d'Injection
+
+Coûts opérationnels
+
+Sous Total des Coûts en Campagne
+
+Coûtspartagés
+
+Coûts partagés de personnel
+
+Coûts partagés de transport
+
+Bâtiments
+
+Subtotal
+
+TOTAL GENERAL
+
+Vaccination de Routine
+
+Campagnes de Vaccination
+
+Sur l'ensemble du plan, les campagnes représentent 29% des coûts contre 71% pour la vaccination de routine. Ces proportions varient en fonction des années allant jusqu'à 51% en 2012 pour les campagnes (figure 11). En 2012, les coûts élevés des campagnes sont liés à l'organisation de la campagne préventive contre la fièvre jaune dans les deux régions les plus peuplées du pays, et à celle contre la méningite dans 8 régions.
+
+Graphique 14 : Evolution des couts du PPAC par stratégie
+
+Les coûts récurrents (65% du total) sont nettement plus importants que les coûts en capital (2,6% du total) qui n'atteignent que 1 409 574 $ en 2012, l'année durant laquelle des campagnes préventives contre la fièvre jaune dans les deux régions les plus peuplées du pays, d'une part, et d'autre part, la campagne contre la méningite dans 8 régions, ont été organisées.
+
+Les coûts opérationnels représentent $ 94 408 167 soit 65% du budget total des 5 ans du PPAC. Les coûts des nouveaux vaccins représentent à eux seuls 82% de l'ensemble des coûts des vaccins de routine contre 6% pour les vaccins sous utilisés et 12% pour les traditionnels (voir tableau ci-dessous). Les vaccins et le matériel d'injection destinés à la routine et aux campagnes représentent 63% du coût total du PPAC.
+
+Tableau n° 18 : Coûts comparatifs des différents types de vaccins
+
+USD
+
+FCFA
+
+% Coût Vaccins
+
+VaccinsTraditionnel
+
+Vaccins Sous-utilisés
+
+6%
+
+Nouveaux Vaccins
+
+TOTAL
+
+Les coûts partagés de l'ordre de $19 725 358 (14% du total) sont constitués des frais du personnel, du transport et des coûts du bâtiment. Ces coûts sont de l'ordre de 3 945 072 de dollars par an. Précisément ce sont les coûts en personnel qui sont les plus déterminants par rapport aux coûts du transport.
+
+On constate une augmentation importante du budget en 2013 (graphiques XVI et XVIII) du fait de la campagne contre la rougeole et la rubéole mais également à cause de l'introduction du vaccin contre le pneumocoque qui entraine presqu'un triplement du coût des nouveaux vaccins qui passe de $4 311 662 à $12 001 847. Cette montée des coûts commence par une hausse du fait de l'organisation d'une campagne contre la rougeole et la rubéole en 2013. Elle est maintenue en 2014 par l'introduction de la valence rubéole et surtout du vaccin contre les rotavirus et l'introduction du HPV dans 2 districts (Etude de démonstration). On note ainsi un quasi doublement du coût des nouveaux vaccins qui passe à $22 304 585.
+
+Graphique 15 : Evolution des coûts du PEV de 2012 à 2016
+
+Graphique 16 : Coûts du PEV de 2012 à 2016 en fonction des postes de dépenses VII.2.2 EVOLUTION DU FINANCEMENT DU PLAN
+
+Les besoins en ressources sont évalués à près de 150 millions de dollars sur la période couverte par le plan. Ces besoins seront couverts à hauteur de 99% si l'État maintient ses engagements et si les partenaires confirment leurs intentions (tableau 19).
+
+Tableau 19 : Coûts du PEV de 2012 à 2016 en fonction des postes de dépenses
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+CFA
+
+%
+
+Vaccins et Logistiques
+
+Prestation de service
+
+Plaidoyer et
+
+Communication
+
+Monitorage et
+
+Surveillance
+
+Epidémiologique
+
+1%
+
+1%
+
+Management du
+
+Programme
+
+1%
+
+Activitéssupplémentair es de vaccination
+
+Coûtspartagés de systèmes de santé
+
+GRAND TOTAL
+
+La structure du financement (graphiques XVIII et XIX) révèle que le financement national (Etat, collectivités locales et communautés) représente 21% du financement total du plan.
+
+L'Etat assure les salaires et prend en charge complètement les vaccins traditionnels et le RR, une part du financement des nouveaux vaccins (cofinancement), la livraison des vaccins et une bonne part des investissements. La communauté accompagne les efforts de l'État à travers les comités de santé qui contribuent à hauteur de 1% dans le financement total du plan pour assurer la maintenance de la chaîne de froid et l'entretien des bâtiments.
+
+Le financement de GAVI est très important. Sa part est d'environ 45%. Il prend en compte les nouveaux vaccins, le pentavalent et le matériel d'injection. GAVI assure également l'achat des vaccins lors des campagnes contre la méningite et la rougeole/Rubéole. Enfin GAVI finance une partie des coûts opérationnels de ces campagnes.
+
+L'analyse du co-financement est présentée dans le Tableau ci-dessous Graphique 17 : Co financement des nouveaux vaccins 2012-2016
+
+L'UNICEF qui contribue à hauteur de 19%, met l'accent dans le renforcement des services de vaccination et intervient également dans le financement des coûts opérationnels et des vaccins lors des campagnes. Quant à l'OMS avec 14% des coûts, elle contribue au financement de la supervision, du contrôle et surveillance des maladies et dans une moindre mesure à la formation à court terme. Les contributions de GAVI, l'UNICEF et l'OMS constituent 98,8% de l'appui des partenaires et 78% du total des coûts. Les autres partenaires sont : Coopération Japonaise, USAID, Luxembourg, Banque Mondiale, Union Européenne.
+
+Graphique 18 : projection du financement assuré et probable de 2012 à 2016 En tenant compte des financements assurés et probables, l'écart global pour la période est de $2 593 705. La composition de cet écart montre qu'il ne compromet pas fondamentalement la mise en œuvre du programme (tableau XVII).
+
+Tableau 20: Répartition des écarts financiers tenant compte des financements assurés et probables
+
+Composition des Écarts Financiers
+
+Vaccins et matériel d'injection
+
+Personnel
+
+Transport
+
+Activité et autre coûts récurrents
+
+Logistiques (véhicules, chaîne du froid....)
+
+Campagne de vaccination
+
+Écart Financier*
+
+TOTAL
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+* Coûts spécifiques uniquement. Les coûts partagés ne sont pas inclues
+
+Le financement des vaccins et du matériel de vaccination est assuré pour la période du plan 2012-2016. Le financement de l'achat des vaccins contre le pneumocoque et le matériel d'injection est entièrement couvert par GAVI et l'Etat (cofinancement) pour les 5 ans du plan pluriannuel. Le financement de l'achat des vaccins RR est entièrement couvert par l'Etat (pas de cofinancement). Il n'y a également pas d'écart dans le financement pour assurer une capacité adéquate de stockage des vaccins d'ici 2016.
+
+Les écarts financiers concernent principalement la logistique $2 150 958 (83%).Il s'agit essentiellement de la construction et l'entretien des incinérateurs. Le plan de gestion des déchets prévoit l'utilisation des incinérateurs des hôpitaux par les districts qui n'en disposent pas en attendant la construction de leurs incinérateurs.
+
+VII 3. Evolution du financement des nouveaux vaccins sans matériels d'injections
+
+Graphique 19 : Evolution du cofinancement des nouveaux vaccin
+
+VII.4 ANALYSE ET STRATEGIES DE REDUCTION DU GAP
+
+La composition des écarts financiers révèle un gap de financement de l'ordre de $2,6millions, compte non tenu des coûts partagés et compte tenu des financements assurés et probables. Les vaccins seront couverts principalement par GAVI et par l'État. Cependant les coûts relatifs à l'achat de la logistique qui sont souvent pris en charge par l'Etat et surtout les partenaires occasionnent le plus grand gap qui est de l'ordre de $2, 15millions.Pour réduire ce gap, l'État doit augmenter l'enveloppe budgétaire pour la logistique et convaincre d'autres partenaires à y investir davantage. Concernant les campagnes de vaccination, le gap est de $42 020. La stratégie qui doit découler pour la résorption de ce déficit est de faire le plaidoyer au niveau des financeurs probables comme le Japon et le Luxembourg.
+
+Au total le PEV du Sénégal est financièrement viable (Voir annexe IV pour les indicateurs macroéconomiques et de viabilité financière). Selon les années, les besoins futurs en ressources varient de 2,8% à 6,1% des dépenses totales de santé. L'écart financier reste compris entre 0,0% et 0,6% des dépenses totales de santé. Alors que les dépenses de santé par habitant sont en moyenne de 53,8 $US durant le plan, les besoins en ressources pour le PEV par habitant seront de 2,75 $US et ne représentent même pas 0,25% de la richesse nationale (produit intérieur brut).
+
+VII .5 Stratégies du plan de viabilité financière du programme
+
+Les stratégies suivantes pour renforcer la viabilité du programme ont été identifiées :
+
+- Le maintient de l'augmentation annuelle de la ligne budgétaire « Vaccins et consommables » et sa libération en temps opportun ;
+
+- l'utilisation d'une partie du budget provenant du BCI-État pour la vaccination ;
+
+- la mise à disposition de ressources additionnelles provenant de l'augmentation du budget de la santé qui sera porté à 15% du budget de fonctionnement de l'État conformément aux recommandations du Sommet des Chefs d'États de la CEDEAO en 2001 (8% actuellement) pour le PEV ;
+
+- l'exploitation des ressources provenant des fonds PPTE (ressources liées à l'allègement de la dette) à travers l'exécution du DPES ;
+
+- le ciblage du PEV dans le cadre de l'appui budgétaire ;
+
+- le plaidoyer pour une participation financière des collectivités locales au financement du Programme dans le cadre du transfert des compétences suite à la décentralisation. Il est prévu dans le budget des collectivités locales une inscription budgétaire de 8% en faveur de la santé ; actuellement leur contribution atteigne rarement les 1% ;
+
+- l'implication du secteur privé dans le financement du PEV ;
+
+- la recherche de sources de financement alternatives auprès de GAVI ;
+
+-
+
+VIII. PLAN DE SUIVI-EVALUATION
+
+Sur la base des indicateurs du programme, il s'agira de mesurer les résultats à partir de sources d'information et moyens de vérification identifiés dans le but de s'assurer que les activités planifiées sont menées et les objectifs atteints.
+
+-
+
+-
+
+-
+
+Au niveau des unités de vaccination, un rapport mensuel sera produit et l'analyse sera matérialisée sur la courbe d'auto monitorage
+
+Au niveau des districts, un rapport mensuel sera produit après une compilation et analyse des rapports des unités de vaccination avec une rétro information durant les réunions de coordination mensuelles.
+
+Au niveau national o o o o o o o
+
+Les rapports mensuels fournis par les districts seront compilés et analysés avec production d'un bulletin de rétro information
+
+Une réunion du CCIA technique sera tenue tous les mois
+
+Une réunion de monitorage du PEV et de la surveillance réunissant tous les acteurs (niveau national, région, district et partenaires) se tiendra tous les trois mois Chaque année des réunions bilan du plan annuel du PEV et de la surveillance seront organisées avec l'ensemble des acteurs
+
+Une mise à jour annuelle du PPAC et élaboration des PTA
+
+Une revue interne à mi-parcours du PPAC avec enquête de couverture vaccinale sera organisée en 2014
+
+Une revue externe à la fin du plan avec enquête de couverture vaccinale.
+
+Tableau 21 : Suivi des indicateurs du PPAC
+
+Indicateurs
+
+Objectifs
+
+Objectifs annualisés
+
+Niveau
+
+Libellé
+
+Cible actuel
+
+Atteindre et une CV
+
+CV BCG vaccinale d'au moins
+
+CV Penta 3
+
+95% au niveau national CV Pneumo3 pour le BCG, Penta3, pneumo3 et Rota2 chez les enfants de 0 à 11
+
+CV Rota2 mois
+
+Atteindre et une CV
+
+CV VAR (VAR/Rubéole)
+
+CV VAA
+
+CV VAT 2+ vaccinale d'au moins
+
+90% au niveau national pour le VAR (VAR/rubéole) et le
+
+VAA chez les enfants de
+
+0 à 11 mois
+
+Atteindre et une CV vaccinale d'au moins
+
+90% pour le VAT au niveau national chez les femmes enceintes
+
+Atteindre une CV vaccinale d'au moins
+
+90% dans tous les
+
+% de DS ayant atteint 90 % districts pour le BCG,
+
+DE CV pour le BCG, Penta3,
+
+Penta3, pneumo3 et pneumo3 et Rota2
+
+Rota2 chez les enfants de 0 à 11 mois
+
+Atteindre une CV vaccinale d'au moins
+
+Nombre de DS ayant atteint
+
+90% dans tous les
+
+90 % DE CV pour le VAR et le districts pour le VAR et
+
+VAA le VAA chez les enfants de 0 à 11 mois
+
+Indicateurs
+
+Objectifs
+
+Objectifs annualisés
+
+Niveau
+
+Libellé
+
+Cible
+
+<
+
+<
+
+<
+
+<
+
+<
+
+<
+
+<
+
+NV
+
+NV
+
+00NV
+
+00NV
+
+00NV
+
+00NV
+
+00NV actuel
+
+Atteindre une CV vaccinale d'au moins
+
+90% dans tous les
+
+Nombre de DS ayant atteint districts pour le VAT
+
+90 % DE CV pour le VAT2 chez les femmes enceintes
+
+Taux de PFA non polio
+
+/100.000 enfants de moins de 15 ans
+
+% de régions ayant les deux
+
+Maintenir l'interruption indicateurs majeurs circulation du PVS
+
+% de prélèvement de selles adéquates
+
+Nombre de cas de PVS confirmé
+
+Nombre de DS ayant notifié au moins un cas suspect de
+
+Interrompre la rougeole dans l'année circulation du virus
+
+Taux d'investigation annuel morbilleux des cas suspects de rougeole
+
+Nombre de cas confirmés de rougeole
+
+Taux d'incidence du tétanos
+
+Maintenir l'élimination néonatal du tétanos néonatal et maternel
+
+Nombre de districts à haut risque
+
+Assurer la prévention
+
+Nombre de DS ayant notifié des épidémies de fièvre au moins 1 cas suspect de FJ jaune
+
+Assurer une
+
+Part de l'Etat dans le indépendance financement des vaccins vaccinale par le budget classiques et nouveaux national
+
+ANNEXES
+
+ANNEXE I :
+
+TERMES DE REFERENCE DU COMITÉ CONSULTATIF POUR LA
+
+VACCINATION (CCVS)
+
+1. Mandat
+
+Le CCVS est un organe consultatif chargé d'apporter aux autorités sanitaires et aux gestionnaires du Programme national de vaccination des orientations dans la définition et la mise en œuvre des politiques et stratégies nationales de vaccination.
+
+Ce comité, composé d'experts nationaux dans différentes disciplines est chargé d'émettre des avis ou recommandations dans le domaine des vaccins et de la vaccination après une analyse rigoureuse des données factuelles disponibles au niveau national, régional et international.
+
+2. Rôles et responsabilités
+
+Le CCVS devra apporter aux autorités sanitaires, un appui scientifique et technique dans le choix et la mise en œuvre des politiques et stratégies nationales de vaccination.
+
+Il sera chargé entre autres de :
+
+- analyser les politiques et stratégies nationales de vaccination en cours (PEV, non-PEV et AVS) et proposer au besoin les réaménagements nécessaires ;
+
+- proposer des stratégies optimales pour le contrôle des maladies à prévention vaccinale ;
+
+- conseiller les autorités nationales sur les stratégies pertinentes pouvant permettre le monitorage et l'évaluation de l'impact des programmes de vaccination
+
+- faire un plaidoyer en direction des autorités nationales, de la société civile, du secteur privé, ...
+
+pour soutenir, renforcer et crédibiliser les politiques nationales de vaccination ;
+
+- informer les autorités nationales sur les derniers développements scientifiques et les innovations dans le domaine de l'immunisation et des vaccins.
+
+- établir des partenariats avec d'autres comités consultatifs pour la vaccination nationaux ou internationaux.
+
+3. Composition du Comité a. Les membres « de droit »
+
+Ils sont représentés par quinze personnes ressources de nationalité sénégalaise et dotées d'une expertise avérée dans des domaines suivants :
+
+- 2 pédiatres
+
+- 1 épidémiologiste
+
+- 1 spécialiste en maladies infectieuses
+
+- 1 spécialiste de santé publique
+
+- 2 spécialistes en bactériologie-virologie
+
+- 1 économiste de la santé
+
+- 1 socio anthropologue
+
+- 1 gynécologue
+
+- 1 immunologiste
+
+- 1 spécialiste en vaccinologie
+
+- 2 spécialistes en médecine interne
+
+- 1 spécialiste en communication
+
+Ils sont les seuls habilités à prendre des décisions sur les avis et recommandations émis par le comité.
+
+Les membres sont nommés par le Ministre en charge de la Santé sur proposition du Directeur de la Prévention médicale. La durée de leur mandat est de quatre (4) ans renouvelable une fois.
+
+Le Président et le Vice-président du Comité sont nommés par le Ministre de la Santé et de l'Hygiène Publique sur proposition du Directeur de la Prévention médicale. .
+
+La fonction de membre de droit est bénévole. Les membres bénéficient cependant d'une indemnité forfaitaire à titre de remboursement des frais induits par leur participation aux réunions.
+
+b. Les membres « ex officio » et les membres de liaison
+
+Ils sont nommés par le Ministre de la Santé de l'Hygiène Publique et de la Prévention. Ils sont chargés de faciliter et d'accompagner le travail du comité par la mise à disposition de toutes les données et autres informations jugées nécessaires par les experts.
+
+Les membres « ex officio » représentent au sein du comité les services du Ministère de la Santé de l'Hygiène Publique et de la Prévention ainsi que des autres Ministères impliqués dans la mise en œuvre et le suivi des activités de vaccination.
+
+Les membres de liaison représentent au sein du Comité les organisations ou institutions nationales et internationales apportant un appui dans le cadre de la mise en œuvre des activités de vaccination.
+
+c. Le Secrétariat du Comité
+
+Le secrétariat technique et scientifique du Comité est assuré par la Direction de la Prévention médicale.
+
+A ce titre, il assure la préparation et l'organisation administrative et technique de toutes les réunions du comité et de ses sous-groupes de travail. Il est également chargé de la rédaction et de la transmission de toutes les productions scientifiques et administratives du comité (avis et recommandations, procèsverbaux de réunions, ..).
+
+Le secrétariat est coordonné par un secrétaire général assisté par un secrétaire adjoint tous deux nommés par le Ministre de la Sante de l'Hygiène Publique et de la Prévention sur proposition du Directeur de la Prévention médicale.
+
+d. Les observateurs
+
+Il s'agit de personnalités pouvant être conviées de manière ponctuelle aux réunions afin apporter des informations sur des questions spécifiques pour lesquelles le comité a besoin d'un éclairage.
+
+4. Les réunions du Comité a. Convocation
+
+Le Comité se réunit une fois par trimestre (soit quatre fois par an) sur convocation de son Président.
+
+Sauf urgence dûment justifiée, la convocation indiquant l'ordre du jour de la réunion et accompagnée de toute la documentation nécessaire, devra être transmise par le secrétariat à tous membres du Comité sept (7) à dix (10) jours avant la date fixée pour la réunion.
+
+Le Comité peut se réunir de manière extraordinaire à la demande du MSHPP, de son Président ou de la moitié, au moins de ses membres.
+
+b. Conduite des réunions
+
+Le Président du Comité fixe l'ordre du jour et préside les séances. A ce titre, il organise et dirige les débats. Il veille à ce que l'intégralité des points inscrits à l'ordre du jour soit examinée par le comité.
+
+En cas d'empêchement du Président, le Vice-président le remplace dans sa fonction.
+
+Pour prendre en compte de manière spécifique une ou plusieurs thématiques données, le président du comité peut mettre en place un groupe de travail. Le groupe de travail est présidé par un membre de droit du comité qui recevra à cet effet, des termes de référence définissant la composition du groupe de travail, la thématique, les résultats attendus, le temps imparti etc. Le groupe de travail est appuyé par les membres du secrétariat scientifique et technique. Le président du comité peut y adjoindre au besoin des personnes ressources non membres du Comité.
+
+A la fin de ses réflexions, le président du groupe de travail présentera le livrable aux membres de droit du comité pour adoption.
+
+c. Quorum
+
+Le quorum nécessaire pour que le Comité puisse se réunir valablement est de huit (8) membres.
+
+Si le quorum n'est pas atteint, le Comité est à nouveau convoqué dans un délai maximum de quinze (15) jours dans les mêmes conditions et avec le même ordre du jour. Il délibère alors sans condition de quorum.
+
+Les membres « ex officio », les membres de liaison, le secrétariat et les observateurs ne sont pas comptabilisés dans le calcul du quorum.
+
+Le relevé des délibérations réalisé à l'issue de la séance du comité énonce le nombre de membres présents ayant permis d'atteindre le quorum.
+
+d. Adoption des recommandations
+
+Les avis et recommandations du comité sont adoptés après analyse et vote à la majorité simple par les membres de droit du comité. Toutefois, le consensus est privilégié dans le cas d'espèce.
+
+e. Registre de présence
+
+Les membres du Comité participant aux réunions émargent en début de séance au registre de présence tenu par le secrétariat.
+
+5. Confidentialité et conflit d'intérêt
+
+Une déclaration de confidentialité et d'absence de conflit d'intérêt est signée par les membres du comité et les observateurs, avant toute participation aux activités du comité.
+
+En cas de conflits d'intérêt pour un sujet soumis à l'avis du comité, le membre concerné doit en informer le comité en début de séance. Dans ce cas, il sera exclu des discussions et du vote pour le sujet en question. Néanmoins, le président peut se réserver le droit de recueillir son avis s'il le juge nécessaire. Si le conflit d'intérêt concerne le président, la session est dirigée par le vice-président. Sur ce point, le président sera exclu des discussions et du vote pour le sujet en question.
+
+Les rapports, les procès verbaux et tout autre document adressés aux membres du Comité, ainsi que les débats sont confidentiels. Cette obligation de confidentialité s'étend à toute personne assistant aux réunions du Comité.
+
+ANNEXE II : Structure des coûts du PEV de 2011 A 2016
+
+Total
+
+-Transport
+
+- Stratégie fixe et livraison des vaccins
+
+Stratégie avancée
+
+Catégorie de Coût
+
+Coûts récurrents courants
+
+Vaccin de base
+
+Traditionnel
+
+Sous-utilisés
+
+Nouveaux
+
+Matériels d'Injections
+
+Personnel
+
+Salaires du personnel
+
+- Per-diems stratégie avancée/ mobile
+
+- Per-diems surveillance
+
+& monitoring
+
+Stratégie mobile
+
+Entretien et général
+
+Entretien de la
+
+Chaîne du Froid
+
+Entretien d'autres équipements
+
+Bâtiments (l'électricité, l'eau...)
+
+Formation à court terme
+
+Mobilisation sociale et
+
+IEC
+
+Contrôle et surveillance des maladies
+
+Gestion du programme
+
+Autres coûts récurrents
+
+Sous Total des Coûts
+
+Récurrents
+
+Coût en Capital
+
+Véhicules
+
+Équipement de la
+
+Chaîne du froid
+
+Autres coûts de capital
+
+Sous Total des Coûts
+
+Récurrents
+
+Campagnes de
+
+Vaccination
+
+Polio
+
+Vaccins et Matériel d'Injection
+
+Coûts opérationnels
+
+- Rougeole
+
+- Vaccins et Matériel d'Injection
+
+- Coûts opérationnels
+
+- Tétanos
+
+- Vaccins et Matériel d'Injection
+
+Coûts opérationnels
+
+- Méningite
+
+Vaccins et Matériel d'Injection
+
+- Coûts opérationnels
+
+- Rougeole rubéole
+
+Vaccins et Matériel d'Injection
+
+Coûts opérationnels
+
+Sous Total des Coûts en
+
+Campagne 6 743 215
+
+Coûts partagés
+
+- Coûts partagés de personnel
+
+- Coûts partagés de transport
+
+- Fièvre jaune
+
+Vaccins et Matériel d'Injection
+
+Coûts opérationnels
+
+- Bâtiments
+
+Subtotal 3 314 217
+
+TOTAL GENERAL
+
+- Vaccination de
+
+Routine
+
+- Campagnes de
+
+Vaccination
+
+ANNEXE III DONNEES DE REFERENCES ET OBJECTIFS ANNUEL DU PPAC
+
+Nombre
+
+Nombre total de naissances
+
+Nombre total de décès de nourrissons
+
+Nombre total de nourrissons survivants
+
+Nombre total de femmes enceintes
+
+Nombre de nourrissons vaccinés (ou à vacciner) avec le BCG
+
+Couverture du BCG (%)
+
+Nombre de nourrissons vaccinés (ou à vacciner) avec les trois doses du VPO
+
+Couverture du VPO3 (%)[2]
+
+Nombre de nourrissons vaccinés (ou à vacciner) avec la première dose du DTC
+
+Nombre de nourrissons vaccinés (ou à vacciner) avec les trois doses du DTC[3]
+
+Couverture du DTC3 (%)
+
+Taux de perte pour l'année de référence et prévu par la suite pour le
+
+DTC (%)
+
+Facteur de perte pour l'année de référence et prévu par la suite pour le
+
+DTC
+
+Population cible vaccinée avec la première dose du vaccin antipneumococcique
+
+Population cible vaccinée avec la troisième dose du vaccin antipneumococcique
+
+Couverture du vaccin antipneumococcique (%)[2]
+
+Nourrissons vaccinés (à vacciner) avec la première dose du vaccin antirougeoleux
+
+Couverture du vaccin antirougeoleux
+
+Femmes enceintes vaccinées avec l'AT +
+
+Couverture AT+ (%)[4]
+
+Taux annuel d'abandon du DTC[ ( DTC1 [5]
+
+DTC3 ) / DTC1 ] x 100
+
+Année de référence
+
+Données de référence et objectifs
+
+1%
+
+5%
+
+5%
+
+5%
+
+5%
+
+5%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+ANNEXE IV : INDICATEURS MACRO-ECONOMIQUES ET DE VIABILITE FINANCIERE PIB par habitant
+
+Dépenses total de santé par habitant
+
+Population
+
+PI
+
+Dépenses total de santé
+
+Dépenses total de santé du gouvernement
+
+Routine et campagne de vaccination
+
+Routine seulement par enfant DTC3
+
+% des dépenses totales de santé
+
+Routine et campagne de vaccination
+
+Routine seulement
+
+Écart Financier
+
+Avec financement assuré
+
+Avec financement assuré et probable
+
+% des dépenses totales de santé du gouvernement
+
+Routine et campagne de vaccination
+
+Routine seulement
+
+Écart Financier
+
+Avec financement assuré
+
+Avec financement assuré et probable
+
+% PIB
+
+Routine et campagne de vaccination
+
+Routine seulement par habitant
+
+Routine et campagne de vaccination
+
+Routine seulement
+
+ANNEXE V:
+
+MISE A JOUR PLAN GEV
+
+L'Evaluation de la Gestion Efficace des Vaccins (EGEV) des dépôts de vaccins au niveau pays a été conduite par la mise à contribution d'évaluateurs externes de l'OMS, Genève et d'une équipe d'enquêteurs du Ministère de la Santé et de la Prévention.
+
+Ce travail avait abouti à la production d'un plan d'amélioration De la logistique et des recommandations en termes de renforcement et/ou de capacitation des ressources humaines. La mise en œuvre du plan d'amélioration a donné les résultats suivants suivent.
+
+I – NIVEAU CENTRAL
+
+Recommandations 1 :
+
+Développer un Manuel de Procédures Opératoire Standard (SOP) pour l'arrivée des vaccins. Adapter les RAV de l'UNICEF pour tous vaccins ou consommables venant du pays ou des pays voisins. Ce SOP doit prendre en compte le CMC et les dispositions écrites avec les parties impliquées pour le dédouanement Assister au transport des vaccins depuis l'aéroport pour s'assurer des conditions Mener une supervision formative pour le personnel du dépôt sur le système d'archivage aux normes de tous les RAV et documents liés à la réception de tous vaccins. Introduire des classeurs avec étiquettes et systèmes d'archivage et les utiliser comme outil de gestion au jour le jour Niveau d'exécution :
+
+Tous les vaccins reçus au niveau du dépôt central quelque soit leur origine ont fait l'objet d'un rapport d'arrivée de vaccins
+
+Le personnel du dépôt a été renouvelé dans le cadre du projet Optimize, ce personnel a été formé sur la gestion des vaccins y compris la tenue des outils de gestion et il est régulièrement supervisé.
+
+Recommandation 2 :
+
+Mettre en application les résultats de l'étude de suivi des températures, faire la cartographie des températures dans les différentes Chaines De Froid et les afficher Conduire une formation formelle sur la gestion des vaccins
+
+Concevoir des outils de gestion des vaccins endommagés par le froid ou par l'exposition à des températures élevées,
+
+Mettre en place un système d'archivage et le montrer au personnel, utiliser un classeur avec étiquette pour garder les archives de la température
+
+Acquérir et installer des appareils de suivi continu de la température avec système d'alarme et former le personnel à leur utilisation, faire leur calibrage selon les indications du fabricant Niveau d'exécution :
+
+Les plages de température recommandées sont affichées au niveau du dépôt central Des appareils de suivi continu de la température sont utilisés au niveau de toutes les chambres froides Recommandation 3 :
+
+Développer un SOP pour une stratégie de distribution future du dépôt central et un plan de contingence pour protéger les vaccins en cas d'urgence,
+
+Former le personnel sur le plan de contingence en cas d'urgence
+
+Conversion des deux chambres froides pour augmenter les capacités de stockage entre 0 et 8 degrés.
+
+Construction d'une chambre froide positive et d'un magasin de stockage, installation d'un rayonnage adéquat pour le stockage à sec
+
+Niveau d'exécution :
+
+Deux chambres froides de 30m3 (financement Etat) et de 40 m3 (financement UNICEF) ont été acquises Un véhicule frigorifique est acheté sous financement GAVI dans le cadre du RSS Recommandation 4 :
+
+Réhabiliter les locaux pour un accès aisé au magasin, aménager un espace additionnel pour la distribution des vaccines, mettre en place un dispositif de lavage des mains
+
+Acquérir et installer des régulateurs de tension et des extincteurs, doter le dépôt de glacières conformes aux normes de l'OMS
+
+Concevoir un SOP sur les pratiques sures de travail dans les CDF et donner une formation sur les meilleures pratiques de travail dans les chambres froides et les chambre de congélation.
+
+Niveau d'exécution :
+
+Tout le personnel est récemment formé sur les meilleures pratiques de travail dans les chambres froides et de congélation
+
+Des glacières homologuées sont acquises sous financement état
+
+Recommandation 5 :
+
+Elaborer un plan de maintenance préventive des bâtiments, des chambres froides, et des véhicules Préparer un accord écrit avec l'unité de maintenance pour garantir l'effectivité des réparations Externaliser la maintenance des bâtiments et des véhicules (la maintenance des chambres froides est déjà externalisée)
+
+Niveau d'exécution :
+
+La maintenance des chambres froides continue à être externalisée
+
+Recommandation 6 :
+
+Mettre en place un système efficace de distribution vers les Régions Médicales (RM), concevoir des outils de pré collecte et de notification, préparer l'impression d'un rapport mensuel et archiver Etablir une procédure d'enregistrement des vaccins endommagés et arrivés à expiration et développer un SOP pour l'élimination en toute sécurité des déchets
+
+Former le personnel sur les procédures d'enregistrement des vaccins endommagés ou arrivés à expiration Concevoir une fiche de stock pour l'enregistrement des seringues et des boites de sécurité Mettre en place un antivirus et un système de mise à jour
+
+Installer des étagères supplémentaires au niveau des chambres froides pour éviter l'entreposage sur le sol Niveau d'exécution :
+
+Un plan d'approvisionnement des régions médicales est élaboré et mis en œuvre Deux ordinateurs neufs son acquis dans le cadre du projet Optimize Recommandation 7 :
+
+Développer un SOP pour les circuits de distribution, les rapports manutention des vaccins et le rendre disponible.
+
+Développer un SOP pour le conditionnement des glacières, sur le chargement des camions frigorifiques.
+
+Rendre disponible le SOP dans le dépôt
+
+Développer un plan de contingence en cas d'urgence
+
+Former le personnel à ces modes opératoires standard (circuits de distribution, rapports manutention des vaccins
+
+Concevoir un outil pour documenter le remplacement des vaccins endommagés Préparez des instructions écrites sous forme de posters et les rendre disponibles Une formation sur l'utilisation des PCV doit être donnée
+
+Niveau d'exécution :
+
+Une formation sur la gestion des vaccins depuis l'arrivée à l'aéroport jusqu'au point d'utilisation a été réalisée
+
+Recommandation 8 :
+
+Préparez des instructions écrites sous forme de posters sur la PCV, le test d'agitation etc., et les rendre disponibles.
+
+Conduire une formation sur la gestion des vaccins
+
+Préparer les supports sur la gestion des déchets et mettre en place un système de suivi des déchets) Niveau d'exécution :
+
+Une formation sur la gestion des vaccins et des supervisions régulières sont effectuées.
+
+Recommandation 9 :
+
+Faire la revue des supports existants. Identifier et développer le SOP et former le personnel sur la base des SOP
+
+Faire la revue des supports existants, identifier les besoins en SIG et développer des supports Développer un plan annuel qui comporte une composante sur la gestion des vaccins Niveau d'exécution :
+
+Un système d'information avec serveur est en cours d'élaboration
+
+II – NIVEAU REGION
+
+Recommandation 2 :
+
+Faire le point sur les études de suivi de la température antérieures.
+
+Diffuser un formulaire d'enregistrement de la température des vaccins endommagés (si possible l'intégrer dans les supports existants)
+
+Former le personnel sur l'utilisation du formulaire
+
+Niveau d'exécution :
+
+Le formulaire d'enregistrement de la température des vaccins endommagés sera intégré lors de la révision prochaine des outils de gestion
+
+Recommandation 3 :
+
+Doter les régions en CDF
+
+Réaménager et/ou réhabiliter les lieux de stockage ambiant
+
+Doter les régions de véhicules Pick-up et de glacières
+
+Elaborer et diffuser (à tous les niveaux) un plan de contingence
+
+Niveau d'exécution :
+
+Les gaps des régions en chaine du froid ont été résorbés financement (Etat, UNICEF et LuxDev) Toutes les régions ont été dotées de véhicules sous financement UNICEF et LuxDev Recommandation 4 :
+
+Doter les dépôts de régions d'extincteurs
+
+Aménager des palettes et rayons dans les lieux de stockage ambiant Affecter des locaux adaptés au PEV
+
+Aménager un espace additionnel pour le chargement des vaccins, la distribution et faire des installations pour le lavage des mains
+
+Mettre en place des groupes électrogènes au niveau des dépôts régionaux qui n'en disposent pas Assurer la maintenance des groupes électrogènes et mettre en place une réserve suffisante de carburant Acquérir et installer des régulateurs de tension pour les dépôts régionaux Niveau d'exécution :
+
+Quelques groupes électrogènes sont envoyés dans certaines régions mais toutes les régions ne sont pas couvertes
+
+Recommandation 5 :
+
+Etablir un plan de maintenance préventive pour les équipements de chaine de froid Mettre en place un plan de maintenance pour les bâtiments (y compris les extincteurs) Procéder régulièrement à la révision du plan de maintenance préventive Etablir un protocole avec l'unité de maintenance régionale (CHR) pour garantir l'effectivité de la réparation des équipements et tenir des archives
+
+Elaborer un contrat de maintenance avec un service externalisé de la région médicale Externaliser la maintenance des bâtiments et des véhicules (la maintenance des chambres froides est déjà externalisée)
+
+Niveau d'exécution :
+
+Un contrat de maintenance est en cours d'élaboration pour le compte des structures sanitaires de trois régions dans la cadre du RSS / GAVI
+
+Recommandation 6 :
+
+Doter les dépôts régionaux d'ordinateurs avec antivirus performants et système de sauvegarde Doter les dépôts régionaux d'imprimantes
+
+Organiser une formation de base MS Office, plus tard sur le nouveau SMT et mettre en place un système d'appui à distance
+
+Prendre en compte les seringues et les boîtes de sécurité dans les fiches de stock Elaborer et diffuser des rapports mensuels de distribution
+
+Mettre en place un système de pré collecte et de notification et s'assurer de la mise en œuvre Diffuser les procédures d'enregistrement des vaccins endommagés et arrivés à expiration définies par la DPM.
+
+Evaluer le système d'élimination des déchets afin d'élaborer un plan d'amélioration Assurer une meilleure disponibilité en vaccins et améliorer la gestion des stocks de vaccins et consommables
+
+Faire un inventaire physique trimestriel
+
+Niveau d'exécution :
+
+Tous les responsables des dépôts régionaux de vaccins sont formés sur le SMT durant l'année 2011 Les inventaires physiques sont faits tous les trimestriels avant chaque nouvel commande Recommandation 7 :
+
+Etablir un planning de distribution pour chaque dépôt receveur, en fixant les dates de livraison et/ou de collecte.
+
+Elaborer et diffuser un formulaire de suivi pour les plannings de distribution des vaccins Mettre en place un système avec les services impliqués dans le convoyage des vaccins Diffuser un Mode Opératoire Standardisé (MOS) par la DPM
+
+Mettre en place un système de remplacement des vaccins endommagés
+
+Elaborer un plan de contingence
+
+Niveau d'exécution :
+
+Un plan d'approvisionnement des en vaccins et consommables est élaboré, diffusé et mis en œuvre Recommandation 8 :
+
+Former les magasiniers au test d'agitation
+
+Former les magasiniers aux techniques de conditionnement des accumulateurs de froid lors de l'enlèvement des vaccins.
+
+Niveau d'exécution :
+
+Une formation sur le PEV et la gestion des vaccins y compris le test d'agitation et le conditionnement des accumulateurs est entrain d'être déroulée. 6 régions sur les 14 sont déjà formées Recommandation 9 :
+
+Partager et diffuser les Manuels Opératoires Standardisées élaborés par la DPM Former le personnel sur la base des MOS
+
+Organiser des supervisions régulières des agents
+
+Faire l'inventaire des équipements CDF et des véhicules tous les semestres Inclure la composante Gestion Efficace des Vaccins (GEV) dans les plans à venir Elaborer un protocole pour tous les services externalisés: maintenance, distribution, etc.
+
+Niveau d'exécution :
+
+Une évaluation de la gestion efficace des vaccins (GEV) est prévue à partir du 27 août 2012 III – NIVEAU DISTRICT
+
+Recommandation 2 :
+
+Faire le point sur les études antérieures et appliquer les recommandations. (au besoin faire une nouvelle étude).
+
+Formation sur la conservation et le monitorage des vaccins pour les gestionnaires des vaccins au niveau district.
+
+Niveau d'exécution :
+
+Une formation sur la gestion des vaccins est en cours (les districts de 5 régions su les 14 sont déjà formés)
+
+Recommandation 3 :
+
+Doter les districts de réfrigérateurs pour augmenter leur capacité de stockage Réaménager et/ou réhabiliter les lieux de stockage ambiant
+
+Doter les districts de Pick-up et de glacières
+
+Doter les districts de congélateurs pour augmenter leur capacité de production d'accumulateurs congelés Elaborer et diffuser (à tous les niveaux) un plan de contingence
+
+Niveau d'exécution :
+
+Les gaps des districts en chaine du froid ont été résorbés avec financement (Etat, UNICEF et LuxDev) Des glacières grand modèle ont été acquises
+
+20 véhicules ont été distribués aux districts (financement UNICEF) Recommandation 4 :
+
+Doter les districts de groupes électrogènes à démarrage automatique, d'extincteurs, de kits de premiers secours, et de régulateur de tension
+
+Réhabiliter les bâtiments pour stockage ambiant
+
+Aménager un espace pour le conditionnement des vaccins, la distribution et les installations de lavage des mains
+
+Aménager le local pour le stockage ambiant – mettre en place un rayonnage adéquat Elaborer un planning de distribution des vaccins vers les postes de santé Niveau d'exécution :
+
+Ces recommandations n'ont pas été exécutées
+
+Recommandation 5 :
+
+Elaborer un plan de maintenance préventive des équipements de la chaîne de froid, bâtiments, chambres froides, et des véhicules
+
+Uniformiser les formats d'archivage des documents de maintenance
+
+Préparer un accord écrit avec l'unité de maintenance pour garantir l'effectivité des réparations dans un délai de 48 Heures après la déclaration de la panne
+
+Niveau d'exécution :
+
+Recommandation 6 :
+
+Organiser une formation sur le nouveau SMT / DVD MT
+
+Elaborer et mettre en œuvre un plan de pré-collecte
+
+Partager et diffuser un Manuel Opératoire Standardisé (MOS) pour les vaccins endommagés et arrivés à expiration élaboré par la DPM
+
+Appliquer la politique de gestion des vaccins pour une meilleure maitrise des stocks Faire un inventaire physique mensuel des vaccins, intrants et consommables et l'archiver Réaménager les lieux de stockage ambiant et faire les rangements correctement Niveau d'exécution :
+
+Tous les responsables des dépôts de district ont bénéficié de formations sur le SMT et le DVD-MT durant l'année 2011
+
+La politique de gestion des vaccins est appliquée dans tous les districts Les inventaires physiques sont faits tous les trimestriels avant chaque nouvel commande
+
+Recommandation 7 :
+
+Elaborer un planning de distribution pour chaque dépôt receveur, en fixant les dates de livraison et/ou de collecte.et diffuser et utiliser un formulaire de rapport de suivi de distribution des vaccins et l'archiver (le formulaire doit être élaboré par la DPM)
+
+Elaborer et mettre en œuvre un système local de livraison complémentaire de vaccins en direction des postes de santé
+
+Elaborer et mettre en œuvre un système de remplacement des vaccins endommagés Elaborer un plan de contingence pour faire face aux urgences prévisibles sur chaque trajet de distribution Niveau d'exécution :
+
+Tous les vaccins endommagés au niveau des districts sont systématiquement remplacés Recommandation 8 :
+
+Rendre disponible les procédures du test d'agitation de l'OMS et former le personnel Diffuser la politique de gestion et de suivi des déchets définie par la DPM Renforcer la supervision formative surtout en direction des nouveaux agents Elaborer un plan d'élimination des aiguilles et des flacons
+
+Doter les districts d'incinérateurs Macro-burn
+
+Assurer l'entretien et le fonctionnement des incinérateurs
+
+Niveau d'exécution :
+
+Une formation sur le PEV et la gestion des vaccins y compris le test d'agitation et le conditionnement des accumulateurs est entrain d'être déroulée. 6 régions sur les 14 sont déjà formées Des supervisions sont régulièrement menées par les districts vers les postes de santé Recommandation 9 :
+
+Diffuser les SOP élaborés par la DPM et former le personnel
+
+Assurer la formation et recyclage des agents
+
+Faire l'inventaire annuel de la CDF et de la logistique roulante, enregistrer les données et les archiver Inclure la composante gestion efficace des vaccins dans les plans annuels Contractualiser pour tous les services externalisés: maintenance, distribution, etc.
+
+Niveau d'exécution :
+
+Une formation sur le PEV et la gestion des vaccins y compris le test d'agitation et le conditionnement des accumulateurs est entrain d'être déroulée. 6 régions sur les 14 sont déjà formées Une évaluation de la gestion efficace des vaccins (GEV) est prévue à partir du 27 août 2012 Un contrat de maintenance est en cours d'élaboration pour le compte des structures sanitaires de trois régions dans la cadre du RSS / GAVI
+
+IV – NIVEAU POSTE DE SANTE
+
+Recommandation 2 :
+
+Mettre en œuvre les recommandations des études antérieures sur le suivi de la température Renouveler les affiches indiquant les températures de stockage des vaccins Former ou recycler les ICP (Infirmiers Chef de Poste) sur la conservation des vaccins Mettre en place un support (formulaire ou registre) pour l'enregistrement des vaccins endommagés à travers la formation du personnel
+
+Niveau d'exécution :
+
+Une formation sur la gestion des vaccins est en cours (les ICP de 5 régions su les 14 sont déjà formés) Recommandation 3 :
+
+- Renouveler la chaine de froid au niveau des postes de santé
+
+- Elaborer un plan de contingence et le mettre en place au niveau des PS Niveau d'exécution :
+
+Les gaps en chaine du froid des postes de santé sont passés de 521 unités à 427 Recommandation 4 :
+
+Réfectionner la toiture des bâtiments abritant le dépôt des vaccins Réfectionner la toiture des bâtiments de stockage ambiant
+
+Aménager des étagères pour rangement des consommables
+
+Acquérir et installer des régulateurs de tension
+
+Niveau d'exécution :
+
+Ces recommandations n'ont pas été exécutées
+
+Recommandation 5 :
+
+Elaborer un plan de maintenance préventive pour les équipements de la chaine de froid Assurer le suivi du plan à travers la mise en place de cahier ou registre de maintenance Elaborer un plan de maintenance préventive pour les bâtiments
+
+Niveau d'exécution :
+
+Recommandation 6 :
+
+Réviser et mettre en place les registres de gestion adaptés pour les vaccins et consommables Etablir une procédure d'enregistrement des vaccins endommagés et arrivés à expiration Former le personnel sur les procédures d'enregistrement des vaccins endommagés Niveau d'exécution :
+
+Des registres de gestion adaptés pour les vaccins ont été confectionnés et diffusés au niveau de toutes les structures sanitaires
+
+Recommandation 7 :
+
+Former le personnel sur la gestion et la manipulation des vaccins (rangement et test d'agitation) Elaborer des instructions écrites sous forme de posters et les rendre disponibles Organiser des supervisions régulières des agents
+
+Niveau d'exécution :
+
+Des formations sont organisées
+
+Des supervisions sont menées régulièrement
+
+RESUME DES ACQUISITIONS
+
+ANNEE 2010
+
+Chaîne du froid
+
+TCW 3000
+
+RCW 50
+
+Chambre froide 40m
+
+Logistique roulante
+
+Pick Up
+
+Motos 125
+
+Etat
+
+UNICEF
+
+RSS/GAVI
+
+Luxdev
+
+Total
+
+ANNEE 2011
+
+Chaîne du froid
+
+TCW 3000
+
+TCW 2000
+
+RCW 50
+
+RCW 25
+
+Chambre froide 40m3
+
+Chambre froide 10m3
+
+Logistique roulante
+
+Pick Up
+
+Motos 125
+
+Etat
+
+UNICEF
+
+Luxdev
+
+Total

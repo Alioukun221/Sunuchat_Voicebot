@@ -1,0 +1,2447 @@
+Chimioprévention du paludisme saisonnier par administration de sulfadoxine-pyriméthamine et d'amodiaquine aux enfants :
+
+guide de terrain
+
+guide de terrain
+
+Chimioprévention du paludisme saisonnier par administration de sulfadoxine-pyriméthamine et d'amodiaquine aux enfants : guide de terrain, deuxième édition [Seasonal malaria chemoprevention with sulfadoxine–pyrimethamine plus amodiaquine in children: a field guide, second edition]
+
+ISBN 978-92-4-007847-5 (version électronique)
+
+ISBN 978-92-4-007848-2 (version imprimée)
+
+© Organisation mondiale de la Santé 2023
+
+Certains droits réservés. La présente œuvre est disponible sous la licence Creative Commons Attribution – Pas d'utilisation commerciale – Partage dans les mêmes conditions 3.0 IGO (CC BYNC-SA 3.0 IGO ; https://creativecommons.org/licenses/by-nc-sa/3.0/igo/deed.fr).
+
+Aux termes de cette licence, vous pouvez copier, distribuer et adapter l'œuvre à des fins non commerciales, pour autant que l'œuvre soit citée de manière appropriée, comme il est indiqué ci dessous. Dans l'utilisation qui sera faite de l'œuvre, quelle qu'elle soit, il ne devra pas être suggéré que l'OMS approuve une organisation, des produits ou des services particuliers. L'utilisation du logo de l'OMS est interdite. Si vous adaptez cette œuvre, vous êtes tenu de diffuser toute nouvelle œuvre sous la même licence Creative Commons ou sous une licence équivalente. Si vous traduisez cette œuvre, il vous est demandé d'ajouter la clause de non-responsabilité suivante à la citation suggérée : « La présente traduction n'a pas été établie par l'Organisation mondiale de la Santé (OMS). L'OMS ne saurait être tenue pour responsable du contenu ou de l'exactitude de la présente traduction. L'édition originale anglaise est l'édition authentique qui fait foi ».
+
+Citation suggérée. Chimioprévention du paludisme saisonnier par administration de sulfadoxinepyriméthamine et d'amodiaquine aux enfants : guide de terrain, deuxième édition [Seasonal malaria chemoprevention with sulfadoxine–pyrimethamine plus amodiaquine in children: a field guide, second edition]. Genève, Organisation mondiale de la Santé, 2023. Licence : CC BY-NC-SA 3.0 IGO.
+
+Catalogage à la source. Disponible à l'adresse https://apps.who.int/iris/?locale-attribute=fr&.
+
+Ventes, droits et licences. Pour acheter les publications de l'OMS, voir https://www.who.int/ publications/book-orders. Pour soumettre une demande en vue d'un usage commercial ou une demande concernant les droits et licences, voir https://www.who.int/fr/copyright.
+
+L'OMS a pris toutes les précautions raisonnables pour vérifier les informations contenues dans la présente publication. Toutefois, le matériel publié est diffusé sans aucune garantie, expresse ou implicite. La responsabilité de l'interprétation et de l'utilisation dudit matériel incombe au lecteur.
+
+En aucun cas, l'OMS ne saurait être tenue pour responsable des préjudices subis du fait de son utilisation.
+
+1.
+
+Introduction
+
+2. Chimioprévention du paludisme saisonnier
+
+3.
+
+2.1 Qu'est-ce que la CPS ?
+
+2.2 Qui est éligible à la CPS ?
+
+2.3 Où la CPS doit-elle être mise en œuvre ?
+
+2.4 Quand la CPS doit-elle être mise en œuvre ?
+
+2.5 Pourquoi l'association SP+AQ est-elle recommandée ?
+
+2.5.1 Schémas posologiques pour l'association SP+AQ
+
+2.5.2 Contre-indications
+
+2.6 Efficacité de la chimioprévention et pharmacorésistance
+
+2.7 Sécurité
+
+2.8 Avantages escomptés de la CPS
+
+2.9 Considérations pour le déploiement de la CPS
+
+2.10 Coûts et rapport coût-efficacité de la CPS
+
+Mise à jour de la politique nationale de CPS
+
+3.1 Analyse de la situation
+
+Contexte
+
+3.1.2 Situation concernant le paludisme
+
+3.1.3 Situation du système de santé
+
+3.2 Données pour éclairer la prise de décision sur le nombre de passages de CPS à prévoir, par district
+
+3.3 Données pour orienter l'extension de la tranche d'âge
+
+3.4 Données pour orienter le ciblage géographique
+
+3.5 Mise à jour de la politique ou processus d'élaboration
+
+4. Planification et mise en œuvre
+
+4.1 Stratégies de distribution
+
+Distribution en porte-à-porte
+
+4.1.2 Distribution à un point fixe
+
+4.1.3 Modèles mixtes de distribution de CPS
+
+4.1.4 Mise en œuvre de la CPS dans les zones d'insécurité tratégies de rémunération pour les travailleurs de la campagne de CPS
+
+4.2 Préparation du plan de mise en œuvre de la CPS
+
+4.2.1 Principales activités de planification de la CPS
+
+4.2.2 Formation du personnel de la campagne de CPS (formation en cascade)
+
+4.2.3 Mobilisation sociale et communication
+
+4.2.4 Gestion de la chaîne d'approvisionnement :
+
+4.3 Mise en œuvre de la CPS
+
+4.3.1 Supervision
+
+4.3.2 Algorithme d'administration de SP+AQ
+
+4.3.3 Absence d'un enfant pendant le passage de CPS
+
+4.3.4 Combinaison de la CPS avec d'autres interventions
+
+4.3.5 Collaboration transfrontalière
+
+4.4 Rôles et responsabilités aux différents niveaux
+
+4.4.1 Niveau national
+
+4.4.2 Niveau régional
+
+4.4.3 Niveau du district
+
+4.4.4 Niveau des établissements de santé périphériques
+
+4.4.5 Niveau communautaire
+
+5. Suivi et évaluation
+
+5.1 Cadre de performance
+
+Indicateurs
+
+5.1.2 Sources et méthodes de collecte des données
+
+5.1.3 Numérisation de la campagne de CPS
+
+5.1.4 Difficultés connues en matière de surveillance de la couverture de la CPS
+
+5.2 Suivi des réactions indésirables aux médicaments
+
+5.2.1 Définitions
+
+5.2.2 Enregistrement et notification d'événements indésirables
+
+5.2.3 Difficultés potentielles de la notification des événements indésirables
+
+5.3 Suivi et communication des coûts
+
+5.4 Rapport final de fin de campagne
+
+Références bibliographiques
+
+Remerciements
+
+La première édition de ce guide pratique a été publiée par l'Organisation mondiale de la Santé (OMS) en 2013. À l'époque, les experts suivants ont contribué à la rédaction du guide pratique : Badara Cisse (Université Cheikh Anta Diop, Sénégal), Diadier Diallo (Burkina Faso), Cheikh K Diop (Programme national de lutte contre le paludisme, Sénégal), Oumar Gaye (Université Cheikh Anta Diop, Sénégal), Marie-Reine Jibidar (Fonds des Nations Unies pour l'enfance, Sénégal), Estrella Lasry (Médecins Sans Frontières, États-Unis d'Amérique) et Paul Milligan (London School of Hygiene and Tropical Medicine [LSHTM], Royaume-Uni de Grande-Bretagne et d'Irlande du Nord). En outre, les membres de l'OMS suivants ont fourni des contributions techniques : Andrea Bosman (Programme mondial de lutte contre le paludisme), Soce Fall (Bureau régional de l'OMS pour l'Afrique), Robert Newman (Programme mondial de lutte contre le paludisme), Peter Olumese (Programme mondial de lutte contre le paludisme), Franco Pagnoni (Programme mondial de lutte contre le paludisme), Pascal Ringwald (Programme mondial de lutte contre le paludisme), Mariam Warsame (Programme mondial de lutte contre le paludisme) et Wilson Were (Département Santé de la mère, du nouveau-né, de l'enfant et de l'adolescent et vieillissement).
+
+Suite à la publication des Lignes directrices de l'OMS sur le paludisme, le 3 juin 2022, qui comprennent des mises à jour relatives à la chimioprévention du paludisme saisonnier (CPS), le Programme mondial de lutte contre le paludisme de l'OMS et le Programme spécial de recherche et de formation concernant les maladies tropicales (TDR) ont organisé une consultation technique du 21 au 23 novembre 2022 pour élaborer la deuxième édition du guide de terrain de la CPS.
+
+Nous remercions chaleureusement les experts suivants qui ont participé à la consultation technique et ont contribué à la réalisation de ce document : Yaya Barry (Programme national de lutte contre le paludisme [PNLP], Guinée), Dominique Bomba (PNLP, Cameroun), Daniel Chandramohan (LSHTM, Royaume-Uni), Catherine Dentinger (Centers for Disease Control and Prevention, États-Unis), Ibrahim Ouba Djiada (PNLP, Niger), Makido Dormbaye (PNLP, Tchad), Charlotte Eddis (President's Malaria Initiative Impact Malaria project, Population Services International, États-Unis) – rapporteur, Lia Florey (United States Agency for International Development, États-Unis), Mohammed Ould Hamed (PNLP, Guinée-Bissau), William Edgard Houndjo (PNLP, Bénin), Standeur Nabi Kaly (PNLP, Sénégal), Jean Louis Ndiaye (Université of Thiès, Sénégal) – Chair, Paul Milligan (LSHTM, Royaume-Uni), Christian Rassi (Malaria Consortium, Royaume-Uni), Yacouba Savadogo (Fonds mondial de lutte contre le sida, la tuberculose et le paludisme, Suisse), Emmanuel Shekarau (PNLP, Nigeria), Tchassama Tchadjobo (PNLP, Togo), André-Marie Tchouatieu (Medicines for Malaria Venture, Suisse), Fady Toure (PNLP, Mali) et Suzanne Van Hulle (Catholic Relief Services, États-Unis).
+
+Le personnel de l'OMS suivant a contribué au contenu technique de ce guide : Andrea Bosman (Programme mondial de lutte contre le paludisme), Corinne Merle (TDR), Peter Olumese (Programme mondial de lutte contre le paludisme), Spes Ntabangana (bureau de pays de l'OMS au Sénégal), Jackson Sillah (Bureau régional de l'OMS pour l'Afrique) et Gildas Yahouedo (TDR).
+
+Cette mise à jour a également pris en compte les résultats d'une précédente réunion (organisée conjointement par le Programme mondial de lutte contre le paludisme et le TDR) en 2019, à la suite de la mise en œuvre à grande échelle de la CPS dans 13 pays africains, ainsi qu'un cadre de performance actualisé pour la CPS produit par le sousgroupe de suivi et d'évaluation de l'Alliance CPS.
+
+L'OMS tient à remercier la Fondation Bill & Melinda Gates, qui a participé au financement de la réalisation et de la production de ce guide.
+
+Acronymes
+
+AQ amodiaquine
+
+ASC agent de santé communautaire
+
+CCS changement de comportement social
+
+CPP chimioprévention du paludisme pérenne
+
+CPS chimioprévention du paludisme saisonnier
+
+CTA combinaisons thérapeutiques à base d'artémisinine intervalle de confiance
+
+OMS
+
+Organisation mondiale de la Santé
+
+PNLP programme national de lutte contre la paludisme
+
+S&E suivi et évaluation
+
+SP sulfadoxine-pyriméthamine
+
+RC relais communautaire
+
+TDR Programme spécial de recherche et de formation concernant les maladies tropicales
+
+TSD traitement sous surveillance directe
+
+Glossaire campagne de CPS
+
+Période pendant laquelle toutes les activités de
+
+CPS sont mises en œuvre. Les éléments de la campagne sont la planification et le recensement, la gestion des achats et des approvisionnements, la mobilisation de la population, la formation, l'administration des médicaments pour la CPS, la prise en charge des cas et la pharmacovigilance, la supervision, le suivi et l'évaluation.
+
+carte de CPS de l'enfant
+
+Carte remise au parent ou tuteur qui indique le nombre total de comprimés de CPS donnés à chaque passage.
+
+chimioprévention du paludisme saisonnier (CPS)
+
+Administration intermittente d'un traitement complet par un médicament antipaludique pendant la saison de transmission élevée du paludisme, pour éviter la maladie. L'objectif est de maintenir des concentrations thérapeutiques de médicament antipaludique dans le sang pendant la période où le risque de contracter le paludisme est plus élevé.
+
+crieur public
+
+Personnes engagées pendant les campagnes de CPS pour mobiliser la population avant et pendant chaque passage de CPS, en fournissant des messages clés sur la CPS.
+
+cure de CPS
+
+Schéma posologique recommandé des médicaments pour la CPS, en fonction de l'âge, qui est administré sur une période de 3 jours.
+
+distribution à un point fixe
+
+Méthode de distribution de la CPS, à un emplacement central, tel qu'un établissement de santé, une école ou un lieu communautaire central par des relais communautaires ou des agents de santé,.
+
+distribution en porte-à-porte
+
+Méthode d'administration de la CPS par des relais communautaires dans le foyer de l'enfant.
+
+feuille de décompte de la
+
+CPS
+
+Feuille journalière utilisée par les relais communautaires pour suivre le nombre de doses de SP+AQ administrées, administrées une deuxième fois et gaspillées. Elle est également utilisée pour suivre la couverture administrative et rendre compte de la quantité de médicaments distribués chaque jour de chaque période de distribution.
+
+formulaire de transfert de la CPS
+
+Formulaire remis au parent ou tuteur d'un enfant lorsque celui-ci est adressé à un agent de santé qualifié pendant la CPS. L'agent de santé communautaire écrit dans le formulaire de transfert l'évaluation de l'état clinique de l'enfant et les raisons du transfert.
+
+formulaire récapitulatif quotidien
+
+Formulaire rempli chaque jour de la période de distribution (c.-à-d. les 3 à 5 jours où les RC distribuent les médicaments dans la communauté à chaque passage), par des agents de centres de santé, pour récapituler les données quotidiennes de toutes les feuilles de décompte et de tous les formulaires de transfert, dans la zone couverte par un établissement de santé. Utilisé pour alimenter le rapport de fin de passage.
+
+passage de CPS
+
+Intervalle de 28 jours entre chaque cure de
+
+SP+AQ.
+
+période de distribution de la CPS
+
+Nombre de jours dans chaque passage de CPS, où SP+AQ sont distribués aux enfants éligibles dans une zone (généralement 4 à 5 jours).
+
+plan de mise en œuvre de la CPS
+
+Plan rédigé qui décrit toutes les activités pour s'assurer de l'efficacité de la campagne de CPS.
+
+Il fournit une estimation des ressources humaines, logistiques et financières nécessaires. Il comprend également des aspects liés à la gestion des achats et des approvisionnements, à la formation, à la supervision, à la pharmacovigilance, à la sécurité, à la préparation aux risques, ainsi qu'au suivi et à l'évaluation.
+
+plaquette thermoformée de
+
+SP+AQ
+
+Plaquette thermoformée contenant une cure complète de SP+AQ, souvent accompagnée d'instructions illustrées, pour améliorer l'observance du traitement. La première dose (un comprimé de SP et un comprimé de AQ dissous dans l'eau) est administrée par le relais communautaire, ou sous sa supervision, le 1er jour de chaque cure. Les deux autres comprimés d'AQ sont donnés au parent ou tuteur pour être dissous et administrés à domicile en doses quotidiennes uniques les 2e et 3e jours.
+
+posologie de SP+AQ
+
+Il existe au moins trois posologies pour enfants (et non formes galéniques) de SP+AQ :
+
+- doses pour nourrissons de 3 à < 12 mois
+
+- doses pour enfants de 12 à 59 mois procédé de distribution de la CPS
+
+Méthode ou système utilisé pour atteindre les enfants éligibles et administrer la CPS à intervalles mensuels. La méthode de distribution peut être le porte-à-porte, à des endroits fixes dans la communauté ou dans un établissement de santé, ou un mélange de ces stratégies.
+
+quantification
+
+Détermination de la quantité de médicaments pour la CPS et d'autres produits nécessaires pour la campagne de CPS.
+
+rapport de fin de passage
+
+Rapport rempli à la fin de chaque passage qui récapitule le nombre total d'enfants qui ont reçu une CPS (par tranche d'âge), qui ont reçu une dose supplémentaire et qui ont été adressés à un agent de santé qualifié. Il est utilisé pour fournir un résumé du rapprochement des stocks de médicaments pour la CPS, des pertes de médicaments et du bilan des plaquettes thermoformées à la fin de chaque passage.
+
+recensement
+
+Détermination du nombre d'enfants en âge de recevoir la CPS dans les zones ciblées.
+
+Le recensement fait partie du processus de planification. Il est essentiel d'affiner les hypothèses de planification et de planifier avec précision l'approvisionnement en médicaments de
+
+CPS pour la campagne à venir.
+
+relais communautaire (RC)
+
+Travailleur communautaire recruté et formé pour administrer SP+AQ aux enfants éligibles au cours de chaque passage de distribution de la CPS. Les
+
+RC travaillent souvent en binôme, sous la direction de superviseurs sur le terrain.
+
+responsables de la mise en œuvre de la CPS
+
+Toutes les personnes impliquées dans la mise en œuvre de la CPS, y compris les relais communautaires, les superviseurs, les agents de santé, les crieurs publics, les formateurs, les autorités sanitaires, le programme national de lutte contre le paludisme et le personnel des partenaires d'exécution.
+
+superviseur de la CPS
+
+Personne responsable de la supervision des relais communautaires pendant les passages de CPS.
+
+Chaque superviseur de CPS est responsable de plusieurs équipes de CPS, observe l'administration de SP+AQ et fournit des commentaires constructifs, du mentorat et du soutien. Les superviseurs et les agents de santé de la CPS sont à leur tour supervisés par des superviseurs seniors, souvent des autorités sanitaires de district ou régionales.
+
+traitement sous surveillance directe (TSD)
+
+Il est conseillé qu'un relais communautaire soit physiquement présent pendant l'administration de la première dose de SP+AQ à un enfant par le parent ou tuteur, pour fournir des conseils et rassurer, pour voir si l'enfant ingère le médicament ou le recrache et pour être sûr qu'au moins la première dose a été donnée à l'enfant mentionné dans la feuille de décompte. Dans la plupart des pays, seule la première dose est directement observée (TSD1). Dans certains pays, un RC observe chaque dose à chacun des 3 jours (TSD3).
+
+1. Introduction
+
+Selon le Rapport 2022 sur le paludisme dans le monde, on estime à 247 millions le nombre de cas de paludisme et à 619 000 le nombre de décès dus au paludisme dans le monde en 2021 ; 76 % des décès concernaient des enfants de moins de 5 ans (1).
+
+En 2021, l'Organisation mondiale de la Santé (OMS) a lancé les Lignes directrices de l'OMS sur le paludisme sur la plate-forme en ligne MAGICapp (https://app.
+
+magicapp.org/#/guideline/5542). Les lignes directrices unifiées regroupent deux documents antérieurs de directives – les Guidelines for the treatment of malaria, third edition (Lignes directrices pour le traitement du paludisme, troisième édition), et les Lignes directrices pour la lutte contre les vecteurs du paludisme – et comprennent des sections sur la prévention (lutte antivectorielle, chimiothérapies préventives et vaccination), la prise en charge des cas, l'élimination et la prévention de la réintroduction et la surveillance. Au fur et à mesure que de nouvelles données deviennent disponibles, les recommandations sont révisées et mises à jour, conformément au processus d'élaboration des lignes directrices de l'OMS, et le contenu de la plate-forme est mis à jour. La version des lignes directrices publiée le 3 juin 2022 a fourni une mise à jour sur les recommandations pour la chimioprévention du paludisme saisonnier (2).
+
+Les interventions actuellement recommandées par l'OMS pour lutter contre le paludisme comprennent l'utilisation de moustiquaires imprégnées d'insecticide ou la pulvérisation d'insecticides à effet rémanent à l'intérieur des habitations pour la lutte antivectorielle, un accès rapide aux tests de diagnostic en cas de suspicion du paludisme et le traitement des cas confirmés par des combinaisons thérapeutiques à base d'artémisinine. En outre, des interventions préventives recommandées pour des groupes spécifiques à haut risque dans les zones de transmission modérée à élevée du paludisme comprennent la chimioprévention du paludisme saisonnier (CPS), le traitement préventif intermittent pendant la grossesse et, chez les écoliers, la chimioprévention du paludisme pérenne (CPP) pour les enfants, la chimioprévention antipaludique après la sortie de l'hôpital et la vaccination antipaludique.
+
+Après avoir recommandé une intensification de la CPS en 2012, l'OMS a publié, en 2013, la première édition du guide de terrain pour la chimioprévention du paludisme saisonnier, qui recommandait l'utilisation de l'amodiaquine (AQ) associée à la sulfadoxine-pyriméthamine (SP) pour faciliter la mise en œuvre de la CPS (3). Depuis, la CPS a été adoptée et mise en œuvre à grande échelle dans 13 pays africains (Bénin, Burkina Faso, Cameroun, , Gambie, Ghana, Guinée, Guinée-Bissau, Mali, Niger, Nigeria, Sénégal Tchad et Togo), atteignant plus de 45 millions d'enfants en 2021. Des programmes pilotes ont été menés à bien au Mozambique et en Ouganda.
+
+Les bonnes pratiques pour la mise en œuvre de la CPS basées sur l'expérience des pays africains depuis 2013 ont été compilées dans ce guide de terrain mis à jour.
+
+L'objectif de ce guide est de transmettre ces bonnes pratiques pour améliorer la mise en œuvre, la couverture, le suivi et l'évaluation de la CPS. Des exemples de supports et d'outils, ainsi que des liens vers des ressources, sont inclus pour aider les responsables et les agents de santé à mener à bien les activités de CPS et à prévenir le paludisme chez les enfants vulnérables.
+
+2. Chimioprévention du paludisme saisonnier
+
+Dans les zones de transmission du paludisme saisonnier, les enfants appartenant aux tranches d'âge à haut risque de paludisme grave doivent recevoir des médicaments antipaludiques pendant le pic saisonnier de transmission du paludisme pour réduire le fardeau du paludisme (recommandation forte, preuves de certitude modérée).
+
+Qu'est-ce que la CPS ?
+
+La CPS est l'administration intermittente d'une dose curative de médicament antipaludique pendant la saison du paludisme aux enfants asymptomatiques, que l'enfant soit infecté ou non par le parasite du paludisme – c'est-à-dire que les enfants asymptomatiques ne sont pas testés pour le paludisme avant l'administration de la CPS. L'objectif est d'établir des concentrations sanguines de médicament antipaludique qui éliminent les infections existantes et préviennent les nouvelles pendant la période où le risque de contracter le paludisme est le plus élevé. La CPS est recommandée dans les zones où la transmission du paludisme saisonnier est forte.
+
+Qui est éligible à la CPS ?
+
+Les enfants appartenant aux tranches d'âge à haut risque de paludisme grave sont éligibles. Les programmes de lutte contre le paludisme doivent utiliser les données locales pour déterminer les tranches d'âge les plus exposées au paludisme grave. Dans la plupart des pays où la transmission du paludisme saisonnier est très élevée, il s'agit des enfants de moins de 5 ans (1).
+
+Où la CPS doit-elle être mise en œuvre ?
+
+Les régions cibles prioritaires pour la mise en œuvre de la CPS sont celles où :
+
+- la transmission du paludisme est hautement saisonnière et la majorité (> 60 %) des cas cliniques de paludisme surviennent au cours de 4 mois consécutifs – lorsque les données sur le paludisme provenant du système d'information pour la gestion de la santé ne sont pas fiables, les données sur les précipitations peuvent être utilisées comme indicateur de la saisonnalité de l'incidence (au moins 60 % des précipitations annuelles au cours de 4 mois consécutifs) ; et
+
+- le taux d'attaque clinique du paludisme (sans CPS) est d'au moins 0,1 épisode par enfant pendant la saison de transmission dans le groupe cible.
+
+2.4 Quand la CPS doit-elle être mise en œuvre ?
+
+La CPS doit être mise en œuvre pendant la période de forte transmission du paludisme, lorsque l'incidence de la maladie est la plus élevée. Les cures de CPS doivent être données à des intervalles de 28 jours, en commençant au début de la saison de transmission et en continuant pendant 3 à 5 passages, en fonction du contexte local.
+
+L'administration de la CPS doit être choisie pour couvrir la période où les enfants présentent le plus grand risque d'infection palustre. La répartition saisonnière du paludisme (nombre de cas confirmés de paludisme par mois) doit être décrite par district, dans chaque pays, afin de définir le moment idéal pour commencer et mettre fin à la CPS. Les données sur les précipitations peuvent également être utilisées pour estimer les périodes de pic de transmission. En fonction des tendances saisonnières de transmission du paludisme, le calendrier et le nombre de passages de CPS (3 à 5) peuvent varier d'un pays à l'autre et dans différentes régions d'un même pays (voir section 3.2).
+
+2.5 Pourquoi l'association SP+AQ est-elle recommandée ?
+
+Pour la chimioprévention dans un pays donné, l'OMS recommande de ne pas utiliser les médicaments utilisés comme traitement antipaludique de première ou de deuxième intention dans ce même pays.
+
+La combinaison SP+AQ est actuellement recommandée pour la CPS pour les raisons suivantes.
+
+- Dans les essais cliniques qui ont fourni la base de données probantes pour les recommandations de l'OMS, l'association SP+AQ a conféré une plus grande protection que d'autres combinaisons de médicaments.
+
+- Rien n'indique que l'efficacité de la chimioprévention de l'association SP+AQ diminue en Afrique.
+
+- Le schéma SP+AQ est bien toléré et relativement peu coûteux.
+
+- Le schéma SP+AQ confère une protection pendant 28 jours.
+
+Schémas posologiques pour l'association SP+AQ
+
+L'association SP+AQ est disponible sous forme de comprimés dispersibles dans deux plaquettes thermoformées différentes pour les deux tranches d'âge suivantes :
+
+- Nourrissons âgés de 3 à <12 mois : une dose unique d'un comprimé de 250/12,5 mg de SP et trois comprimés de 75 mg à base d'AQ. Le comprimé de SP et un comprimé d'AQ sont administrés le 1er jour ; les 2e et 3e comprimés d'AQ sont administrés les 2e et 3e jours, respectivement.
+
+- Enfants de 12 à 59 mois : une dose unique d'un comprimé de 500/25 mg de SP et trois comprimés de 150 mg à base d'AQ. Le comprimé de SP et un comprimé d'AQ sont administrés le 1er jour ; les 2e et 3e comprimés d'AQ sont administrés les 2e et 3e jours, respectivement.
+
+Comme il n'existe actuellement aucune plaquette thermoformée spécifique pour les enfants âgés de plus de 60 mois, les pays doivent s'assurer que la dose cible de SP+AQ en fonction du poids est administrée quotidiennement pendant 3 jours : SP – 25/1,25 (2570/1,25-3,5) mg/kg de poids corporel, en dose unique, et QA – 10 (7,5-15) mg/kg de poids corporel, par jour pendant 3 jours.
+
+L'emballage indique clairement que les deux comprimés de SP et d'AQ doivent être administrés le 1er jour et que les comprimés d'AQ uniquement doivent être administrés les 2e et 3e jours. Les emballages des différents fabricants peuvent être légèrement différents et cela doit être pris en compte dans l'élaboration des supports de formation. La dose unique de SP est administrée seulement le premier jour, avec la première dose d'AQ.
+
+Tous les enfants éligibles au premier passage de CPS restent éligibles tout au long de la campagne (c'est-à-dire que les enfants ne « deviennent pas trop vieux » pour la CPS au cours d'une campagne). Cependant, l'inverse n'est pas vrai – les enfants qui deviennent éligibles dans les passages ultérieurs doivent recevoir la CPS à partir de ce moment.
+
+Contre-indications
+
+La CPS ne doit pas être administrée à :
+
+- un enfant atteint d'une maladie fébrile aiguë ou d'une maladie grave – ces enfants doivent être dirigés vers l'établissement de santé le plus proche pour des soins appropriés (ou testés et, s'ils sont positifs pour le paludisme, traités sur place par un antipaludique dans les pays où des tests de diagnostic rapide et les combinaisons thérapeutiques à base d'artémisinine (CTA) sont disponibles dans la communauté, dans le cadre de la campagne de la CPS) ;
+
+- un enfant prenant du co-trimoxazole (par exemple, un enfant séropositif au VIH recevant une prophylaxie par le cotrimoxazole) ;
+
+- un enfant qui a reçu une dose de SP ou d'AQ au cours des 4 dernières semaines ; ou
+
+- un enfant allergique à SP ou AQ.
+
+Les relais communautaires pour les médicaments antipaludiques doivent être formés aux contre-indications. À chaque passage, ils doivent s'assurer que chaque enfant ne fait l'objet d'aucune contre-indication avant d'administrer les médicaments.
+
+Efficacité de la chimioprévention et pharmacorésistance
+
+La CPS avec l'association SP+AQ offre un degré élevé de protection jusqu'à 28 jours et la protection diminue rapidement par la suite (Figure 1). Il est donc important de prévoir un intervalle de 28 jours entre les cures de CPS pour atteindre un niveau élevé de protection.
+
+Figure 1. Efficacité de la CPS en fonction du temps écoulé depuis le début du traitement
+
+0%
+
+Temps depuis la dose 1 (jours)
+
+Source : London School of Hygiene and Tropical Medicine (4).
+
+Total cumulé des cas ciblés
+
+Il n'est pas possible d'utiliser les données sur l'efficacité du traitement pour
+
+140évaluer l'efficacité de la chimioprévention. Les marqueurs moléculaires de la pharmacorésistance sont un outil utile, mais imparfait,
+
+2 3 4 5 pour prédire l'efficacité des stratégies de chimioprévention.5 Des enquêtes menées dans sept pays, en 2018, ont 3 de
+
+100montré que les principaux marqueurs résistance étaientSedhiou encore rares, mais la situation pourrait évoluer 2et doit être surveillée en permanence. L'OMS a publié le document Malaria
+
+Chemoprevention efficacy study protocol pour la surveillance de
+
+Tambacounda protectrice des antipaludiques utilisés en chimioprévention (5).
+
+60l'efficacité
+
+Kolda
+
+Kedougou
+
+Nombre total de traitements
+
+Sécurité
+
+Avant la mise en œuvre à grande échelle de la CPS, la combinaison SP + AQ était jugée sûre et bien tolérée lorsqu'elle était utilisée aux posologies et schémas thérapeutiques recommandés. Les deux médicaments sont utilisés depuis des décennies pour traiter le paludisme et la SP est actuellement utilisée dans le traitement préventif intermittent du paludisme chez la femme enceinte et chez le nourrisson et l'enfant jusqu'à 2 ans (chimioprévention antipaludique permanente). Dans de nombreux pays, l'AQ est utilisée en association avec l'artésunate comme CTA pour le traitement du paludisme simple.
+
+Les effets indésirables les plus fréquemment rapportés associés à l'AQ sont des vomissements, une faiblesse, des douleurs abdominales et une diarrhée. Les effets indésirables rares associés à l'AQ comprennent des symptômes extrapyramidaux. Les effets indésirables graves rares associés à la SP comprennent des réactions cutanées sévères (par exemple, nécrolyse épidermique toxique, syndrome de Stevens–Johnson).
+
+L'administration hebdomadaire de SP ou d'AQ en chimioprophylaxie a été interrompue en raison du risque d'effets indésirables graves liés aux médicaments. Comme les données sur la toxicité cumulative d'AQ sont limitées, il n'est pas recommandé de réduire l'intervalle entre les passages à moins de 28 jours.
+
+Le programme national de lutte antipaludique ne doit pas déployer d'antipaludiques contenant de la SP ou de l'AQ pour le traitement de première ou de deuxième intention dans les zones mettant en œuvre la CPS. Il est important de collaborer avec le secteur privé pour interdire la vente de médicaments contenant de la SP ou de l'AQ dans les régions mettant en œuvre la CPS. Cela permettra d'éviter un risque d'exposition répétée à la SP ou à l'AQ à de courts intervalles, ce qui peut entraîner une toxicité grave.
+
+En 10 ans de mise en œuvre de la CPS, peu d'effets indésirables graves ont été rapportés.
+
+Pour assurer la sécurité de la CPS, de nombreux pays se sont appuyés sur leur système de pharmacovigilance, bien qu'insuffisant, ainsi que sur des données tirées de plusieurs études pour renforcer la surveillance. Une synthèse de ces effets indésirables figure dans l'Encadré 1 ci-dessous.
+
+Encadré 1. Synthèse des effets indésirables des médicaments après 10 ans de déploiement de la CPS
+
+Les mesures de sécurité prises pour améliorer la pharmacovigilance au cours de la CPS ont été examinées par l'OMS en 2017 (6). Jusqu'à la fin de 2016, 1721 rapports individuels de pharmacovigilance liée aux médicaments de la CPS avaient été soumis à Vigibase, la base de données internationale de l'OMS des rapports de vigilance gérée par le centre de référence en pharmacovigilance (Safety Monitoring Centre) d'Uppsala (7). Les rapports provenaient du Burkina Faso, de Guinée, du Mali, du Niger, du Nigeria, du Sénégal et du Togo et comprenaient 363 rapports sur des enfants de 6 à 10 ans du Sénégal. Le nombre de rapports était similaire pour les garçons et les filles. Les vomissements et la diarrhée étaient plus fréquents chez les enfants de moins de 2 ans ; la fièvre et les douleurs abdominales étaient plus fréquentes chez les enfants de 2 à 4 ans. En 2015–2016, 61 cas supplémentaires ont été notifiés à ACCESS-SMC, une initiative multinationale de CPS (8). Au total, 46 cas ont été classés comme graves (nécessitant une hospitalisation ou la prolongeant), dont deux cas de syndrome de Stevens–Johnson, un cas de syndrome de Lyell, deux cas d'éruption cutanée, deux cas de maladie fébrile grave et 33 cas de troubles gastro-intestinaux. Au total, six cas de syndrome extrapyramidal ont été dénombrés, dont un seul a été classé comme grave. Au cours de la campagne de 2017, un enfant est décédé des suites d'un étouffement dû à l'inhalation d'un médicament de CPS après son administration alors que l'enfant n'était pas complètement réveillé. En 2018, un cas de syndrome de Stevens–Johnson après CPS a été signalé au Niger (Lamninou, PNLP Niger, communication personnelle, 2018), et, en 2019, un enfant âgé de 43 mois est décédé du syndrome de Stevens–Johnson au Togo après la troisième cure de CPS (Tchassama Tchadjobo, PNLP Togo, communication personnelle, 2020).
+
+L'analyse de la causalité était restreinte par la difficulté d'éliminer d'autres étiologies (p. ex. dysenterie, paludisme). Les relais communautaires de la CPS sont formés pour exclure les enfants qui tombent malades après avoir reçu la CPS, mais, lorsque la couverture de la CPS est importante, il peut y avoir des enfants qui tombent malades peu de temps après avoir reçu les médicaments pour la CPS en raison d'une maladie préexistante (les symptômes peuvent ne pas être apparents dans les premiers stades d'une maladie). Une autre lacune de l'évaluation des rapports de pharmacovigilance a été l'absence de paramètres biochimiques et hématologiques, qui a pu conduire à une sousdétection de l'hépatotoxicité et de l'agranulocytose.
+
+2.8 Avantages escomptés de la CPS
+
+En 2012, la recommandation stratégique de l'OMS pour la CPS s'est fondée sur les résultats de sept études réalisées dans des zones de forte transmission du paludisme saisonnier, dans les régions sahéliennes et subsahéliennes de l'Afrique subsaharienne, entre 2002 et 2011 (9,10). Les données de ces études montrent que la CPS avec administration de SP+AQ à 28 jours d'intervalle à tous les enfants de moins de 6 ans au cours de chaque saison de transmission du paludisme (11) :
+
+- a évité environ 75 % de l'ensemble des accès palustres ;
+
+- a évité environ 75 % des accès palustres graves ;
+
+- fait probablement baisser la mortalité infantile de 3 pour 1000 par an à 2 pour 1000 par an ;
+
+- réduit probablement d'un tiers l'incidence de l'anémie modérée ;
+
+- n'a pas entraîné de recrudescence du paludisme pendant la saison de transmission suivante après 1 an de mise en œuvre ; et
+
+- a rarement été associée à des événements indésirables graves, bien qu'elle puisse entraîner des vomissements chez certains enfants.
+
+En 2015 et 2016, le projet Achieving Catalytic Expansion of SMC in the Sahel (ACCESSSMC) visait à éliminer les obstacles à l'expansion de la CPS pour les enfants de moins de 5 ans dans sept pays (Burkina Faso, Gambie, Guinée, Mali, Niger, Nigéria et Tchad).
+
+La CPS a été administrée mensuellement par des agents de santé communautaires (ASC) qui se rendaient de porte en porte. L'administration des médicaments était surveillée au moyen de feuilles de décompte et d'enquêtes par sondage en grappes sur la couverture des ménages. L'efficacité des traitements mensuels de CPS a été mesurée dans des études cas-témoins comparant la réception de la CPS entre des patients atteints de paludisme confirmé et des témoins comparables, habitant dans le voisinage et éligibles à la CPS. Les répercussions sur l'incidence et la mortalité ont été évaluées à partir des cas confirmés en ambulatoire, des hospitalisations et des décès associés au paludisme, tels que rapportés dans les systèmes nationaux d'information pour la gestion de la santé au Burkina Faso et en Gambie, et des données de certains établissements de soins ambulatoires (tous les pays).
+
+En 2020, les résultats d'une étude observationnelle visant à évaluer l'efficacité de la CPS en Afrique de l'Ouest et du Centre ont montré que la CPS à grande échelle était efficace pour prévenir la morbidité et la mortalité dues au paludisme (8). La CPS a été associée à une efficacité protectrice de 88,2 % (intervalle de confiance [IC] à 95 % : 78,7-93,4) sur 28 jours dans les études de cas-témoins (2185 cas de paludisme confirmé et 4370 témoins). Au Burkina Faso et en Gambie, la mise en œuvre de la CPS a été associée à des réductions de 42,4 % (IC à 95 % : 5,9-64,7) et 56,6 % (IC à 95 % : 28,9-73,5), respectivement, du nombre de décès dus au paludisme dans les hôpitaux, pendant la période de forte transmission. Au cours de la période 2015–2016, la réduction estimée des cas confirmés de paludisme dans les services de consultation externe, au cours de la période de forte transmission, dans les sept pays étudiés, variait de 25,5 % (IC à 95 % : 6,1-40,9) au Nigeria à 55,2 % (IC à 95 % : 42,0-65,3) en Gambie. La couverture était variable, certaines zones atteignant systématiquement des niveaux élevés grâce à des campagnes de porte-àporte. En 2015, parmi les enfants éligibles, la couverture moyenne par mois était de 76,4 % (IC à 95 % : 74,0-78,8), et 54,5 % des enfants (IC à 95 % : 50,4-58,7) ont reçu les quatre traitements. Une couverture similaire a été obtenue en 2016 : 74,8 % (IC à 95 % : 72,2-77,3) traités par mois et 53,0 % (IC à 95 % : 48,5-57,4) traités quatre fois.
+
+Au moment de la rédaction du présent rapport, en 2023, des études étaient en cours pour évaluer les retombées de la CPS en Afrique orientale et australe (notamment au Mozambique et en Ouganda).
+
+2.9 Considérations pour le déploiement de la CPS
+
+Les considérations suivantes s'appliquent dans les zones de déploiement de la CPS :
+
+- L'intervalle de 28 jours doit être respecté entre les passages– c'est-à-dire qu'un enfant qui est traité le 1er jour du premier passage de CPS doit être traité le 1er jour du passage suivant.
+
+- La SP et la première dose d'AQ doivent être prises le premier jour du traitement, dans le cadre du traitement sous surveillance directe (TSD1). Les deuxième et troisième doses d'AQ doivent être administrées au cours des 2 jours suivants par le parent ou tuteur. L'observance du schéma de 3 jours par les parents ou tuteurs peut être renforcée par une communication appropriée en matière de santé et un engagement communautaire. L'administration des trois doses sous surveillance directe (TSD3) est une option, bien que les données sur le rapport coût-efficacité du TSD3 fassent défaut.
+
+- Il est nécessaire de disposer d'un mécanisme pour que les enfants qui sont malades au moment de la campagne soient adressés à un agent de santé qualifié pour un test de diagnostic, puis pour recevoir un traitement curatif ou une CPS s'ils sont négatifs au paludisme. Cela peut se faire dans un établissement de santé ou, le cas échéant, par un ASC.
+
+- Il faut renforcer la pharmacovigilance là où elle existe ou l'instituer s'il n'y en a pas encore. Il est important de déployer des efforts pour simplifier et accélérer la notification des événements indésirables. Il est également nécessaire de mettre en place des systèmes pour assurer une documentation complète, ainsi que des ressources pour examiner les rapports et évaluer la causalité (pour plus de détails sur la pharmacovigilance appliquée à la CPS, voir la section 5.3).
+
+- Il est possible de favoriser et de mettre en place une surveillance de la pharmacorésistance et des systèmes permettant d'évaluer l'effet protecteur de la CPS en tant qu'intervention complexe dans des conditions programmatiques au niveau de la population (pour plus de détails sur la surveillance de l'efficacité de la chimioprévention par SP+AQ pour la CPS, voir la section 2.6).
+
+- Les systèmes d'information sanitaire existants doivent être renforcés pour enregistrer les cas simples et graves de paludisme et les décès imputables au paludisme. Il est indispensable de documenter la prise ou non d'une CPS (Oui/ Non/Inconnu) au cours des 4 semaines précédentes dans les dossiers des cas de paludisme simple, de paludisme grave et de décès dus au paludisme dans les établissements de santé.
+
+La CPS est complémentaire des mesures existantes de lutte contre le paludisme et doit être déployée en même temps que les autres interventions préventives et curatives.
+
+Cependant, la chimioprévention du paludisme pérenne (CPP) (anciennement connue sous le nom de traitement préventif intermittent chez les nourrissons), qui est utilisée dans les zones de transmission permanente du paludisme, ne doit pas être déployée dans les districts ou les communautés qui mènent une campagne de CPS.
+
+2.10 Coûts et rapport coût-efficacité de la CPS
+
+En 2016, une étude coût-efficacité du projet ACCESS-SMC dans sept pays a révélé que le coût économique moyen annuel pondéré de l'administration de quatre passages mensuels de CPS était de 3,63 USD (au taux de 2016) par enfant de moins de 5 ans.
+
+Le coût supplémentaire par cas de paludisme évité était compris entre 2,91 et 30,73 USD (fourchette : 2,71 à 8,20 USD (12)). Des variations ont été observées entre les pays, reflétant des différences dans les coûts récurrents et le pourcentage d'enfants couverts.
+
+Comme le nombre de passages varie maintenant entre les différentes régions, un coût unitaire par enfant et par passage serait plus significatif. Le rapport coût-efficacité de la CPS deviendra moins favorable à mesure que les programmes s'étendront aux tranches d'âge à risque plus faible de maladie grave et aux régions de transmission plus faible.
+
+3. Mise à jour de la politique nationale de CPS
+
+Lorsque des pays décident d'élaborer, de réviser ou de mettre à jour leur politique nationale de CPS, ils doivent envisager d'impliquer toutes les parties prenantes concernées, y compris les partenaires techniques et financiers. Le processus doit être piloté par le programme national de lutte contre le paludisme, avec la participation de son comité consultatif technique, des autorités sanitaires régionales et de district, des instituts de recherche, de la société civile et des organisations de santé communautaire.
+
+L'un des deux scénarios habituels en matière de politiques s'applique.
+
+- Les pays mettent à jour leur politique de CPS actuelle parce qu'ils envisagent de l'étendre à d'autres régions géographiques, de modifier le nombre de passages, de l'étendre à des enfants plus âgés ou de passer du schéma thérapeutique SP+AQ à un autre schéma.
+
+- Les pays envisagent d'introduire une nouvelle politique de CPS basée sur les résultats positifs des essais pilotes (par exemple, le Mozambique, l'Ouganda, la République-Unie de Tanzanie).
+
+Dans les deux cas, il est important d'effectuer une analyse de la situation.
+
+Analyse de la situation
+
+Une analyse de la situation doit être menée afin de s'appuyer sur une base pour l'élaboration ou la mise à jour de la politique nationale de CPS, après la publication des Lignes directrices de l'OMS sur le paludisme, le 3 juin 2022 (2). La CPS fait partie d'un ensemble d'interventions qui comprend une lutte antivectorielle efficace, la gestion des cas, les services de prévention pour les femmes enceintes et (dans un proche avenir) la vaccination. L'analyse de la situation peut comprendre les éléments suivants.
+
+Contexte
+
+Caractéristiques de la population : rurale, urbaine, nomade, déplacée à l'intérieur du pays, réfugiée, zones d'insécurité, barrières d'accès géographiques, frontière (possibilité de collaboration avec les pays limitrophes mettant également en œuvre la CPS).
+
+Données démographiques : définition de la population cible.
+
+- Dans quelle mesure les données sont-elles à jour et fiables ?
+
+- Qu'est-ce que les taux de couverture des campagnes précédentes ont révélé sur le dénominateur cible ?
+
+- Les méthodes de calcul des dénominateurs sont les suivantes.
+
+- Nombre total d'enfants éligibles à la CPS l'année précédente – si les enfants individuels n'ont pas été suivis ou identifiés, il est possible d'utiliser le nombre d'enfants par tranche d'âge traités lors du passage comprenant le plus grand nombre d'enfants traités et d'appliquer un taux de croissance (variable selon les pays).
+
+- Recensement des ménages à partir d'autres campagnes récentes (par exemple, moustiquaires insecticides de longue durée, vaccination).
+
+- Recensement des ménages lors de la microplanification ou de la mobilisation sociale, un ou deux jours avant le premier passage.
+
+- Les données du recensement national avec application d'un taux de croissance annuel.
+
+Situation du paludisme
+
+- Incidence mensuelle des formes simples et graves du paludisme par district, région et pays au cours des 3 années précédentes.
+
+- Pourcentage de cas de paludisme survenant pendant la saison de transmission élevée.
+
+- Modèles de précipitations mensuelles par région/district pour faciliter les décisions concernant le choix de l'emplacement et du calendrier des campagnes.
+
+- Schémas thérapeutiques actuels de première ou deuxième intention ou d'intentions ultérieures pour le paludisme simple.
+
+- Médicaments contenant de l'AQ et de la SP sur le marché et disponibles dans le secteur privé.
+
+- Description des principaux changements de politique susceptibles d'affecter le comportement de consultation, en particulier l'orientation des enfants malades identifiés au cours des passages de CPS (par exemple, introduction de soins gratuits pour les enfants de moins de 5 ans, nouveaux systèmes de recouvrement des coûts dans les établissements de santé publics).
+
+Situation du système de santé
+
+- Mécanismes actuels de coordination des campagnes de lutte contre le paludisme et de santé publique.
+
+- Description et calendrier d'autres activités simultanées au cours de la période de mise en œuvre de la CPS qui pourraient potentiellement réduire la couverture et la mise en œuvre de la CPS (par exemple, les élections nationales ou de district, d'autres campagnes de santé qui s'appuieront sur le même vivier d'agents de santé que la CPS).
+
+- Méthodes actuelles de collecte des données pour d'autres campagnes ou activités en porte-à-porte.
+
+- Chaîne d'approvisionnement pour la distribution et la gestion des produits nécessaires pour les campagnes de CPS.
+
+- Description des programmes de prestation de services au niveau communautaire (par exemple, prise en charge intégrée des cas au niveau communautaire, dépistage de la malnutrition, supplémentation en vitamine A).
+
+- Fonctionnalité des établissements de santé et efficacité des ASC (le cas échéant) pour la prise en charge des cas de paludisme.
+
+- Qualité et disponibilité des services de prise en charge des cas de paludisme dans la communauté, y compris l'orientation des enfants malades qui ne peuvent pas être traités au niveau communautaire.
+
+- Si les ASC sont autorisés à diagnostiquer et à traiter les cas de paludisme dans la communauté ou si l'orientation de tous les enfants fébriles vers d'autres services est nécessaire. Si les ASC peuvent diagnostiquer et traiter des cas de paludisme simples, la détection active des cas au cours d'une campagne de CPS en porte à porte peut-elle être prise en charge par le personnel existant et la chaîne d'approvisionnement déjà en place ?
+
+- Description des ressources humaines nécessaires et disponibles pour la distribution de la CPS (par exemple, relais communautaire, superviseurs, gestionnaires) à tous les niveaux du système de santé. Les relais communautaires peuvent être recrutés comme bénévoles spécifiquement pour la campagne (souvent à partir d'un vivier de membres de la communauté déjà connus par le système de santé parce qu'ils travaillent sur de nombreuses campagnes), ou recrutés dans un cadre reconnu et salarié d'ASC, si la charge de travail le permet.
+
+- Connaissances, attitudes et pratiques de consultation existantes dans la communauté concernant la CPS, la prévention du paludisme et le traitement du paludisme.
+
+- Stratégies et ressources existantes pour la sensibilisation, la mobilisation de la population et la mobilisation sociale.
+
+- Forces et faiblesses du système de pharmacovigilance existant.
+
+- Identification des risques et des obstacles à la mise en œuvre de la CPS qui peuvent survenir avant, pendant ou après distribution de la CPS (par exemple, achat et importation de médicaments, pénurie de médicaments pour la CPS au moment de la distribution, catastrophes naturelles, fortes pluies, problèmes de sécurité, grèves qui pourraient empêcher le transport et l'accès aux communautés).
+
+- Panorama de la chimioprévention dans le pays. La chimioprévention du paludisme pérenne est-elle planifiée, étudiée, pilotée ou mise en œuvre ?
+
+Qu'en est-il du traitement préventif intermittent pendant la grossesse dans le pays ? Existe-t-il des régions d'élimination menant des activités d'administration de masse de médicaments ? Y a-t-il des préoccupations concernant une « pression médicamenteuse » sur la SP ?
+
+L'OMS recommande la mise en œuvre de la CPS dans les régions où la transmission du paludisme saisonnier est élevée, définies comme les régions où au moins 60 % des cas annuels surviennent au cours d'une période consécutive de 4 mois (3). La CPS devrait offrir un rapport coût-efficacité très favorable dans les régions où l'incidence du paludisme en l'absence de CPS est supérieure à 0,1 par enfant pendant une saison de transmission élevée de 4 mois. Cependant, le début et la fin de la saison de transmission du paludisme ne sont pas toujours instantanés ; si un cinquième mois au début ou à la fin de la saison de 4 mois représente plus de 10 % de la charge annuelle, il peut être rentable d'ajouter un cinquième passage de CPS. Les gains découlant de l'ajout d'un sixième passage de CPS semblent minimes (13). Dans certains endroits, trois passages peuvent suffire.
+
+Lorsque la CPS a déjà été mise en œuvre, la fraction des cas survenant immédiatement avant ou après la saison de transmission principale peut être estimée en utilisant des compilations mensuelles de données, au niveau des établissements, pour les tranches d'âge ne recevant pas la CPS. L'analyse doit se limiter aux établissements disposant de données complètes. Après avoir identifié la période de 4 mois au cours de laquelle 60 % des cas annuels surviennent, il faut examiner les données sur plusieurs années pour évaluer si plus de 10 % des cas annuels de paludisme tombent systématiquement au cours d'un cinquième mois de part et d'autre de la période de transmission élevée identifiée. Si les données de surveillance ne sont pas fiables, les données sur les précipitations peuvent être utilisées comme approximation pour estimer les tendances saisonnières. Il est à noter que l'initiative « D'une charge élevée à un fort impact » utilise le critère de 60 % des précipitations annuelles tombant au cours de 4 mois consécutifs au cours des 4 années précédentes comme approximation raisonnable pour estimer les données
+
+80 % sur le nombre de cas. Il n'existe pas d'orientation sur le moment propice pour arrêter la CPS, car il est difficile d'estimer la transmission en l'absence de CPS une fois qu'elle a été mise en œuvre. La saisonnalité n'a pas besoin d'être mise à jour ; elle doit être60basée sur les tendances saisonnières de la maladie avant l'introduction de la CPS.
+
+%
+
+Si les ressources sont limitées, lors de la détermination du nombre optimal de passages % par40 district, il faut localiser les endroits avec le plus grand nombre de cas chaque mois, pendant la saison des pluies. Pour ce faire, il est nécessaire d'estimer le nombre de cas en l'absence de CPS dans la tranche d'âge cible pour 1000 habitants, pour chaque 20 % de 28 jours, par district. Il faut ensuite classer les périodes de 28 jours par ordre période d'incidence du paludisme, puis déterminer le nombre total cumulé de cas par rapport aux traitements totaux cumulés disponibles pour la distribution. Pour atteindre les résultats 0% souhaités, d'autres quatre et d'autres
+
+0 certains
+
+7 districts
+
+14peuvent
+
+21nécessiter
+
+28 cinq passages, encore seulement trois. Il est peudepuis probable qu'un nombre de passages inférieur à trois
+
+Temps la dose
+
+1 (jours) offre un rapport coût-efficacité favorable. Le processus est présenté dans la Figure 2.
+
+Fig. 2. Détermination du nombre optimal de passages de CPS à prévoir par district Total cumulé des cas ciblés
+
+Sedhiou
+
+Tambacounda
+
+Kolda
+
+Kedougou
+
+Nombre total de traitements
+
+Ordre de priorité :
+
+1. 5 passages à Kedougou
+
+2. 5 passages à Kedougou, 3 passages à Kolda
+
+3. 5 passages à Kedougou, 5 passages à Kolda, 3 passages à Tambacounda Source : Communication personnelle de Jean-Louis Ndiaye, 2022.
+
+Après avoir identifié le nombre optimal de passages par district, il faut identifier le moment optimal pour commencer le premier passage. Les passages de CPS doivent être commencés environ 2 semaines avant le début de l'augmentation des cas de paludisme. En cas d'utilisation des données sur les précipitations pour estimer la période de transmission élevée, il est inutile de se référer aux données de l'année de mise en œuvre, car les dates des passages devront être fixées plusieurs mois avant la campagne ; il convient plutôt d'utiliser les modèles de précipitations des années précédentes. L'approbation du ministère et du directeur général de la santé sera nécessaire et il sera également utile d'échanger avec les autres ministères et programmes pour s'assurer que les dates du passage de CPS leur conviennent, que leur choix aura une incidence minimale sur d'autres programmes et campagnes et que ceux-ci n'interféreront pas sur la CPS.
+
+Données pour orienter l'extension de la tranche d'âge
+
+La plupart des études cliniques ont évalué la CPS chez les enfants de 3 à 59 mois, mais des études limitées chez les enfants de 60 à 120 mois ont également montré une réduction de l'incidence du paludisme dans cette tranche d'âge. Deux études évaluant l'incidence de la CPS sur les enfants jusqu'à 10 ans ont mis en évidence un bénéfice à étendre la CPS à des enfants plus âgés. Au Mali, un an après la mise en œuvre de la CPS dans le district de Kita, y compris chez les enfants de 5 à 10 ans, les investigateurs ont constaté une diminution de 21 % du paludisme simple et de 62 % du paludisme grave chez les enfants de 5 à 10 ans dans le district pilote par rapport au district témoin (14). Cette extension a été associée à un surcoût de 0,43 USD par enfant par rapport aux enfants de 0 à 5 ans (2,95 USD contre 2,52 USD). Au Sénégal, où la CPS a été administrée aux enfants de 3 à 120 mois depuis son introduction en 2013–2014, les investigateurs ont constaté une diminution de 43 % des décès dus au paludisme dans les hôpitaux chez les enfants de moins de 10 ans, associée à l'introduction de la CPS, et une diminution de 44 % chez les patients externes atteints de paludisme confirmé dans cette tranche d'âge (Communication personnelle de Jean Louis Ndiaye, Université Iba Der Thiam de Thiès, Sénégal, 2022). L'incidence était comparable chez les enfants de 3 à 59 mois et chez ceux âgés de 60 à 120 mois.
+
+Les tendances locales des admissions pour paludisme grave doivent être étudiées en s'appuyant sur les données de routine disponibles, stratifiées par tranche d'âge.
+
+Lorsque les taux de paludisme grave, ventilés par âge, ne sont pas fiables ou ne sont pas disponibles, il est possible d'utiliser les données sur le paludisme simple.
+
+La définition d'une tranche d'âge cible dépend de la disponibilité de données de routine réparties par âge, qui sont souvent limitées à deux tranches d'âge pour les enfants : les moins de 5 ans et les plus de 5 ans.
+
+Les régions où la CPS a commencé chez les enfants de 3 à 59 mois peuvent observer une diminution de l'incidence attendue de la maladie dans les zones où l'intervention a été mise en place. La décision d'étendre la CPS aux enfants plus âgés doit s'appuyer sur :
+
+- le niveau de réduction du pourcentage de maladies graves chez les enfants de moins de 5 ans ;
+
+- le fardeau du paludisme grave observé chez les enfants de 5 à 10 ans ;
+
+- la faisabilité opérationnelle de l'extension à des tranches d'âge supérieures ; et
+
+- le rapport coût-efficacité de l'extension.
+
+Une modélisation mathématique peut être nécessaire pour éclairer certains de ces seuils.
+
+3.4 Données pour orienter le ciblage géographique
+
+Pour le ciblage géographique de la CPS, les pays doivent décider de la définition de la saisonnalité et des méthodes utilisées pour la déterminer.
+
+Les données permettant de déterminer la saisonnalité comprennent les données stratifiées selon l'âge sur les cas courants, les estimations annuelles historiques de l'incidence et de la prévalence ainsi que les indicateurs de paludisme grave. Les données sur les seuils épidémiologiques peuvent également être utilisées pour estimer les régions de transmission historiquement élevée. En outre, les données historiques sur les précipitations peuvent être superposées à d'autres ensembles de données.
+
+La CPS n'est pas recommandée dans les zones où les enfants reçoivent une chimioprévention du paludisme pérenne (bien que la chimioprévention antipaludique après la sortie de l'hôpital puisse être utilisée dans les zones recevant la CPS). Ces données seront disponibles dans des plans de chimioprévention ciblés.
+
+Mise à jour de la politique ou processus d'élaboration
+
+Les parties prenantes concernées, y compris les responsables en matière de santé publique à tous les niveaux, et les partenaires techniques et financiers, doivent être impliquées dans le processus de révision des politiques de CPS. Le processus doit être piloté par le programme national de lutte contre le paludisme, avec la participation de son comité consultatif technique, des autorités sanitaires régionales et de district, des instituts de recherche, de la société civile, y compris les organisations de santé communautaire.
+
+Les mises à jour des politiques seront susceptibles d'être prises en compte dans l'adaptation infranationale des interventions de lutte contre le paludisme, en utilisant des données locales et des informations contextuelles pour déterminer la meilleure combinaison d'interventions et de stratégies de distribution pour une zone donnée (par exemple, district, zone couverte par un établissement de santé, village) afin d'obtenir des retombées optimales. De nombreux pays ont commencé la stratification – le processus de classification géographique et temporelle du risque de paludisme et de ses facteurs en catégories significatives pour éclairer le ciblage personnalisé des combinaisons d'interventions et de stratégies pour chaque unité infranationale. L'analyse géospatiale et les approches de modélisation sont utiles pour la stratification.
+
+4. Planification et mise en œuvre
+
+Il est recommandé aux pays de commencer la macroplanification au moins un an avant la campagne de CPS pour quantifier les médicaments, se les procurer et mobiliser le financement. Les médicaments pour la CPS doivent être commandés un an avant la campagne. Des microplans doivent être élaborés au niveau des districts ou des régions, selon le cas, 4 à 6 mois avant le lancement de la campagne, en tenant compte des spécificités, des possibilités et des besoins locaux.
+
+Stratégies de distribution
+
+La CPS peut être distribuée dans des points fixes, au cours de visites en porte-à-porte dans la communauté ou par une combinaison des deux approches. Le choix de la méthode de distribution la plus appropriée dépend du contexte, notamment du nombre d'habitants, de la distance entre les foyers, de l'emplacement des établissements de santé et de la disponibilité des ressources humaines et financières. Il peut également être nécessaire de prendre en compte certains aspects culturels ou sanitaires. Par exemple, au plus fort de l'épidémie de COVID-19, la distribution à un point fixe a été déconseillée, afin de limiter les rassemblements de masse.
+
+Les critères de sélection de la stratégie de distribution doivent être évalués et discutés au cours des processus de macro et microplanification et revus après chaque passage pour apporter les ajustements nécessaires. Le tableau 1 présente les aspects de la mise en œuvre à prendre en compte lors du choix de la stratégie de distribution la plus appropriée pour atteindre les enfants dans chaque contexte.
+
+Tableau 1. Stratégies de distribution
+
+Caractéristique
+
+Porte à porte
+
+Point fixe
+
+Modèles mixtes, y compris des services de proximité mobiles
+
+Accessibilité en milieu rural ou urbain
+
+Bonne option pour atteindre une couverture plus élevée dans les zones rurales, mais l'accès peut être limité par les distances, l'état des routes et les conditions climatiques pendant la saison des pluies (pluies/ inondations)
+
+Dans les zones urbaines, peut être plus efficace pour accéder à des populations importantes et fournit un accès rapide pour les enfants malades à tester et à traiter
+
+L'utilisation d'équipes mobiles dans les zones rurales peut améliorer l'accès à différents groupes, mais le rayonnement peut être limité par l'état des routes et les conditions climatiques
+
+Accessibilité dans les L'accès peut être difficile et la stratégie de distribution doit être adaptée au contexte local pour atteindre la meilleure couverture possible des zones d'insécurité enfants éligibles. La distribution de CPS doit éviter les rassemblements de masse dans les zones d'insécurité.
+
+Responsables locaux
+
+Jouent un rôle essentiel dans la phase de microplanification et de mobilisation sociale. Dans les zones urbaines, ils peuvent être plus difficiles à identifier.
+
+Ressources ou équipes logistiques
+
+Nécessité d'équipes de distribution plus nombreuses
+
+Moins de ressources nécessaires, car la structure est déjà disponible
+
+Moins de ressources nécessaires
+
+Caractéristique
+
+Porte à porte
+
+Point fixe
+
+Modèles mixtes, y compris des services de proximité mobiles
+
+Ressources humaines (équipes)
+
+Nécessité d'équipes plus nombreuses
+
+Moins d'équipes requises que pour la distribution en porte-à-porte, si effectuée dans des établissements de santé
+
+Moins d'équipes requises que pour la distribution en porte-à-porte, mais plus qu'en cas de distribution dans les établissements de santé
+
+Exigences en matière Plus difficile à de supervision superviser
+
+Plus facile à superviser Potentiellement difficile à superviser, en fonction du contexte
+
+Estimation du nombre d'enfants par équipe et par jour
+
+25 à 80 enfants/jour (en fonction de la capacité locale, de la distance, de l'accès aux foyers, etc.)
+
+150 à 300 enfants/ jour, selon la capacité et la disponibilité des ressources humaines
+
+50 à 75 enfants/jour
+
+Couverture attendue
+
+Meilleure couverture, car les personnes s'occupant de l'enfant peuvent accepter passivement la CPS
+
+Couverture plus faible, car les personnes s'occupant de l'enfant doivent solliciter activement la CPS
+
+Couverture plus faible parce que les personnes s'occupant de l'enfant peuvent avoir peur de quitter leur domicile
+
+Stratégie d'observance
+
+TSD1 ou TSD3
+
+TSD1
+
+TSD1
+
+Gestion des rumeurs
+
+Dans les zones rurales, il peut être plus facile de maîtriser et de limiter la diffusion des rumeurs. Dans un milieu urbain, les rumeurs peuvent être rapidement générées et diffusées.
+
+Engagement communautaire
+
+Permet des interactions interpersonnelles plus riches entre les membres de la famille et les distributeurs au sein de la communauté
+
+La communauté peut être impliquée d'une manière différente, car la population se retrouve et partage le temps d'attente
+
+Essentiel dans un contexte où les gens ont peur et peuvent être méfiants
+
+Interventions concomitantes
+
+Plus difficile de combiner plusieurs interventions (bien que fréquemment effectué, comme pour le dépistage de la malnutrition au Niger et au Mali)
+
+Plus facile pour intégrer plusieurs interventions
+
+Souvent pertinent pour ajouter d'autres interventions étant donné que la population cible peut avoir un accès limité aux établissements de santé
+
+Coût relatif
+
+Plus cher que le point fixe, car elle nécessite de mobiliser davantage d'équipes de distribution
+
+Moins cher que la distribution en porteà-porte, car le nombre d'équipes nécessaire est inférieur
+
+Plus cher que la distribution entièrement en point fixe et moins cher que la distribution entièrement en porte-à-porte
+
+Distribution en porte-à-porte
+
+La distribution en porte-à-porte implique des équipes d'un ou deux relais communautaires (RC) qui rendent visite à chaque ménage. L'un des RC est responsable de l'enregistrement à l'aide de la feuille de décompte du site, il remplit la carte de CPS de l'enfant ainsi que les autres formulaires de collecte de données (par exemple, les formulaires de pharmacovigilance, les formulaires de transfert), le cas échéant.1 Le deuxième RC est chargé d'évaluer si l'enfant est malade, de donner la première dose de SP+AQ au parent ou tuteur de l'enfant à administrer immédiatement sous TSD, de lui indiquer comment finir le traitement les 2e et 3e jours et de lui prodiguer des conseils sur le moment opportun d'aller consulter dans un établissement de santé en cas de maladie. Il est possible que toutes ces tâches soient effectuées par un seul relais communautaire parce qu'il est conseillé d'attendre 30 minutes après l'administration du médicament pour être sûr que l'enfant ne vomit pas. C'est le modèle utilisé au Cameroun.
+
+Le recrutement des relais communautaires doit tenir compte du sexe, de l'alphabétisme et des attentes culturelles au sein de la communauté. D'autres critères peuvent inclure la participation antérieure à des campagnes de masse, l'accès à un téléphone mobile, l'accès à un compte bancaire mobile et la possession d'une pièce d'identité. La stratégie de recrutement doit veiller à ce que les RC soient recrutés et respectés au sein de la communauté.
+
+Le nombre d'enfants à couvrir par jour et par relais communautaire sera défini par la taille de la population cible, la distance entre les foyers et les plans de mise en œuvre d'autres interventions (par exemple, prise en charge des cas de paludisme, dépistage de la malnutrition, dépistage de la tuberculose).
+
+La distribution en porte-à-porte est préférable pour couvrir les villages relativement petits (c'est-à-dire ceux comptant moins de 500 enfants) et lorsque les foyers sont relativement proches les uns des autres. Dans les villages comptant moins de 200 enfants dans la tranche d'âge cible, deux relais communautaires peuvent rendre visite à 25 à 80 enfants par jour, en moyenne, et leur administrer la CPS. Ce nombre peut atteindre 100 enfants, en fonction de la distance entre les foyers, de l'expérience antérieure des relais communautaires et de l'absence d'interventions complémentaires.
+
+Pour l'approche en porte-à-porte, le plan de distribution doit inclure les ménages cibles et le déroulement spécifique des visites des foyers pour chaque jour du passage de CPS.
+
+Pour maintenir un intervalle de 28 jours entre les traitements pour chaque enfant, la même chronologie de visites à domicile doit être respectée chaque mois. Dans de nombreux pays, les relais communautaires font une marque à la craie sur l'extérieur d'une maison ou d'un bâtiment pour indiquer aux autres RC que la maison a déjà été visitée. Une marque spécifique peut également servir à rappeler que le foyer a besoin d'être revisité, car au moins un des enfants ciblés était absent au moment de la première visite.
+
+La mise au point de systèmes permettant d'assurer des paiements transparents et en temps opportun du grand nombre de relais communautaires est un élément important du processus de planification.
+
+Distribution à un point fixe
+
+Dans la distribution à point fixe, les médicaments pour la CPS sont donnés par des relais communautaires à un endroit spécifique qui est accessible à la majeure partie de la population. Le point fixe doit comporter un abri suffisamment grand contre le soleil et la pluie, des tables et des chaises ou des tapis, ainsi qu'un plan pour la maîtrise des foules. On choisit souvent des établissements de santé ou un autre point connu régulièrement utilisé pour les campagnes (par exemple, un marché).
+
+Un exemple de formulaire de transfert est fourni par le Malaria Consortium à l'adresse suivante :
+
+https://www.malariaconsortium.org/gallery-file/11070356-81/10referralform2019.docx.
+
+Établissement de santé
+
+Les établissements de santé sont généralement utilisés comme sites de distribution à point fixe lorsque la taille de la communauté est grande et que l'accès aux établissements de santé est relativement bon. Les membres de la communauté devront spontanément se rendre au lieu de l'intervention, de sorte qu'une campagne de sensibilisation doit être prévue avant la date et l'heure de distribution prévues.
+
+Cette stratégie de distribution fonctionne bien pour l'intégration de la CPS dans le système de santé. Un jour donné, tous les agents de santé sont disponibles pour fournir la CPS aux familles qui la demandent. Cette méthode permet d'identifier et de traiter immédiatement les cas de paludisme symptomatiques au sein de la population cible.
+
+De plus, les enfants et les familles qui fréquentent un établissement de santé pour d'autres raisons (p. ex., vaccination, consultation d'un nouveau-né, autre maladie qui ne présente pas de contre-indication à la CPS) peuvent recevoir une CPS.
+
+Point fixe connu utilisé pour les campagnes de masse
+
+Des points fixes bien connus peuvent être utilisés lorsque l'accès aux établissements de santé est relativement difficile. Cela permet de traiter entre 150 et 300 enfants par jour dans des zones densément peuplées (urbaines ou rurales), mais cela peut également faire l'objet d'une stratégie de sensibilisation mobile (par exemple, à des points de rassemblement connus pour de petits groupes de familles nomades).
+
+Modèles mixtes de distribution de CPS
+
+En cas de recours à une approche combinée de porte-à-porte et de point fixe, il faut tenir compte des besoins des deux modes de distribution pour les exercices de quantification – par exemple, l'établissement de santé ou l'autre point fixe nécessitera une allocation de médicaments. En outre, les données de campagne devront être collectées à la fois à partir des activités en porte-à-porte et en points fixes.2 Déploiement de différentes stratégies dans différentes parties du pays Un pays peut utiliser la distribution à point fixe en milieu urbain ou dans d'autres zones densément peuplées (capitales de régions et de districts), la distribution en porte-à-porte dans les zones rurales et la distribution par des équipes mobiles de proximité aux populations nomades pour répondre aux besoins locaux. Par exemple, au Mali, au cours d'une campagne, la CPS a été livrée dans des points fixes par des équipes mobiles et en utilisant un mélange de distribution en porte à porte et dans des points fixes. Les équipes mobiles qui distribuent les CPS au Mali ont été équipées de tests de diagnostic rapide du paludisme pour tester le paludisme chez les enfants fébriles et de CTA pour traiter ceux qui sont positifs. Les équipes dépistent également la malnutrition aiguë sévère.
+
+Distribution en point fixe dans les établissements de santé et visites porte-à-porte pour retrouver les enfants perdus de vue
+
+Au Sénégal et au Ghana, une stratégie mixte a été mise en œuvre pour améliorer la couverture pour les deuxième, troisième et quatrième passages de CPS, afin d'atteindre les enfants qui ne sont pas venus à l'établissement de santé au moment prévu.
+
+Visite en porte-à-porte suivie d'une distribution en point fixe Des visites en porte à porte suivies d'une distribution dans un point fixe pour atteindre les enfants qui étaient absents au moment de la visite à domicile ont été mises en œuvre au Burkina Faso. Pour éviter que les relais communautaires ne laissent les médicaments aux
+
+Des outils pour faciliter la budgétisation et les quantifications sont fournis par Medicines for Malaria Venture au lien suivant : https://www.mmv.org/sites/default/files/uploads/docs/access/SMC_Tool_Kit/Planner_SMC_EN.xlsx parents ou tuteurs pour qu'ils administrent la première dose sans surveillance au retour de l'enfant, les RC demandent aux personnes qui s'occupent des enfants d'amener ceux qui sont éligibles au point fixe avant une date limite. Il s'agit d'éviter que des médicaments ne soient conservés et donnés à quelqu'un d'autre, plus tard, en cas de suspicion de paludisme.
+
+Distribution en point fixe avec des équipes mobiles dans les établissements de santé La distribution en point fixe avec des équipes mobiles, dans des lieux de rassemblement connus dans les villages, est utilisée en Guinée-Bissau.
+
+Mise en oeuvre de la CPS dans les zones d'insécurité
+
+La mise en œuvre de la CPS dans les zones d'insécurité nécessite des adaptations opérationnelles spécifiques, notamment :
+
+- Identifier les personnes ayant de bonnes relations avec les autorités locales, les responsables communautaires et les dirigeants du système de santé.
+
+-
+
+Identifier les partenaires opérant avec succès dans des zones où l'accès est restreint.
+
+- Déterminer si la population cible est capable et désireuse de se rendre dans un point fixe, ou si les relais communautaires doivent faire du porte-à-porte et adapter les approches, le cas échéant.
+
+- Suivre et planifier les déplacements de population prévus (par exemple, estimations de la population, itinéraires de déplacement).
+
+- Déterminer les plans de transfert pour les enfants malades.
+
+- Estimer la capacité et la planification de la chaîne d'approvisionnement.
+
+Dans les zones d'insécurité, le modèle de mise en œuvre pourrait inclure :
+
+- la fourniture de médicaments aux RC qui opéreront sans supervision et peuvent se déplacer avec la population ; il pourrait être nécessaire de donner aux RC des fournitures pour plusieurs passages de CPS ;
+
+- le dialogue permanent avec les responsables communautaires et les personnes qui s'occupent des enfants dans les zones de conflit existant ou prévisible, pour assurer l'acceptabilité, la préparation et les solutions de rechange au plan de distribution ;
+
+- des plans pour maintenir les services curatifs fournis par les ASC, y compris un système de transfert ;
+
+- la négociation d'un accès protégé (corridors) dans les zones de conflit ; et
+
+- la combinaison de stratégies de distribution pour maximiser les possibilités d'atteindre les populations cibles.
+
+Stratégies de rémunération pour les travailleurs de la campagne de CPS
+
+Les campagnes de CPS mobilisent un grand nombre de relais communautaires, qui reçoivent un forfait journalier, parfois complété d'un supplément pour rembourser les coûts de transport liés à la campagne. Ces RC mettent en œuvre la campagne 4 à 5 jours par mois pendant 3 à 5 mois, selon le contexte. Les paiements peuvent être effectués en personne à l'aide d'outils papier ou sous forme numérique. Lorsqu'ils sont payés en personne, les RC le sont souvent par l'intermédiaire du centre de santé local, ce qui entraîne parfois un manque de transparence, des retards de paiement et des retards dans la production des documents justificatifs. Une autre option, utilisée au Niger, consiste à recourir aux services d'une société de microfinance en tant qu'agent de paiement. La sous-traitance du contrôle du paiement et des documents initiaux à une entité qui a déjà une présence physique dans les zones cibles réduit la nécessité d'envoyer du personnel chargé des finances dans les régions pour examiner les documents de justification des paiements en liquide. Au lieu de cela, un examen des documents peut être effectué un peu plus tard depuis la capitale, sans ralentir le processus de paiement.
+
+De nombreux pays mettant en œuvre la CPS sont passés à des systèmes de paiement par téléphone portable. Le Burkina Faso, le Tchad, le Mali, le Mozambique, le Togo et l'Ouganda ont tous mis en place des systèmes de paiement par téléphone portable. Le transfert d'argent par téléphone portable augmente la transparence et la responsabilité, est efficace et favorise la sécurité, car il élimine la nécessité de déplacer le personnel du projet avec de l'argent liquide dans des régions parfois peu sûres. Cependant, le système doit être planifié et cartographié bien en amont de la campagne. Il nécessite une couverture de réseau mobile dans les régions concernées par la CPS. Idéalement, les RC doivent avoir leur propre carte SIM plutôt que d'utiliser celle d'un voisin ou d'un parent, ce qui rend la vérification plus difficile. Dans certains pays, les opérateurs de services mobiles ont accepté de fournir aux RC une carte SIM enregistrée s'ils n'en avaient pas déjà une.
+
+4.2 Préparation du plan de mise en œuvre de la CPS
+
+L'objectif de la planification de la CPS est de déterminer où, quand et comment la mettre en œuvre. La planification nécessite d'effectuer l'analyse de la situation décrite à la section 3.1.
+
+Principales activités de planification de la CPS
+
+Estimation des besoins en médicaments et achats
+
+La première étape de la planification de la CPS consiste à estimer la population d'enfants de 3 à 59 mois (ou plus âgés, en fonction de la stratégie retenue) dans les zones où la CPS sera mise en œuvre (village, zone sanitaire, district, région ou pays). Les estimations doivent être faites pour tous les passages de CPS prévus au cours d'une campagne, en tenant compte du fait que les enfants vont vieillir dans la cohorte (par exemple, certains atteindront l'âge de 3 mois à temps pour le deuxième passage) ou passeront dans une nouvelle tranche d'âge nécessitant une dose plus élevée de médicament (par exemple, atteindront l'âge de 1 an entre les passages) (voir la section 3).
+
+Il faut ensuite calculer les besoins en médicaments, en matériel et en outils pour la population estimée. Ces estimations doivent être faites au moins un an avant la mise en œuvre pour laisser suffisamment de temps pour l'approvisionnement – cela comprend les délais des fabricants et des prestataires de services de fret pour la livraison au point d'entrée, ainsi que les délais d'approbations réglementaires et d'exemptions de taxes et de droits de douane pour l'importation. De nos jours, suite à l'augmentation de la capacité de production, les principaux délais sont dus au transport – par exemple, en raison de la capacité limitée des conteneurs et des navires et de la congestion portuaire – et ils ont été exacerbés par la pandémie de COVID-19. Il est également important de planifier la distribution, dans le pays, des produits depuis le point d'entrée jusqu'aux établissements de santé. À cette fin, les planificateurs doivent identifier les personnes responsables de la distribution, du contrôle de la qualité et de la vérification des lots, des taxes à l'importation, de la distribution du dernier kilomètre et de la logistique des retours.
+
+Les bons de commande pour les médicaments de la CPS doivent être remplis 1 an avant sa mise en œuvre. Dans l'idéal, tout le nécessaire doit être positionné dans les principaux points de distribution au moins 2 mois avant le premier passage de CPS.
+
+L'association SP+AQ dispersible doit être achetée auprès des fabricants préqualifiés par l'OMS dans des plaquettes thermoformées uniques contenant une cure complète de CPS pour chaque passage – c'est-à-dire que chaque plaquette thermoformée comprend un comprimé de SP et trois comprimés d'AQ. Les lots comportent des instructions picturales sur l'emballage pour faciliter l'observance du traitement. Ils contiennent des comprimés dispersibles de différents dosages pour les enfants de deux tranches d'âge : 3 mois à < 12 mois et ≥12 mois à 59 mois. Ces tranches d'âge ont été choisies pour réduire le risque de surdosage ou de sous-dosage. Le nombre de boîtes pour chaque tranche d'âge doit être quantifié, puis multiplié par le nombre de passages prévus.
+
+Dans les premières années d'une campagne de CPS, il est conseillé d'ajouter une marge de sécurité de 15 % à la quantification pour tenir compte des erreurs de calcul, des médicaments périmés ou perdus, des doses vomies ou recrachées et des déplacements inattendus de populations, en particulier dans les zones transfrontalières. (Dans les zones où il existe des données de campagnes précédentes et où il n'y a aucune raison d'anticiper de changements majeurs, tels que les mouvements de population, un stock de sécurité beaucoup plus bas peut suffire.) Une autre stratégie, qui a l'avantage supplémentaire de minimiser le risque de retards en raison de l'arrivée tardive des commandes, consiste à prépositionner le stock pour le premier passage de l'année suivante – ce stock sert essentiellement de marge de sécurité pour l'année en cours. Il sera alors nécessaire de prendre en compte les stocks restants des années précédentes, en gardant à l'esprit la durée de conservation et les conditions de stockage de SP+AQ.
+
+Élaboration du macroplan national pour la CPS
+
+Le macroplan national de la CPS comprendra des activités, des ressources, des cibles, des résultats, des agents ou organismes responsables et un calendrier intégrant les dates de planification et des passages pour éviter tout conflit avec d'autres campagnes nationales ou infranationales (par exemple, les RC de la CPS peuvent également être impliqués dans d'autres programmes de santé publique et donc être indisponibles).
+
+Les dates des passages doivent être confirmées dans les 6 mois suivant la mise en œuvre, par une lettre signée par le ministre (ou par le directeur général) de la Santé.
+
+Ces dates doivent être largement diffusées à tous les programmes. La campagne doit commencer avant le début prévu de la saison de transmission élevée.
+
+Préparation des microplans pour la CPS
+
+L'objectif de la microplanification de la CPS est de concevoir la logistique et les éléments nécessaires pour s'assurer que les ressources, les médicaments et le matériel pour la CPS sont disponibles dans les bonnes quantités, au bon endroit et au bon moment, pour administrer la CPS aux enfants éligibles dans les communautés. Le microplan doit être achevé 4 mois avant le premier passage de CPS. La microplanification peut prendre jusqu'à 6 semaines. Le microplan doit être spécifique aux communautés où la CPS sera mise en œuvre et comporter des informations détaillées. Il doit inclure des informations sur les personnes responsables de la conduite et de l'achèvement de chaque activité, sur les dates de début et de fin de chaque activité, sur la logistique détaillée des ressources nécessaires (personnes, argent, fournitures) et sur la manière de mesurer le succès de l'activité. Les activités du microplan doivent comprendre la façon de commander, de transporter, de stocker, de distribuer et d'administrer des produits pour la CPS aux communautés. Il décrit également comment les ressources seront réparties, comment la formation et la supervision seront effectuées (qui, quoi, quand, où), et comment et quand les communautés seront informées de la campagne.
+
+Éléments d'un microplan réussi
+
+Un microplan réussi comporte les éléments suivants :
+
+- La composition de l'équipe de CPS en fonction du système de distribution sélectionné. Les critères de sélection des relais communautaires doivent être définis et respectés. Il est recommandé de commencer et de poursuivre tous les passages de distribution avec le même personnel, si possible.
+
+- Un plan efficace de formation, avec des rôles et responsabilités clairement définis pour tous les niveaux de personnel.
+
+- Un plan détaillé pour une supervision de soutien.
+
+- Un plan de renforcement de la prise en charge des cas et l'orientation dans les districts cibles.
+
+- Un plan global de mobilisation de la communauté.
+
+- Un plan de rémunération acceptable et adapté au contexte pour tous les niveaux de personnel.
+
+- Les détails des médicaments adéquats et distribués de manière appropriée, des fournitures, des formulaires de notification et des produits à prépositionner, dans la bonne quantité et au bon moment.
+
+- Calendrier réaliste, comprenant les dates prévues pour chaque passage de distribution de CPS dans les villages, ainsi que le temps nécessaire pour la finalisation des rapports de suivi et d'évaluation par la suite.
+
+- Plan détaillé pour le suivi et l'évaluation, y compris les données des équipes de RC, les données de surveillance des établissements de santé, les rapports d'événements indésirables et toutes les enquêtes de couverture dans des districts spécifiques.
+
+Parmi les applications dérivées de DHIS2 on trouve une application de microplanification (15), qui permet à l'utilisateur de :
+
+- créer les limites des zones couvertes par les établissements de santé et les publier dans DHIS2 ;
+
+- créer des visualisations et des cartes en combinant les zones couvertes avec les données de notification de DHIS2 ;
+
+- générer des estimations de population cible pour chaque zone couverte afin de calculer des estimations de couverture ; et
+
+- visualiser le temps de déplacement vers les établissements de santé dans la zone couverte pour favoriser la planification des sessions et des interventions.
+
+Il est nécessaire d'avoir un compte auprès de Crosscut (une application tierce) et un accès Internet.
+
+Formation du personnel de la campagne de CPS (formation en cascade)
+
+Élaboration ou mise à jour des supports
+
+Les supports de formation comprennent des manuels, des formulaires de collecte de données, des aide-mémoires et des supports pour le changement de comportement social (CCS).3 Il est nécessaire de calculer la quantité de supports à prévoir. Ils doivent ensuite être produits et inclus dans les achats à livrer au plus tard 2 mois avant la mise en œuvre de la CPS.
+
+Formation du personnel
+
+Le personnel de la campagne de CPS doit être formé. Tous les formateurs et le personnel chargé de la mise en œuvre de la CPS, notamment le personnel de santé
+
+Un exemple d'aide-mémoire pour la CPS à destination des ASC, élaboré par Catholic relief Services for Gambia, est disponible sur le lien suivant : https://www.crs.org/sites/default/files/job_aid_the_gambia_.pdf au niveau du district, des établissements de santé et de la communauté, doivent être formés en fonction de leurs tâches respectives (supervision, distribution ou notification) pour s'assurer qu'ils connaissent bien les rôles, les responsabilités et les supports requis.
+
+- Une formation en cascade (au niveau central, régional et de district) et des séances de rafraîchissement des connaissances, y compris pour la supervision, doivent être planifiées. Le personnel participant aux séances de formation doit être informé des plans longtemps à l'avance afin d'éviter la coïncidence avec d'autres activités.
+
+- Les sessions de formation doivent être terminées avant le début du premier passage de CPS. Il est possible d'envisager une formation de recyclage pendant la campagne si nécessaire. Il est nécessaire de prévoir des budgets pour cette formation.
+
+- Les aide-mémoires, les jeux de rôle et les exercices pratiques (par exemple, simuler l'administration de médicaments, remplir des formulaires, conseiller les parents ou tuteurs, surveiller la sécurité, gérer les foules et communiquer avec la communauté) sont des ressources importantes pour la formation des relais communautaires.
+
+- Les supports de formation doivent être revus chaque année afin de maintenir leur pertinence et leur qualité (par exemple, actualisation du contenu, organisation de sessions de formation, durée des sessions de formation, formation des formateurs, supervision de la formation, évaluation des connaissances et des compétences des stagiaires, évaluation de la formation, rapports de formation).
+
+- Il est généralement recommandé d'évaluer la formation (par exemple, en utilisant des tests avant et après la formation) et de déterminer ce qu'il faut faire si des personnes échouent au test post-formation.
+
+Instructions destinées aux relais communautaires, au personnel des établissements de santé et au personnel de santé du district
+
+Les parents ou tuteurs d'enfants et la communauté doivent recevoir les informations suivantes sur la CPS :
+
+- Les médicaments pour la CPS peuvent empêcher les enfants de faire un épisode de paludisme, mais ils ne sont pas efficaces à 100 %, de sorte que les parents doivent toujours consulter si un enfant devient fiévreux, même s'il a reçu une CPS.
+
+- Les médicaments pour la CPS ne doivent pas être utilisés pour traiter les enfants une fois qu'ils sont atteints de paludisme.
+
+- La CPS est administrée aux enfants de 3 à 59 mois (ou 120 mois, selon le lieu), car ils sont les plus exposés au paludisme. Les médicaments ne fonctionnent pas s'ils sont administrés à des enfants plus âgés présentant des symptômes de paludisme.
+
+- Un traitement chimiopréventif complet (SP + AQ) est administré 3 à 5 fois (passages de CPS) à intervalles de 28 jours pendant la saison des pluies.
+
+- Un traitement chimiopréventif complet de SP + AQ est administré en 3 jours.
+
+- Au moment de la campagne de CPS, tout enfant qui est très malade, qui a de la fièvre ou présente une suspicion de réaction indésirable doit être transféré vers l'établissement de santé le plus proche avec un formulaire de transfert rempli par le relais communautaire. Dans certains contextes, les enfants présentant une fièvre ne sont pas dirigés vers des établissements de santé, mais sont testés et traités dans la communauté par l'ASC ou le RC, ou une équipe de proximité (par exemple, le modèle « d'agent de test de diagnostic rapide » au Mali).
+
+- Les parents ou tuteurs d'enfants ne doivent pas échanger les médicaments utilisés pour la CPS lorsque celle-ci est administrée à plusieurs enfants.
+
+- Les parents ou tuteurs d'enfants doivent conserver les plaquettes thermoformées après chaque passage de CPS pour permettre une inspection et une vérification.
+
+- Les parents ou tuteurs doivent être informés par les relais communautaires de l'emplacement de l'établissement de santé de référence le plus proche où emmener leurs enfants s'ils ne vont pas bien.
+
+- Les parents ou tuteurs doivent être encouragés à signaler les événements indésirables observés à un agent de santé qualifié.
+
+- Si un enfant vomit ou recrache des médicaments de la CPS, il peut recevoir une deuxième dose après 30 minutes. Si cela se produit le 2e ou le 3e jour, le parent ou tuteur doit se rendre dans un établissement de santé pour recevoir un comprimé supplémentaire.
+
+- L'administration des médicaments de CPS doit être enregistrée sur la carte de CPS de chaque enfant et également dans le registre, le cas échéant.
+
+À la fin de chaque journée, le relais communautaire doit :
+
+- compter le nombre de doses de SP+AQ administrées à chaque tranche d'âge ;
+
+- compter le nombre d'enfants éligibles qui n'ont pas reçu de médicaments parce qu'ils étaient malades, avaient une allergie au médicament ou une autre contre-indication ;
+
+- compter le nombre de comprimés jetés, tombés ou endommagés ;
+
+- rapporter les formulaires complétés au centre de santé ;
+
+- présenter un bref rapport au cadre infirmer ou au superviseur de la campagne de CPS ; et
+
+- préparer le matériel pour le lendemain (il peut également le faire le lendemain matin), avec tous les éléments et les quantités nécessaires, en fonction du nombre d'enfants prévu pour la journée.
+
+Des conseils et des outils supplémentaires tirés d'un exemple spécifique à un pays (Nigeria) sur la formation et le renforcement des capacités pour la mise en œuvre de la CPS sont disponibles en ligne.4, 5
+
+Mobilisation sociale et communication
+
+La mobilisation de la population doit se poursuivre tout au long de l'année – avant, pendant et après la campagne de CPS. La diffusion de messages clés sur la CPS doit limiter les risques de malentendus et toute perception négative de la stratégie basée sur des campagnes précédentes ou des interventions connexes (par exemple, l'administration de masse de médicaments pour les maladies tropicales négligées).
+
+De nombreux pays lancent la campagne de CPS à l'occasion d'une cérémonie officielle et d'événements médiatiques. Les responsables communautaires doivent être impliqués et consultés sur les plans de mise en œuvre de la stratégie et il faut leur demander s'ils acceptent
+
+A SMC trainer guide and resources toolkit, Nigeria 2018-2020 est fourni par le Malaria Consortium à l'adresse suivante : https://www.malariaconsortium.org/gallery-file/06190852-31/ smctrainerguideandresourcetoolkit_nigeria.pdf
+
+Un fascicule de formation pour les agents de santé communautaires sur la CPS, élaboré par le Programme national d'élimination du paludisme du ministère fédéral de la Santé du Nigeria, est fourni par le Malaria Consortium à l'adresse suivante : https://www.malariaconsortium.org/galleryfile/11070411-43/08chwflipbook1stedition.pptx de participer aux activités de lancement au nom de leurs communautés pour encourager l'acceptation de l'intervention. La sensibilisation et la mobilisation de toute la communauté doivent commencer au moins un mois avant la mise en œuvre par le biais d'informations à la radio et à la télévision, d'affiches et d'une diffusion par l'intermédiaire des chefs religieux et dans les lieux publics (par exemple, les marchés). La sensibilisation et la mobilisation en porte-à-porte doivent commencer une semaine avant la première campagne de distribution (3 jours suffisent pour les campagnes suivantes), et le recensement des foyers peut être inclus à ce stade.
+
+Le plan de communication doit également cibler les points de vente de médicaments privés, afin de s'assurer qu'ils modifient leurs pratiques de dispensation pendant la période de la campagne de CPS et évitent de dispenser des médicaments contenant de la SP et de l'AQ aux enfants pendant cette période, afin d'éviter une toxicité associée à la répétition de doses.
+
+Engagement communautaire
+
+Les concepts clés de l'engagement communautaire sont la prise de décision participative, le développement des relations et le renforcement des capacités. Les membres de la communauté sont impliqués tout au long de la campagne de CPS.
+
+Certains pays, comme le Cameroun et le Nigeria, impliquent des groupes de femmes (le Nigeria a intégré une structure intitulée « lead mothers » dans la plate-forme de CPS).
+
+De nombreux pays impliquent les chefs religieux et les responsables communautaires dans la microplanification, la supervision et la mobilisation communautaire. Voir les sections 4.4.4 et 4.4.5 pour plus d'idées.
+
+Support pour la sensibilisation et la communication
+
+Le matériel nécessaire à la sensibilisation et à la communication doit être élaboré, testé sur le terrain et révisé soigneusement, avec l'aide d'experts locaux, et il doit faire l'objet d'une traduction dans les principales langues locales. Les activités de communication doivent être mises en œuvre en utilisant un ensemble de ressources, notamment :
+
+- les crieurs publics ;
+
+- les organisations communautaires, y compris les groupes de femmes ;
+
+- les responsables communautaires, y compris les chefs religieux et les enseignants ;
+
+- les agents de santé communautaires et les agents travaillant en établissement de santé ;
+
+- les volontaires communautaires ;
+
+- les marchés et autres lieux de réunion ; et
+
+- les médias, y compris la radio.
+
+Gestion de la chaîne d'approvisionnement
+
+Il est essentiel d'élaborer un plan efficace de gestion de la chaîne d'approvisionnement de tous les produits nécessaires à la CPS pour le succès de cette intervention. Il doit comprendre la manière dont les médicaments et le matériel seront stockés et transportés, les pharmacies qui seront utilisées et le lieu de stockage des produits avant, pendant et après chaque passage de CPS. La logistique de la distribution du matériel et du transport est un élément important de la microplanification.
+
+Dans la plupart des pays, il existe, du niveau central vers la périphérie, un système établi pour la distribution des produits médicaux, y compris les médicaments antipaludiques et les moustiquaires imprégnées d'insecticide à longue durée d'action. Ce système peut être utilisé et, si nécessaire, renforcé ou adapté pour approvisionner les districts, les centres de santé et les villages en médicaments et autres intrants pour la CPS. Il est important de garder à l'esprit que le matériel destiné à la mise en œuvre de la CPS est distribué pendant la saison des pluies, lorsque certaines localités peuvent être difficilement accessibles en raison d'intenses précipitations.
+
+À chaque niveau de la chaîne d'approvisionnement pour les médicaments de la CPS, les tâches suivantes doivent être effectuées.
+
+- Il faut remplir des fiches de stock indiquant les intrants reçus, les intrants expédiés dans les districts, les centres de santé et les villages, et les stocks restants de médicaments de CPS.
+
+- À la fin de chaque campagne de mise en œuvre de la CPS, les niveaux de stock de médicaments doivent être notifiés aux districts et compilés à des fins de notification aux niveaux régional et national.
+
+- À la fin de la campagne annuelle de mise en œuvre de la CPS (c'est-àdire après le troisième, quatrième ou cinquième passage, en fonction de la transmission du paludisme), les stocks de SP+AQ restant au niveau du centre de santé ou du district doivent être transférés au niveau central pour être stockés de manière appropriée et être utilisés au cours de la saison suivante de transmission du paludisme (si la date de péremption le permet). Les stocks disponibles doivent être pris en compte lors de l'estimation de la quantité nécessaire de médicaments pour la CPS pour l'année suivante.
+
+4.3 Mise en œuvre de la CPS
+
+Supervision
+
+Une supervision efficace consiste à accompagner la mise en œuvre de la CPS en s'assurant que les activités sont effectuées en conformité avec les procédés agréés. Il faut préparer un plan de supervision – y compris des listes de contrôle de supervision appropriées6 — aux niveaux central, régional, de district et des établissements de santé, du programme national de lutte contre le paludisme à la communauté. Une supervision de soutien intensive doit être mise en place, en particulier pendant les premières étapes de la mise en œuvre de la CPS (premier passage et première campagne) pour identifier et résoudre les problèmes. Au besoin, une formation complémentaire peut être proposée sur place aux relais communautaires qui éprouvent des difficultés.
+
+Algorithme d'administration de SP+AQ
+
+Le processus suivant doit être suivi pour administrer SP+AQ.
+
+éterminer ou confirmer l'éligibilité de chaque enfant du foyer à la CPS. Le cas échéant, demander au parent ou au tuteur de présenter des documents qui attestent l'âge de l'enfant. Déterminer si l'enfant (ou les enfants) présente l'une des contre-indications suivantes à la CPS :
+
+- fièvre ;
+
+- antécédents de malaise après la prise de SP ou AQ dans le passé (notez que les vomissements ne sont pas une contre-indication) ;
+
+- allergies aux médicaments contenant du soufre, tels que la sulfadoxine ou le co-trimoxazole ;
+
+- antécédents de prise de SP ou d'AQ (ou des deux) au cours des 28 jours précédents ; ou
+
+Un exemple de liste de pointage pour la supervision utilisée au Nigeria est disponible à l'adresse suivante :
+
+https://www.malariaconsortium.org/gallery-file/06260222-92/revisedsmcsupervisorchecklistforhfws_ nigeria2020.pdf
+
+- antécédents de prise de CTA au cours des 28 jours précédents.
+
+2. Au cours du premier passage, inscrire le nom et l'âge de tous les enfants éligibles du foyer et le nom de leur(s) parent(s) ou tuteur(s) sur la carte de CPS du foyer (et dans le registre, le cas échéant). Donner la carte au parent ou tuteur après l'avoir observé administrer la première dose de SP+AQ à l'enfant ou aux enfants (voir étape 3). Au cours des passages suivants, mettre à jour la carte de CPS et le registre des foyers.
+
+3. Demander au parent ou au tuteur de l'eau potable et une tasse dans laquelle le comprimé SP et le premier comprimé AQ sont dissous sous le regard du parent ou tuteur. Donner la solution médicamenteuse au parent ou tuteur et lui demander de l'administrer à l'enfant (ou aux enfants) sous le regard du relais communautaire. Si un enfant vomit, recrache ou régurgite le médicament dans les 30 minutes, laisser l'enfant se reposer pendant 10 minutes, puis lui donner une dose de remplacement.
+
+4. Après administration de la dose du premier jour, donner les comprimés (AQ) restant dans la plaquette au parent ou au tuteur de l'enfant pour le traitement des 2e et 3e jours. Expliquer comment donner le traitement à domicile les 2e et 3e jours de chacun des passages.
+
+Des vidéos de formation ont été réalisées en anglais, français, peul, haoussa et portugais dans le cadre du projet OPT-SMC (16,17).
+
+Absence d'un enfant pendant le passage de CPS
+
+Le RC doit enregistrer le nom des enfants éligibles, mais absents, ou identifier les foyers ayant des enfants éligibles, mais absents, afin de faciliter la recherche de ces enfants.
+
+Les noms de ces enfants peuvent être donnés aux responsables de la communauté, qui pourraient être en mesure d'aider à les localiser. La plupart des pays utilisent un système de marquage à la craie de l'extérieur du bâtiment pour indiquer si une visite pour la CPS a été effectuée, ce qui facilite le travail de l'équipe de suivi. Noter que si un enfant manque un passage de traitement, cela ne l'empêche pas de recevoir la CPS lors des passages ultérieurs.
+
+Combinaison de la CPS avec d'autres interventions
+
+Il est possible de combiner la campagne de CPS avec d'autres interventions. Il existe des exemples publiés de pays combinant la CPS avec le dépistage de la malnutrition, le dépistage et le traitement du paludisme (en dépistant les enfants fébriles au moment de la distribution de la CPS et en leur donnant une CTA sur place, s'ils sont positifs), la supplémentation en vitamine A et la sensibilisation à la tuberculose pédiatrique au niveau communautaire. Le Sénégal et la Gambie ont combiné autant que possible leurs campagnes pour la CPS et pour les moustiquaires imprégnées d'insecticide. La Guinée a associé la CPS avec des contrôles de la vaccination maternelle et infantile et a fourni des vaccins de rattrapage pour ceux qui étaient en retard. Dans certaines études, la distribution de la CPS a été couplée à l'administration du vaccin antipaludique RTS,S.
+
+Il est possible d'associer la CPS à d'autres interventions sous réserve que les pays ne réduisent pas l'efficacité de l'une ou l'autre intervention ce faisant, ne transigent pas sur la qualité ou n'augmentent pas les coûts. Historiquement, les programmes de lutte contre le paludisme ont été mieux financés que les programmes de nutrition, par exemple, de sorte qu'il est plus probable que le programme de lutte contre le paludisme subventionne les interventions supplémentaires, plutôt que de bénéficier d'une éventuelle mutualisation des coûts.
+
+Collaboration transfrontalière
+
+La collaboration transfrontalière peut être bénéfique dans les régions où les populations traversent librement les frontières. La collaboration peut inclure la synchronisation des dates de la campagne, l'harmonisation de la population cible (par exemple, en adoptant les mêmes tranches d'âge éligibles) et l'homogénéisation des interventions complémentaires, afin d'éviter que les populations ne traversent les frontières pour recevoir un traitement. Ces points peuvent être débattus dans divers forums internationaux ou réunions ad hoc. Certaines de ces questions s'appliquent également à l'intérieur des frontières – par exemple, lorsque certaines régions reçoivent quatre passages et d'autres cinq ou intègrent une tranche d'âge supplémentaire à la population cible.
+
+4.4 Rôles et responsabilités aux différents niveaux
+
+En général, il est utile de retenir une définition formelle des rôles et des responsabilités pour les mécanismes nationaux de coordination. Quelques exemples sont proposés ci-dessous pour chaque niveau administratif.
+
+Niveau national
+
+Qui :
+
+Comité de pilotage national de la CPS ou groupe de travail technique (créer le groupe s'il n'existe pas ou élargir le mandat d'un autre groupe approprié qui existe déjà) Responsabilités :
+
+- Mener la supervision globale de la mise en œuvre de la CPS.
+
+- Coordonner la mise en œuvre de la CPS.
+
+- Entreprendre le suivi et l'évaluation après chaque passage, pour résoudre les problèmes éventuels.
+
+Activités :
+
+- Intégrer la CPS dans la stratégie nationale de lutte contre le paludisme.
+
+- Garantir le financement.
+
+- Préparer le macroplan annuel de la CPS et aider à la préparation des microplans.
+
+- Réviser et actualiser les outils de formation, supervision et notification pour la CPS.
+
+- Faciliter la formation des formateurs aux niveaux central et régional.
+
+- Piloter les activités de sensibilisation, d'information et de communication au niveau national.
+
+- Compiler les données et préparer les rapports d'avancement.
+
+- Coordonner la prise en charge des réactions indésirables graves et compiler les rapports de sécurité.
+
+- Identifier les questions de recherche pour la génération de données afin d'adapter les orientations locales et de conformer la stratégie de la CPS à l'épidémiologie locale.
+
+Pour les pays qui ciblent les enfants de 5 à 10 ans en proposant la CPS au sein des écoles, le programme national de lutte contre le paludisme est encouragé à travailler avec le ministère de l'Éducation pour faciliter la distribution de la CPS dans les écoles.
+
+Niveau régional
+
+Qui :
+
+Autorités sanitaires régionales
+
+Responsabilités :
+
+- Superviser la campagne au niveau régional.
+
+- Faciliter la mise en œuvre de la CPS au niveau du district.
+
+- Surveiller et évaluer l'activité après chaque passage pour communiquer ses observations sur la façon dont la stratégie a été mise en œuvre et sur les domaines qui pourraient être améliorés pour le passage suivant.
+
+Activités :
+
+- Organiser des réunions avec les parties prenantes.
+
+- Garantir des approvisionnements appropriés en médicaments pour la CPS.
+
+- Mener des activités de sensibilisation au niveau régional.
+
+- Faciliter la préparation des microplans et des budgets du district.
+
+- Superviser la gestion et les comptes.
+
+- Expliquer la stratégie de la CPS à l'équipe de santé du district.
+
+Niveau du district
+
+Qui :
+
+Équipe de prise en charge de la santé du district
+
+Responsabilités :
+
+- Superviser la mise en œuvre de la CPS au niveau des établissements de santé.
+
+- Faciliter la mise en œuvre de la CPS au niveau de la communauté.
+
+- Surveiller et évaluer l'activité après chaque passage pour communiquer ses observations sur la façon dont la stratégie a été mise en œuvre et sur les domaines qui pourraient être améliorés pour les passages suivants.
+
+Activités :
+
+- Organiser des réunions avec les parties prenantes.
+
+- Établir un système de communication efficace pour l'administration de la CPS.
+
+- Préparer le microplan et le budget de la CPS au niveau du district.
+
+- Préparer les agents et les superviseurs des établissements de santé à la communication avec les médias, à la sensibilisation de la communauté et à la mobilisation sociale.
+
+- Former les agents des établissements de santé et les relais communautaires à administrer la CPS, à remplir les fiches de stock de médicaments et à identifier tout événement indésirable grave lié aux médicaments.
+
+- Fournir du matériel aux centres de santé périphériques.
+
+- Allouer des ressources aux centres de santé périphériques pour la mise en œuvre de la CPS.
+
+- Planifier et organiser la supervision de la mise en œuvre de la CPS.
+
+-
+
+Suivre les progrès et résoudre les problèmes (y compris les problèmes de sécurité).
+
+- Préparer un rapport technique et financier qui devra être approuvé au niveau régional et soumis au programme national de lutte contre le paludisme.
+
+Niveau des établissements de santé périphériques
+
+Qui :
+
+Agents des établissements de santé qui participent à la CPS dans chaque zone couverte par la CPS et responsables de la communauté
+
+Responsabilités :
+
+- Superviser la mise en œuvre de la CPS au niveau de la communauté.
+
+- Mobiliser les communautés.
+
+- Diagnostiquer et traiter les cas de paludisme, y compris en les transférant vers un spécialiste si nécessaire.
+
+- Prendre en charge les événements indésirables et les signaler à l'agence nationale de pharmacovigilance.
+
+Activités :
+
+- Organiser des réunions avec l'ensemble des parties prenantes pour expliquer la stratégie de la CPS. Rencontrer les communautés pour expliquer la CPS.
+
+Identifier les relais communautaires qui administreront la CPS. Identifier les membres de la communauté qui participeront aux activités de communication par des visites en porte à porte et qui transmettront des messages dans les lieux de regroupement appropriés tels que les marchés, les mosquées et les églises. Former les membres de la communauté afin qu'ils puissent identifier et reconnaître les événements indésirables graves associés à l'administration des médicaments.
+
+- Préparer un plan de distribution pour chaque village et un circuit quotidien pour chaque RC.
+
+- Gérer le stock de SP+AQ. Distribuer les médicaments, l'équipement et les formulaires de suivi aux RC.
+
+- Organiser la prise en charge des enfants transférés (pour le paludisme et, dans certains pays, la malnutrition). Cela comprend le traitement des enfants atteints de paludisme confirmé et la distribution de la CPS aux enfants dont le test de dépistage du paludisme est négatif.
+
+- Organiser la prise en charge immédiate des enfants présentant des réactions indésirables graves et les transférer dans les services de santé appropriés.
+
+- Superviser les relais communautaires et résoudre tous les problèmes. Dans l'idéal, prévoir deux visites de supervision par binôme de RC et par passage de traitement de CPS. Lorsque l'équipe aura acquis de l'expérience, le nombre de visites de supervision peut être réduit. Faire un bilan avec les relais communautaires à la fin de chaque passage.
+
+- Remplir la feuille de décompte de la CPS, le formulaire de transfert de la CPS, le formulaire récapitulatif quotidien pour la CPS et le rapport de fin de passage de la CPS. Signaler les événements indésirables graves au médecin de district.
+
+Suivre le nombre total d'enfants atteints chaque jour de campagne et compiler les rapports quotidiens reçus des RC pour les soumettre au gestionnaire de données du district. Si possible, organiser des réunions en soirée dans les centres de santé pour discuter des problèmes quotidiens de la campagne de
+
+CPS et préparer la distribution du lendemain. Identifier, discuter et signaler les préoccupations de la communauté. Préparer les rapports à l'issue de chaque passage pour les soumettre au district.
+
+Niveau communautaire
+
+Qui :
+
+Relais communautaires et parents ou tuteurs des enfants ciblés Responsabilités :
+
+- Distribuer, observer et administrer la CPS aux enfants.
+
+Activités des RC :
+
+- Distribuer et observer l'administration de la CPS aux enfants.
+
+- Transférer rapidement les enfants fébriles pour leur dépistage et leur traitement ou dépister et traiter les enfants fébriles, le cas échéant, dans le cas où le programme le permet.
+
+- Transférer rapidement les enfants en cas de suspicion de réactions médicamenteuses vers un établissement de santé.
+
+- Aller chercher les médicaments et autres matériels nécessaires pour la mise en œuvre de la CPS au centre de santé.
+
+- Remplir les formulaires et les registres.
+
+- Identifier et signaler les événements indésirables et transférer les enfants concernés.
+
+- Informer et éduquer les parents ou tuteurs d'enfants, et communiquer avec eux, sur l'observance du traitement, la prévention du paludisme et le moment où il faut orienter un enfant vers le lieu de prestation de soins le plus proche.
+
+- Rendre compte quotidiennement aux infirmiers de la distribution de la CPS.
+
+Activités des parents ou des tuteurs :
+
+- S'assurer que les enfants restent à la maison jusqu'au passage du relais communautaire.
+
+- Administrer la CPS aux enfants le premier jour du passage sous le regard du RC.
+
+- Administrer l'AQ les deuxième et troisième jours de chaque passage.
+
+- Faire dépister et traiter rapidement des enfants fébriles.
+
+- Emmener rapidement les enfants dans un établissement de santé en cas de suspicion de réactions indésirables aux médicaments.
+
+5. Suivi et évaluation
+
+Il est essentiel de disposer d'un cadre d'exécution rigoureux en matière de suivi et d'évaluation (S&E) pour donner l'assurance que la distribution de CPS est efficace, que les populations cibles sont atteintes et que les opérations ont l'incidence escomptée. Le cadre d'exécution du S&E comprend le suivi et l'évaluation de la qualité de la distribution, de la couverture, de la portée, de la sécurité et du coût grâce à des données générées systématiquement par les programmes et à des enquêtes régulières menées en fin de passage et en fin de campagne auprès des ménages.
+
+Cadre de performance
+
+Le cadre de performance doit guider la collecte et l'analyse des données sur les apports, les processus et les résultats du programme, en vue d'améliorer la qualité et l'utilisation des données du programme. Il définit la manière de montrer la couverture du programme et la qualité de sa mise en œuvre et d'évaluer l'incidence de la CPS.
+
+Il permet également d'identifier les goulets d'étranglement programmatiques et peut éclairer les actions logistiques et techniques liées à la prise de décision.
+
+Le cadre d'exécution de la CPS soutient l'objectif global du programme de CPS qui peut être résumé comme suit : « Prévenir en toute sécurité les cas de paludisme chez les enfants éligibles vivant dans les zones ciblées par les campagnes de CPS pendant la période de protection prévue ». Les programmes de CPS visent à garantir que tous les enfants éligibles reçoivent le nombre total de traitements de CPS auxquels ils sont éligibles.
+
+Indicateurs
+
+Les indicateurs associés à chaque objectif – tous conçus selon l'approche SMART (spécifiques, mesurables, réalisables, pertinents et limités dans le temps) – ont été identifiés et classés comme des indicateurs de moyens, de résultats, de réalisations ou d'efficacité. Les caractéristiques de chaque indicateur précisent ce qui est mesuré ; comment, où et quand il est mesuré, avec quelle unité d'analyse et comment les données seront utilisées. Certains d'entre eux, répertoriés comme des « indicateurs de base » (surlignés en gris dans les tableaux ci-dessous), doivent être suivis par tous les programmes de lutte contre le paludisme mettant en œuvre la CPS. D'autres indicateurs sont énumérés pour une utilisation éventuelle dans le S&E, le cas échéant.
+
+Indicateurs de moyens
+
+Les indicateurs de moyens (tableau 2) sont ceux qui décrivent les besoins fondamentaux d'un programme de CPS – par exemple, la politique, le financement, la dotation en effectifs, l'infrastructure, les médicaments et les outils de collecte de données. Les aspects des moyens et des processus du programme de distribution de la CPS qui facilitent la réalisation de cet objectif global sont les suivants :
+
+- l'offre et la demande – assurent la fourniture de moyens appropriés pour répondre aux demandes du programme selon le lieu, le moment et la personne ;
+
+- la capacité de réaction – assure l'état de préparation avant la mise en œuvre ;
+
+- le respect du calendrier – assure que le premier passage de CPS peut commencer au moment prévu et que les passages suivants commencent au plus tard 28 jours après la première dose du passage précédent ;
+
+- l'acceptabilité – assure le succès de l'adoption de la CPS par les décideurs et les membres de la communauté bien informés, en tenant compte des connaissances, des attitudes et des perceptions de toutes les personnes concernées ; et
+
+- la sécurité – assure la distribution en toute sécurité de la CPS, ainsi que la notification et la prise en charge des événements indésirables après l'administration de la CPS.
+
+Tableau 2. Indicateurs de moyens
+
+Objectif
+
+Indicateur
+
+Définition opérationnelle
+
+Aggregation level
+
+Frequency
+
+Offre et demande
+
+Nombre d'établissements de santé disposant de stocks suffisants de médicaments pour la CPS
+
+Numérateur : Nombre d'établissements de santé disposant de stocks suffisants de médicaments pour la CPS au début de la campagne de CPS
+
+Établissement
+
+Annuelle (indicateur de base)
+
+Dénominateur : Nombre d'établissements de santé supposés stocker les médicaments pour la CPS au début de la campagne de CPS
+
+Pays
+
+Annuelle
+
+Nombre total de plaquettes de SP+AQ
+
+Nombre total de plaquettes thermoformées SP+AQ achetées pour les Pays achetées pour les enfants de 12 à 59 mois enfants de 12 à 59 mois pour couvrir la totalité de la campagne de CPS
+
+Annuelle
+
+Offre et demande
+
+Nombre total de plaquettes de SP+AQ
+
+Nombre total de plaquettes thermoformées de SP+AQ achetées pour achetées pour les enfants de 3 à 11 mois les enfants de 3 à 11 mois pour couvrir la campagne de CPS (indicateur de base)
+
+Offre et demande (indicateur de base)
+
+Capacité de réaction
+
+RC recrutés pour la campagne de CPS
+
+Capacité de réaction
+
+Capacité de réaction
+
+Nombre de RC chargés de distribuer les médicaments de CPS recrutés pour la campagne complète de CPS
+
+District
+
+Annuelle
+
+Pourcentage d'établissements de santé disposant d'outils adéquats de notification pour la CPS
+
+Numérateur : Nombre d'établissements de santé dotés d'outils adéquats de notification pour la CPS au début de la campagne de CPS
+
+Établissement
+
+Annuelle
+
+Pourcentage d'établissements de santé disposant d'outils de supervision pour la CPS
+
+Numérateur : Nombre d'établissements de santé dotés d'outils adéquats de supervision au début de la campagne de CPS
+
+Établissement et district
+
+Annuelle (indicateur de base)
+
+Dénominateur : Nombre d'établissements de santé supposés envoyer des rapports pour la CPS
+
+Dénominateur : Nombre d'établissements de santé supposés soumettre des rapports de supervision pour la CPS
+
+Objectif
+
+Indicateur
+
+Capacité de réaction
+
+Définition opérationnelle
+
+Aggregation level
+
+Frequency
+
+Pourcentage d'établissements de santé Numérateur : Nombre d'établissements de santé disposant d'un disposant de systèmes d'information sur système d'information sur la gestion de la logistique pour suivre les la gestion de la logistique pour suivre médicaments utilisés pour la CPS les médicaments utilisés pour la CPS
+
+Dénominateur : Nombre d'établissements de santé supposés suivre les médicaments utilisés pour la CPS
+
+Établissement et district
+
+Annuelle
+
+Capacité de réaction
+
+Nombre de superviseurs de terrain
+
+Nombre de superviseurs de terrain recrutés et actifs pendant toute la recrutés et actifs pendant toute la durée durée de la campagne de la campagne de CPS
+
+District
+
+Annuelle
+
+Capacité de réaction
+
+Pourcentage de microplans finaux qui comprennent un plan de qualité des données (y compris des modes opératoires normalisés)
+
+Numérateur : Nombre de microplans comprenant un plan ou une stratégie de qualité des données bien définis
+
+Pays
+
+Annuelle
+
+Capacité de réaction
+
+Nombre de superviseurs de terrain par RC
+
+Numérateur : Nombre total de superviseurs de terrain recrutés
+
+District
+
+Annuelle
+
+Capacité de réaction
+
+Ratio femmes/hommes chez les RC
+
+Nombre de femmes RC
+
+District
+
+Annuelle
+
+Capacité de réaction
+
+Ratio RC/enfants ciblés
+
+District
+
+Annuelle
+
+Dénominateur : Nombre de microplans élaborés
+
+Dénominateur : Nombre total de RC recrutés
+
+Nombre d'hommes RC
+
+Nombre d'enfants ciblés
+
+Capacité de réaction
+
+Ressources financières mobilisées pour les campagnes de CPS
+
+Total des fonds et ventilation du budget fournis par toutes les parties prenantes pour soutenir la planification, l'approvisionnement, la mise en œuvre et le S&E de l'ensemble de la campagne de CPS
+
+Pays
+
+Annuelle
+
+Offre et demande
+
+Nombre de plaquettes de SP+AQ achetées pour les enfants de 5 à 10 ans
+
+Nombre total de cures de SP+AQ achetées pour les enfants de 5 à 10 ans pour couvrir la totalité de la campagne de CPS
+
+Pays
+
+Annuelle
+
+Offre et demande
+
+Pourcentage du coût unitaire par cure dispensée
+
+Numérateur : Coût total du programme de CPS
+
+Pays et partenaire de mise en œuvre
+
+Annuelle
+
+Respect du calendrier
+
+Enquête de fin de campagne commencée à la date prévue
+
+Enquête de fin de campagne commencée à la date prévue
+
+Pays
+
+Annuelle
+
+Dénominateur : Nombre de cures dispensées
+
+Remarques sur la capacité de réaction
+
+Il est recommandé que les pays évaluent la capacité de réaction du système avant de commencer la campagne de CPS (pendant la phase de planification).
+
+Pour la capacité de réaction des établissements de santé, il est recommandé d'utiliser une liste de contrôle normalisée. Il est important d'évaluer les éléments clés suivants avant le début de la campagne de CPS :
+
+- stocks de CPS ;
+
+- outils de supervision ;
+
+- formulaire de notification ;
+
+- capacité de réaction des ressources humaines ;
+
+- équipement de protection individuelle ;
+
+- capacité de réaction du processus de paiement ;
+
+- formulaires de pharmacovigilance ; et
+
+- Informatique/communications – blocs d'alimentation, crédits de données pour téléphones et tablettes, le cas échéant.
+
+Au niveau infranational, les composantes suivantes doivent être évaluées :
+
+- disponibilité et exhaustivité des microplans ;
+
+- stratégie de qualité des données ou modes opératoires normalisés bien définis ;
+
+- couverture et capacité de réaction des ressources humaines ;
+
+- supports de formation actuels (mis à jour si nécessaire) ;
+
+- outils de supervision ; et
+
+- processus de paiement.
+
+Indicateurs de réalisation
+
+Les indicateurs de réalisation (tableau 3) décrivent ce qui a été généré par les activités prévues.
+
+Tableau 3. Indicateurs de réalisation
+
+Objectif
+
+Indicateur
+
+Capacité de réaction
+
+Pourcentage de RC ayant reçu une Numérateur : Nombre de RC qui ont été formés sur la CPS formation sur la CPS
+
+Dénominateur : Nombre total de RC recrutés pour la campagne (indicateur de base) de CPS
+
+Capacité de réaction
+
+Pourcentage d'agents de santé ou d'autres personnes formés pour superviser la campagne de CPS (indicateur de base)
+
+Définition opérationnelle
+
+Niveau d'agrégation
+
+Fréquence
+
+District
+
+Annuelle
+
+Numérateur : Nombre d'agents de santé ou d'autres personnes formés District pour superviser la CPS
+
+Annuelle
+
+Dénominateur : Nombre total de superviseurs recrutés pour la campagne de CPS
+
+Capacité de réaction
+
+Pourcentage d'agent de santé
+
+Numérateur : Nombre d'agents de santé formés en tant que personnel formé en tant que personnel chargé de la saisie et de la gestion des données pour la CPS chargé de la saisie et de la gestion
+
+Dénominateur : Nombre total d'agents de santé recrutés dans la des données campagne de CPS pour la saisie et la gestion des données (indicateur de base)
+
+District ou région
+
+Annuelle
+
+Offre et demande
+
+Nombre de plaquettes de SP+AQ distribuées au premier passage
+
+Nombre de plaquettes distribuées au premier passage aux communautés cibles
+
+Établissement
+
+Mensuelle
+
+Nombre de plaquettes distribuées au second passage aux communautés cibles
+
+Établissement
+
+Mensuelle
+
+Nombre de plaquettes distribuées au troisième passage aux communautés cibles
+
+Établissement
+
+Mensuelle (indicateur de base)
+
+Offre et demande
+
+Nombre de plaquettes de SP+AQ distribuées au second passage (indicateur de base)
+
+Offre et demande
+
+Nombre de plaquettes de SP+AQ distribuées au troisième passage (indicateur de base)
+
+Objectif
+
+Indicateur
+
+Définition opérationnelle
+
+Niveau d'agrégation
+
+Fréquence
+
+Offre et demande
+
+Nombre de plaquettes de SP+AQ distribuées au quatrième passage
+
+Nombre de plaquettes distribuées au quatrième passage aux communautés cibles
+
+Établissement
+
+Mensuelle
+
+Numérateur : Nombre d'établissements de santé stockant des médicaments utilisés pour la CPS qui signalent les ruptures de stock
+
+District
+
+Mensuelle
+
+District
+
+Annuelle
+
+District ou région
+
+Mensuelle (indicateur de base)
+
+Offre et demande
+
+Pourcentage d'établissements de santé signalant les ruptures de stocks de médicaments utilisés pour la CPS (SP + AQ) au cours de la période de mise en œuvre de la CPS
+
+Dénominateur : Nombre d'établissements de santé stockant des médicaments utilisés pour la CPS (indicateur de base)
+
+Capacité de réaction
+
+Capacité de réaction
+
+Pourcentage d'agents de santé formés à la CPS
+
+Numérateur : Nombre d'agents de santé formés à la CPS
+
+Pourcentage de foyers de l'échantillon sensibilisés avant chaque passage de CPS
+
+Numérateur : Nombre de foyers de l'échantillon sensibilisés à la CPS avant chaque passage
+
+Dénominateur : Nombre total d'agents de santé recrutés dans la campagne de CPS
+
+Dénominateur : Nombre de foyers de l'échantillon dans les zones cibles de la CPS
+
+Capacité de réaction
+
+Nombre de supports de
+
+Nombre total de supports de CCS électroniques ou imprimés par type sensibilisation à la CPS distribués et public cible distribués aux établissements de santé aux établissements de santé avant le début de la campagne de CPS
+
+Établissement
+
+Annuelle
+
+Capacité de réaction
+
+Pourcentage de RC ayant reçu des Numérateur : Nombre de RC ayant reçu une visite de supervision au visites de supervision au cours de cours de la campagne de CPS la campagne de CPS
+
+Dénominateur : Nombre de RC recrutés dans la mise en œuvre de la CPS
+
+District
+
+Mensuelle
+
+Capacité de réaction
+
+Pourcentage d'enfants éligibles inscrits à chaque passage de CPS
+
+Numérateur : Nombre d'enfants éligibles inscrits à chaque passage de District CPS
+
+Mensuelle
+
+Dénominateur : Nombre d'enfants éligibles vivant dans les foyers visités à chaque passage de CPS
+
+Objectif
+
+Indicateur
+
+Définition opérationnelle
+
+Respect du calendrier Pourcentage de rapports complets Numérateur : Nombre de rapports complets de CPS reçus dans les de CPS reçus dans les temps temps à chaque passage de CPS
+
+Niveau d'agrégation
+
+Fréquence
+
+Établissement, district, région, pays
+
+Mensuelle
+
+District
+
+Annuelle
+
+Région
+
+Annuelle
+
+Dénominateur : Nombre de rapports de CPS attendus à chaque passage de CPS
+
+Respect du calendrier CPS démarrée le jour prévu
+
+Acceptabilité
+
+Campagne de CPS démarrée à la date prévue par le ministère de la Santé
+
+Pourcentage d'agents de santé ou Numérateur : Nombre d'agents de santé ou d'autres personnels d'autres personnels formés au CCS formés au CCS pour la campagne de CPS Dénominateur : Nombre d'agents de santé ou d'autres personnels ayant participé à des activités de CCS au cours de la campagne de CPS
+
+Acceptabilité
+
+Pourcentage de parents ou tuteurs Numérateur : Nombre de parents ou tuteurs de l'échantillon qui se qui se souviennent des messages souviennent des messages clés de CCS à propos de la CPS clés de CCS à propos de la CPS
+
+Dénominateur : Nombre de parents ou tuteurs de l'échantillon interrogés sur les messages clés de CCS à propos de la CPS
+
+District
+
+Annuelle
+
+Communications
+
+Nombre de zones sanitaires ayant un plan de communication documenté avec un calendrier et un budget en place avant la mise en œuvre
+
+Zone sanitaire
+
+Annuelle
+
+Communications
+
+Nombre de zones sanitaires où des activités de mobilisation sociale ont été lancées avant le début de la distribution de la CPS, pour chaque passage
+
+Zone sanitaire
+
+Annuelle
+
+Offre et demande
+
+Nombre d'enfants traités par équipe de distribution par jour
+
+Établissement
+
+Mensuelle
+
+Numérateur : Nombre d'enfants traités
+
+Dénominateur : Nombre d'équipes de distributeurs
+
+Indicateurs de résultats
+
+Les indicateurs de résultat (tableau 4) sont une mesure permettant de déterminer si un programme ou une activité entraîne l'effet ou les changements prévus (à court ou à moyen terme). Les enfants doivent recevoir tous les passages de CPS et observer le schéma thérapeutique quotidien. Par conséquent, les deux indicateurs clés de la qualité d'une campagne de CPS sont :
+
+- le pourcentage d'enfants ciblés qui ont été traités au cours de l'ensemble des passages ; et
+
+- le pourcentage d'enfants ciblés qui ont pris leurs médicaments (sans observation) les 2e et 3e jours.
+
+Le nombre vu, le nombre refusé et le nombre d'enfants malades et transférés sont également comptabilisés et peuvent être transmis. Cependant, ils ne sont pas utilisés dans cet indicateur, qui correspond au nombre traité sous forme de pourcentage de l'objectif.
+
+Tableau 4. Indicateurs de résultats
+
+Indicateur
+
+Définition opérationnelle
+
+Fréquence
+
+Pourcentage d'enfants ciblés ayant reçu le premier passage de CPS
+
+Numérateur : Numéro d'enfants ciblés ayant reçu le premier passage de CPS
+
+Mensuelle (indicateur de base)
+
+Pourcentage d'enfants ciblés ayant reçu le second passage de CPS (indicateur de base)
+
+Pourcentage d'enfants ciblés ayant reçu le troisième passage de CPS (indicateur de base)
+
+Pourcentage d'enfants ciblés ayant reçu le quatrième passage de CPS (ajouter un indicateur similaire en cas de mise en œuvre d'un cinquième passage)
+
+Dénominateur : Nombre total d'enfants ciblés
+
+Numérateur : Numéro d'enfants ciblés ayant reçu le second passage de CPS
+
+Mensuelle
+
+Dénominateur : Nombre total d'enfants ciblés
+
+Numérateur : Numéro d'enfants ciblés ayant reçu le troisième passage de CPS
+
+Mensuelle
+
+Dénominateur : Nombre total d'enfants ciblés
+
+Numérateur : Numéro d'enfants ciblés ayant reçu le quatrième passage de CPS
+
+Mensuelle
+
+Dénominateur : Nombre total d'enfants ciblés (indicateur de base)
+
+Pourcentage d'enfants ciblés ayant reçu l'ensemble des passages de CPS prévus
+
+Numérateur : Nombre d'enfants ciblés ayant reçu l'ensemble des passages de CPS prévus (indicateur de base)
+
+Dénominateur : Nombre total d'enfants ciblés
+
+Annuelle
+
+Indicateur
+
+Définition opérationnelle
+
+Fréquence
+
+Pourcentage d'enfants ayant reçu l'ensemble des
+
+3 doses quotidiennes de SP+AQ lors du passage (données administratives)
+
+Numérateur : Nombre d'enfants ayant reçu l'ensemble des 3 doses quotidiennes
+
+Annuelle
+
+Dénominateur : Nombre cible d'enfants éligibles (indicateur de base)
+
+Nombre d'enfants atteints au cours d'une année donnée Nombre moyen traité sur les passages terminés (somme du nombre traité, divisé par le Annuelle nombre de passages terminés) (indicateur de base) (Calculer la moyenne au sein de chaque région en fonction du nombre de passages mis en œuvre, puis additionner pour obtenir le total)
+
+Pourcentage d'enfants ayant déjà présenté une réaction Numérateur : Nombre d'enfants exclus en raison d'effets secondaires antérieurs de indésirable à la CPS la CPS (indicateur de base)
+
+Dénominateur : Nombre d'enfants vus au cours du passage
+
+Pourcentage de communautés qui connaissent la date de début de la mise en œuvre de la CPS
+
+Numérateur : Nombre de communautés qui connaissent la date de début de la mise en œuvre de la CPS (indicateur de base)
+
+Dénominateur : Nombre de communautés de l'échantillon pour l'évaluation de la CPS
+
+Pourcentage d'enfants ciblés ayant reçu l'ensemble des passages de CPS prévus (par questionnaire)
+
+Numérateur : Nombre total pondéré d'enfants éligibles qui ont reçu une CPS au cours de l'ensemble des passages prévus (indicateur de base)
+
+Dénominateur : Nombre total pondéré d'enfants éligibles pour le nombre total de passages
+
+Après chaque passage
+
+Annuelle
+
+À la fin de la campagne (À notifier séparément par district en fonction du nombre de passages prévus) Pourcentage de la première dose supervisée par le RC (donnée comme TSD1) (indicateur de base)
+
+Numérateur : Nombre pondéré d'enfants ayant reçu la première dose sous surveillance Après chaque passage ou à la fin de la
+
+Dénominateur : Nombre total pondéré d'enfants éligibles campagne
+
+Pourcentage d'enfants de 6 à 7 ans ou de 6 à 8 ans qui
+
+Numérateur : Nombre pondéré d'enfants (âgés de 6 à 7 ans ou de 10 à 11 ans) qui ont ont reçu la CPS (dans les régions où la CPS est administrée reçu la CPS au moins une fois aux enfants de moins de 5 ans)
+
+Dénominateur : Nombre pondéré d'enfants de 6 à 7 ans ou de 10 à 11 ans (Dans les régions où la CPS est administrée jusqu'à 9 ans, cela concernera les enfants de 10 à 11 ans ou de 10 à 12 ans) (indicateur de base)
+
+Après chaque passage ou à la fin de la campagne
+
+Indicateur
+
+Définition opérationnelle
+
+Fréquence
+
+Pourcentage d'enfants ayant reçu l'ensemble des 3 doses quotidiennes de SP+AQ lors du dernier passage
+
+Numérateur : Nombre pondéré d'enfants éligibles ayant pris les 3 doses de SP+AQ lors du dernier passage
+
+Après chaque passage ou à la fin de la campagne
+
+Dénominateur : Nombre total pondéré d'enfants éligibles qui ont reçu une CPS lors du dernier passage
+
+Pourcentage de foyers visités
+
+Numérateur : Nombre de foyers visités ayant un enfant éligible
+
+Après chaque passage
+
+Dénominateur : Nombre total de foyers ciblés ayant des enfants éligibles Pourcentage des parents ou tuteurs qui connaissaient à l'avance la date du dernier passage de CPS
+
+Numérateur : Nombre pondéré de parents ou tuteurs au courant de la date de la CPS
+
+Nombre de jours entre le 1er passage et le 2e passage
+
+Nombre moyen de jours entre le premier et le deuxième passages chez les enfants ayant reçu une CPS au cours des deux passages
+
+À la fin de la campagne
+
+Pourcentage d'enfants ayant une carte de CPS au cours de l'enquête
+
+Numérateur : Nombre pondéré d'enfants éligibles ayant une carte de CPS vus au cours de l'enquête
+
+À la fin de la campagne
+
+Dénominateur : Nombre pondéré de parents ou tuteurs ayant un enfant éligible
+
+Après chaque passage ou à la fin de la campagne
+
+Dénominateur : Nombre total pondéré d'enfants éligibles vus au cours de l'enquête
+
+Indicateurs d'efficacité
+
+L'efficacité de la CPS dans le cadre d'un programme est rarement mesurée, en raison des défis liés à l'exhaustivité des données et à leur disponibilité en temps opportun dans le système national d'information sanitaire. Pour résoudre ce problème, les pays doivent utiliser les données issues d'établissements de santé disposant de données complètes ou de sites sentinelles, le cas échéant. Il est utile de se pencher sur les régions dans lesquelles la CPS a récemment été mise en œuvre pour comparer les données avant et après l'intervention. Dans les régions où la CPS est mise en œuvre depuis de nombreuses années, il sera difficile de comparer les indicateurs avant et après l'intervention.
+
+Le sous-groupe de suivi et d'évaluation de l'Alliance CPS a proposé des indicateurs d'efficacité (tableau 5) que les pays peuvent utiliser, en fonction de la disponibilité des données. Cette utilisation est possible en utilisant les données agrégées mensuelles du système national d'information sanitaire, en particulier si les données agrégées sont disponibles par tranche d'âge (par exemple, 0 à 4 ans, 5 à 9 ans, 10 à 14 ans et 15 à 19 ans, ou même par tranches d'âge plus petites de 0 à 1 an, 1 à 2 ans, 2 à 4 ans, 5 à 7 ans et 8 à 10 ans).
+
+Tableau 5. Indicateurs d'efficacité
+
+Indicateur
+
+Définition opérationnelle
+
+Difficultés et autres considérations
+
+Incidence du paludisme simple
+
+Numérateur : Nombre d'enfants de moins de 5 ans (ou de moins de confirmé chez les moins de 5 ans (ou
+
+10 ans) atteints de paludisme simple confirmé les moins de 10 ans) dans un district où la CPS a été mise en œuvre (pour 1000) Dénominateur : Nombre d'enfants de moins de 5 ans (ou de moins de 10 ans) dans les régions cibles de la CPS
+
+Changements dans les taux de dépistage et de notification
+
+Incidence du paludisme grave chez les Numérateur : Nombre d'enfants de moins de 5 ans (ou de moins de moins de 5 ans (ou les moins de 10 ans) 10 ans) atteints de paludisme grave dans un district où la CPS a été mise en
+
+Dénominateur : Nombre d'enfants de moins de 5 ans (ou de moins œuvre (pour 10 000) de 10 ans) dans les régions cibles de la CPS
+
+Qualité des soins insuffisante dans les établissements de santé
+
+Changements dans le comportement de consultation liés ou non aux activités de CPS
+
+Systèmes de transfert insuffisants
+
+Notification insuffisante ou classification erronée des cas graves au niveau des établissements de santé
+
+Décès imputables au paludisme dans les hôpitaux chez les moins de 5 ans (ou moins de 10 ans) (pour 10 000)
+
+Numérateur : Décès imputables au paludisme dans les hôpitaux chez Qualité des soins insuffisante dans les établissements de santé les moins de 5 ans
+
+Systèmes de transfert insuffisants
+
+Dénominateur : Nombre d'enfants de moins de 5 ans dans les
+
+Surestimation des décès dus au paludisme enregistrés si régions cibles de la CPS les enfants présentent une infection palustre qui n'est pas la cause du décès
+
+Ratio mensuel du nombre de cas simples confirmés chez les moins de
+
+5 ans par rapport au nombre de cas constatés chez les plus de 5 ans (ou chez les moins de 10 ans par rapport aux plus de 10 ans)
+
+Numérateur : Nombre de cas de paludisme simple confirmé chez les moins de 5 ans* (ou les moins de 10 ans)
+
+Hospitalisations imputables à une anémie chez les moins de 5 ans (ou moins de 10 ans) (pour 10 000)
+
+Numérateur : Nombre d'hospitalisations chez les moins de 5 ans en raison d'une anémie
+
+Dénominateur : Nombre de cas de paludisme simple confirmé chez les plus de 5 ans* (ou les plus de 10 ans)
+
+Possibilité que la CPS réduise l'intensité de transmission dans une zone, ce qui affecterait le nombre de cas observés dans le groupe non ciblé (plus de 5 ans)
+
+*Adapté aux objectifs d'âge
+
+Changements dans les comorbidités affectant l'anémie
+
+Dénominateur : Nombre d'enfants dans les régions cibles de la CPS
+
+Pour plus de détails sur les calculs, consulter la boîte à outils S&E de l'Alliance CPS (18).
+
+Sources et méthodes de collecte des données
+
+Dans tous les pays, les données administratives courantes sont générées par les relais communautaires. Celles-ci sont complétées dans certains pays par des enquêtes auprès des ménages, après le passage ou après la campagne. La source des données pour les indicateurs dépendra de l'utilisation d'outils de données numériques ou papier. Les données sur la réception des médicaments de CPS de tous les passages peuvent être disponibles si la campagne a été numérisée, ou peuvent être comptées à partir des registres si le pays utilise des registres papier. Les données sur l'observance du traitement peuvent s'appuyer sur des enquêtes auprès des ménages, sur des entretiens avec les parents ou tuteurs et sur l'inspection des plaquettes vides ou, dans le cadre d'une étude, sur la mesure des taux sanguins de médicaments chez les enfants. L'observance ne peut être connue avec certitude que si des visites quotidiennes sont effectuées pour superviser l'administration des médicaments (par exemple par l'approche TSD3), bien qu'il soit possible d'utiliser des questionnaires de fin de passage ou de campagne destinés aux parents ou tuteurs pour estimer l'observance du passage ou de la campagne.
+
+Au cours de la campagne de CPS, les RC notent le nombre d'enfants qu'ils traitent quotidiennement au cours de chaque passage dans un registre normalisé. Ils vérifient la carte de CPS de chaque enfant, lorsqu'elle est disponible, mais traitent toujours l'enfant même si la carte ne peut être trouvée. En principe, les données sur l'observance sont collectées par les RC qui vérifient les cartes de CPS au cours des passages ultérieurs pour les doses administrées les 2e et 3e jours des passages précédents. En pratique, les RC ne remplissent pas toujours ces colonnes dans les registres.
+
+Peu de pays suivent chaque enfant d'un passage à l'autre. La plupart des programmes nationaux de lutte contre le paludisme reposent sur des données administratives du programme, agrégées à partir des dossiers des relais communautaires. Les données administratives ne donnent pas d'estimations valides de la couverture, en raison de l'incertitude quant à la taille de la population cible. La couverture estimée à partir du nombre de doses administrées est généralement surestimée en raison de l'inclusion des traitements administrés à des enfants en dehors de la tranche d'âge éligible.
+
+Un enfant peut être traité au cours d'un mois donné et pas au cours du suivant pour plusieurs raisons. Par exemple, l'enfant peut ne pas être à la maison au cours d'un passage ultérieur, ou peut avoir eu de la fièvre au cours d'un passage et donc être exclu jusqu'au suivant. Des nourrissons atteignent la tranche d'âge éligible entre deux passages. Cela signifie que, même si le taux de couverture administrative reste relativement constant d'un passage à l'autre, ce ne sont peut-être pas les mêmes enfants qui sont atteints lors de chaque passage (ou les mêmes enfants qui sont manqués).
+
+Il est nécessaire de recourir à des enquêtes auprès des ménages à la fin de la saison de transmission, peu de temps après le dernier passage de CPS, pour établir le niveau de couverture, et de les combiner à des enquêtes pour comprendre les raisons des carences de la couverture et les mesures nécessaires pour l'améliorer. Des données sur l'observance du traitement peuvent être obtenues à partir d'enquêtes spécifiques (voir ci-dessous les considérations relatives aux enquêtes auprès des ménages comme moyen d'estimer l'observance du traitement). Dans l'idéal, le personnel impliqué dans la collecte de données devrait être indépendant du programme de CPS.
+
+La taille de la population cible peut provenir de projections de recensement ou d'autres sources, telles que le dénombrement des ménages. La méthode ou la source doit être spécifiée. Dans l'idéal, les dénombrements d'enfants effectués au moment de la visite pour la CPS ne doivent pas être utilisés, car cela limiterait le dénombrement aux ménages visités. Une autre méthode pour déterminer la couverture consiste à utiliser des technologies numériques (par exemple MAXARTM ou des technologies similaires) pour cartographier les bâtiments d'une communauté. Tous les bâtiments de la zone éligible à la CPS peuvent être identifiés, et des outils numériques (tels que les téléphones) peuvent être utilisés pour suivre les bâtiments qui ont été visités et ceux qui ne l'ont pas été. Cette méthode peut potentiellement être utilisée lors des enquêtes pour vérifier l'exhaustivité des visites des ménages. La surveillance de la couverture d'une intervention distribuée en porte à porte nécessite que les visites des ménages au cours de l'enquête soient aussi exhaustives que possible, afin d'éviter de surestimer la couverture.
+
+Notes sur les enquêtes auprès des ménages comme moyen d'estimer la couverture et l'observance de la CPS
+
+Les enquêtes auprès des ménages doivent être menées au moins après le premier passage, ainsi qu'après le dernier passage. Les enquêtes de fin de passage sont des enquêtes rapides visant à détecter les problèmes. Elles doivent être utilisées localement pour améliorer la distribution du passage suivant. Il faut donc prévoir un certain budget pour des visites supplémentaires, des séances de recyclage ou des efforts de communication supplémentaires, en fonction des problèmes identifiés par l'enquête.
+
+Il est nécessaire de s'assurer que l'enquête est représentative de la population cible.
+
+L'enquête doit utiliser des méthodes qui échantillonnent les enfants avec une probabilité connue, et l'absence de réponse doit être minimisée en organisant des visites de rappel si un parent ou tuteur n'est pas à la maison au moment de l'enquête. La taille de l'échantillon (le nombre de grappes et le nombre d'enfants par grappe) est choisie pour obtenir un échantillon géographiquement représentatif et pour obtenir des estimations de la couverture avec le niveau de précision souhaité, à la fois dans l'ensemble et dans des strates géographiques spécifiques (les plans d'enquête par échantillonnage en grappes ne sont pas bien adaptés pour produire des estimations très granulaires de la couverture dans chaque zone locale, car cela nécessiterait un échantillonnage représentatif de chaque zone locale). L'encadré 2 décrit un exemple d'enquête dans un pays. Des lignes directrices sur la taille de l'échantillon et la sélection de l'échantillon pour les enquêtes de couverture sont disponibles (19).
+
+Encadré 2. Enquête auprès des ménages pour la CPS en Guinée
+
+À titre d'exemple, en Guinée, où la CPS a été mis en œuvre dans 13 districts, des enquêtes récentes ont utilisé une taille d'échantillon d'environ 1700 enfants éligibles répartis en 66 grappes, conçue pour obtenir des estimations de la couverture de l'enquête avec une précision globale de ± 6 % et, dans chacune des trois zones géographiques, de ± 10 %. Dans cette enquête, les enfants ont été inclus jusqu'à l'âge de 7 ans pour permettre l'évaluation de la quantité de traitement en dehors de la tranche d'âge cible (20).
+
+Certains pays, dont le Bénin, le Burkina Faso, le Cameroun, le Mali, le Niger et le Nigeria, ont adapté la méthode d'échantillonnage par lots pour l'assurance de la qualité (LQAS) pour les enquêtes de CPS. Cela permet d'identifier les problèmes liés à la distribution de la CPS (par exemple, couverture insuffisante du programme) au niveau local tout en fournissant une synthèse au niveau national des indicateurs clés. Des exemples de questionnaires et de rapports d'enquêtes sur la couverture de la CPS sont disponibles (20).
+
+Un protocole détaillant les méthodes et comprenant le questionnaire de l'enquête, la fiche d'information des participants et le formulaire de consentement doit être approuvé par le comité d'éthique local avant le début de l'enquête. Le consentement éclairé doit être demandé à tous les participants à l'enquête, qui doivent recevoir des informations sur les objectifs de l'enquête, son approbation éthique et un point de contact en cas de problèmes liés à l'enquête.
+
+Noter que les indicateurs de la CPS ne peuvent généralement pas être inclus dans les enquêtes nationales (enquêtes en grappes à indicateurs multiples, enquêtes sur les indicateurs du paludisme, enquêtes démographiques et sanitaires), car le moment peut ne pas être optimal pour la CPS – les enquêtes doivent être entreprises après le dernier passage pour minimiser le biais de rappel.
+
+Numérisation de la campagne de CPS
+
+Les pays ont souvent une stratégie numérique globale au niveau national qui va au-delà de la simple CPS. Si la plupart des campagnes de CPS utilisent encore des outils papier, en particulier dans les pays qui ont une grande surface à couvrir, les pays utilisent de plus en plus des outils numériques pour collecter leurs données de CPS. Certains pays, comme la Gambie, ont entièrement numérisé leur campagne depuis 2015 ; une étude de cas illustre la manière dont la Gambie utilise diverses plateformes mobiles (21). Dans d'autres pays, certaines parties de la campagne ont été numérisées ; par exemple, au Cameroun, les outils numériques sont utilisés au niveau des établissements de santé et jusqu'aux niveaux régional et central, mais pas au niveau des ASC.
+
+La numérisation des campagnes permet à l'équipe de campagne de surveiller la plupart des activités quasiment en temps réel, notamment la formation du personnel de la campagne, l'enregistrement des ménages et des enfants (y compris leur localisation), la capture numérique de la distribution de médicaments et le suivi des activités des agents participant à la campagne. Les jeux de données résultant de la numérisation peuvent également être utilisés en appui d'autres campagnes (par exemple, pour les moustiquaires imprégnées d'insecticide, les maladies tropicales négligées) dans le pays.
+
+Lorsque que les pays choisissent de numériser une partie ou la totalité de leurs campagnes de CPS, nous leur recommandons de tirer profit de l'expérience ce ceux qui utilisent déjà différents types d'applications, de plateformes et d'outils. Les programmes nationaux de lutte contre le paludisme des pays suivants peuvent être contactés pour partager leurs expériences.
+
+- Le Bénin et le Nigeria utilisent RedRose.
+
+- Le Burkina Faso et le Niger pilotent DHIS2 Tracker.
+
+- Le Ghana utilise un outil basé sur Android appelé SiCapp (voir l'encadré 3 pour plus de détails).
+
+- La Gambie a utilisé iFormBuilder et CommCare et a piloté DHIS2 Tracker.
+
+Bien que les plateformes numériques aient été éprouvées et testées sur le terrain dans au moins un pays, la plupart des pays énumérés ci-dessus ont constaté qu'il était utile de les tester d'abord dans une zone géographique plus petite avant d'étendre leur utilisation, car des problèmes contextuels peuvent compliquer la mise en œuvre.
+
+Indépendamment de la manière dont les essais pilotes sont effectués, les pays doivent tenir compte du temps (au moins 6 mois avant la première campagne numérique) et des ressources nécessaires pendant la phase de planification de l'utilisation de l'outil (y compris la formation et les essais sur le terrain). La disponibilité de ressources pour soutenir le déploiement après la phase pilote, y compris l'achat et la réparation des appareils mobiles et des accessoires, l'achat de données Internet et les compétences techniques du personnel dans le pays à résoudre les problèmes du système, est également un élément important à prendre en considération.
+
+La numérisation d'une campagne de CPS peut conduire à une couverture accrue des populations cibles (y compris les populations vulnérables), à des résultats de campagne plus équitables et à la capacité de réagir rapidement sur la base de données en direct. Elle minimise également le nombre de formulaires papier requis pour la gestion et le suivi des campagnes. Par exemple, il n'existe pas de registres papier en complément du format numérique – lorsque les enfants sont enregistrés dans les appareils lors de l'administration de la première dose, ils sont automatiquement agrégés à la liste de l'ensemble des enfants.
+
+Comme les pays qui mettent en œuvre la CPS élaborent maintenant des indicateurs de CPS dans leurs systèmes DHIS2, ils souhaitent disposer d'outils de campagne numérique de CPS qui s'intègrent de manière fluide à DHIS2. Un module DHIS2 pour la CPS a été développé au début de 2023 en collaboration avec l'Université d'Oslo et est piloté en collaboration avec l'OPT-SMC en 2023.
+
+Catholic Relief Services a élaboré un manuel de numérisation, qui est disponible sur son site Web (22).
+
+Encadré 3. L'expérience du Ghana en matière d'intégration des données de CPS dans le système DHIS2
+
+L'outil numérique de collecte de données du Ghana, appelé SicApp, est la principale méthode de collecte de données sur le terrain pour la CPS. La base de données du système national d'information sur la gestion de la santé (DHIMS2) comprend un formulaire de compilation pour la saisie des données de la CPS au niveau de l'établissement. SicApp a un formulaire de synthèse qui compile ces données pour une intégration facile dans le système DHIMS2. Des discussions sont en cours pour explorer la possibilité de relier SicApp à DHIMS2 pour un transfert fluide des données.
+
+Avantages
+
+- Assure une compilation facile des données pour la saisie dans DHIMS2.
+
+- L'intégration des données dans DHIMS2 permet un accès plus large aux données de la CPS au-delà des régions et des districts concernés par la mise en œuvre.
+
+- Permet de comparer facilement les données de mise en œuvre de la CPS avec les données épidémiologiques (données des dossiers) des établissements de santé.
+
+Inconvénients
+
+- Erreurs de saisie possibles lors du transfert de données de SicApp vers DHIMS2.
+
+- Notification tardive des données en raison d'autres activités concurrentes après la saison de la CPS.
+
+Difficultés connues en matière de surveillance de la couverture de la CPS
+
+Les données administratives ne donnent pas d'estimations valides de la couverture, en raison de l'incertitude quant à la taille de la population cible (de nombreux pays rapportent une couverture supérieure à 100 %). La couverture estimée à partir du nombre de doses administrées surestime généralement la couverture réelle en raison de l'inclusion des traitements administrés à des enfants en dehors de la tranche d'âge éligible.
+
+Les cartes de CPS ne prennent généralement pas en compte les visites pour la CPS au cours desquelles l'enfant a été vu, mais n'a pas été traité. L'enfant peut avoir été transféré en raison d'une maladie ou exclu en raison de la prise d'autres médicaments ou d'effets secondaires antérieurs. Dans ce cas, la couverture du traitement de CPS sous-estime la couverture du programme.
+
+Le transfert et le traitement des enfants qui n'étaient pas bien au moment de la visite, de même que le dépistage de la malnutrition lorsque cela est effectué, sont des aspects importants du programme, mais dont il sera difficile de tenir compte dans les enquêtes à moins qu'ils ne soient enregistrés sur la carte de CPS.
+
+Plusieurs éléments peuvent expliquer la raison pour laquelle une couverture élevée n'est pas atteinte dans certaines campagnes, tels que :
+
+- accès limité aux médicaments ou pénurie de médicaments ;
+
+- accès géographique difficile (routes) ;
+
+- climat (pluies, inondations) ;
+
+- accès limité pour des raisons de sécurité ;
+
+- type de stratégie de distribution utilisée ;
+
+- manque de sensibilisation de la communauté ;
+
+- rumeurs menant à une faible acceptabilité de la CPS ou à l'absence des parents ou tuteurs ;
+
+- problèmes d'approvisionnement ;
+
+- manque de financement ou de ressources ;
+
+- maladie de l'enfant le jour de la distribution de CPS ;
+
+- absence de visite de l'ASC au domicile du ménage ;
+
+- problèmes logistiques (par exemple, manque de carburant) ;
+
+- coïncidence avec d'autres activités liées à la santé ou avec des événements importants (p. ex. fête de l'Aïd, élections) ; et
+
+- mauvaise qualité des données des dénominateurs (p. ex., estimation de la population des enfants ciblés à partir d'un recensement obsolète).
+
+Suivi des réactions indésirables aux médicaments
+
+Les médicaments utilisés pour la CPS sont efficaces et bien tolérés, mais ils peuvent être associés à des événements indésirables légers, modérés ou graves.
+
+Les événements indésirables doivent être signalés dans le cadre du système de pharmacovigilance.
+
+Le personnel soignant et les relais communautaires doivent être formés à identifier et notifier les événements indésirables. Les parents ou tuteurs doivent également être sensibilisés aux événements indésirables et informés à leur sujet. Si des agents de santé communautaires identifient un événement indésirable grave, ils doivent le signaler au personnel infirmier du centre de santé, qui remplira le formulaire de transfert et l'enverra au médecin, chef de district, pour que celuici prenne les mesures nécessaires. Dans de nombreux endroits, les systèmes de pharmacovigilance habituels devront être renforcés pour garantir une notification efficace des événements indésirables associés aux médicaments après la mise en œuvre de la CPS.
+
+Il peut y avoir un risque accru d'effets indésirables graves associés à :
+
+- des interactions avec d'autres médicaments ;
+
+- une affection médicale chronique sous-jacente ;
+
+- le patrimoine génétique d'une personne ;
+
+- des erreurs de posologie ; et
+
+- la mauvaise qualité des médicaments.
+
+Les principales caractéristiques d'un système de pharmacovigilance fonctionnel comprennent :
+
+- un comité technique fonctionnel ;
+
+- une notification spontanée des événements indésirables ;
+
+- l'intégration de la pharmacovigilance dans la formation ;
+
+- des équipes d'enquête dans le district ;
+
+- un plan de communication de crise ;
+
+- l'évaluation du lien de causalité ;
+
+- la notification à l'OMS via Vigibase (7) – cela comprend la distinction entre les observations par un relais communautaire d'événements indésirables pendant l'administration, les signalements demandés aux parents ou tuteurs lorsqu'ils sont interrogés sur l'existence d'événements indésirables antérieurs et les événements indésirables détectés par les parents ou tuteurs qui conduisent un enfant à se rendre dans un établissement de santé ;
+
+- la disponibilité de formulaires de notification (ou un système électronique de notification) ; et
+
+- l'affichage d'un aide-mémoire décrivant les effets indésirables connus des médicaments de CPS dans les établissements de santé.
+
+Définitions
+
+Un événement indésirable est un symptôme défavorable ou non intentionnel ou une maladie (y compris les résultats d'analyse biologique temporellement associés à l'utilisation d'un médicament), qui peut ou non être lié à l'exposition à un médicament.
+
+Un événement indésirable grave est un incident médical en réponse à un médicament qui, quelle que soit la dose :
+
+- peut avoir une issue fatale ;
+
+- nécessite ou prolonge une hospitalisation ;
+
+- entraîne une invalidité ou une incapacité ;
+
+- entraîne des anomalies ou des malformations congénitales ;
+
+- provoque le décès ; ou
+
+- peut nécessiter une intervention pour empêcher une des issues mentionnées ci-dessus.
+
+Enregistrement et notification d'événements indésirables
+
+Occasionnellement, la SP et l'AQ peuvent provoquer des événements indésirables bénins à modérés ; dans de rares cas, des événements indésirables graves peuvent se produire. Les événements indésirables bénins associés à SP sont notamment des éruptions cutanées et des réactions localisées au niveau des muqueuses. Dans de rares cas, on pourrait observer une atteinte cutanée grave (syndrome de StevenJohnson) et une hépatotoxicité.
+
+Les événements indésirables modérés les plus courants associés à l'absorption d'AQ sont des vomissements (pendant plus de 2 heures), des douleurs abdominales, de la fièvre, une diarrhée, des démangeaisons, des céphalées, des troubles du mouvement, une faiblesse durant plus de 2 jours et une éruption cutanée. Parmi les rares événements indésirables graves associés à la prise prophylactique hebdomadaire d'AQ figurent l'agranulocytose, l'anémie aplasique et l'hépatotoxicité grave ou même mortelle ; aucun de ces événements n'a été notifié en association à une utilisation mensuelle d'AQ, dans le cadre de la CPS.
+
+Des lignes directrices claires doivent être mises en place pour un suivi efficace de la sécurité des médicaments à tous les niveaux, grâce, notamment à :
+
+- la définition des rôles et des responsabilités du personnel ;
+
+- des définitions normalisées des notions « d'événement indésirable » et « d'événement indésirable grave » à utiliser par l'ensemble du personnel ;
+
+- l'utilisation de formulaires types pour la notification des orientations ou réorientations et des enquêtes sur les événements indésirables graves ;
+
+- des lignes directrices pour consigner, notifier et étudier les événements indésirables graves ;
+
+- des critères permettant d'évaluer le lien entre l'événement et la prise de médicaments utilisés pour la CPS ;
+
+- la documentation des mesures prises ;
+
+- des indications claires concernant les critères d'orientation immédiate à la suite d'événements indésirables ; et
+
+- l'utilisation d'une base de données normalisée pour enregistrer tous les événements indésirables graves.
+
+Il faut proposer des orientations sur l'identification et la notification des événements indésirables graves afin d'assurer la disponibilité d'informations adéquates pour permettre une évaluation appropriée des événements notifiés. Ces informations peuvent notamment comprendre le nom du patient, son âge, son poids et s'il s'agit d'un homme ou d'une femme, une brève description de l'événement, y compris sa gravité, la date et l'heure auxquelles il est survenu après la prise du médicament, la durée des symptômes, le traitement administré et la réponse au traitement, les dates du début et de fin de l'administration de la CPS et de l'administration concomitante d'autres médicaments, le numéro du lot avec la date de péremption des médicaments pour la CPS et le résultat.
+
+Les événements indésirables graves peuvent susciter des perceptions négatives dans la communauté et compromettre le succès de la CPS. Par conséquent, il est nécessaire de documenter si un événement indésirable semble être lié aux médicaments pour la CPS. Pour une bonne stratégie de communication, il faut expliquer les risques et les avantages de l'intervention et tout ce qui est susceptible d'affecter l'acceptation de la CPS dans la communauté.
+
+Lorsqu'un événement indésirable a été identifié et transféré avec un formulaire de transfert, l'équipe médicale doit agir promptement pour minimiser le risque pour la santé des enfants et assurer une issue positive.
+
+Difficultés potentielles de la notification des événements indésirables
+
+La vision des relais communautaires et du personnel de santé quant à l'importance de la pharmacovigilance peuvent conduire à une sous-déclaration des événements indésirables.
+
+Certains événements indésirables peuvent être ignorés pour diverses raisons, notamment parce que l'événement n'est pas considéré comme lié aux médicaments utilisés pour la CPS. Certains peuvent nécessiter une enquête plus approfondie (par exemple, vomissements ou régurgitation). L'équipe chargée de notifier les événements indésirables doit être encouragée à signaler tout facteur de ce type. Pour minimiser le risque de sous-déclaration, il est recommandé de proposer une séance de rafraîchissement des connaissances, une formation des superviseurs et des discussions régulières avec le personnel impliqué dans la notification des événements indésirables. Le cas échéant, des dépliants sur les événements indésirables doivent être mis à la disposition des relais communautaires et des infirmiers dans les centres de santé. La communication et la notification des événements indésirables doivent également être renforcées au niveau des pays. Après la notification, il est important d'avoir un système en place pour gérer toutes les données de pharmacovigilance. Il peut s'agir de la base de données de l'OMS Vigibase ou d'une base de données nationale équivalente sur la pharmacovigilance (7).
+
+Suivi et communication des coûts
+
+Deux aspects économiques de la CPS présentent un intérêt pour les programmes nationaux de lutte contre le paludisme. Tout d'abord, il est important de déterminer le coût comptable de la distribution de CPS, ce qui est utile à des fins de planification et de budgétisation – c'est-à-dire, quel est le coût total ou le coût unitaire de la fourniture d'une dose complète de CPS à chaque enfant ? Les coûts financiers reflètent la valeur des biens et des services. Ces informations sont utiles pour aider les programmes à connaître, à l'avance, les ressources financières qui seront nécessaires pour distribuer efficacement la CPS aux populations cibles. Un guide utile pour estimer le budget de la CPS est disponible sous forme de tableau Excel.7 Noter qu'il est nécessaire de disposer des données de prix spécifiques au pays pour remplir cette feuille.
+
+Deuxièmement, le coût économique de la distribution de la CPS, qui reflète la pleine valeur de toutes les ressources utilisées, est utile pour déterminer la viabilité économique des investissements dans la CPS. Le coût économique tient compte des ressources financières, ainsi que des dons et du temps des principales parties prenantes investies dans la CPS. Ces informations permettront de préciser le coût total de la mise en œuvre et de déterminer si l'investissement dans la CPS est offre un rapport coût-efficacité favorable, compte tenu des ressources limitées que les pays peuvent allouer. Les coûts économiques sont utiles, car ils aident à justifier les décisions de priorisation des pays. Pour permettre une évaluation économique des avantages de la CPS, il est important de suivre l'utilisation des ressources et la couverture administrative dans le cadre de la mise en œuvre de la CPS. Ce qui suit sert de guide pour les indicateurs économiques qui peuvent être suivis.
+
+Pour chaque activité générale dans le cadre de la CPS (par exemple, la planification, le paiement et la formation des bénévoles et du personnel sur le terrain, la mobilisation sociale, l'administration de la CPS, le suivi et la supervision, la notification, le suivi des événements indésirables), il est utile de suivre et d'enregistrer les catégories suivantes d'utilisation des ressources (la plupart d'entre elles sont souvent disponibles, mais doivent être systématiquement enregistrées) :
+
+- cadres et nombre de personnes impliquées dans l'activité (y compris le personnel rémunéré et bénévole) ;
+
+- salaires ou indemnités du personnel rémunéré et les indemnités de bénévolat, le cas échéant ;
+
+- temps (total des minutes ou des heures) pendant lequel le personnel est impliqué dans l'activité ;
+
+- quantité et coût/prix unitaire (dans des unités appropriées, telles que des cartons) des articles récurrents (par exemple, médicaments, autres fournitures médicales et non médicales telles que tests de diagnostic rapide, désinfectant pour les mains, masques en tissu) et coûts opérationnels (par exemple, carburant pour le fonctionnement des véhicules, stockage et transport des médicaments et des fournitures, entretien, coût de location des lieux de formation et d'autres activités, repas, communication) ; et
+
+- quantité et coût unitaire des équipements (par exemple, registres, téléphones mobiles, équipements pour la distribution tels que des bottes ou des t-shirts) et des biens d'équipement (par exemple, motocyclettes, autres véhicules, ordinateurs).
+
+Voir Budgeting and quantification tools (outils de budgétisation et de quantification), Medicines for Malaria Venture https://www.mmv.org/sites/default/files/uploads/docs/access/SMC_Tool_Kit/Planner_SMC_FR.xlsx
+
+Lorsque différentes stratégies de distribution de la CPS (par exemple, porte à porte, point fixe, mobile) sont utilisées, il est important de suivre l'utilisation des ressources par stratégie ainsi que la couverture administrative, si possible.
+
+5.4 Rapport final de fin de campagne
+
+À la fin de la campagne, lorsque les données de la CPS ont été nettoyées et validées, un rapport de synthèse doit être préparé. Un plan idéal a été élaboré par l'Alliance CPS dans le cadre de la boîte à outils de S&E, comme suit.
+
+1. Objectifs de la campagne de CPS
+
+2. Macroplanification et microplanification aramètres de la planification : personnel nécessaire (par cadre), jours P nécessaires pour chaque activité (formation, distribution, supervision, suivi et évaluation), nombre d'événements pour chaque activité
+
+Zones d'intervention
+
+Carte des districts sanitaires sélectionnés
+
+Cartographie des établissements
+
+Critères d'inclusion
+
+3. Activités préparatoires
+
+Réunion préparatoire
+
+Collaboration et partenariat
+
+Réunions de planification et d'examen des outils
+
+Identification et évaluation des entrepôts
+
+Sélection des distributeurs et des personnes chargées de la mobilisation
+
+4. Achats et gestion des stocks
+
+Conditions de stockage de SP+AQ à la pharmacie centrale
+
+4.2 Gestion des produits à la pharmacie centrale et dans les établissements de santé
+
+Acquisition et distribution de tous les outils et supports pour la CPS
+
+Utilisation appropriée des outils de gestion des stocks
+
+Délais d'approvisionnement et de livraison de SP+AQ
+
+Distribution de SP+AQ dans le pays
+
+Analyse des mouvements de stock
+
+Répartition des médicaments sur le plan de distribution par passages
+
+4.9 Méthodes de rapprochement de SP+AQ (données administratives et données de rapprochement des stocks)
+
+Rapport logistique de fin de passage
+
+5. Engagement communautaire
+
+5.1 Engagement du programme auprès des autorités locales sur la distribution de la CPS dans une sélection de districts
+
+Visites de sensibilisation
+
+Sensibilisation des médias
+
+Activités de mobilisation de la communauté et de promotion de la CPS
+
+Mobilisation des ménages
+
+Approbation de la campagne par l'État ou la province
+
+6. Formation
+
+Formation des superviseurs au niveau central
+
+Formation des superviseurs régionaux et de district sanitaire
+
+Formation des superviseurs locaux
+
+6.4 Formation des personnes chargées de la mobilisation et des relais communautaires
+
+6.5 Formation du personnel chargé de la saisie des données et des coordonnateurs pour la pharmacovigilance
+
+Formation des crieurs communautaires
+
+Séances de recyclage des ASC
+
+7. Administration de SP+AQ
+
+Méthodologie de distribution de la CPS
+
+Adaptations de la méthodologie de distribution en raison de la COVID-19
+
+Non-administration de SP+AQ aux enfants éligibles
+
+8. Prise en charge des cas et pharmacovigilance
+
+Prise en charge et transfert des enfants malades
+
+Suivi de la pharmacovigilance
+
+9. Supervision
+
+Superviseurs au niveau central
+
+Superviseurs régionaux et de districts sanitaires
+
+9.3 Bilan et compte-rendu des visites de supervision pendant les passages de CPS
+
+10. Suivi et évaluation8
+
+Données administratives recueillies au cours des passages 1 à 5 de la CPS
+
+Enquêtes de fin de passage
+
+Enquête sur la couverture en fin de campagne
+
+Enquêtes auprès des établissements de santé
+
+Enquêtes auprès des ménages
+
+10.6 Limites des données administratives, des enquêtes et des méthodes d'étude
+
+11. Résultats
+
+Performance du district sanitaire pendant la campagne
+
+Caractéristiques des ménages et des enfants ciblés
+
+Caractéristiques des enfants ciblés
+
+Distribution du traitement aux enfants ciblés pendant la campagne
+
+Enfants traités
+
+8 Pour chaque enquête, noter le choix des districts de santé et des zones de santé pour les enquêtes, la taille et la pertinence de l'échantillon, ainsi que les méthodes d'analyse des données (saisie, traitement et présentation en tableau des données).
+
+Personne chargée d'administrer le traitement aux enfants traités
+
+Raisons pour lesquelles des enfants n'ont pas été traités
+
+Effets indésirables après le traitement des enfants
+
+11.9 Difficultés à remplir les fiches CPS ou à administrer les médicaments aux enfants
+
+11.10 Amélioration des connaissances et de la sensibilisation et appréciation de la campagne
+
+12. Conclusions
+
+Réalisations par rapport au plan de travail
+
+Ajustements du plan de travail
+
+Bonnes pratiques
+
+Exemples de réussite
+
+Réunions de bilan au niveau des districts sanitaires et des régions
+
+Enseignements tirés
+
+Défis et perspectives
+
+Recommandations
+
+Références bibliographiques
+
+1.
+
+World malaria report 2022. Genève : Organisation mondiale de la Santé ; 2022.
+
+Licence : CC BY-NC-SA 3.0 IGO. (https://apps.who.int/iris/handle/10665/365169, consulté le 17 février 2023).
+
+2.
+
+WHO guidelines for malaria, 3 June 2022. Genève : Organisation mondiale de la Santé ; 2022 (https://apps.who.int/iris/handle/10665/354781, consulté le 17 février 2023). Les lignes directrices sont également accessibles en ligne à l'adresse suivante : https://app.magicapp.org/#/guideline/6832.
+
+3.
+
+Chimioprévention du paludisme saisonnier par administration de sulfadoxinepyriméthamine et d'amodiaquine aux enfants : guide de terrain. Genève :
+
+Organisation mondiale de la Santé 2013 (https://apps.who.int/iris/ handle/10665/85727, consulté le 18 février 2023).
+
+4.
+
+5.
+
+Malaria chemoprevention efficacy study protocol. Genève : Organisation mondiale de la Santé ; 2022. Licence : CC BY-NC-SA 3.0 IGO. (https://apps.who.
+
+int/iris/handle/10665/360908, consulté le 17 février 2023).
+
+6.
+
+7.
+
+Vigibase [outil en ligne]. Uppsala Safety Monitoring Centre, Suède (https://whoumc.org/pv-products/vigiflow/, consulté le 17 février 2023).
+
+8.
+
+9.
+
+Recommandation de politique générale de l'OMS : chimioprévention du paludisme saisonnier pour lutter contre le paludisme à plasmodium falciparum en zone de forte transmission saisonnière dans la sous-région du Sahel en Afrique. GGenève : Organisation mondiale de la Santé, 2012 (https://apps.who.
+
+int/iris/handle/10665/337982, consulté le 17 février 2023).
+
+WHO/GMP technical expert group meeting on preventive chemotherapy:
+
+report of the technical consultation on seasonal malaria chemoprevention (SMC), chimio-prévention saisonnière du paludisme (CSP), Geneva 4-6 May 2011. Genève : Organisation mondiale de la Santé, 2011 (http://apps.who.int/iris/ handle/10665/367268, consulté le 17 février 2023).
+
+Gilmartin C, Nonvignon J, Cairns M, Milligan P, Bocoum F, Winskill P, et al.
+
+Crosscut. Microplanning [application]. DHIS2, version 1.0.1, 22 June 2022 (https:// apps.dhis2.org/app/de19ff76-3459-4ec1-a881-5b8644cd6c51, consulté le 17 février 2023).
+
+Delivering seasonal malaria chemoprevention 2012 [videos]. London School of Hygiene & Tropical Medicine; 2021 (https://www.lshtm.ac.uk/research/centresprojects-groups/opt-smc#smc-training-videos, consulté le 17 février 2023).
+
+Seasonal Malaria Chemoprevention Monitoring & Evaluation Toolkit. SMC Alliance, 2021 (https://www.smc-alliance.org/resources/seasonal-malariachemoprevention-monitoring-evaluation-toolkit, consulté le 17 février 2023).
+
+World Health Organization vaccination coverage cluster surveys: reference manual. Genève : Organisation mondiale de la Santé ; 2018 (https://apps.who.int/ iris/handle/10665/272820, consulté le 17 février 2023).
+
+Factors contributing to success for digital malaria campaigns. Baltimore;
+
+Catholic Relief Services, 2023 (https://www.crs.org/our-work-overseas/researchpublications/11-success-factors-digital-malaria-campaigns, consulté le 17 février 2023).
+
+Digitalizing malaria campaigns: ITN and SMC handbook. Baltimore; Catholic Relief Services, 2023 (https://www.crs.org/our-work-overseas/researchpublications/digitalizing-malaria-campaigns-itn-and-smc-handbook, consulté le
+
+Pour plus d'informations, veuillez contacter :
+
+Pogramme mondial de lutte contre le paludisme
+
+Organisation mondiale de la Santé
+
+20 Avenue Appia
+
+1211 Genève 27
+
+Suisse
+
+Courriel : GMPinfo@who.int

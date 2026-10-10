@@ -1,0 +1,71 @@
+"""Variables d'environnement, lues depuis le fichier .env à la racine du projet."""
+
+from functools import lru_cache
+from pathlib import Path
+
+from pydantic_settings import BaseSettings, SettingsConfigDict
+
+ROOT = Path(__file__).resolve().parents[2]
+
+
+class Settings(BaseSettings):
+    # env_ignore_empty : une variable vide dans le terminal (ex. GOOGLE_API_KEY=)
+    # ne doit pas écraser la valeur du .env.
+    model_config = SettingsConfigDict(env_file=ROOT / ".env", extra="ignore", env_ignore_empty=True)
+
+    # WhatsApp Cloud API (Meta)
+    whatsapp_access_token: str = ""
+    whatsapp_phone_number_id: str = ""
+    whatsapp_business_account_id: str = ""
+    whatsapp_verify_token: str = ""
+    whatsapp_app_secret: str = ""
+    whatsapp_pin: str = ""
+    graph_api_version: str = "v25.0"
+
+    # Gemini (Google ADK)
+    google_api_key: str = ""
+    google_genai_use_vertexai: bool = False
+    # Modèle de l'agent santé. Avec la facturation activée : gemini-flash-latest.
+    agent_model: str = "gemini-flash-lite-latest"
+    # Modèle rapide : détection de langue et traduction.
+    fast_model: str = "gemini-flash-lite-latest"
+    # Modèle de traduction (wolof, pulaar). Vide : FAST_MODEL. gemini-flash-latest écrit un
+    # wolof plus juste que la version lite, pour un coût un peu plus élevé.
+    translation_model: str = ""
+    # Modèle d'embeddings local (sentence-transformers) pour le RAG.
+    embedding_model: str = "BAAI/bge-m3"
+    # "mps" (GPU du Mac), "cpu" ou "cuda". Vide : choix automatique.
+    embedding_device: str = ""
+
+    # Google Maps (MCP Grounding Lite) pour trouver les postes de santé. Facultatif.
+    google_maps_api_key: str = ""
+
+    # Voix wolof / pulaar (API Kiriku, compatible OpenAI)
+    speech_api_base_url: str = "https://14hyb7tjwzuh9q-8000.proxy.runpod.net/v1"
+    speech_api_key: str = ""
+    default_language: str = "wolof"
+
+    # Fichiers locaux
+    data_dir: Path = ROOT / "data"
+    # Corpus nettoyé (chunks.jsonl), produit par scripts/nettoyer_kb.py.
+    kb_dir: Path = ROOT / "data" / "kb"
+
+    # Numéro d'urgence affiché en cas de signe de gravité
+    samu_number: str = "1515"
+
+    # Modèles de messages approuvés par Meta (WhatsApp Manager → Modèles de message), pour
+    # écrire hors de la fenêtre de 24 h. Vides : rappels en texte simple, pas d'alertes.
+    template_rappel_vaccin: str = ""  # corps avec 3 variables : âge, date, vaccins
+    template_alerte_saison: str = ""  # sans variable, en-tête image facultatif
+    template_language: str = "fr"
+
+    @property
+    def graph_url(self) -> str:
+        return f"https://graph.facebook.com/{self.graph_api_version}"
+
+
+@lru_cache
+def get_settings() -> Settings:
+    settings = Settings()
+    settings.data_dir.mkdir(parents=True, exist_ok=True)
+    return settings

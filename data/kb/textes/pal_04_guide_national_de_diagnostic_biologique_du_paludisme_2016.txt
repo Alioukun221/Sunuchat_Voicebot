@@ -1,0 +1,1653 @@
+Ministere de la sante et de l'action sociale
+
+REPUBLIQUE DU SENEGAL
+
+MINISTERE DE LA SANTE ET DE L'ACTION SOCIALE
+
+---------DIRECTION GENERALE DE LA SANTE
+
+---------DIRECTION DE LA LUTTE CONTRE LA MALADIE
+
+GUIDE NATIONAL
+
+République du Sénégal de diagnostic biologique du Paludisme
+
+PROGRAMME NATIONAL
+
+DE LUTTE CONTRE LE PALUDISME un peuple - un but - une foie
+
+Au Sénégal, le plan stratégique national (PSN) 2016 - 2020 de lutte contre le paludisme a pour objectifs de réduire l'incidence et la mortalité liées au paludisme d'au moins 75% et d'interrompre la transmission locale dans les districts de la zone nord. L'atteinte de ces objectifs passera nécessairement par un accès rapide à un diagnostic de qualité et à un traitement efficace des cas.
+
+Dans cette perspective, des orientations stratégiques ont été définies pour consolider et améliorer les résultats obtenus lors des cinq dernières années.
+
+Parmi ces orientations retenues dans le PSN 2016-2020, l'élaboration d'un guide national pour le diagnostic biologique constitue une innovation et une condition fondamentale pour un diagnostic de qualité.
+
+Ainsi, en s'inspirant du processus de mise en œuvre recommandé par l'Organisation Mondiale de la Santé (OMS), le Sénégal a tenu un atelier national impliquant les acteurs à tous les niveaux et les partenaires, ce qui a permis d'obtenir ce guide sur le diagnostic biologique. Ce document de référence est destiné aux prestataires de santé, aux biologistes et agents communautaires de soins.
+
+Il servira de référence pour le respect des normes et procédures du diagnostic biologique du paludisme au Sénégal.
+
+Il me plait ici d'inviter l'ensemble des acteurs des services publics, parapublic et privé à s'approprier le contenu de ce présent guide et de veiller à sa bonne utilisation dans les activités de formation pour une harmonisation des méthodes de diagnostic biologique du paludisme au Sénégal.
+
+L'utilisation de ce guide permettra un diagnostic de qualité de l'infection palustre, gage d'une bonne prise en charge nécessaire pour atteindre les objectifs ambitieux du PSN 2016- 2020 Tous ensemble, pour un Sénégal émergent sans paludisme pour un développement durable.
+
+I. Introduction
+
+Dans le plan stratégique de lutte contre le paludisme 2011- 2015, le diagnostic biologique du paludisme au Sénégal reposait sur la goutte épaisse/frottis mince et les tests de diagnostic rapide (TDR).
+
+L'impact des interventions de lutte contre le paludisme, ces dernières années, a fortement modifié la répartition géographique du fardeau de la maladie. Cette nouvelle configuration impose une stratification plus opérationnelle permettant d'adapter les interventions aux caractéristiques épidémiologiques locales. Cette évolution de la situation épidémiologique du paludisme au Sénégal impose naturellement l'adoption d'outils de diagnostic adaptés aux différentes zones identifiées.
+
+En 2016, le Sénégal a adopté un nouveau plan stratégique national (PSN) de lutte contre le paludisme. Ce plan a pour objectifs de réduire l'incidence et la mortalité liées au paludisme d'au moins 75% et d'interrompre la transmission locale dans les districts de la zone nord. Globalement, deux zones à niveaux différents d'endémicité sont identifiées : les zones nord d'endémicité faible où les objectifs visent une consolidation des acquis en vue d'atteindre l'élimination et le reste du pays où l'endémicité est plus importante. Cette nouvelle configuration impose une utilisation de TDR plus sensibles, de la biologie moléculaire dans les zones Nord et de TDR pan spécifiques capables de diagnostiquer les espèces autres que Plasmodium falciparum dans le reste du pays particulièrement au Sud.
+
+Les objectifs pour le diagnostic biologique déclinés dans le PSN sont les suivants :
+
+- Introduire la biologie moléculaire dans les zones de faible transmission pour détecter les faibles parasitémies ;
+
+- Diagnostiquer par TDR ou goutte épaisse/frottis mince 100% des cas suspects selon les directives nationales.
+
+Pour atteindre ces objectifs, le PNLP en collaboration avec les acteurs a élaboré ce guide destiné aux acteurs à tous les niveaux de la pyramide sanitaire pour améliorer le diagnostic biologique du paludisme. Il tient compte aussi bien des normes et standards internationaux édictés par l'OMS que du contexte sénégalais.
+
+Le guide se divise en trois grandes parties articulées autour:
+
+- Du diagnostic biologique par les TDR ;
+
+- Du diagnostic biologique par la microscopie ;
+
+- Du diagnostic biologique par les techniques de biologie moléculaire.
+
+Par ailleurs, une partie importante est réservée au contrôle de qualité. Ce point est particulièrement utile à tous les niveaux de la pyramide sanitaire où les normes de qualité doivent être respectées.
+
+II. Objectifs du guide
+
+Les objectifs de ce présent guide sont :
+
+- Disposer d'un document national de référence pour les techniques de diagnostic biologique du paludisme (TDR, microscopie et BM)
+
+- Disposer de directives pour l'utilisation des techniques de diagnostic biologique du paludisme (TDR, microscopie et BM) par niveau et selon les faciès
+
+- Contribuer à l'amélioration continue de la qualité du diagnostic biologique du paludisme
+
+III. Rappels sur le paludisme
+
+Le paludisme est dû à un organisme vivant, appelé Plasmodium, qui infecte les globules rouges d'une personne. Il se transmet d'une personne à l'autre principalement par l'intermédiaire des piqûres de femelles de moustiques, les anophèles et par voie transplacentaire de la mère au fœtus durant la grossesse. Il existe cinq espèces qui peuvent parasiter l'homme : Plasmodium falciparum, P.malariae, P.vivax, P.ovale et P.knowlesi. Parmi celles- ci, Plasmodium falciparum est l'espèce la plus redoutable parce qu'étant responsable de la majeure partie des formes graves du paludisme et représente environ 98% des cas de paludisme au Sénégal. Les deux autres espèces rencontrées au Sénégal sont P.malariae et P.ovale pour moins de 2% sur la base de plusieurs études.
+
+Le paludisme pose un grave problème de santé publique dans de nombreuses régions du monde. Les accès peuvent être sévères et provoquer rapidement la mort en l'absence de traitement. Environ 3,2 milliards de personnes, soit près de la moitié de la population mondiale – sont exposées au risque de contracter la maladie.
+
+L'Afrique subsaharienne continue de supporter une part importante de la charge mondiale du paludisme. En effet pour l'année 2015, 88% des cas de paludisme et 90% des décès dus à cette maladie sont survenus dans cette région.
+
+Entre 2000 et 2015, l'incidence du paludisme (le nombre de nouveaux cas parmi les populations exposées) a baissé de 37% à l'échelle mondiale tandis que le taux de mortalité a reculé de 60% toutes tranches d'âge confondues et de 65% chez les enfants de moins de 5 ans.
+
+Les jeunes enfants, les femmes enceintes et les voyageurs venant de régions exemptes de paludisme sont particulièrement vulnérables à la maladie lorsqu'ils sont infectés.
+
+Le paludisme est une maladie évitable et curable si la prise en charge est précoce et adéquate.
+
+Signes cliniques et symptômes du paludisme
+
+Les symptômes habituels sont les suivants : une forte fièvre, des maux de tête, des frissons, des sueurs profuses et des courbatures dans tout le corps. Il arrive que certains patients vomissent, toussent, aient de la diarrhée ou fassent des convulsions. Dans le cas des infections persistantes ou récurrentes, on peut observer une anémie.
+
+Comme on observe des signes cliniques similaires dans d'autres maladies courantes, des investigations plus approfondies sont nécessaires avant de pouvoir diagnostiquer le paludisme avec fiabilité.
+
+Cycle parasitaire
+
+Chez le moustique : le cycle sexué
+
+Il commence lorsqu'une femelle d'anophèle prend son repas de sang sur une personne infectée. Les parasites mâles (microgamétocytes) dans le sang de la personne infectée sont alors aspirés dans l'estomac du moustique et produisent quatre à huit flagelles (ex flagellations). Chacun d'eux se sépare de l'organisme qui lui a donné naissance et lorsqu'il rencontre un parasite femelle (macrogamétocyte) il la féconde. Cette fécondation aboutit à la formation d'un zygote qui rejoint la paroi de l'estomac, s'insère entre les cellules de celle-ci, s'installe sous le revêtement épithélial externe et devient un oocyste. Finalement, l'oocyste finit par se rompre et libère des milliers de sporozoïtes, en forme de fuseau, qui gagnent les glandes salivaires de l'insecte. Le temps nécessaire pour que le cycle parasitaire arrive à son terme chez le moustique, c'est-à-dire le délai qui s'écoule entre l'ingestion de sang infecté par une femelle et le moment où elle est capable de transmettre la maladie, varie en fonction des espèces, de la température et de l'humidité ambiantes, mais il est en général de 7 à 21 jours.
+
+Chez l'être humain : cycle asexué
+
+Phase hépatique
+
+Lorsqu'une femelle d'anophèle infectée pique un être humain, elle injecte des sporozoïtes avec sa salive, qui sert d'anticoagulant. Cet anticoagulant évite la formation de caillots de sang dans la trompe et les pièces buccales tubulaires très fines du moustique. Parvenus dans l'organisme humain, les sporozoïtes gagnent très rapidement le foie où ils essaient d'envahir les hépatocytes (les cellules du foie). Dans les hépatocytes infectés, un seul parasite se divise et produit en 7 à 21 jours un nouveau parasite appelé schizonte hépatique ou corps bleu. Celui-ci finit par éclater et libérer dans la circulation sanguine des milliers de mérozoïtes qui adhèrent rapidement aux globules rouges (hématies) et y pénètrent initiant la phase sanguine. Cette brève description de la phase hépatique s'applique à trois des espèces du paludisme infectant l'homme : P. falciparum, P. malariae et P. knowlesi. Les deux autres espèces, P. vivax et P. ovale, ont un cycle légèrement différent: un certain nombre des parasites qui pénètrent initialement dans le foie ne se transforment pas immédiatement en schizontes hépatiques et passent par une sorte de phase dormante pendant des mois, voire même des années.
+
+Ces parasites à un stade latent, appelés hypnozoïtes, sont à l'origine des rechutes survenant de temps en temps après le premier accès.
+
+Phase sanguine
+
+Une fois à l'intérieur de l'hématie, le parasite commence à se développer, en utilisant le contenu de la cellule pour s'alimenter et il devient un trophozoïte. Ce dernier subit une multiplication asexuée et se transforme en schizonte mûr (appelé corps en rosace) qui finit par éclater et libérer des mérozoïtes.
+
+Ces derniers pénètrent de nouveau dans les hématies et commencent un nouveau cycle asexué. La durée de la phase asexuée sanguine est de 72 heures pour P. malariae, 48 heures pour P. falciparum, P. vivax, P. ovale et 24 heures pour P. knowlesi. Après plusieurs cycles asexués survient la formation des gamétocytes qui ne peuvent continuer leur développement que chez le moustique.
+
+Schéma 1 : cycle évolutif du paludisme
+
+IV. Diagnostic biologique du paludisme par le TDR
+
+1. OBJECTIFS
+
+- Disposer d'un diagnostic biologique rapide et fiable
+
+- Disposer d'un outil de diagnostic réalisable et accessible à tous les niveaux
+
+2. PRINCIPE
+
+Il repose sur une technique immunochromatographique révélant la réaction antigène – anticorps Il existe des tests qui détectent :
+
+- Des antigènes spécifiques de P. falciparum : Histidin Rich Protein (HRP2)
+
+- Des enzymes produites par le Plasmodium : Lactico-deshydrogenase (pLDH) et l'aldolase Certains détectent des infections mono-spécifiques (Plasmodium falciparum ou Plasmodium vivax) et d'autres des infections mixtes.
+
+La détection rapide d'antigènes parasitaires par immunochromatographie sur membrane consiste à déposer l'échantillon de sang à tester au niveau de l'une des extrémités d'une membrane de nitrocellulose fixée sur un support plastique ou carton. Si l'antigène recherché est présent, il se lie avec un anticorps marqué le plus souvent à l'or colloïdal. Sous l'effet d'un tampon lyse- migration, les complexes antigènes-anticorps migrent par capillarité et sont arrêtés par des anticorps de capture fixés sur la membrane. L'excès de complexe conjugué continue à migrer et est immobilisé par un anticorps non spécifique (anticorps de lapin ou anticorps de souris), l'accumulation des complexes colorés entraîne l'apparition d'une bande colorée. Cette seconde bande ou bande contrôle valide le bon fonctionnement de la réaction.
+
+Un résultat positif se traduit par l'apparition des bandes test et contrôle.
+
+Un résultat négatif se traduit par l'apparition de la bande contrôle seule.
+
+Un résultat est invalide en l'absence de bande contrôle ; dans ce cas, il faut rependre l'examen avec un nouveau test. L'apparition des bandes est rapide 15 mn en moyenne (en fonction du type de TDR).
+
+3. MATERIEL
+
+- Kit de TDR (cassette de TDR, anse de prélèvement, dessiccateur) en cours de validité et non ouvert au préalable
+
+- Gants à usage unique
+
+- Tampons imbibés d'alcool
+
+- Lancettes stériles à usage unique
+
+- Solution tampon
+
+- Conteneur à aiguilles
+
+- Poubelle à pédales
+
+- Crayons/marqueurs indélébiles
+
+- Minuteur
+
+- Registre
+
+4. TECHNIQUE
+
+- Vérifier la date de péremption de la cassette de TDR
+
+- Utiliser une surface propre et plane
+
+- Porter des gants
+
+- Mettre le test à la température ambiante ;
+
+- Ouvrir le test juste au moment de l'emploi ;
+
+- Mentionner le code ou le nom du patient, le numéro et la date
+
+- Désinfecter le doigt (l'annulaire de préférence) avec l'alcool à 70° C (Pour les nouveau-nés et nourrissons utiliser le gros orteil)
+
+- Essuyer le doigt avec le coton imbibé
+
+- Piquer d'un coup sec et rapide avec une lancette/vaccinostyle stérile sur le bord du doigt
+
+- Presser le doigt et prélever 5 microlitres de sang capillaire à la pulpe du doigt à l'aide de l'anse de prélèvement ;
+
+NB : Pour le TDR, il n'est pas nécessaire d'essuyer la première goutte de sang
+
+- Déposer les 5 microlitres de sang dans la fenêtre carrée ;
+
+- Déposer quatre gouttes (selon type de TDR disponible) de la solution tampon dans la fenêtre ronde verticalement ;
+
+- Laisser reposer le test sur la surface plane
+
+- Attendre au plus 15 minutes pour la lecture des résultats
+
+NB : Il est nécessaire d'attendre 15 minutes pour déclarer que le test est négatif
+
+- Mettre la lancette dans le conteneur de sécurité après usage
+
+5. RESULTATS
+
+Positif
+
+HRP2
+
+Le test est positif si les deux bandes apparaissent (test et contrôle)
+
+Combo
+
+Positif pour P.vivax : en plus de la bande contrôle, une bande mauve apparaît au niveau des régions « Pv » et « Pan »
+
+Positif pour les autres espèces : en plus de la bande contrôle, une bande mauve apparaît au niveau de la région « Pan »
+
+Positif pour P. falciparum : en plus de la bande contrôle, une bande mauve apparaît au niveau des régions « Pf » et « Pan »
+
+Infection mixte : en plus de la bande contrôle, une bande mauve apparaît au niveau des régions Pf, Pv et Pan
+
+Négatif
+
+Le résultat est négatif si une seule bande apparaît sur la ligne contrôle (C)
+
+Invalide Le test est invalide si aucune bande n'apparaît au bout de 15 minutes
+
+Le test est invalide si aucune bande n'apparaît au bout de 15 minutes
+
+Le test est invalide si aucune bande n'apparaît dans la case contrôle
+
+6. OUTILS DE GESTION
+
+On distingue plusieurs outils de gestion :
+
+- Registre de consultation où il faut mentionner le résultat du test sur la ligne du malade et à la colonne indiquée
+
+- Fiche de synthèse récapitulative renseignée à partir de la fiche de stock du dépôt
+
+- Fiche de reporting des résultats
+
+7. CONTROLE DE QUALITE
+
+On a 3 niveaux de contrôle de qualité :
+
+- A la réception des lots
+
+- Après distribution
+
+- In situ
+
+1) A la réception des lots
+
+Un échantillon de TDR est prélevé dans chaque lot et acheminé au laboratoire de Parasitologie certifié par OMS / FIND. Le contrôle de qualité de chaque boîte porte sur :
+
+- La qualité et l'état de l'emballage
+
+- La qualité et l'état de chaque élément
+
+- présence d'une notice explicative
+
+- présence du nombre de tests déclaré par le fabricant
+
+- présence de lancettes stériles
+
+- présence de tampon de désinfectant
+
+- présence de flacon de tampon
+
+- La sensibilité du TDR à une parasitémie faible de 200 parasites /μl de sang ;
+
+- La sensibilité du TDR à une parasitémie élevée de 2000 parasites /μl de sang
+
+- La sensibilité du TDR à un échantillon de sang négatif ne contenant aucun parasite.
+
+Des échantillons de sang positif validés (par microscopie et qPCR) et certifiés par OMS sont utilisés pour le contrôle qualité. Ces échantillons sont collectés au Sénégal suivant le protocole OMS/TDR/FIND pour le contrôle de la qualité des TDR. Des dilutions à 200 parasites/μl et 2000 parasites/μl de sang sont réalisées.
+
+De mêmes des échantillons de sang négatifs sont collectés. Tous ces échantillons doivent être contrôlés négatifs par ELISA à l'Hépatite B, C, VIH 1 et VIH 2.
+
+Les résultats du contrôle de qualité sont classés en deux catégories :
+
+- PASS : lorsque le lot réussi le contrôle de qualité et que les TDR ont détecté toutes les parasitémies permettant ainsi leur utilisation sur le terrain
+
+- ECHEC : lorsque le lot n'a pas réussi le contrôle de qualité. Il devra être envoyé à un autre laboratoire de contrôle pour confirmation. Ce lot ne pourra être utilisé sur le terrain avant le deuxième contrôle de qualité.
+
+2) Après la distribution
+
+Un échantillon de TDR non utilisé est prélevé au niveau des points de prestation après 6 mois et 12 mois de stockage. Ces échantillons sont acheminés au laboratoire de Parasitologie certifié par OMS / FIND pour un contrôle sur chaque boîte.
+
+3) In situ
+
+Il s'agira de mettre dans chaque boîte un contrôle positif et un contrôle négatif permettant à l'utilisateur de réaliser le contrôle de qualité avant l'utilisation.
+
+V. Diagnostic biologique du paludisme par la microscopie
+
+1. OBJECTIFS
+
+Il permet de poser le diagnostic microscopique du paludisme par l'utilisation de la goutte épaisse et du frottis mince. Il permet aussi d'identifier l'espèce plasmodiale et de déterminer la parasitémie.
+
+Il facilite enfin la mise en place d'un système de contrôle de qualité adéquat.
+
+2. PRINCIPE
+
+L'examen microscopique consiste à mettre en évidence les plasmodies dans les étalements de sang (goutte épaisse et du frottis mince) colorés au Giemsa selon la méthode recommandée.
+
+3. TECHNIQUE a. Matériels
+
+- Blouse
+
+- Gants
+
+- Lames porte objet avec plage
+
+- Vaccinostyles stériles
+
+- Coton hydrophile
+
+- Baguettes
+
+- Flacon compte-goutte, pipette de transfert, pipette pasteur, poire
+
+- Eprouvette 10 ml, 100 ml, 500 ml
+
+- Minuterie
+
+- Séchoir (sèche-cheveux...)
+
+- Râtelier/portoir
+
+- Boîte de rangement pour lames
+
+- Microscope binoculaire fonctionnel avec housse de protection
+
+- Compteurs à une ou deux touches spécifiques du paludisme
+
+- Calculatrice
+
+- Papier lens
+
+- Papier absorbant
+
+- Tissu propre en coton non pelucheux
+
+- Papier pH ou pH-mètre
+
+- Boîte de sécurité
+
+- Poubelle à pédales b. Réactifs
+
+- Colorant de Giemsa R
+
+- Méthanol
+
+- Alcool 70o
+
+- Solution tamponnée à défaut eau distillée ou de robinet (pH 7,2)
+
+- Huile à immersion
+
+- Savon/détergents
+
+- Comprimé tampon c. Mode Opératoire i. Nettoyage et préparation des lames
+
+Lames neuves et propres sans moisissures et entre collées
+
+- Les tremper 30 minutes à 1 heure dans l'alcool dénaturé (éthanol et éther) ;
+
+- les essuyer avec un linge propre et sec ;
+
+- une fois propre, les lames doivent être tenues par les bords seulement.
+
+Lames neuves avec moisissures
+
+- Les faire bouillir 30 minutes à 1 heure dans l'eau contenant un détergent (par exemple : savon liquide) et les laisser tremper dans cette eau pendant 24 heures ;
+
+- les nettoyer une à une avec un linge propre et sec ;
+
+- les placer dans l'alcool dénaturé (éthanol et éther) ;
+
+- les essuyer avec un linge propre et sec ;
+
+- une fois propres, les lames doivent être tenues par les bords seulement.
+
+Figure 1 : image d'illustration de la façon de tenir une lame propre
+
+Emballage et conservation des lames
+
+- Les emballer après séchage par lots de 10 dans du papier , exemple: papier d'emballage;
+
+- garder chaque lot fermé à l'aide d'un élastique ou de scotch;
+
+- garder les lots fermés au sec dans leurs boîtes d'origine; les utiliser dans les 2 mois qui suivent. Au-delà des 2 mois de conservation elles sont toujours ré-utilisables avec le même processus de nettoyage.
+
+Les mentions lavées ou pré-nettoyées inscrites sur les boîtes ne signifient pas que l'on peut directement utiliser les lames concernées en les sortant de la boîte.
+
+Il faut toujours nettoyer, sécher et emballer les lames porte- objet avant de les utiliser pour les étalements de sang ii. Prélèvement capillaire
+
+- Toujours porter des gants et une blouse;
+
+- identifier chaque lame (code et date) avec un crayon noir ;
+
+- préparer le patient psychologiquement. Vérifier si le doigt est sain;
+
+- désinfecter l'annulaire avec l'alcool à 70 degré (pour les petits enfants utiliser le gros orteil);
+
+- essuyer l'annulaire avec du coton sec pour enlever l'excès d'alcool;
+
+- piquer d'un coup sec et rapide avec un vaccinostyle sur la pulpe du doigt (le côté latéral);
+
+- presser le doigt et éliminer la première goutte avec du coton sec;
+
+- déposer 1 grosse goutte (ou 3 petites gouttes) de sang à 1 cm de la plage de la lame pour faire une goutte épaisse et une autre petite goutte au milieu de la même lame pour le frottis mince;
+
+- Faire garder au patient le coton sec au point de piqûre pendant 2 à 3 minutes.
+
+iii. Confection a) Frottis mince :
+
+Placer à 45° l'arrêt d'une autre lame en contact avec la petite goutte, laisser fuser le sang par capillarité en conservant toujours la même inclinaison, tirer la goutte vers l'extrémité libre de la lame sans arrêt.
+
+b) Goutte épaisse :
+
+- A l'aide du coin de la même lame, étaler la grosse goutte de sang sous forme d'un cercle d'un centimètre (1 cm) de diamètre en faisant 3 à 6 mouvements circulaires de l'intérieur vers l'extérieur en sens unique (ne pas dépasser 15 secondes) ;
+
+- Laisser sécher sur la paillasse en position horizontale, à la température ambiante, à l'abri des mouches, des insectes et de la poussière (exemple : avec le couvercle d'une boîte de Pétri)
+
+Figure 2 : Recueil de la goutte épaisse et du frottis mince
+
+Figure 3 : Etalement du frottis mince
+
+Figure 4 : Confection de la goutte épaisse
+
+Figure 5 : Exemple d'une bonne confection GE/FM
+
+ERREURS CLASSIQUES À ÉVITER
+
+- Frottis mince/goutte épaisse confectionné avec beaucoup ou moins de sang ;
+
+- Etalement sur lame grasse ;
+
+- Etalement avec lame dont le bord est ébréché ;
+
+- Angle aigu ou obtus pour lame de tirage ;
+
+- Irrégularité du mouvement du tirage.
+
+Figure 6 : Lames mal dégraissées, sales et poussiéreuses
+
+Figure 7 : Irrégularité du mouvement de tirage
+
+Figure 8 : Angle formé par la lame de tirage trop aigu
+
+Figure 9 : Angle formé par la lame de tirage trop obtus iv. Coloration
+
+- Fixer le frottis mince avec de l'alcool méthylique 2 à 3 secondes, éviter que les vapeurs du méthanol ne fixent la goutte épaisse ;
+
+- déshémoglobiniser la GE pendant 10 mn avec de l'eau tamponnée à défaut l'eau distillée ;
+
+- faire la dilution de la solution de Giemsa en mettant 1 volume de solution mère dans 9 volumes d'eau tamponnée ou distillée ;
+
+- utiliser la solution de Giemsa dilué à 10% ;
+
+- verser l'eau de la déshémoglobinisation ;
+
+- recouvrir la GE et le frottis mince avec la solution diluée de Giemsa ;
+
+- laisser agir pendant 15 mn ;
+
+- rincer modérément avec de l'eau de robinet ;
+
+- faire sécher avec un séchoir ou laisser sécher sur un portoir.
+
+Figure 10 : Déshémoglobinisation de la goutte épaisse
+
+Figure 11 : Coloration à l'aide des baguettes v. Description et utilisation du microscope
+
+Le microscope est un dispositif optique permettant de grossir l'image d'un objet par le jeu de l'association de deux groupes de lentilles, l'oculaire côté œil et l'objectif côté objet. La multiplication du grossissement de l'objectif par celui de l'oculaire permet d'obtenir le grossissement du microscope
+
+1. Oculaire de réglage dioptrique
+
+2. Glissière de réglage de l›écartement inter pupillaire
+
+3. Tube binoculaire
+
+4. Potence
+
+5. Tourelle porte objectif
+
+6. Vernier de positionnement avec vis de déplacement bidirectionnel du chariot
+
+7. Chariot de fixation et de positionnement de la lame porte-objet
+
+8. Platine porte-objet
+
+9. Vis macrométrique de mise au point
+
+10. Vis micrométrique de mise au point
+
+11. Vis de réglage de la hauteur du condenseur
+
+12. Pied
+
+Figure 12 : Description du microscope vi. Examen microscopique a) Mise au point
+
+- Observer à l'objectif X 10 puis à l'objectif X 40 (identification des autres parasites sanguinoles) ;
+
+- Déposer une goutte d'huile à immersion sur la GE et le frottis mince en même temps ;
+
+- Faire la lecture avec l'objectif X 100 en commençant par la goutte épaisse.
+
+Pour lire la GE ou le FM, il faut parcourir l'étalement de manière horizontale ou verticale en faisant bouger la lame porte – objet avec la vis du chariot (voir figure 12 ci-dessous).
+
+Figure 13 : Sens de lecture d'une goutte épaisse et d'un frottis mince selon la Méthode de Rempart b) Reconnaissance des éléments figurés du sang
+
+Figure 14 : Eléments figurés du sang
+
+NB : On peut rencontrer exceptionnellement des polynucléaires basophiles
+
+Dans la GE, on observe :
+
+- Les globules blancs (leucocytes) ;
+
+- une fine partie du cytoplasme des globules rouges ;
+
+- les plaquettes ;
+
+- artéfacts : débris, cristaux.
+
+Figure 15 : Artefacts
+
+Dans le frottis, on observe :
+
+- Les globules rouges (hématies ou érythrocytes) ;
+
+- les globules blancs (leucocytes) ;
+
+- les plaquettes ;
+
+- artéfacts : débris, cristaux.
+
+c) Reconnaissance des parasites du paludisme
+
+La solution de Giemsa colore différemment chaque élément constitutif du parasite. Avec une bonne coloration, il est facile de distinguer les éléments représentés dans les schémas ci-dessous :
+
+Figure 16 : Plasmodium dans une hématie parasitée
+
+Figure 17 : Parasites et globules blancs (GB) dans la goutte épaisse
+
+On peut observer 3 stades de développement du parasite c.1 Le trophozoïte
+
+C'est le stade que l'on observe le plus fréquemment. Souvent appelé stade en anneau, sa taille est variable de petite à assez grande dans la cellule hôte. En général, il y a une tâche de chromatine, mais on en observe couramment deux avec P. falciparum. Avec la croissance du parasite, le pigment apparaît. Il ne prend pas la coloration et sa teinte varie du brun doré au brun foncé voire au noir.
+
+NB : On peut rencontrer des trophozoïtes jeunes ou âgés
+
+Figure 18 : En haut de la ligne : trophozoïtes sur frottis mince / En bas de la ligne : trophozoïtes sur goutte épaisse c.2 Le schizonte
+
+Ce stade est facile à reconnaître. Il commence quand le trophozoïte a atteint son plein développement et la chromatine se divise en deux. Le parasite commence à se reproduire de manière asexuée, c'està-dire la cellule se divise en « cellules fines » appelées mérozoïtes, par division simple. Plusieurs divisions successives de la chromatine vont avoir lieu, indiquant la croissance du schizonte, jusqu'à ce qu'il y ait de nombreuses masses chromatiniennes, chacune d'entre elles avec son propre cytoplasme. Le nombre de tâches de chromatine et de mérozoïtes aide à identifier les espèces. Les nouveaux parasites, clairement délimités, sont désormais prêts à quitter la cellule hôte pour aller envahir de nouvelles hématies.
+
+Figure 19 : ligne du haut : schizontes sur frottis mince / Ligne du bas : schizontes sur goutte épaisse c.3 Les gamétocytes
+
+Le parasite développe ensuite des gamétocytes mâles et ou femelles en préparation de la phase sexuée, qui se déroule dans l'organisme de l'anophèle femelle. Selon les espèces, les gamétocytes sont ronds ou en forme de banane. La manière dont le parasite prend la coloration aide à distinguer les gamétocytes mâles (microgamétocytes) des gamétocytes femelles (macrogamétocytes) dans les frottis Il est en revanche difficile de les différencier dans les gouttes épaisses.
+
+Figure 20 : En haut de la ligne : gamétocytes mâles et femelles sur frottis mince / En bas de la ligne :
+
+gamétocytes mâles et femelles sur goutte épaisse c.4 Différentes espèces parasitaires
+
+Pour ce diagnostic, l'effet du parasite sur l'hématie hôte a une grande importance
+
+Figure 21 : Plasmodium falciparum à différents stades de développement sur goutte épaisse et sur frottis mince
+
+Figure 22 : Plasmodium malariae à différents stades de développement sur goutte épaisse et les frottis mince
+
+Figure 23 : Plasmodium ovale à différents stades de développement sur goutte épaisse et frottis mince
+
+Figure 24 : Plasmodium vivax à différents stades de développement sur goutte épaisse et frottis mince
+
+Figure 25 : Plasmodium. knowlesi à différents stades de développement sur frottis minces
+
+Figure 26 : Critères de différenciation des espèces sur gouttes épaisses
+
+Figure 27 : Différenciation des espèces de Plasmodiums sur frottis mince
+
+Figure 28 : Différenciation des espèces de Plasmodiums sur goutte épaisse d) Détermination de la densité parasitaire (DP) dans la goutte épaisse
+
+- Formule
+
+DP (nombre de parasites/ μl ou mm3 de sang) = nombre de parasites comptés x 8000* / nombre de GB comptés (200-500) (*L'idéal est de disposer de la formule sanguine et de multiplier le nombre de parasites par le nombre réel de globules blancs)
+
+On démarre le comptage des parasites et leucocytes dès qu'on observe un parasite. Compter les parasites formes asexuées sur la base d'abord de 200 GB
+
+- Conditions d'arrêt :
+
+- Si on a un nombre de parasites supérieur ou égal à 100 après avoir compté 200 GB, on arrête et on applique la formule ;
+
+- Si on a un nombre de parasites inférieur à 100 on continue le comptage jusqu'à 500 globules blancs ;
+
+- Dans le dernier champ inclure dans le compte les globules blancs et les parasites.
+
+- En cas d'infections mixtes
+
+Dans le cas des infections mixtes (deux espèces ou plus), il est d'usage de compter toutes les formes asexuées ensemble et d'exprimer le résultat sous la forme suivante, par exemple : P. falciparum + P. vivax Préciser l'espèce associée (voir sur le frottis mince)
+
+NB : Pour déclarer une lame de goutte épaisse négative, il faut parcourir au moins 100 champs microscopiques de bonne qualité. Il est recommandé d'examiner 100 champs de plus pour identifier une infection mixte potentielle.
+
+Il faut rapporter également la présence de gamétocyte.
+
+e) Détermination de la densité parasitaire dans le frottis mince
+
+Choisir un endroit où les globules rouges (GR) sont mieux étalés et non superposés ;
+
+Compter le nombre de GR parasités (GRp) sur 40 champs
+
+- Admettre en moyenne 250 globules rouges par champ
+
+- Admettre en moyenne 5 millions de globules rouges par μl de sang
+
+- DP (GRp/ μl de sang) = Nombre GRp x 5 000 000/ nombre champ x 250
+
+Il est préférable de déterminer la DP au niveau de la goutte épaisse sauf en cas de forte parasitémie ou de perte de la goutte épaisse, faire la DP sur le frottis mince
+
+4. Résultats
+
+Examen demandé
+
+Résultats
+
+GE + FM (Recherche d'hématozoaires)
+
+Stade évolutif :
+
+Espèce(s) plasmodiale(s) :
+
+Densité parasitaire :
+
+Recherche négative :
+
+Autres à préciser :
+
+5. Outils de gestion
+
+- Cahier de paillasse
+
+- Bulletin d'analyse
+
+- Registre de laboratoire
+
+- Transmission des données
+
+- Rapports mensuels en trois copies :
+
+- au superviseur/CSSI
+
+- au biologiste de la région
+
+- aux archives du laboratoire
+
+6. Contrôle de qualité
+
+Définition :
+
+C'est l'ensemble des activités préétablies et systématiques mises en œuvre pour évaluer la précision de l'étape analytique.
+
+Il a pour intérêt :
+
+- le laboratoire : d'assurer la fiabilité des résultats et la crédibilité du laboratoire ;
+
+- les prestataires : de fournir aux prestataires des résultats de bonne qualité ;
+
+- les patients : d'avoir une bonne prise en charge ;
+
+- prévenir, détecter les erreurs et les corriger immédiatement.
+
+Il s'effectue en deux étapes :
+
+- Contrôle de qualité interne
+
+- Contrôle de qualité externe
+
+Acteurs
+
+- Le responsable du laboratoire
+
+- Les techniciens
+
+- Le PNLP et ses partenaires techniques
+
+6.1 Contrôle qualité interne
+
+Périodicité
+
+- L'idéal est le contrôle journalier
+
+- Au moins hebdomadaire
+
+Méthodologie
+
+Elle reposera sur :
+
+- Evaluation de la qualité des réactifs (Giemsa, méthanol...) ;
+
+- enregistrement de tous les items dans le registre du laboratoire ;
+
+- évaluation du respect des procédures standard du prélèvement jusqu'au rendu des résultats ;
+
+- tenue du cahier de paillasse comportant 3 volets avec une partie remplie par le 1er lecteur, une autre utilisée par le 2ème lecteur sur toutes les lames de la journée et en cas de discordance un 3e lecteur (le résultat du 3e lecteur certifié est pris en compte) ;
+
+- discordance des résultats des densités parasitaires (± 25%) ;
+
+- tenue du cahier de maintenance pour notifier les dates de réception du matériel et les périodes d'entretien ou de réparation des appareils ;
+
+- mention de la date d'ouverture et de péremption des réactifs ;
+
+- élimination des déchets du laboratoire.
+
+6.2 Contrôle qualité externe
+
+Périodicité
+
+- Tous les 3 ou 6 mois et au besoin
+
+Méthodologie
+
+- Supervision régulière des laboratoires à l'aide de grille et de fiche de notation: contrôle des méthodes de prélèvement, de coloration, de lecture des lames, méthodes de conservation des lames lues, de la gestion des outils, de la tenue du registre, de l'entretien du microscope, méthodes de conservation des réactifs, de l'affichage des procédures standard opérationnelles ;
+
+- Collecte de 10 lames positives et de 10 lames négatives prises au hasard suivant un pas selon le nombre de lames disponibles sur site pour un contrôle au niveau du laboratoire national de référence par des microscopistes du paludisme certifiés OMS « Level 1 »;
+
+- évaluation des capacités du microscopiste après lecture de 5 lames positives (densités variables) et 5 lames négatives apportées par le superviseur ;
+
+- organisation des ateliers régionaux de relecture des lames (échange de lames entre laboratoires) ;
+
+- mise en place d'une banque de lames validées pour recycler et évaluer annuellement les laboratoires.
+
+NB : Une lame validée est une lame validée par des microscopistes certifiés Level 1 OMS et par biologie moléculaire, essentiellement par qPCR ou RT-PCR
+
+7. Entretien du matériel
+
+Après chaque emploi, enlever l'huile de l'objectif en l'essuyant ou en le touchant (sans frotter) avec du papier lens
+
+Figure 29 : Entretien du microscope
+
+Après une journée de travail, garder l'appareil à l'abri de la poussière dans sa housse.
+
+Pour une longue durée, garder l'appareil dans une armoire contenant une ampoule allumée
+
+Figure 30 : Houssage du microscope
+
+VI. Diagnostic biologique du paludisme par les techniques de biologie moleculaire
+
+Les techniques de biologie moléculaire (BM) sont les méthodes les plus sensibles et les plus spécifiques pour le diagnostic. Cependant, elles nécessitent une expertise et un appareillage particuliers.
+
+1. OBJECTIF
+
+L'objectif est de détecter toutes les espèces plasmodiales par amplification de l'ADN par une réaction enzymatique. La technique de BM permet de poser le diagnostic de certitude notamment pour de très faibles parasitémies sous microscopiques de l'ordre de 1 à 5 parasites/microlitre de sang. Elle est très adaptée aux zones de pré élimination où les parasitémies deviennent très faibles à rares.
+
+2. PRINCIPE
+
+C'est une technique qui consiste à détecter des séquences nucléotidiques spécifiques des parasites du genre Plasmodium grâce à différentes techniques d'amplification du matériel génétique parasitaire.
+
+3. TECHNIQUES
+
+Les différentes techniques moléculaires utilisées pour le diagnostic du paludisme sont les suivantes :
+
+- La PCR conventionnelle qui permet de dupliquer en grand nombre une séquence d'ADN ou d'ARN connue à partir d'une faible quantité d'acide nucléique (AN) et d'amorces spécifiques constitués d'oligonucléotides de synthèse ;
+
+- La PCR nichée (Nested PCR) est une PCR en deux étapes successives, avec deux couples d'amorces différents, le second liant des séquences situées à l'intérieur du premier amplicon. Cette technique était initialement utilisée pour réduire le risque de contamination (le produit final devait pouvoir interagir avec deux couples d'amorces, donc deux niveaux de spécificité). Le premier couple d'amorces est conçu pour pouvoir accrocher les quelques parties stables du génome parasitaire, le deuxième pour identifier le sous-type. Elle permet aussi une meilleure sensibilité du résultat.
+
+- La PCR-RFLP conduit à comparer la longueur des fragments de restriction d›une région choisie du génome et préalablement amplifiée par PCR, afin de déterminer le polymorphisme. Cette région est utilisée comme substrat pour les enzymes de restriction. Les enzymes de restriction sont des endonucléases qui reconnaissent spécifiquement une séquence courte (4 à 8 bases) et coupent la chaîne d›ADN chaque fois qu›elles reconnaissent cette séquence élémentaire. L›ADN se retrouve ainsi fragmenté en morceaux de différentes longueurs séparés en fonction de leur taille par électrophorèse sur un support physique ;
+
+- La PCR quantitative (qPCR) et/ou (RT-PCR) est une PCR quantitative qui est révolutionnaire dans l'utilisation de la PCR. Cette technique consiste à mesurer la quantité d'ADN polymérisé à chaque cycle (temps réel) grâce à un marqueur fluorescent. Elle permet par son principe de faire des mesures quantitatives (expliquant l›appellation PCR quantitative, qPCR) mais elle nécessite des thermocycleurs particuliers. Il ne faut surtout pas la confondre avec la RT-PCR (Reverse Transcription PCR) ; on préférera donc les appellations PCR quantitative ou qPCR ;
+
+- La technique LAMP (Loop Mediated Isothermal Amplification) permet de détecter l'ADN parasitaire mitochondrial non codant de 214 pb. Elle repose sur une méthode de PCR grâce à un appareillage utilisable sur le terrain à temps réel et contrairement aux autres techniques de BM, elle ne nécessite aucune expertise ni de thermocycleur et le résultat est immédiat (en moins d'une heure).
+
+- Pour les besoins de ce présent guide, la technique LAMP, la plus adaptée aux objectifs du PSN 20162020 sera développée.
+
+TECHNIQUE LAMP
+
+A. Principe de la technique LAMP
+
+La LAMP est une technique de détection des acides nucléiques qui présente un véritable intérêt dans le diagnostic du paludisme particulièrement dans les zones de faible prévalence.
+
+Elle diffère de la PCR conventionnelle en plusieurs points :
+
+1) C'est un processus isothermal d'amplification de l'ADN, reposant sur une polymérase Bacillus stearothermophilus (Bst). Elle ne nécessite pas de changement de cycles de la température ;
+
+2) Une réaction positive de la LAMP se traduit par la formation d'un précipité de pyrophosphate de magnésium qui peut être détecté visuellement ou par turbidimétrie ou en utilisant un indicateur à base d'ions métalliques telle que la calcéine, le bleu d'hydroxynaphtol et le pico-green.
+
+Plusieurs techniques LAMP ont été utilisées mais la dernière en date (illumigene) permet de détecter toutes les 5 espèces plasmodiales y compris P. knowlesi avec des densités parasitaires de l'ordre de 1 parasite/microlitre de sang.
+
+Figure 31 : Principe de la méthode LAMP illumigene
+
+B. Procedure de la technique LAMP (illumigene)
+
+La LAMP utilise des amorces conçues spécialement pour donner une amplification de l'ADN en conditions isothermales. Le test développé ici, a pour cible une région du génome du plasmodium conservé au sein des Plasmodiums humains. Le kit a pour cible une séquence d'ADN mitochondriale non codante de 214 pb.
+
+Le dérivé de l'amplification est constitué du pyrophosphate de magnésium qui donne une solution trouble.
+
+Les caractéristiques de l'absorbance sont détectées et interprétées par un système incubateur-lecteur. Le changement des caractéristiques d'absorbance dû au précipité indique la présence de la séquence d'ADN cible.
+
+Il existe deux protocoles : S-PREP et M- PREP.
+
+Les deux protocoles utilisent le sang total recueilli sur tube contenant de l'EDTA.
+
+Sensibilité du Test illumigene-Malaria
+
+Il permet de détecter tous les stades parasites (formes asexuées et gamétocytes) de toutes les espèces plasmodiales humaines : P.falciparum, P.vivax, P.ovale, P.malariae, et P.knowlesi, avec une sensibilité variant de 0,2 parasite/μl pour P.falciparum à 0,06 parasite/μl pour P.vivax.
+
+a. PROTOCOLE S-PREP
+
+Le sang total est d'abord traité par une solution de lyse (buffer 1) ; les cellules sont ainsi lysées et l'acide nucléique libéré. Le lysat est ajouté dans une colonne de filtration SMP - PREP IV, le filtrat recueilli dans un tube contenant ainsi les AN prêtes pour la phase d'amplification
+
+Figure 32 : Illustration de la procédure illumigene S-PREP b. PROTOCOLE M-PREP
+
+Le sang total est soumis à une chromatographie par exclusion de taille pour séparer et purifier les AN. Les colonnes M-PREP contiennent la matrice permettant de purifier l'ADN tandis que le tampon facilite la lyse des cellules et l'élution. Le sang total est traité par 3 tampons buffers 1, 2 et 3
+
+- Buffer 1 : il est utilisé comme tampon de lyse ;
+
+- Buffer 2 : facilite la migration de l'échantillon à travers la colonne, grâce à un colorant non réactif qui sert d'indicateur ;
+
+- Buffer 3 : pénètre la matrice de la colonne pour aller récupérer l'ADN purifié prêt pour la phase d'amplification
+
+Figure 33 : Illustration de la procédure illumigene M-PREP c. PHASE D'AMPLIFICATION
+
+Les AN obtenus après extraction sont placés dans deux chambres d'un dispositif, lequel dispositif contient une bille de réactif d'amplification lyophilisée dans chacune des deux chambres avec une chambre TEST avec des amorces spécifiques de Plasmodium spp et une chambre CONTROLE avec des amorces spécifiques de l'ADN mitochondriale humain.
+
+4. RESULTATS
+
+Pour lire les résultats, le dispositif ainsi décrit est placé dans l'appareil de lecture qui sert à la fois d'incubateur et de lecteur. En effet, l'appareil est réglé à 65°C qui est la température constante d'amplification permettant de suivre les caractéristiques d'absorbance par mesure de la transmission de la lumière à travers la solution de réaction. Il calcule cette transmission entre le début (signal initial) et la fin (signal final) du test.
+
+Pour la validité du test, des valeurs seuils sont prédéfinies pour la chambre CONTROLE. En effet les rapports signal final/signal initial inférieurs à 90% dans la chambre CONTROLE sont présentés comme VALIDES et conduisent à la présentation des résultats dans la chambre TEST (positif ou négatif).
+
+Des valeurs seuils prédéfinies pour la chambre TEST sont utilisées pour présenter les résultats des échantillons.
+
+Les rapports signal final /signal initial inférieurs à 70% sont présentés par la machine comme résultats positifs et les rapports supérieurs à 70% sont présentés comme résultats négatifs.
+
+En cas de résultat invalide il faut reprendre le test
+
+La machine donne les résultats (imprimables) au bout de 25 minutes.
+
+Commentaire : Dans le bloc A il faut que les contrôles positif (MPCP) et négatif (MCNC) soient confirmés pour que les résultats des autres tests soient valides. Dans cette figure le contrôle positif MCPC est positif et le contrôle négatif MCNC est négatif donc le test est bon. Dans ce cas les résultats des patients (tests) sont à considérer. Les tests invalides sont à reprendre c'est le cas de MC2815 et MC3015.
+
+NB : Si un des contrôles n'apparaît pas et/ou invalide il faut reprendre tout le processus
+
+PROCEDURE DE LA TECHNIQUE (LAMP kit Pan/P.f)
+
+5. INTERET
+
+C'est une technique de PCR très simple utilisant un appareillage adapté au terrain et à temps réel. Contrairement aux autres techniques de BM, elle ne nécessite aucune expertise et le résultat est immédiat (en moins d'une heure). La LAMP permet de :
+
+- faire le diagnostic précoce et précis de l'infection palustre sans différenciation des espèces,
+
+- détecter les faibles parasitémies : 1 à 5 parasites/microlitre de sang
+
+- d'instaurer rapidement le traitement
+
+- faire le suivi après traitement
+
+6. INDICATIONS
+
+Elle est utilisée pour :
+
+- asseoir le diagnostic de routine dans les structures sanitaires même en périphérie
+
+- améliorer le contrôle de la qualité de la microscopie et des TDR
+
+- faire les investigations de cas en zone de pré élimination
+
+7. OUTILS DE GESTION
+
+- Registre de laboratoire
+
+- Fiche de stock
+
+- Cahier de paillasse
+
+- Fiche de commande
+
+- Rapport d'activités
+
+- Fiche de vie de l'appareil
+
+- Cahier de maintenance
+
+- Bulletin d'analyses
+
+Equipements :
+
+- Machine illumigene
+
+- Vortex
+
+- Embouts
+
+- Micropipettes
+
+- Sachets poubelles
+
+- Boîtes de sécurité
+
+- Matériel de prélèvement de sang veineux sur tube EDTA
+
+- Registre
+
+8. CONTROLE DE QUALITE
+
+Pour la validité du test, des valeurs seuils sont prédéfinies pour la chambre CONTROLE.
+
+En effet, les rapports signal final/signal initial inférieurs à 90% dans la chambre CONTROLE sont présentés comme VALIDES et conduisent à la présentation des résultats dans la chambre TEST (positif ou négatif).
+
+Faire aussi tous les trimestres un échantillonnage pour contrôle de la qualité par RT-PCR.
+
+Cette technique LAMP permet de faire le contrôle de la qualité de la microscopie et des TDR au niveau central et périphérique.
+
+Un échantillon est conservé à moins 20°C (ou sur papier filtre) durant un mois puis repassé.
+
+9. ENTRETIEN DU MATERIEL
+
+Le kit est conservé à température ambiante. L'appareil ne nécessite aucun entretien tant que les contrôles restent valides. Cependant l'entretien préventif proposé par le fabricant consigné dans le manuel d'utilisation doit être suivi et mentionné sur la fiche de vie de l'appareil qui doit être systématiquement mise à jour à partir de l'installation de l'appareil. Il est également recommandé de l'utiliser avec un onduleur.
+
+L'appareil doit être mis sous housse après chaque usage.
+
+VII. Directives d'utilisation des outils de diagnostic biologique du paludisme selon les niveaux et facies
+
+Dans le souci d'harmonisation de l'approche diagnostique au niveau national, certaines directives d'utilisation des outils ont été édictées en fonction des faciès épidémiologique du paludisme pour répondre à la logique d'adaptation des stratégies en fonction de la stratification selon l'incidence.
+
+A. ZONES A INCIDENCE FAIBLE A MODEREE
+
+Les zones à incidence faible sont définies par un niveau d'incidence inférieur à 5‰ et celles à incidence modérée se situent entre 5‰ et 15‰
+
+1. TDR
+
+Dans ces zones, le diagnostic des cas se fera de manière passive et active :
+
+- Détection passive : il s'agit du diagnostic par TDR selon les ordinogrammes ci-dessous (Figure1, Figure2) des patients qui se présentent spontanément au niveau des structures sanitaires (Sites PECADOM, cases, postes et centres de santé, hôpitaux)
+
+- Détection active : elle peut être pro-active ou ré-active.
+
+- Pour la détection pro-active, l'agent de santé se déplace pour tester avec les TDR toute la population symptomatique.
+
+- Pour la détection ré-active, l'agent de santé se déplace dans les concessions autour du cas index pour tester avec les TDR toute la population symptomatique ou non. Cette détection active réactive n'est faite que dans les zones de pré-élimination (investigation des cas) a. Au niveau communautaire
+
+Il est recommandé de tester avec un TDR tout patient se présentant avec une fièvre ou antécédent de fièvre (cf. Figure 1)
+
+ORDINOGRAMME
+
+FIEVRE (Corps chaud ou température auxilliaire supérieure à 37,5°C)
+
+TDR NEGATIF
+
+TDR POSITIF
+
+FAIRE TDR
+
+Référer
+
+Shéma 2 : Ordinogramme niveau communautaire
+
+Traiter paludisme simple aux ACT
+
+A revoir dans 2 jours
+
+Guérison
+
+Pas de guérison
+
+Référer b. Au niveau poste de santé
+
+L'utilisation du TDR en diagnostic se fera en fonction de l'âge du patient et de la période.
+
+- Pour les moins de cinq ans : faire un TDR pour tout cas de fièvre ou antécédent de fièvre quelle que soit la période.
+
+- Pour les plus de cinq ans : la réalisation du TDR est faite en fonction de la période
+
+- De juin à janvier : faire un TDR devant tout patient présentant une fièvre ou antécédent de fièvre
+
+- De février à mai : devant un patient présentant une fièvre ou un antécédent de fièvre, il faut rechercher d'abord la présence de signes pouvant évoquer des affections autres que le paludisme. Si la recherche est négative faire un TDR (cf Figure 2).
+
+c. Au niveau centre de santé et hôpitaux
+
+Shéma 3 : ordinogramme niveau poste, centre de santé et hôpitaux
+
+2. MICROSCOPIE
+
+La microscopie reste toujours une indication pour un suivi du paludisme dans les zones de préélimination malgré les faibles parasitémies.
+
+- Au niveau des postes sites sentinelles
+
+Après chaque TDR négatif, il faut faire systématiquement une lame de goutte épaisse et frottis mince avec un pas de 5.
+
+Après chaque TDR positif, il faut faire systématiquement une lame de goutte épaisse et frottis mince NB : La microscopie n'est pas réalisée au niveau des autres postes non sites sentinelles
+
+- Au niveau des centres de santé/hôpitaux
+
+La goutte épaisse/frottis mince est indiquée pour les cas de paludisme grave. Pour cela chez tout patient avec TDR positif et au moins un signe de gravité, il est effectué :
+
+- une goutte épaisse et un frottis mince à l'entrée pour la détermination du stade évolutif, de l'espèce plasmodiale et de la densité parasitaire ;
+
+- une goutte épaisse et un frottis mince de contrôle pour le suivi de la densité parasitaire
+
+- Pour l'enregistrement des résultats au niveau du registre, il faut bien identifier les gouttes épaisse/ frottis mince d'entrée et de contrôle avec mention de la date et du numéro.
+
+- Tous les cas suspects de paludisme devront être confirmés par TDR et/ou goutte épaisse/frottis mince.
+
+- La réalisation de la goutte épaisse ou frottis mince pour les cas de paludisme grave ne doit pas être retardée pour permettre une prise en charge adaptée et précoce
+
+- L'OMS considère toujours la microscopie comme étant la technique de référence pour la prise en charge des patients, même si la technique de la PCR présente une sensibilité supérieure.
+
+3. TECHNIQUES DE LA BIOLOGIE MOLECULAIRE
+
+Dans les zones à incidence faible la particularité demeure la difficulté de détecter les parasitémies faibles par les techniques de routine :
+
+- inférieures à 200 parasites par microlitre de sang pour le TDR
+
+- inférieures à 50 parasites par microlitre de sang pour la microscopie
+
+D'où la nécessité d'utiliser des tests moléculaires qui ont des performances de détection avoisinant 1 parasite par microlitre de sang.
+
+Les techniques de BM conventionnelles étant difficiles à mettre en œuvre sur le terrain, il est plus indiqué de faire recours à la technique LAMP qui ne nécessite aucune expertise encore moins un appareillage lourd.
+
+En phase avec les objectifs du PSN 2016-2020, il est prévu d'utiliser la technique LAMP dans les zones de pré-élimination où l'investigation des cas est mise en œuvre.
+
+En outre, l'utilisation de cette technique LAMP est indiquée au niveau des postes de santé, centres de santé et hôpitaux en cas de négativité du TDR et /ou de la goutte épaisse/frottis mince face à une persistance des signes de suspicion du paludisme.
+
+a. Au niveau des postes de santé
+
+L'utilisation de la technique LAMP est indiquée au niveau des postes de santé en rapport avec le centre de santé où le TDR et/ou la goutte épaisse/frottis mince sont négatifs malgré la persistance des signes de suspicion du paludisme. Il n'est réalisé que la première étape du test qui repose sur le prélèvement sanguin dans un premier temps.
+
+Dans ce cas, il faudra informer immédiatement le centre de sante en vue de l'organisation de l'envoi de l'échantillon de sang du poste de santé au centre de santé. Au même moment, tout est mis en place au centre de santé en vue du traitement rapide de l'échantillon dès réception.
+
+Une fois le test réalisé les résultats sont communiqués immédiatement par téléphone au poste de santé.
+
+Tout ce processus d'alerte, d'acheminement de l'échantillon, de la réalisation du test à la communication du résultat au poste de santé ne doit pas dépasser les 24 heures.
+
+En perspective il est prévu une mise en place du matériel et une réalisation exhaustive de la technique LAMP au niveau de ces postes de santé avec un enrôlement progressif démarrant d'abord au niveau des sites sentinelles.
+
+b. Au niveau des postes de santé à sites sentinelles
+
+Au niveau des sites sentinelles identifiés par le PNLP, toute la procédure de la technique LAMP sera réalisée par le technicien communautaire (microscopiste) pour les situations suivantes :
+
+- lors des investigations des cas sous la supervision de l'Equipe Cadre du District (ECD)
+
+- la confirmation du résultat de la microscopie et du TDR
+
+- le suivi biologique après traitement c. Au niveau du centre de santé
+
+La technique LAMP sera réalisée par les techniciens de laboratoire devant tout cas suspect de paludisme avec un TDR négatif et/ou une goutte épaisse/frottis mince négatif. Elle est mise en œuvre pour :
+
+- les investigations des cas sous la supervision de l'Equipe Cadre du District (ECD)
+
+- la confirmation du résultat de la microscopie et du TDR
+
+- le suivi biologique après traitement d. Au niveau des hôpitaux
+
+- la confirmation du résultat de la microscopie et du TDR le suivi biologique après traitement
+
+B. ZONES A INCIDENCE ELEVEE
+
+Il s'agit des zones avec une incidence supérieure à 15‰.
+
+1. TDR
+
+Dans cette zone, le diagnostic des cas se fera de manière passive et active :
+
+- Détection passive : Il s'agit du diagnostic par TDR selon les ordinogrammes décrits plus haut (figure1, figure2) des patients qui se présentent spontanément au niveau des structures sanitaires (Sites PECADOM, cases, postes et centres de santé, hôpitaux)
+
+- Détection active : Il s'agira d'une détection pro-active où l'agent de santé se déplace pour tester avec les TDR toute la population symptomatique (PECADOM Plus) et MSAT.
+
+2. MICROSCOPIE
+
+- Au niveau des postes sites sentinelles
+
+Après chaque TDR négatif, faire systématiquement une lame de goutte épaisse et frottis mince avec un pas de 10.
+
+Après chaque TDR positif, faire systématiquement une lame de goutte épaisse et frottis mince avec un pas de 02.
+
+NB : La microscopie n'est pas réalisée au niveau des autres postes non sites sentinelles
+
+- Au niveau des centres de santé/hôpitaux
+
+3. TECHNIQUES DE LA BIOLOGIE MOLECULAIRE
+
+La biologie moléculaire n'est pas recommandée pour le diagnostic des patients dans les zones à incidence élevée. En effet, dans ces zones la goutte épaisse et le frottis mince sont très sensibles et servent de technique de référence pour la prise en charge des cas de paludisme. Dans cette zone, le TDR est également efficace. Pour ces deux raisons évoquées le diagnostic des cas repose sur la GE/ FM et/ou le TDR.
+
+Tableau récapitulatif d'utilisation des outils de diagnostic biologique selon les faciès Outils de Diagnostic
+
+TDR
+
+MICROSCOPIE
+
+BIOLOGIE
+
+MOLECULAIRE
+
+Incidence faible
+
+++
+
+++
+
+++
+
+Incidence modérée
+
+++
+
+++
+
++-
+
+Incidence élevée
+
+++
+
+++
+
+--
+
+Zones
+
+Légende :
+
+++ : Fortement recommandé
+
+- : Non recommandé
+
+± : plus ou moins recommandé
+
+CONCLUSION
+
+Le guide national de diagnostic biologique du paludisme est un outil mis à la disposition des techniciens de la santé. Il doit aider à l'atteinte des objectifs de pré- élimination que le Sénégal a adopté dans son plan stratégique national de lutte contre le paludisme 2016 -2020. Pour cela, en plus des méthodes classiques de diagnostic constituées par la microscopie optique et les tests de diagnostic rapide, l'introduction des techniques d'amplification génique de sensibilité supérieure doit concourir à une meilleure prise en charge des cas. Cependant, ces différentes techniques doivent être utilisées en tenant compte des niveaux variables de l'épidémiologie du paludisme dans le pays. D'autre part, leur exécution doit respecter les normes de qualité.
+
+BIBLIOGRAPHIE
+
+1.
+
+2.
+
+what is the evidence? Trends Parasitol, 2014. 30(4): p. 183-90.
+
+3.
+
+Manuel du formateur –PNLP 2016
+
+4.
+
+5.
+
+6.
+
+7.
+
+OMS/TDR/FIND: « Manuel contrôle de qualité au laboratoire TDR du paludisme » Juin 2014
+
+8.
+
+9.
+
+OMS : Guide diagnostic microscopique partie I, 2014
+
+10. Plan Stratégique National du PNLP 2016-2020
+
+11. Polley, S.D., et al., Mitochondrial DNA targets increase sensitivity of malaria detection using loop-mediated isothermal amplification. J Clin Microbiol, 2010. 48(8): p. 2866-71.
+
+13. Slater, H.C., et al., Assessing the impact of next-generation rapid diagnostic tests on Plasmodium falciparum malaria elimination strategies. Nature, 2015. 528(7580): p. S94-101.
+
+14. WHO Malaria Microscopy Quality Assurance manual Version 2, 2015
+
+15. WHO, World Malaria Report 2015. 2015: p. 280.
+
+ANNEXES
+
+ANNEXE 1 : LISTE DES PARTICIPANTS
+
+Prénom
+
+Nom
+
+Fonction
+
+Adresse email
+
+Téléphone
+
+Pr Yemou
+
+DIENG
+
+UCAD yemoud1@yahoo.fr
+
+Pr Babacar
+
+FAYE
+
+Parasito UCAD bfaye67@yahoofr
+
+Pr Daouda
+
+NDIAYE
+
+Parasito UCAD dndiaye23@gmail.com
+
+Dr Amadou
+
+NDIAYE
+
+CH Abass NDAO drndiayeamadou1@yahoo.fr
+
+Younousse
+
+DIEDHIOU
+
+Parasito HALD ydjedju@yahoo.fr
+
+Dr Ibrahima
+
+DIALLO
+
+PNLP haril76@yahoo.fr
+
+Dr Oumar
+
+DIOP
+
+CHR THIES paoumar13@gmail.com
+
+Dr Yankoba
+
+COLY
+
+CHR TAMBA ycoly8@yahoo.fr
+
+Dr Jules
+
+Bekenbauer
+
+DIATTA
+
+CHR KOLDA bekenbauerdiatta@gmail.com
+
+Dr Omar
+
+SANE
+
+DS VELINGARA omarsane77@gmail.com
+
+Sine
+
+FALL
+
+SLAP THIES sinefall@yahoo.fr
+
+Ngouda
+
+TALL
+
+CHN FANN ngou6919@gmail.com
+
+Cheikh
+
+YADE
+
+SLAP THIES cheikhyade57@hotmail.com
+
+Mamadou
+
+DIOUF
+
+UCAD dmadior@yahoo.fr
+
+Dr Oumarou Foly
+
+DIALLO
+
+CHR ST LOUIS folyd2002@yahoo.fr
+
+Dr Mathias
+
+Sounkhare
+
+NDIAYE
+
+CHR thiasndiaye@hotmail.fr
+
+OUROUSSOGUI
+
+Dr Mamadou
+
+SAKINE
+
+CHR DIOURBEL masakine@yahoo.fr
+
+Ouleye
+
+BEYE
+
+PNLP ouleye-beye@yahoo.fr
+
+Bassirou
+
+GUEYE
+
+DS KOKI sebasbg29@gmail.com
+
+Prénom
+
+Nom
+
+Fonction
+
+Adresse email
+
+Téléphone
+
+Birane Sarr
+
+DIAW
+
+DS KHOMBOLE bsdiaw@yahoo.fr
+
+Mamoudou
+
+WADE
+
+PNLP mamoudouwade@yahoo.fr
+
+Mame Kène
+
+SYLLA
+
+PNLP kenechkys12@yahoo.fr
+
+Fatou BA
+
+FALL
+
+PNLP fall1fatou@yahoo.fr
+
+Seynabou
+
+GAYE
+
+PNLP zeinhata@yahoo.fr
+
+Medoune
+
+NDIOP
+
+PNLP mnzop@gmail.com
+
+Alioune Badara
+
+GUEYE
+
+PNLP badou_gueye@hotmail.com
+
+Souleymane
+
+DIEDHIOU
+
+Parasito UCAD ounkinsou@yahoo.fr
+
+Mamadou Lamine
+
+DIOUF
+
+PNLP dioufdunga@gmail.com
+
+Moustapha
+
+CISSE
+
+PNLP drcisse@gmail.com
+
+Ngayo
+
+SY
+
+SLAP THIES ngayosy50@hotmail.com
+
+Abdoulaye
+
+Poly
+
+SSP DS Bambey abdoupoly@gmail.com
+
+ANNEXE 2 : OUTILS DE GESTION TDR
+
+Fiche de synthèse récapitulative renseignée à partir de la fiche de stock du dépôt Stock début du mois
+
+Mois
+
+Stock reçu au cours du mois
+
+TOTAL
+
+Disponible
+
+Pendant le mois
+
+TDR Invalide
+
+Total
+
+Quantité utilisée
+
+Stock restant à la fin du mois
+
+Fiche de reporting des résultats du diagnostic au TDR
+
+Tests positifs
+
+Enfants moins de 5 ans
+
+Mois
+
+Plus de
+
+5 ans
+
+Excluant les FE
+
+Tests négatifs
+
+Femmes
+
+Enceintes
+
+Enfants moins de 5 ans
+
+Plus de
+
+5 ans
+
+Excluant les FE
+
+Femmes
+
+Enceintes
+
+TDR
+
+Invalide
+
+ANNEXE 3 : REGISTRE DE LABORATOIRE
+
+Date
+
+No
+
+Nom
+
+Prénom
+
+Age/
+
+Sexe
+
+Interne
+
+Externe
+
+Diagnostic
+
+Examen demandé
+
+Résultats
+
+Observations
+
+ANNEXE 4 : RAPPORT D'ACTIVITES DU LABORATOIRE
+
+RAPPORT D'ACTIVITE
+
+Date
+
+Nbre de Lames lues 0 – 5ans
+
+Lames Positives
+
+Lames Négatives
+
+P. falciparum
+
+P. malariae
+
+P. ovale
+
+P. vivax
+
+Association (à préciser)
+
+5ans et plus excluant les FE
+
+F. enceintes
+
+TOTAL
+
+ANNEXE 5 : FICHE DE COMMANDE MATERIEL ET PRODUITS DE LABORATOIRE
+
+Région Médicale
+
+District de
+
+Ou EPS de
+
+Période reporting
+
+MATIERES / PRODUITS
+
+Du :
+
+QUANTITES RESTANTES
+
+Au :
+
+QUANTITES
+
+COMMANDEES
+
+QUANTITES
+
+ACCORDEES par le PNLP
+
+LAME AVEC PLAGE (Unité)
+
+VACCINOSTYLE (Unité)
+
+METHANOL (Litre)
+
+GIEMSA (Litre)
+
+HUILE A IMMERSION
+
+COMPTEUR
+
+MICROSCOPE
+
+PAPIER LENS (Unité)
+
+BOITE DE RANGEMENT
+
+BAC DE COLORATION
+
+BAGUETTE DE
+
+COLORATION
+
+REGISTRE LABO
+
+AUTRE
+
+Fait-le :
+
+Signature et cachet
+
+Responsable de la structure
+
+ANNEXE 6 : FICHE DE STOCK
+
+FICHE DE STOCK
+
+District Sanitaire ou EPS: _ ___________________________
+
+Date
+
+ORIGINE DES
+
+MOUVEMENTS
+
+ENTRÉE
+
+SORTIE
+
+QUANTITE
+
+DISPONIBLE
+
+OBSERVATIONS
+
+ANNEXE 7 : FICHE DE VIE
+
+FORM-T/ LAB
+
+Version 1
+
+FICHE DE VIE
+
+Ministère de la santé et de l'action sociale
+
+Références Matériel, Fabricant, Fournisseur
+
+N° de série
+
+Certificat qualité
+
+Contact distributeur Agréé
+
+Type :
+
+Etat à la réception :
+
+Contact Fabricant :
+
+Nature des interventions programmées
+
+Etalonnage/Vérification
+
+Périodicité :
+
+Date
+
+Nature de l'intervention
+
+Maintenance préventive
+
+Périodicité :
+
+Intervenant
+
+Résultats
+
+Visa du
+
+Responsable
+
+Date prochaine intervention
+
+FICHE DE VIE
+
+Ministère de la santé et de l'action sociale
+
+FORM-T/ LAB
+
+Version 1
+
+Pannes et interventions non programmées
+
+Date
+
+Nature de la panne ou de l'intervention
+
+Intervenant
+
+Résultats
+
+Visa
+
+FICHE DE VIE
+
+Ministère de la santé et de l'action sociale
+
+FORM-T/ LAB
+
+Version 1
+
+Pannes et interventions non programmées
+
+Date
+
+Nature de la panne ou de l'intervention
+
+Intervenant
+
+Résultats
+
+Visa

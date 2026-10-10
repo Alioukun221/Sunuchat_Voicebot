@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+
+# Données générées (bases, index, cache, audio)
+data/*.db
+data/images.json
+data/index/
+data/cache/
+data/raw/sources/
+data/chroma/
+
+.DS_Store

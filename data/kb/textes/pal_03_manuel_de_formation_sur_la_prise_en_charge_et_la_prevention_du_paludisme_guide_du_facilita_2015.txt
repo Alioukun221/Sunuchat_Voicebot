@@ -1,0 +1,5817 @@
+REPUBLIQUE DU SENEGAL
+
+------------------------------MINISTERE DE LA SANTE ET DE L'ACTION SOCIALE DIRECTION GENERALE DE LA SANTE
+
+DIRECTION DE LA LUTTE CONTRE LA MALADIE
+
+PROGRAMME NATIONAL DE LUTTE CONTRE LE PALUDISME
+
+GUIDE DU
+
+FACILITATEUR
+
+MANUEL DE FORMATION SUR
+
+LA PRISE EN CHARGE ET LA
+
+PREVENTION DU PALUDISME
+
+Dakar, Septembre 2015
+
+2 | Guide du facilitateur | Septembre 2015
+
+SOMMAIRE
+
+ANNEXE iches techniques des médicaments recommandés pour le traitement du 2 : Fiches techniques des médicaments pour le traitement du paludisme simple...................
+
+Guide du facilitateur | Septembre 2015 | 3
+
+4 | Guide du facilitateur | Septembre 2015
+
+LISTE DES ABREVIATIONS ET ACRONYMES
+
+ACT : Combinaisons thérapeutiques à base de dérivés d'Artémisinine ADN : Acide désoxyribonucléique
+
+AID : Aspersion Intradomiciliaire
+
+AL : Artémether + Luméfantrine
+
+ASAQ : Artésunate + Amodiaquine
+
+CHU : Centre Hospitalier Universitaire
+
+CIP : Communication interpersonnelle
+
+CMM : Consommation Moyenne Mensuelle
+
+CPN : Consultations prénatales
+
+CPC : Consultations primaires curatives
+
+CFR : Case Form Report
+
+Cp : Comprimés
+
+DCI : Dénomination Commune Internationale
+
+DPL : Direction de la Pharmacie et des laboratoires
+
+DSDOM : Dispensateurs de Soins A Domicile
+
+ECBU : Examen Cytobactériologique des Urines
+
+FS : Frottis sanguin
+
+GE : Goutte Epaisse
+
+Hb : Hémoglobine
+
+HRPII : Histidin Rich Protein
+
+IEC : Information Education Communication
+
+IRA : Infections Respiratoires aigues
+
+Kg : Kilogramme
+
+MILDA : Moustiquaire Imprégnée à longue Durée d'Action
+
+MCD
+
+: Médecin Chef de district
+
+Ml (ml) : Millitre
+
+MSH : Management Sciences for Health
+
+NFS : Numération Formule Sanguine
+
+OAP : Oedème aigu du Poumon
+
+OMS : Organisation mondiale de la Santé
+
+PCR : Polymerase Chain Reaction
+
+Pf : Plasmodium falciparum
+
+PNA : Pharmacie Nationale d'Approvisionnement
+
+PNLP : Programme National de Lutte contre le Paludisme
+
+PRA : Pharmacie Régionale d'Approvisionnement
+
+PV : Pharmacovigilance
+
+QAC : Quantité A Commander
+
+RM : Région Médicale
+
+SBH : Sous Brigade d'hygiène
+
+SDU : Stock Disponible Utilisable
+
+SP : Sulfadoxine pyriméthamine
+
+SSP : Superviseur de soins de santé primaires
+
+TA : Tension Artérielle
+
+TDO : Traitement directement observé
+
+TDR : Test de diagnostic rapide
+
+TPI : Traitement préventif intermittent
+
+UCAD : Université Cheikh Anta Diop
+
+VAT : Vaccin Antitétanique
+
+Guide du facilitateur | Septembre 2015 | 5
+
+6 | Guide du facilitateur | Septembre 2015
+
+PREFACE
+
+Dans cette perspective, des orientations stratégiques ont été définies pour consolider et améliorer les résultats obtenus lors des cinq dernières années.
+
+Parmi ces options retenues dans le plan stratégique, la révision du manuel de formation sur la prise en charge et la prévention du paludisme occupe une place importante.
+
+Tous ensemble, nous vaincrons le paludisme
+
+Le Coordonnateur du Programme National de Lutte Contre le Paludisme
+
+Guide du facilitateur | Septembre 2015 | 7
+
+8 | Guide du facilitateur | Septembre 2015
+
+INTRODUCTION
+
+Ce manuel présente des informations essentielles sur l'épidémiologie du paludisme, les aspects de prévention et de prise en charge du paludisme mais aussi les interventions de soutien.
+
+Il sert à la formation en cours d'emploi des médecins, des sages-femmes, des infirmiers, et autres agents de santé prenant en charge le paludisme.
+
+Guide du facilitateur | Septembre 2015 | 9
+
+10 | Guide du facilitateur | Septembre 2015
+
+OBJECTIFS DE LA FORMATION
+
+OBJECTIF GENERAL :
+
+Amener le participant à acquérir les connaissances et les compétences nécessaires à la prise en charge et à la prévention du paludisme selon les directives nationales.
+
+OBJECTIFS SPECIFIQUES :
+
+A la fin de la formation à l'aide du présent manuel, le participant devrait être capable de :
+
+1. Notions de bases
+
+- Connaitre les notions de base qui permettent d'apprécier la situation du paludisme au niveau national et au niveau local.
+
+2. Prise en charge
+
+- Poser le diagnostic du paludisme en utilisant les Tests de Diagnostic Rapides (TDR) et ou la Goutte épaisse
+
+- Traiter un cas de paludisme simple selon les directives nationales
+
+- Traiter un cas de paludisme grave selon les directives nationales
+
+- Notifier les effets indésirables liés aux produits antipaludiques
+
+3. Prévention médicamenteuse et non médicamenteuse
+
+- Enumérer les principaux moyens de prévention recommandés par le PNLP
+
+- Décrire les principes de l'AID
+
+- Expliquer les principes d'utilisation de la MILDA
+
+- Enoncer les principes et le schéma du Traitement Préventif Intermittent chez la femme enceinte.
+
+- Décrire le principe de la chimioprévention du paludisme saisonnier chez l'enfant
+
+- Administrer les traitements de la chimioprevention du paludisme saisonnier selon les directives nationales
+
+- Connaitre les molécules et les schémas prophylactiques recommandés dans la chimioprophylaxie du voyageur
+
+4. Communcation
+
+- Connaitre les techniques de communication interpersonnelle
+
+- Expliquer les principes d'une bonne communication interpersonnelle
+
+- Expliquer les obstacles à une bonne communication interpersonnelle
+
+- Conduire une bonne interaction avec le client en appliquant les techniques de communication interpersonnelle
+
+5. Gestion de Stocks
+
+- Connaitre les bonnes pratiques de gestion des stocks
+
+- Appliquer les normes de gestion de stocks des médicaments
+
+- Connaitre les différents outils de collecte des données du paludisme
+
+- Maitriser les principes de gestion des données du paludisme
+
+Guide du facilitateur | Septembre 2015 | 11
+
+TABLEAU DEFINISSANT LES DOMAINES ET LEURS
+
+CONTENUS
+
+DOMAINES
+
+D'INTERVENTION
+
+MODULES/
+
+SOUS-MODULES
+
+NOTIONS
+
+Définition du paludisme
+
+Agents pathogènes du paludisme
+
+GENERALITES
+
+Notions de base sur le
+
+SUR LE PALUDISME paludisme
+
+Modes de transmission du paludisme
+
+Endémicité : incidence et répartition
+
+Groupes vulnérables
+
+Principe
+
+Par le TDR
+
+Techniques
+
+Résultats
+
+Diagnostic biologique
+
+Par la microscopie (GE et Frottis)
+
+Principe
+
+Par PCR
+
+Résultats
+
+Contrôle de la qualité du diagnostic biologique
+
+Contrôle qualité Interne
+
+Techniques (réalisation GE/frottis, aspect morphologique et quantification des parasites)
+
+Contrôle qualité externe
+
+Définition
+
+PRISE EN CHARGE
+
+DU PALUDISME
+
+Prise en charge du paludisme simple
+
+Démarche diagnostique
+
+Traitement
+
+Suivi du malade
+
+Définition
+
+Prise en charge
+
+Examen clinique
+
+Examens paracliniques
+
+Prise en charge du paludisme grave Mécanismes des signes de gravité du paludisme Traitement
+
+Suivi clinique et biologique du malade
+
+Prise en charge selon le niveau de recours
+
+Principes du TPI
+
+Traitement préventif intermittent chez la femme enceinte
+
+Modalités d'administration
+
+Cas particulier de la femme enceinte séropositive.
+
+Précautions d'utilisation de la SP chez la femme enceinte
+
+Définition de la CPS
+
+Prévention médicamenteuse
+
+Chimio prévention saisonnier de l'enfant (CPS)
+
+Principes de la CPS
+
+Molécules utilisées et modes d'administration
+
+Suivi du traitement
+
+Définition de cas
+
+Chimio prophylaxie du voyageur
+
+PREVENTION DU
+
+PALUDISME
+
+Schémas prophylactiques
+
+Effets indésirables
+
+Recommandations particulières
+
+Définition de la MILDA.
+
+Moustiquaire imprégnée à longue durée d'action (MILDA)
+
+Prévention non médicamenteuse :
+
+Lutte anti vectorielle
+
+Avantages de la MILDA.
+
+Approvisionnement en MILDA
+
+Utilisation de la MILDA.
+
+Entretien de la MILDA
+
+Définition de l'AID
+
+Aspersion intra domiciliaire(AID)
+
+Avantages de l'AID
+
+Principes de l'AID
+
+Définition
+
+Lutte Anti larvaire (LAL)
+
+Principe
+
+Avantages
+
+12 | Guide du facilitateur | Septembre 2015
+
+Définition de la CIP
+
+Les différentes techniques de CIP.
+
+Communication interpersonnelle (CIP)
+
+Les principes de la CIP
+
+Les obstacles à la CIP
+
+Définition d'un support IEC.
+
+Les différents types de supports IEC.
+
+Définitions et terminologies
+
+Pharmacovigilance
+
+Intérêt de la fiche
+
+Description de la fiche
+
+Description du circuit de notification
+
+INERVENTIONS DE
+
+SOUTIEN
+
+Suivi/Evaluation
+
+Approvisionnement et Gestion des stocks
+
+Principaux outils de gestion et supports de collecte des données
+
+Intérêts du remplissage des outils de gestion
+
+Collecte et transmission de l'information
+
+Généralités sur le système logistique de gestion des médicaments
+
+Méthodes de quantification des besoins
+
+Inventaires (Contrôles continu et périodique)
+
+Modalités pratiques d'approvisionnement en ACT
+
+MILDA et TDR
+
+Réception des produits
+
+Emmagasinage/Rangement
+
+Guide du facilitateur | Septembre 2015 | 13
+
+14 | Guide du facilitateur | Septembre 2015
+
+PRE ET POST TEST DE CONNAISSANCES
+
+9. Quels sont les médicaments recommandés par le PNLP pour le traitement du paludisme grave ?
+
+uel antipaludique utilisez-vous pour prévenir le paludisme pendant la grossesse ? Donnez en a) Détection des effets indésirables b) Réduction des effets indésirables c) Evaluation des effets indésirables d) Compréhension des effets indésirables e) Prévention des effets indésirables
+
+16 | Guide du facilitateur | Septembre 2015 les bonnes réponses a) un signal est un événement ou un dépassement d'un seuil fixé, lors d'une surveillance b) un signal est une évaluation clinique d'un effet indésirable c) un signal, après validation aboutit à une alerte devant entraîner une prise de décision.
+
+d) une alerte prévient d'un danger et appelle à prendre toutes les mesures de sécurité utiles.
+
+e) Une alerte précède toujours un signal
+
+18. Une fiche de notification doit obligatoirement comporter les informations sur : Cocher la bonne ou les bonnes réponses a. le notificateur b. le médicament c. le patient d. le prescripteur du médicament e. l'effet indésirable observé f. le traitement de l'effet indésirable
+
+19. Préciser à qui transmettre la fiche de notification de Pharmacovigilance selon le niveau :
+
+a) Les tests rapides sont uniquement utilisés pour le diagnostic biologique du paludisme à Plasmodium falciparum b) Les tests rapides détectent des antigènes spécifiques produits par le parasite c) Il existe un seul type de test rapide d) Le PNLP utilise un test qui recherche une protéine HRP 2 (Histidin rich Protein) secrétée spécifiquement par le Plasmodium falciparum.
+
+21. Parmi ces propositions quels sont les examens qui sont utilisés en pratique courante dans le diagnostic biologique du paludisme : cochez la ou les bonnes réponses a. ASLO (Antistreptolysine O) b. Frottis sanguin c. Test de diagnostic rapide d. TPHA e. Goutte épaisse
+
+22. Tous ces examens sont recommandés pour les malades hospitalisés pour paludisme sauf une, laquelle ?
+
+a) La goutte épaisse.
+
+b) L'hématocrite /taux d'hémoglobine c) L'ECBU d) La glycémie
+
+Guide du facilitateur | Septembre 2015 | 17
+
+23. Le but de l'inventaire est de Une seule réponse est fausse, cochez- la a. Vérifier la balance du stock enregistré sur la fiche de stock b. Vérifier la quantité de produits disponibles pour la distribution c. Trouver les produits périmés ou endommagés et les retirer du stock utilisable d. Ne permet pas de savoir le stock disponible utilisable
+
+27. Citer 3 éléments des normes d'un bon stockage armi les propositions suivantes, la ou lesquelles est / sont exacte (s) (Cochez la ou les bonnes réponses) a. Les adultes sont les plus exposés au risque de paludisme grave b. Le TPI est administrée à toute femme enceinte reçue en CPN c. La stratégie de choix pour l'administration du TPI est la prise à domicile d. Les femmes enceintes sont particulièrement exposées au risque de paludisme e. L'anémie sévère est un signe de paludisme grave a ou lesquelles des posologies suivantes est/sont recommandée(s) par le Programme National de Lutte contre le Paludisme pour l'administration de la quinine base injectable dans le traitement du paludisme chez la femme enceinte ? (Cochez la ou les bonnes réponses) a. 10 mg/kg par jour en 2 administrations b. Perfusion de 20 mg/kg en 4 heures, puis de 10mg/kg toutes les 8 à 12 heures c. Perfusion de 10mg/kg en 4 heures, puis de 5 mg/kg toutes les 8 heures d. 25 mg/kg/J dans du sérum glucosé dans 2 à 3 perfusions par jour 31. La prévention du paludisme chez la femme enceinte comprend (Cochez la ou les bonnes réponses) a) Les mesures d'assainissement b) le traitement préventif intermittent c) l'utilisation de la moustiquaire imprégnée d) Aucune des réponses ci dessus e) toutes les propositions ci dessus
+
+34. Donner 4 critères d'éligibilité des zones CPS au Sénégal
+
+L'endophagie est la tendance du moustique à se reposer à l'intérieur des habitations ?
+
+a. carbamates b. organochlorés c. pyréthrinoîdes d. organophosphorés
+
+37. A - Comment se définit le paludisme simple chez la femme enceinte ?
+
+la femme enceinte ?
+
+sauf une ; laquelle ?
+
+a. La molécule utilisée est l'artheméter par voie rectale b. La prise en charge peut se faire au niveau communautaire (cases et DSDOM) c. Le traitement ne peut pas se faire par l'artésunate à cause des risques d'effets indésirables d. Tous les postes de santé sont concernés
+
+Guide du facilitateur | Septembre 2015 | 19
+
+39. Toutes ces caractéristiques concernant un indicateur sont vraies sauf une, laquelle ?
+
+a) l'indicateur permet de mesurer une situation, une tendance de manière objective b) l'indicateur est un outil d'évaluation c) l'indicateur ne doit pas être pertinent d) l'indicateur est un outil d'aide à la décision
+
+40. Comment se calculent les indicateurs suivants ?
+
+a) la morbidité proportionnelle palustre
+
+20 | Guide du facilitateur | Septembre 2015
+
+GUIDE DU FACILITATEUR
+
+- SEPTEMBRE 2015
+
+EPIDEMIOLOGIE DU
+
+PALUDISME
+
+DOMAINE 1 : EPIDEMIOLOGIE DU PALUDISME
+
+GENERALITES SUR LE PALUDISME
+
+Objectifs pédagogiques
+
+A la fin de ce module, le participant devra être capable de:
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Définir le paludisme
+
+Citer les cinq agents pathogènes du paludisme
+
+Connaitre le principal vecteur du paludisme
+
+Décrire le mode de transmission du paludisme
+
+Enumérer les facteurs qui influencent le niveau d'endémicité du paludisme Citer les principaux groupes vulnérables
+
+Méthodologie
+
+- Brainstorming
+
+- Questions/réponses
+
+- Exposé suivi de discussions
+
+1 - DEFINITION
+
+Le paludisme est une maladie fébrile causée par un parasite sanguicole du genre Plasmodium transmis à l'homme par l'anophèle femelle.
+
+2 - AGENTS PATHOGENES
+
+- Le Plasmodium falciparum est l'espèce la plus répandue pratiquement partout en Afrique. Il est à l'origine de près de 98 % des cas de paludisme au Sénégal. P.falciparum est la seule espèce responsable des formes graves qui entrainent souvent les décès.
+
+- D
+
+'autres espèces existent au Sénégal, il s'agit de P. malariae et P. ovale qui représentent près de 2% des cas.
+
+- P
+
+. vivax et P. knowlesi n'ont pas encore été formellement identifiés au Sénégal.
+
+22 | Guide du facilitateur | Septembre 2015
+
+3 - MODES DE TRANSMISSION
+
+La maladie se transmet habituellement par la piqûre de l'anophèle femelle infectée.
+
+En piquant, le moustique femelle inocule le parasite à l'homme. Le parasite passe ensuite dans le foie et commence à se multiplier au niveau des cellules hépatiques.
+
+Figure 1 : Cycle évolutif du paludisme
+
+Occasionnellement cette transmission peut se faire par voie sanguine (transfusion, passage transplacentaire)
+
+Guide du facilitateur | Septembre 2015 | 23
+
+4 - ENDEMICITE : INCIDENCE ET REPARTITION
+
+L'endémicité mesure le niveau de transmission du paludisme et le nombre de cas dans une zone donnée pendant une période relativement longue.
+
+Le niveau d'endémicité du paludisme varie d'une zone à l'autre en rapport avec les principaux facteurs suivants :
+
+- Les aménagements hydro-agricoles et la stagnation des eaux favorisent la transmission
+
+- L'urbanisation entraîne une baisse de la transmission du paludisme
+
+Faciès épidémiologiques du paludisme
+
+- Paludisme stable : La maladie se transmet toute l'année, avec recrudescence saisonnière. Les enfants qui vivent dans ces zones acquièrent d'habitude une prémunition précoce avant 10 ans.
+
+- Paludisme intermédiaire : la transmission est saisonnière, relativement courte. La prémunition s'installe tardivement chez l'enfant, habituellement après 10 ans.
+
+- Paludisme instable : Il se caractérise par une transmission intermittente avec des risques d'épidémies liés à une absence de prémunition même chez les adultes.
+
+NB : Dans les zones exemptes de paludisme la population n'a généralement aucune immunité contre le paludisme et est par conséquent exposée au paludisme grave.
+
+24 | Guide du facilitateur | Septembre 2015
+
+M A I N E 1 2015
+
+GUIDE DU FACILITATEUR D
+
+- O
+
+SEPTEMBRE
+
+PRISE EN CHARGE
+
+DU PALUDISME
+
+Guide du facilitateur | Septembre 2015 | 25
+
+DOMAINE 2 : PRISE EN CHARGE DU PALUDISME
+
+DIAGNOSTIC BIOLOGIQUE
+
+DU PALUDISME
+
+Objectifs pédagogiques du cours
+
+A la fin de module le participant devra être capable de :
+
+- Confirmer le diagnostic du paludisme par le TDR ou l'examen microscopique
+
+- Déterminer l'espèce plasmodiale en cause et la densité parasitaire
+
+- Connaitre les intérêts et procédures de contrôle de la qualité
+
+Méthodologie
+
+-
+
+-
+
+-
+
+-
+
+Brainstorming
+
+Questions/réponses
+
+Exposé suivi de discussions
+
+Démonstration
+
+1. Diagnostic Biologique par les Tests de Diagnostic Rapide
+
+1.1 Principe :
+
+1.2 Technique
+
+Mode opératoire v Utiliser une surface propre et plane
+
+- Mettre le test à la température ambiante ;
+
+- Ouvrir le test juste au moment de l'emploi ;
+
+- Mentionner le code du patient, le numéro et la date
+
+- Prélever 5 microlitres de sang capillaire à la pulpe du doigt à l'aide de l'anse de prélèvement ;
+
+- Déposer les 5 microlitres de sang dans la fenêtre ronde ;
+
+- Déposer quatre gouttes (selon type de TDR disponible) de la solution tampon dans la fenêtre carrée verticalement ;
+
+- Laisser reposer le test sur la surface plane
+
+- Attendre au plus 15 minutes pour la lecture des résultats
+
+26 | Guide du facilitateur | Septembre 2015
+
+NB : Il est nécessaire d'attendre 15 minutes pour déclarer que le test est négatif Résultats
+
+Lecture du résultat du test :
+
+- Le résultat est négatif si une seule (1) bande apparaît sur la ligne C
+
+- Le résultat est positif s'il y a deux (2) bandes qui apparaissent sur les lignes C et T
+
+- Le test est invalide si aucune bande n'apparaît pendant 15 minutes et dans ce cas reprendre la technique avec un nouveau test
+
+2. Diagnostic Biologique par l'examen microscopique
+
+- Principe
+
+L'examen microscopique permet la mise en évidence des parasites du paludisme à partir d'un prélèvement de sang étalé sur une lame après coloration au Giemsa.
+
+Guide du facilitateur | Septembre 2015 | 27
+
+- Techniques (réalisation GE/frottis, aspect morphologique et quantification des parasites) Pour la réalisation d'un examen microscopique il faut :
+
+v Prélèvement
+
+° Porter des gants et de la blouse
+
+°É tiqueter ou numéroter chaque lame avec instrument indélébile (marqueur, crayon gras) au moment du prélèvement en mettant le nom du malade et la date sur la plage de la lame ° Désinfecter l'annulaire avec l'alcool à 70 degré. (tout petit enfant utiliser le gros orteil ou le talon) ° Essuyer l'annulaire avec du coton sec
+
+° Piquer d'un coup sec et rapide avec une lancette/vaccinostyle stérile sur le bord du doigt ° Presser le doigt et essuyer la première goutte avec du coton sec ° Faire garder au patient le coton sec au point de piqure pendant 2 à 3 minutes v Confection
+
+v Coloration
+
+°F ixer le frottis avec du méthanol et le faire sécher
+
+°D éshémoglobiniser la GE pendant 5 à 10 minutes avec de l'eau (de robinet ou distillée) °F aire la dilution de la solution de Giemsa (méthodes ordinaire et rapide) °V erser l'eau de la déshémoglobinisation
+
+°R ecouvrir la GE/frottis avec la solution diluée de Giemsa
+
+°L aisser agir pendant 15 ou 30 min selon la méthode de dilution utilisée °R incer modérément avec de l'eau de robinet
+
+°F aire sécher à l'aide d'un séchoir ou sur un portoir à l'air libre v Résultats
+
+- L e résultat est négatif s'il y a absence de parasites au niveau de la GE et du frottis après lecture de 100 champs microscopiques à la GE ou 200 champs sur le frottis
+
+- L e résultat est positif s'il y a présence de formes asexuées de Plasmodium. Dans ce cas, il faudra déterminer l'espèce plasmodiale en cause, le stade évolutif et la densité parasitaire.
+
+cytoplasme bleu
+
+Granulation rose vacuole blanche noyau rouge
+
+Morphologie d'un Plasmodium
+
+28 | Guide du facilitateur | Septembre 2015 pigment ocre
+
+Déshémoglobinisation de la GE
+
+COLORATION AVEC
+
+DES BAGUETTES
+
+COLORATION AVEC
+
+UN BAC
+
+Confection Frottis
+
+Figure 2 : Reconnaissance du P.f au Frottis et à la GE
+
+3. Diagnostic par PCR
+
+La PCR est la polymerase chain reaction dont le principe repose sur la recherche de l'ADN parasitaire par amplification du matériel génétique.
+
+La PCR permet de détecter les faibles parasitémies non détectables par le TDR et la microscopie.
+
+Schémas : illustration Polymerase chain reaction (PCR)
+
+NB : En perspective de la préélimination, l'outil sera introduit pour améliorer le diagnostique dans les zones à faible incidence palustre
+
+Guide du facilitateur | Septembre 2015 | 29
+
+Tableau : Avantages comparés entre TDR et GE
+
+GE/frottis
+
+TDR
+
+4. Contrôle de la qualité du diagnostic biologique
+
+- Contrôle qualité interne
+
+Définition
+
+C'est l'ensemble des procédures effectuées en interne pour assurer la fiabilité du diagnostic biologique.
+
+Intérêt ü Prévenir et détecter les erreurs ü Corriger les erreurs immédiatement ü Assurer la fiabilité des résultats
+
+Acteurs a. le responsable du laboratoire b. les techniciens
+
+Périodicité ü Idéal : journalière ü A défaut : au moins une fois par semaine
+
+- Contrôle de qualité externe
+
+Le contrôle de la qualité externe évalue l'exactitude de la technique employée et ses performances au niveau d'un laboratoire
+
+Postes de santé :
+
+Acteurs : Responsable de laboratoire du district
+
+Périodicité : Trimestrielle
+
+Centres de santé :
+
+Acteurs : Biologiste régional
+
+Le responsable de laboratoire du centre de santé est tenu de garder les lames dans les boites de rangement avec une rangée pour celles négatives et une autre pour les positives.
+
+Pour les besoins du contrôle de qualité 10 lames positives et 10 lames négatives seront prélevées.
+
+30 | Guide du facilitateur | Septembre 2015
+
+Toutes les lames dont les résultats sont discordants avec les TDR seront systématiquement gardées et acheminées (lames et cassettes de TDR) au niveau central pour un contrôle de qualité au laboratoire de référence.
+
+Périodicité : Semestrielle
+
+Régions :
+
+Acteurs : PNLP et laboratoire de référence
+
+Périodicité : Annuelle
+
+4.3 Contrôle de la qualité des TDR
+
+Ø
+
+Niveau central
+
+Ø Niveau opérationnel
+
+Guide du facilitateur | Septembre 2015 | 31
+
+DOMAINE 2 : PRISE EN CHARGE DU PALUDISME
+
+RISE EN CHARGE
+
+P
+
+DU PALUDISME SIMPLE
+
+Objectifs pédagogiques
+
+A la fin de ce module, les participants devront être capables de :
+
+- Poser le diagnostic de paludisme simple (en général, femme enceinte)
+
+- Confirmer biologiquement les cas suspects de paludisme simple
+
+- Administrer correctement les antipaludiques appropriés.
+
+- Assurer le suivi du malade
+
+Méthodologie
+
+-
+
+-
+
+-
+
+-
+
+Brainstorming
+
+Questions/réponses
+
+Exposé suivi de discussions
+
+Exercices
+
+1. Définitions a - Définition générale
+
+C'est une maladie caractérisée généralement par une fièvre sans signes de gravité avec une confirmation biologique (TDR ou GE/FS).
+
+b - Cas particulier de la femme enceinte
+
+Tout cas de paludisme confirmé par GE/TDR chez la femme enceinte aux 2e et 3e trimestres de la grossesse sans signe de gravité.
+
+2. Démarche diagnostique a- Interrogatoire
+
+Posez des questions sur les symptômes suivants :
+
+Ø Fièvre ou antécédents récents de fièvre : rythme, durée d'évolution de l'épisode fébrile Ø Frissons (sensation de froid et tremblement) et courbatures
+
+Ø Maux de tête
+
+Ø Faiblesse musculaire ou fatigue
+
+Ø Manque d'appétit
+
+32 | Guide du facilitateur | Septembre 2015
+
+Posez également des questions sur les principaux symptômes courants chez les enfants, en particulier la toux ou les difficultés à respirer, la diarrhée, les vomissements, les douleurs abdominales, les maux de gorge, les maux d'oreille et les antécédents de rougeole au cours des trois derniers mois. Il s'agira également de rechercher la notion de traitement antérieur et la date des dernières règles (femme) b- Examen physique c- Confirmer la fièvre : augmentation de la température axillaire > 37,5°C d- Vérifier l'absence de signes de maladies graves, e- Vérifier l'absence d'autres causes de fièvre :
+
+- Infections respiratoires aiguës (IRA) : augmentation de la fréquence respiratoire, battement des ailes du nez, tirage intercostal ou sous costal ;
+
+- Otite aiguë : douleur à traction du lobule de l'oreille et à la pression du tragus de l'oreille, écoulement de l'oreille ;
+
+- Angine : mal de gorge et rougeur de la gorge ;
+
+- Rougeole : forte fièvre, éruptions cutanées généralisées avec toux, yeux rouges, écoulement nasal ;
+
+- Oreillons : habituellement avec tuméfaction à l'angle de la mâchoire ;
+
+- Varicelle : s'accompagne d'une éruption vésiculaire à rechercher sur tout le corps ;
+
+- Infection des voies urinaires : miction fréquente ou douloureuse, urines troubles ou purulentes, douleurs lombaires ;
+
+- Fièvre typhoïde : fièvre persistant pendant plus de 7 jours, asthénie extrême ;
+
+- Poussées dentaires
+
+- Fièvre post vaccinale
+
+Le diagnostic clinique repose sur un faisceau d'arguments. Toutefois, dans tous les cas une confirmation biologique est nécessaire avant de retenir le diagnostic de paludisme simple.
+
+c- Examens paracliniques (cf diagnostic biologique)
+
+Le diagnostic clinique seul n'est plus suffisant pour administrer le traitement du paludisme. Le TDR ou la GE/FS est nécessaire pour la confirmation.
+
+NB : Pour les principes, techniques et procédures de réalisation des TDR et de l'examen microscopique,seréférer au module sur le diagnostic biologique.
+
+d- Ordinogramme de prise en charge du paludisme
+
+Au terme de l'examen clinique du patient, l'ordinogramme permet de distinguer, parmi les cas de fièvres, les cas suspects qui doivent faire l'objet de test (figure ci-dessous).
+
+- Un cas suspect de paludisme est un cas de fièvre sans aucun signe pouvant faire évoquer des affections autres que le paludisme et n'ayant pas encore bénéficié d'un test diagnostique ;
+
+- Un cas de paludisme simple confirmé est un cas suspect sans aucun signe de gravité, chez qui le test diagnostique est positif.
+
+Guide du facilitateur | Septembre 2015 | 33
+
+Ordinogramme pour la prise en charge du paludisme simple avec les TDR
+
+FIEVRE ou Antécedents de FIÈVRE DE 48 H (Corps chaud ou température axillaire ≥ 37°C)
+
+Moins de 5 ans
+
+Plus de 5 ans
+
+Juin-Janvier
+
+Février-Mai
+
+Faire TDR
+
+TDR
+
+Positif
+
+TDR
+
+Négatif
+
+Présence de signes pouvant faire évoquer des affection autres que le paludisme (Toux, Angine, Eruption cutanée, Ecoulement de l'oreille,....)
+
+Non
+
+Traiter un Paludisme
+
+Simple
+
+Oui
+
+Faire TDR
+
+Poursuivre l'approche
+
+PCIME
+
+NB : TDR systématique chez tout enfent présentant une malnutrition aiguë sévère (MAS).
+
+Traiter la cause
+
+TDR
+
+Négatif
+
+Traiter la cause de la Fièvre
+
+TDR
+
+Positif
+
+Si persistance fièvre après 48 h de traitement
+
+Traiter un
+
+Paludisme
+
+Simple
+
+Faire TDR
+
+TDR
+
+Négatif
+
+REFERER
+
+34 | Guide du facilitateur | Septembre 2015
+
+TDR
+
+Positif
+
+Traiter un Paludisme
+
+Simple
+
+Le traitement doit être conforme aux directives nationales de prise en charge du paludisme.
+
+b. Molécules utilisées
+
+L'OMS recommande d'utiliser les associations thérapeutiques à base d'artémisinine pour traiter les cas de paludisme simple à P. falciparum.
+
+Au Sénégal, les différentes ACT recommandées pour le traitement du paludisme simple sont les suivantes:
+
+- Artémether + Luméfantrine,
+
+- Artésunate + Amodiaquine,
+
+- Dihydroartémisinine- Pipéraquine phosphate
+
+NB : Du fait de l'absence d'information suffisante sur l'utilisation de la dihydroartemisinine piperaquine (DHA-PPQ) chez la femme enceinte, la DHA-PPQ est contre indiquée.
+
+A. Artémether-Luméfantrine (A-L)
+
+Ø Présentation
+
+Ces produits sont actuellement disponibles en association fixe sous la forme de comprimes dispersibles (formes pédiatriques) ou ordinaires contenant 20 mg d'Artémether et 120 mg de Luméfantrine.
+
+Cette association est présentée sous forme de 4 kits qui diffèrent par le nombre de comprimés :
+
+- Kits Nourrissons de 6 comprimés
+
+- Kits Petit Enfant de 12 comprimés
+
+- Kits Grand Enfant de 18 comprimés
+
+- Kits Adultes de 24 comprimés
+
+Ø Posologie
+
+Le traitement recommandé consiste à administrer 2 doses par jour, espacées de 12 heures, pendant 3 jours. La posologie est fonction du poids ou de l'âge.
+
+Selon le poids :
+
+La dose recommandée est de 4mg/kg pour l'artémether et 12mg/kg pour la luméfantrine, deux fois par jour pendant 3 jours.
+
+Selon l'âge :
+
+Les posologies par tranche d'âge ont été résumées dans le tableau ci-dessous Age
+
+1er jour
+
+2e jour
+
+3e jour
+
+2-11 mois
+
+1 Comprimé X 2 / J
+
+1 Comprimé X 2 / J
+
+1 Comprimé X 2 / J
+
+1-5 ans
+
+2 Comprimés X 2 / J
+
+2 Comprimés X 2 / J
+
+2 Comprimés X 2 / J
+
+6-13 ans
+
+3 Comprimés X 2 / J
+
+3 Comprimés X 2 / J
+
+3 Comprimés X 2 / J
+
+14 ans et plus
+
+4 Comprimés X 2 / J
+
+4 Comprimés X 2 / J
+
+4 Comprimés X 2 / J
+
+Guide du facilitateur | Septembre 2015 | 35
+
+Ø Effets indésirables
+
+Molécules
+
+Effets indésirables
+
+Artémether ü Diminution des réticulocytes, plus rarement des leucocytes.
+
+ü Nausées, vomissements, douleurs abdominales.
+
+ü Élévation transitoire des transaminases ü Bradycardie, bloc auriculo-ventriculaire du premier degré.
+
+Luméfantrine ü Troubles du sommeil, céphalées, étourdissements.
+
+ü Palpitations.
+
+ü Douleurs abdominales, anorexie, diarrhée, nausées, vomissements.
+
+ü Prurit.
+
+ü Asthénie
+
+B. Artésunate - Amodiaquine (AS-AQ)
+
+Ø Présentation
+
+Ces deux molécules sont actuellement disponibles en association fixe sous la forme de comprimés sécables avec différents dosages possibles :
+
+Présentation
+
+Artésunate
+
+Amodiaquine
+
+Plaquettes de 3 Comprimés
+
+25 mg
+
+Plaquettes de 3 Comprimés
+
+50 mg
+
+135 mg
+
+Plaquettes de 3 et de 6 comprimés
+
+100 mg
+
+270 mg
+
+Ø Posologie
+
+La posologie est fonction du poids ou de l'âge.
+
+Le traitement recommandé consiste à administrer une dose par jour à heure fixe pendant 3 jours. La dose est de 4 mg/kg/jour d'artésunate et de 10 mg/kg/jour d'amodiaquine pendant trois jours.
+
+Intervalle de poids/intervalle d'âge approximatif
+
+≥4,5 kg à <9 kg (2 à 11 mois)
+
+≥ 9 kg à <18kg (1 à 5 ans)
+
+≥18 kg à <36kg (6 à 13 ans)
+
+≥ 36 kg (14 ans et plus)
+
+36 | Guide du facilitateur | Septembre 2015
+
+Dosage/Présentation de l'ACT
+
+Artésunate/Amodiaquine blister de 3 comprimés
+
+Artésunate/Amodiaquine
+
+50 mg/135 mg blister de 3 comprimés
+
+Artésunate/Amodiaquine blister de 3 comprimés
+
+Artésunate/Amodiaquine blister de 6 comprimés
+
+1er jour
+
+2e jour
+
+3e jour
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+2 comprimés
+
+2 comprimés
+
+2 comprimés
+
+Ø Effets indésirables
+
+Molécules
+
+Effets indésirables
+
+Artésunate ü Diminution des réticulocytes, plus rarement des leucocytes ü Nausées, vomissements, douleurs abdominales
+
+C. Dihydroartémisinine- Pipéraquine phosphate (DHA-PQ)
+
+Ø Présentation
+
+Ces médicaments sont actuellement disponibles en association fixe sous la forme de comprimés contenant 40 mg de Dihydroartémisinine et 320 mg de Pipéraquine.
+
+Ø Posologie
+
+Cette combinaison est administrée selon l'âge ou le poids.
+
+La dose recommandée est de 4 mg/kg/jour de dihydroartémisinine et de 18 mg/kg/jour de pipéraquine phosphate, administrée une fois par jour à heure fixe pendant 3 jours.
+
+Pour les jeunes enfants, les comprimés peuvent être écrasés et dilués dans un peu d'eau.
+
+La posologie consiste en une prise unique chaque jour pendant 3 jours successifs.
+
+La dose selon l'âge ou le poids est résumée dans le tableau ci-dessus :
+
+Poids
+
+5 à 9,9kg
+
+10 à 20kg
+
+20 à 40kg
+
+≥ 40kg
+
+Age
+
+6mois - 1an
+
+2-7ans
+
+8-13ans
+
+≥ 14ans
+
+1er jour
+
+2ème jour
+
+3ème jour
+
+1/2 comprimé
+
+1 comprimé
+
+2 comprimés
+
+3 comprimés
+
+1/2 comprimé
+
+1 comprimé
+
+2 comprimés
+
+3 comprimés
+
+1/2 comprimé
+
+1 comprimé
+
+2 comprimés
+
+3 comprimés
+
+Ø Effets indésirables
+
+Molécules
+
+Effets indésirables ü Nausées, diarrhée, anorexie
+
+Dihydroartémisinine- Pipé- ü Prurit, éruption cutanée ü Diminution des réticulocytes et légère augmentation des raquine phosphate enzymes hépatiques
+
+Guide du facilitateur | Septembre 2015 | 37
+
+Indications
+
+NB : la durée du traitement est de 3 jours consécutifs et la dose journalière se prend en une seule prise, de préférence au moment ou juste après les repas.
+
+Le traitement symptomatique vise surtout à faire baisser la fièvre.
+
+En cas de température élevée (> 38,5°C) :
+
+- demandez d'appliquer un enveloppement humide et d'éviter de trop couvrir le malade (cas de l'enfant)
+
+- administrez du paracétamol,
+
+- conseillez aux malades de prendre davantage de liquides ou demandez que les enfants aient des repas supplémentaires.
+
+Conseils pour le traitement oral
+
+CONSEILS IMPORTANTS POUR LES MEDICAMENTS PRIS PAR VOIE ORALE w Déterminez le médicament et la posologie appropriés en fonction du poids et de l'âge.
+
+w Expliquez au malade ou à la mère de l'enfant pourquoi le médicament est administré.
+
+w Montrez comment mesurer et prendre ou donner la dose appropriée.
+
+w Regardez le malade prendre le médicament et surveiller pendant 30 mn. Si l'enfant vomit dans les 30 mn, redonner la dose.
+
+w Demander au malade de prendre les comprimés et de terminer le traitement même s'il se sent bien.
+
+w Expliquer la possibilité de survenue d'effets indésirables w Indiquez quand le malade doit revenir pour la visite de suivi et quand revenir immédiatement.
+
+w Vérifiez que le malade ou la mère a bien compris vos explications avant de quitter la formation sanitaire c- Suivi du malade
+
+Ø Eléments de surveillance
+
+Il s'agit de la fièvre et des signes fonctionnels.
+
+Chez la femme enceinte : mouvements actifs fœtaux, bruits du cœur fœtal NB : chez la femme enceinte, une T°>38°5C est une urgence
+
+Ø Modalités de suivi
+
+- Visite de contrôle pour la réévaluation du malade
+
+Il faut fixer un rendez-vous de suivi au bout de 48 heures de traitement pour réévaluer le malade.
+
+En outre il faut demander au malade de revenir immédiatement si son état se détériore ou s'il développe des signes de paludisme grave.
+
+38 | Guide du facilitateur | Septembre 2015
+
+Un patient dont l'état se dégrade malgré un traitement antipaludique correct doit être réévalué en recherchant les signes de paludisme grave et son traitement ajusté.
+
+Il est important de réexaminer complètement le malade et de faire, si besoin, une goutte épaisse pour rechercher les parasites du paludisme.
+
+On pourrait envisager un échec thérapeutique si après 3 à 14 jours de traitement adéquat avec une posologie correcte ; on note
+
+- Une détérioration de l'état clinique à tout moment ;
+
+- Une persistance de la fièvre et/ou des autres signes.
+
+- Une goutte épaisse positive après trois jours de traitement.
+
+(cf suivi du malade partie paludisme grave)
+
+Evaluation de l'observance du traitement
+
+Si le malade revient, demandez-lui s'il a suivi le traitement prescrit.
+
+NB : Ne pas administrer de traitement antipaludique sans confirmation biologique Eviter d'administrer un traitement antipaludique en cas de TDR/GE négatif
+
+- Recherche d'effets indésirables
+
+Il faudra profiter de la visite de suivi pour interroger le patient sur la survenue d'éventuels effets indésirables ayant apparu à la suite de l'administration du traitement médicamenteux.
+
+NB : En cas d'effets indésirables, il faut prendre en charge le malade et notifier sur la fiche de pharmacovigilance prévue à cet effet.
+
+EXERCICES
+
+Exercice 1
+
+On vous amène une fillette de 3 ans qui présente depuis 2 jours une fièvre et des douleurs à la gorge surtout lors des repas. Que devez-vous faire ?
+
+- Prendre les constantes
+
+- Faire systématiquement le TDR
+
+- Poursuivre la démarche PCIME o Interroger sur les signes d'accompagnement de la fièvre (frissons, sueurs, céphalées, vomissements, diarrhée) et sur les traitements déjà reçus o Examiner la gorge o Compléter l'examen physique (nez, oreilles, autres appareils)
+
+Guide du facilitateur | Septembre 2015 | 39
+
+-
+
+Traiter un paludisme simple
+
+Traiter l'angine avec un antibiotique
+
+Donner un antipyrétique
+
+Donner rendez-vous 48 après
+
+Exercice 2
+
+1. Quelles hypothèses diagnostiques évoquez-vous ?
+
+- Accès palustre
+
+- Infection des voies urinaires
+
+- Fièvre typhoïde
+
+- Grippe
+
+2. Quelle est la conduite à tenir ?
+
+- Faire un TDR o Si TDR positif : traiter un paludisme o Si TDR négatif : traiter la cause
+
+Exercice 3
+
+Parmi les signes cliniques du paludisme simple on peut noter (cocher la ou les réponses fausses) :
+
+q fièvre q convulsions q sueurs q céphalées q gros foie mou
+
+Correction exercice 3 q fièvre ü convulsions q sueurs q céphalées ü gros foie mou
+
+Exercice 4
+
+Le TDR doit être utilisé pour la confirmation biologique du diagnostic du paludisme :
+
+q vrai q faux
+
+Parce que
+
+Le TDR est spécifique du paludisme simple q Vrai q faux
+
+40 | Guide du facilitateur | Septembre 2015
+
+Correction exercice 4
+
+ü vrai q faux
+
+Parce que
+
+Le TDR est spécifique du paludisme simple q Vrai ü faux
+
+Exercice 5
+
+Citer trois causes de fièvre chez l'enfant qui peuvent faire penser à un paludisme simple.
+
+- Otite
+
+- Angine
+
+- Infection urinaire
+
+Exercice 6
+
+Prescrire le traitement antipaludique à un homme de 68 kg présentant un paludisme simple.
+
+- ASAQ : 2 comprimés en prise unique par jour pendant 3 jours consécutifs
+
+- AL : 4 comprimés deux fois par jour pendant 3 jours consécutifs
+
+- Duocotexcin 3 comprimés en prise unique par jour pendant 3 jours consécutifs
+
+Exercice 7
+
+Prescrire le traitement à un enfant de 10 kg présentant un paludisme simple
+
+- ASAQ : 1 comprimé (dosage enfant) par jour pendant 3 jours consécutifs
+
+- AL cp dispersibles : 1 comprimé deux fois par jours pendant 3 jours consécutifs
+
+- AL suspension : 14 ml par jour en prise unique pendant 3 jours consécutifs
+
+- Duocotexcin 1⁄2 comprimé par jour en prise unique pendant 3 jours consécutifs
+
+Exercice 8
+
+Vous recevez une femme de 25 ans présentant une aménorrhée secondaire de 20 semaines, avec une fièvre, une asthénie et des courbatures depuis 2 jours sans autres signes :
+
+1. Quels tests feriez-vous ?
+
+2 . Quel sera la conduite à tenir ?
+
+3. Quels conseils donneriez-vous à cette femme ?
+
+Correction exercice 8
+
+1. Test de grossesse et TDR (et/ou GE /frottis)
+
+2. Si test de grossesse positif et TDR positif
+
+On traite le palu simple chez la femme enceinte : AL ou ASAQ posologie adulte NB : DHAPPQ est contre indiquée
+
+Si TDR négatif suivre ordinogramme
+
+3. Conseils :
+
+Si palu et grossesse :
+
+Respect CPN
+
+Prise de SP sous TDO
+
+Dormir sous MILDA
+
+Guide du facilitateur | Septembre 2015 | 41
+
+DOMAINE 2 : PRISE EN CHARGE DU PALUDISME
+
+PRISE EN CHARGE
+
+DU PALUDISME GRAVE
+
+Que savez – vous du diagnostic et de la prise en charge du paludisme grave ?
+
+Objectifs pédagogiques
+
+A la fin de ce module, le participant devrait être capable de :
+
+- Poser le diagnostic de paludisme grave chez l'adulte, l'enfant et la femme enceinte
+
+- Demander les examens requis en urgence devant tout cas de paludisme grave
+
+- Prendre en charge le patient en administrant les traitements appropriés
+
+- Assurer le suivi du malade
+
+Méthodologie
+
+-
+
+-
+
+-
+
+-
+
+Brainstorming
+
+Questions/réponses
+
+Exposé suivi de discussions
+
+Exercices
+
+1 - DEFINITION a - S/C Adulte
+
+Tout cas de paludisme confirmé avec présence de formes asexuées de P. Falciparum (par TDR ou GE) associé à l'une ou plusieurs des manifestations cliniques et biologiques suivantes :
+
+Les manifestations cliniques sont :
+
+ Troubles de la conscience ou coma
+
+ Prostration (incapable de marcher ou de s'asseoir sans assistance)  Incapacité de s'alimenter
+
+ Convulsions multiples (Deux ou plus dans les 24 heures)
+
+ Détresse respiratoire (acidose)
+
+ Collapsus cardio-vasculaire ou choc. (TA systolique < 70 mmhg chez l'adulte et 50 chez l'enfant)  Ictère
+
+ Hémoglobinurie (urines coca cola ou de couleur foncée)
+
+ Saignement anormal
+
+ Œdème pulmonaire (radiologique)
+
+Les manifestations biologiques
+
+ Hypoglycémie (glycémie < 2,2 mmol/l ou 0,4g/l)
+
+ Acidose métabolique (bicarbonates plasmatiques <15 mmol/l)
+
+ Anémie sévère ou pâleur extrême (Hb < 5 g/dl ou hématocrite < 15%)  Hyperparasitémie (>100 000/μl)
+
+ Hyperlactatémie (lactate > 5 μmol/l)
+
+ Insuffisance rénale (créatininémie > 265 μmol /l)
+
+42 | Guide du facilitateur | Septembre 2015
+
+CAS DE L'ENFANT : l'enfant atteint de paludisme grave peut présenter un ou plusieurs de ces signes de danger :
+
+ Incapacité de boire ou de téter
+
+ Vomissements incoercibles (vomit tout ce qu'il consomme)
+
+ convulsions ou antécédents de convulsions
+
+ léthargie ou inconscience
+
+CAS DE LA FEMME ENCEINTE
+
+Tout cas de paludisme confirmé (par TDR ou GE) chez la femme enceinte :
+
+- au premier trimestre avec ou sans signes de gravité
+
+- au 2e ou 3e trimestre avec la présence d'une ou plusieurs des manifestations cliniques et biologiques et des complications obstétricales suivantes:
+
+Les manifestations cliniques :
+
+ Troubles de la conscience ou coma
+
+ Convulsion (une seule convulsion)
+
+ Détresse respiratoire (acidose)
+
+ Collapsus cardio-vasculaire ou choc. (TA systolique < 70 mmHg)
+
+ Ictère
+
+ Hémoglobinurie (urines coca cola ou de couleur foncée)
+
+ Saignement anormal
+
+ Œdème pulmonaire (radiologique)
+
+Les manifestations biologiques :
+
+ Hypoglycémie (glycémie < 2,2 mmol/l ou 0,4g/l)
+
+ Acidose métabolique (bicarbonates plasmatiques <15 mmol/l)
+
+ Anémie sévère ou pâleur extrême (Hb < 8 g/dl )
+
+ Hyperparasitémie (>100 000/μl)
+
+ Hyperlactatémie (lactate > 5 μmol/l)
+
+ Insuffisance rénale (créatininémie > 265 μmol /l)
+
+Les Complications obstétricales :
+
+ Souffrance fœtale chronique
+
+ mort fœtale in-utéro
+
+ menace d'accouchement prématuré
+
+ menace d'avortement
+
+ vomissements incoercibles
+
+GROUPES VULNERABLES ET FACTEURS DE GRAVITE
+
+Quelles sont les personnes les plus susceptibles de faire un paludisme grave ?
+
+- Les enfants de moins de cinq ans (Au Sénégal, la situation épidémiologique actuelle montre qu'il y a beaucoup plus de cas graves entre 5 à 10ans).
+
+- Les femmes enceintes
+
+- Les populations vivant dans les zones de paludisme instable
+
+- Les personnes qui reviennent dans des zones d'endémie après plus de deux ans d'absence
+
+- Les voyageurs en provenance de régions faiblement ou non impaludées Guide du facilitateur | Septembre 2015 | 43
+
+Anémie
+
+es enfants et les femmes enceintes sont les plus souvent touchés. Ils présentent dans ce cas un affaiblissement de l'état général, la pâleur palmaire grave ou la pâleur des muqueuses et de la conjonctive.
+
+hez la femme enceinte, un taux d'hémoglobine inférieur à 8g/dl est considéré comme une anémie sévère.
+
+'anémie grave entraîne une insuffisance cardiaque (respiration rapide, œdèmes des membres inférieurs, pouls rapide et hépatomégalie avec foie mou et douloureux).
+
+Coma e coma est lié à des troubles de la circulation suite à la présence des parasites dans les vaisseaux du cerveau.
+
+Convulsions
+
+Les convulsions peuvent résulter de températures très fortes, surtout chez les enfants ou peuvent être dues à l'hypoglycémie.
+
+Chez la femme enceinte, une seule convulsion est considérée comme signe de gravité.
+
+NB : Le neuro paludisme est une manifestation courante de l'accès palustre grave et peut laisser des séquelles. Un malade atteint de paludisme et ayant un niveau de conscience altéré (confusion, délire, hallucinations ou coma ) avec ou sans convulsions a le neuro paludisme.
+
+Difficultés respiratoires
+
+Les malades atteints de paludisme grave peuvent avoir une respiration rapide ou pénible due à l'un des facteurs suivants :
+
+- Insuffisance cardiaque suite à une anémie grave.
+
+- Œdème pulmonaire se manifestant généralement par de la mousse aux lèvres et une détresse respiratoire marquée.
+
+- Détresse respiratoire aiguë de l'adulte (due à la présence de parasites du paludisme dans les capillaires pulmonaires et pourrait ne pas être différenciée de l'œdème pulmonaire).
+
+- Pneumonie d'inhalation chez le sujet dans le coma avec une prise en charge inadéquate (absence de position latérale de sécurité ou non aspiration des sécrétions)
+
+44 | Guide du facilitateur | Septembre 2015
+
+Hypoglycémie
+
+Quelquefois les symptômes sont frustres surtout chez les enfants (faiblesse, transpiration avec peau froide).
+
+Hémoglobinurie
+
+Elle peut être rencontrée chez certains sujets qui présentent une hémoglobinopathie comme la drépanocytose.
+
+Insuffisance rénale
+
+Saignement anormal
+
+Guide du facilitateur | Septembre 2015 | 45
+
+EXAMEN CLINIQUE DU PATIENT ATTEINT DE PALUDISME GRAVE
+
+Interrogatoire
+
+L'interrogatoire doit rechercher le mode de début et les manifestations cliniques.
+
+Outre les antécédents d'ordre général, comme pour le paludisme simple, renseignez-vous
+
+- sur la notion d'autres maladies graves chez le malade et dans l'entourage telles que :
+
+* La méningite
+
+* Le diabète (notion de polyurie nocturne)
+
+* Autres maladies infectieuses (typhoïde, rougeole)
+
+- sur l'existence d'une grossesse au premier trimestre chez les femmes en âge de procréer (rechercher une notion d'aménorrhée)
+
+Chez les enfants fébriles, il faut se renseigner sur les signes généraux de danger :
+
+Ø L'enfant peut-il boire ou téter ?
+
+Ø L'enfant vomit-il tout ce qu'il consomme ?
+
+Ø L'enfant a-t-il eu des convulsions ?
+
+Il faut vérifier l'état de la diurèse : diminution ou absence
+
+Examen physique
+
+Il vous permet de :
+
+1. Rechercher la présence des signes de paludisme grave.
+
+2. Identifier d'autres causes possibles de maladie grave.
+
+Les éléments suivants doivent être évalués :
+
+Examen général
+
+Vérifiez :
+
+Ø
+
+La température, le poids et s'il s'agit d'un enfant, évaluez l'état nutritionnel : l'enfant présente
+
+- t-il des signes de malnutrition sévère ?
+
+Ø L'état général du malade :
+
+- Est-il léthargique ou prostré (incapable de se tenir debout ou de marcher).
+
+- A-t-il des difficultés à respirer ou respire-t-il rapidement dans le cas des enfants Ø présente-t-il des signes:
+
+- de pâleur grave
+
+- d'ictère.
+
+- d e déshydratation (soif, lèvres sèches, pli cutané qui s'efface lentement après pincement ou yeux enfoncés surtout chez les enfants)
+
+- d e collapsus ou de choc (extrémités froides, pouls filant, chute de la tension artérielle)
+
+46 | Guide du facilitateur | Septembre 2015
+
+Examen des appareils
+
+Il convient d'examiner attentivement tour à tour les systèmes vitaux du malade pour rechercher les signes courants de paludisme grave et écarter toute autre maladie grave.
+
+Système nerveux central
+
+- L'échelle de coma de Glasgow pour les adultes.
+
+- L'échelle modifiée de Glasgow (Blantyre pour les enfants). (Voir annexe n°2) Rechercher des signes de méningite : raideur de la nuque, bombement de la fontanelle chez les nourrissons jusqu'à 18 mois.
+
+Appareil respiratoire
+
+Ø
+
+Ø
+
+Recherchez la dépression de la paroi thoracique inférieure (tirage sous costal), surtout chez les enfants
+
+Ø
+
+Battement des ailes du nez
+
+Ø
+
+Recherchez la mousse aux lèvres.
+
+Appareil cardiovasculaire
+
+Ø
+
+Ø
+
+Recherchez les autres signes de défaillance cardiaque (bruit de galop, gros foie mou avec un reflux hépato jugulaire).
+
+Peau et muqueuses
+
+Recherchez un saignement anormal.
+
+Regardez les urines
+
+Recherchez un « aspect coca cola » des urines.
+
+Chez la femme enceinte
+
+Recherchez les bruits du cœur fœtal, les mouvements actifs fœtaux, la notion de vomissements incoercibles
+
+Guide du facilitateur | Septembre 2015 | 47
+
+EXAMENS PARACLINIQUES
+
+Le but des investigations de laboratoire chez un malade suspect de paludisme grave devrait être de :
+
+1. Confirmer le diagnostic de paludisme
+
+2. Rechercher les complications et évaluer leur gravité ;
+
+3. Exclure les autres causes possibles de maladie grave.
+
+Pour la confirmation biologique, il est recommandé de faire:
+
+Ø
+
+Le TDR pour le diagnostic précoce en l'absence de laboratoire
+
+Ø
+
+La goutte épaisse et le frottis sanguin
+
+Pour le suivi parasitologique il faut faire, la goutte épaisse et le frottis sanguin.
+
+NB : le TDR n'est pas recommandé pour le suivi du traitement
+
+- Pour la recherche des complications et des autres signes de gravité Ø
+
+NFS : hématocrite /hémoglobine
+
+Ø
+
+La glycémie
+
+Des investigations plus poussées peuvent être menées dans les structures sanitaires disposant d'un bon plateau technique. On peut par exemple faire :
+
+* L'ionogramme, le taux d'urée, la créatinine (insuffisance rénale) * La radiographie du thorax (œdème pulmonaire)
+
+* La gazométrie sanguine (acidose)
+
+Pour exclure les autres causes de maladie grave
+
+*L a ponction lombaire pour analyse cytochimique et bactériologique du liquide céphalo rachidien chez le malade inconscient avec ou sans convulsions (pour exclure une méningite) * L'examen des urines pour la recherche :
+
+- du sucre (pour exclure le diabète)
+
+Diagnostic différentiel
+
+*M éningite ou méningo-encéphalite : le malade peut avoir la nuque raide, bombement de la fontanelle (chez le nourrisson), des convulsions répétées, troubles de la conscience.
+
+*D iabète : le malade peut être déshydraté, ou dans le coma ; rechercher glycosurie et glycémie si possible.
+
+*S epticémie : forte fièvre, mauvais état général, rechercher une porte d'entrée ou un foyer infectieux localisé.
+
+*E pilepsie : généralement, absence de fièvre et présence d'antécédents de convulsions.
+
+*G lomérulonéphrite aiguë : devant la modification de la couleur des urines (urines « bouillon sale ») et l'oligo-anurie.
+
+*H épatite virale et Fièvre jaune devant un ictère
+
+48 | Guide du facilitateur | Septembre 2015
+
+TRAITEMENT DU PALUDISME GRAVE
+
+TRAITEMENT D'URGENCE
+
+1. Malade inconscient (coma)
+
+* Mettre le malade en position latérale de sécurité.
+
+* Vérifiez que les voies respiratoires sont dégagées par une aspiration légère des voies aériennes supérieures et de l'oropharynx.
+
+* Insérez une sonde naso gastrique.
+
+* Mettre une voie veineuse; elle sera nécessaire pour l'administration des médicaments et des liquides.
+
+* Placer une sonde urinaire.
+
+2. Corrigez l'hypoglycémie
+
+Enfants : (1 ml/kg de glucosé à 30 % ou 3ml/kg pour le 10% iv).
+
+Adultes : 30 ml de glucosé à 30% ou 75 ml pour le 10% iv.
+
+- Lorsque l'administration par voie intraveineuse est impossible, donnez du glucose ou toute autre solution sucrée à travers la sonde gastrique.
+
+3. Convulsions
+
+* Vérifiez que les voies respiratoires sont dégagées et que le malade respire.
+
+* Corrigez les causes de convulsions éventuelles (hypoglycémie, hyperthermie).
+
+* Chez les enfants, administrez 0,5 mg/kg de diazépam en intra rectale ou en iv. Si les convulsions continuent, administrez 5 à 10 mg/kg de phénobarbital en i.m.
+
+* Chez les adultes, administrez 10 mg de diazépam en i.v.
+
+Si les convulsions continuent sans cause évidente et en dépit du traitement ci-dessus, référez le malade.
+
+NB : Chez la femme enceinte, une seule convulsion est considérée comme signe de gravité du paludisme
+
+4. Déshydratation grave ou choc
+
+* Voir plan de réhydratation en annexe
+
+5. Anémie grave
+
+* Administrez d'urgence du sang aux malades présentant une insuffisance cardiaque avec pâleur/anémie grave.
+
+* Administrez un concentré de globules rouges (10 ml/kg chez les enfants) ou du sang total (20 ml/kg chez les enfants, adulte/femmes enceintes).
+
+Guide du facilitateur | Septembre 2015 | 49
+
+*A u cas où il n'y pas de sang à administrer, placez une voie veineuse avec du plasmagel, démarrez aussi le traitement antipalustre et transférez d'urgence le malade vers un établissement de soins disposant de services de transfusion sanguine.
+
+6. Œdème pulmonaire
+
+Ø
+
+Mettre le malade en position demi assise, administrez-lui de l'oxygène et 2-4 mg/kg de furosémide en i.v;
+
+Ø
+
+Vérifiez qu'il ne présente pas une insuffisance cardiaque due à l'anémie grave.
+
+7. Saignement abondant
+
+Ø
+
+Transfusez le malade avec du sang total, ou mettre une voie veineuse avec du plasmagel et transférez-le d'urgence vers un autre établissement de soins.
+
+Ø
+
+Cas particuliers ; Diabétique, Femme Enceinte, Anémie etc
+
+TRAITEMENT SPÉCIFIQUE
+
+I. Molécules utilisées pour le traitement du paludisme grave
+
+En cas de paludisme grave, il est essentiel qu'un traitement antipaludique efficace par voie parentérale soit administré.
+
+Les médicaments recommandés par le PNLP pour la prise en charge du paludisme grave sont :
+
+- L'artésunate injectable en première intention
+
+- L'artéméther injectable en deuxième intention
+
+- La Quinine injectable en troisième intention
+
+NB : L'artésunate et l'artéméther injectables sont réservés exclusivement aux centres de santé et établissements hospitaliers.
+
+A. Artésunate injectable
+
+Ø Présentation
+
+Elle est présentée sous forme de poudre et solvant pour solution injectable dosée à 60 mg. La solution doit être administrée immédiatement après reconstitution.
+
+Ø Posologie et voie d'administration
+
+La posologie recommandée est de 2,4 mg/kg à 0 heure, 12 heures et 24 heures, puis toutes les 24 heures. Un maximum de 9 doses, soit 7 jours de traitement complet pourra être administré.
+
+Le traitement par voie IV sera poursuivi tant que la voie orale n'est pas possible. La voie orale ne peut être envisagée qu'après 3 doses minimum.
+
+Ø Effets indésirables
+
+- Diminution des réticulocytes, plus rarement des leucocytes
+
+- Anémie hémolytique
+
+B. Artéméther injectable
+
+Ø Présentation
+
+Elle se présente sous forme d'ampoule dosée à 80 mg. C'est une solution huileuse incolore ou jaune clair.
+
+50 | Guide du facilitateur | Septembre 2015
+
+Ø Posologie et voie d'administration
+
+Elle est administrée en intramusculaire profonde (IM) et est exclusivement réservée aux centres de santé et établissements hospitaliers.
+
+NB : L'utilisation de l'artésunate et de l'artéméther injectables est proscrite dans les postes de santé et structures communautaires.
+
+Ø
+
+Effets indésirables
+
+- Hypothermie transitoire,
+
+- Baisse des réticulocytes,
+
+- Légère augmentation des transaminases (ASAT, ALAT) chez quelques individus
+
+- arythmie ventriculaire (rare).
+
+C. Quinine injectable
+
+Ø Présentation
+
+La quinine est administrée par voie intraveineuse
+
+Ø Artéméther + Luméfantrine, (A-L)
+
+Ø Artésunate + Amodiaquine, (AS-AQ)
+
+Ø Dihydroartémisinine- Pipéraquine phosphate (DHA-PQ)
+
+NB :
+
+- Chez la femme enceinte l'administration de la DHA/PQ est contre indiquée
+
+- Pendant le 1er trimestre le traitement se fera exclusivement avec de la quinine pendant 7 jours :
+
+o par voie orale en l'absence de vomissements o par voie intraveineuse chez la femme qui présente des vomissements. le relais oral se fera dès que possible.
+
+Ø Posologie v 25 mg/kg/jour de quinine base v Rrépartis en 2 à 3 perfusions par jour dans du sérum glucosé à 10% à défaut à 5% à raison de 5 à 10 ml de sérum/Kg v Durée de la perfusion : 4 heures v Espace entre les perfusions :
+
+Ø 10 à 12 heures si on fait 2 perfusions par jour
+
+Ø 8 heures si on fait 3 perfusions par jour.
+
+v Durée du traitement : 5-7 jours ; faire le relais par voie orale dès que possible NB :
+
+- Du fait de l'effet hypoglycémiant de la quinine il est recommandé de l'utiliser dans une perfusion de sérum glucose (SG5, SG10)
+
+- L'administration de la quinine par voie intramusculaire est proscrite.
+
+Guide du facilitateur | Septembre 2015 | 51
+
+Ø Effets indésirables v Hypoglycémie v Myasthénie grave avec faiblesse musculaire et fatigue v Anémie hémolytique chez certaines personnes v La Fibrillation auriculaire
+
+TRAITEMENT PRÉ-TRANSFERT
+
+Ø Introduction
+
+L'administration d'un dérivé de l'artémisinine par la voie rectale avant le transfert du malade est praticable et acceptable, même au niveau de la communauté.
+
+Ø Principe
+
+Il s'agit d'instaurer un traitement pré transfert du paludisme grave par l'utilisation d'un dérivé d'artémisinine chez les enfants de moins de 5 ans.
+
+Ø Présentation
+
+La molécule se présente sous forme de suppositoires (rectocaps) dosés à 50 mg, 100 mg, 200 mg, 300 mg et 400 mg.
+
+Ø Posologie et voie d'administration
+
+Le rectocaps est administré en dose unique 10mg/kg de poids par voie rectale Age
+
+Dosage
+
+0-11 mois
+
+12-42 mois
+
+43-60 mois
+
+5-13 ans
+
++ 13ans
+
+50mg
+
+100mg
+
+200mg
+
+300mg
+
+400mg
+
+Posologie
+
+1 suppositoire de 50 mg
+
+2 suppositoires de 50 mg
+
+1 suppositoire de 200 mg
+
+1 suppositoire de 200 mg + 2 suppositoires de 50 mg
+
+2 suppositoires de 200 mg
+
+Ø Effets indésirables v Irritation anale v Douleurs abdominales, nausées, vomissements, v Céphalées, vertiges.
+
+NB :
+
+- En cas d'expulsion du rectocaps, administrer une seconde dose.
+
+- I l est donc recommandé de n'utiliser des suppositoires d'artésunate que pour le traitement pré transfert et non en curatif.
+
+52 | Guide du facilitateur | Septembre 2015
+
+TRAITEMENT SYMPTOMATIQUE
+
+1. Température élevée
+
+Ø
+
+Ø
+
+Chez les adultes, la posologie est de 500 à 1000mg/prise sans dépasser 4 g/24 heures,
+
+NB : La prise en charge de la fièvre élevée (> 38,5°C) est une urgence chez la femme enceinte
+
+2. Insuffisance rénale
+
+Ø
+
+Si le malade est déshydraté, corriger la déshydratation
+
+Ø
+
+Placez une sonde urinaire pour contrôler l'émission d'urines.
+
+Ø
+
+Donner 1-2 mg/kg de furosémide.
+
+Ø
+
+Si le malade n'émet pas d'urines dans les 24 heures qui suivent, transférez-le pour une dialyse.
+
+Ø
+
+Si le transfert n'est pas possible réduire les doses de quinine de 50% à partir du 3ème jour
+
+TRAITEMENTS NON RECOMMANDÉS
+
+Les médicaments suivants ne sont d'aucune utilité dans le traitement du paludisme :
+
+- Corticostéroïdes
+
+- Substances utilisées contre l'œdème cérébral, ex. : urée.
+
+- Adrénaline
+
+- Héparine
+
+- Vasodilatateurs
+
+- Piracetam
+
+SUIVI DU MALADE
+
+Eléments de surveillance
+
+Le paludisme grave est une maladie qui tue et les malades doivent être suivis de près par des médecins et des infirmiers. Les soins doivent par conséquent inclure l'ensemble des actes suivants :
+
+Sur le plan clinique
+
+1. Contrôler les constantes
+
+1. Pouls
+
+2. Température
+
+3. Fréquence respiratoire
+
+4. Tension artérielle
+
+Ceux-ci doivent être contrôlés toutes les 6 heures, ou au moins toutes les 12 heures.
+
+Guide du facilitateur | Septembre 2015 | 53
+
+2. Contrôler l'alimentation et l'élimination des urines du malade
+
+3. Surveiller le malade inconscient
+
+On doit contrôler plus régulièrement et attentivement toutes les constantes des malades comateux pour suivre leur évolution en se basant sur l'échelle de Glasgow ou de Blantyre.
+
+Contrôlez l'état de conscience au moins toutes les 6 heures. Changez régulièrement la position des malades au lit pour éviter les escarres.
+
+4. Schéma thérapeutique
+
+On doit tenir un schéma thérapeutique clair où tous les médicaments administrés sont notés et où sont spécifiés les doses, l'heure et le nombre de fois où ils sont administrés par jour.
+
+5. Femmes enceintes
+
+On doit les suivre attentivement pour s'assurer qu'elles ne développent pas d'hypoglycémie et que le fœtus se porte bien.
+
+Sur le plan paraclinique
+
+1. Surveiller la parasitémie
+
+Effectuez une goutte épaisse à l'entrée chez tous les malades hospitalisés pour paludisme Faites une GE de contrôle au 3ème jour :
+
+- si la GE est négative, consolider le traitement jusqu'au 5ème jour
+
+- s i la GE est toujours positive, vérifiez l'administration et la posologie des médicaments et continuer le traitement jusqu'au 7ème jour, puis refaire une autre GE de contrôle.
+
+2. Surveiller la glycémie
+
+Faites la glycémie toutes les 6 heures au moins et si elle chute à < 0,40 g/l ou 2,2 mmol/l, traitez l'hypoglycémie.
+
+Maintenez l'administration de la solution de glucose ou de l'eau sucrée si vous ne pouvez pas surveiller la glycémie.
+
+Révisez l'administration de liquide ou veillez à ce que le malade prenne des aliments à travers la sonde nasogastrique.
+
+3. Contrôler l'hémoglobine/hématocrite
+
+Surveillez l'hématocrite/taux d'hémoglobine et tenir compte d'éventuels signes cliniques d'intolérance ou de décompensation de l'anémie pour transfuser le malade.
+
+NB : Tout malade hospitalisé pour paludisme grave doit obligatoirement avoir un dossier médical incluant une fiche de surveillance.
+
+Evaluation de la guérison
+
+Les notes et les observations faites contribueront à évaluer le rétablissement des malades. Il est également important de noter la capacité du malade à :
+
+- parler
+
+- manger ou boire
+
+- s'asseoir
+
+- se tenir debout ou marcher
+
+54 | Guide du facilitateur | Septembre 2015
+
+Après rétablissement complet, examinez le malade pour rechercher d'éventuels problèmes résiduels de maladie ou de traitement. Il faudra au minimum :
+
+1. Evaluer l'aptitude du malade à faire ce qu'il/ elle faisait avant de tomber malade.
+
+2. Contrôler sa vue et son ouïe en demandant s'il peut voir ou entendre ; utiliser pour les enfants des objets ou des hochets bruyants.
+
+3. Faire un résumé du dossier médical du malade, en présentant les symptômes, les tests de laboratoire, le traitement administré, la réaction au traitement et tout autre problème résiduel.
+
+Ce résumé doit accompagner le malade s'il est référé vers un autre établissement de soins.
+
+Suivi après la sortie du malade
+
+1. Le suivi du malade se fera une semaine après la sortie d'hôpital (14ème jour). A ce rendezvous, il faut évaluer le malade en posant des questions sur la fièvre ou tout autre symptôme et faire un examen clinique à la recherche de signes de complications résiduelles et de tout autre signe nouveau ; si nécessaire, faire une GE et une NFS
+
+2. Si la parasitémie persiste au 14ème jour, vérifiez que le malade a bien suivi le traitement et prenez les mesures appropriées :
+
+- si la parasitémie est accompagnée de manifestations cliniques : traiter le malade et faire un prélèvement sanguin sur papier buvard et l'envoyer au laboratoire de référence pour réaliser une PCR.
+
+- S'il n'y a pas de manifestations cliniques, donner un traitement de paludisme simple et maintenir la surveillance jusqu'au 28e jour.
+
+4. Si l'anémie persiste, donnez de l'acide folique et du sulfate ferreux et refaire l'examen après 1mois pour vérifier le taux d'hémoglobine ou d'hématocrite.
+
+PRISE EN CHARGE DES CAS GRAVES SELON LE NIVEAU DE RECOURS
+
+1. An niveau communautaire
+
+L'ASC ou le DSDOM doit être en mesure de :
+
+- Reconnaître les signes de gravité du paludisme
+
+- Confirmer les cas avec les TDR
+
+- Utiliser les rectocaps d'artésunate pour les cas graves de paludisme chez les enfants de moins de 5 ans avant de les référer
+
+2. Au niveau du Poste de Santé
+
+L'Infirmier Chef de Poste (ICP) doit être capable de :
+
+- Reconnaître les signes de gravité du paludisme,
+
+- Confirmer les cas avec les TDR
+
+Transférer, en urgence, le patient accompagné d'une fiche de référence correctement remplie
+
+Guide du facilitateur | Septembre 2015 | 55
+
+3. Au niveau du Centre de Santé
+
+Le prestataire de soins doit
+
+- confirmer parasitologiquement par la goutte épaisse les cas de paludisme grave s'il existe un laboratoire fonctionnel (ou à défaut par TDR).
+
+- Demander :
+
+o une numération formule sanguine pour la mesure de l'hémoglobine et de l'hématocrite o une glycémie
+
+- Référer immédiatement les malades qui présentent une anémie grave, des signes d'hémorragie ou une hémoglobinurie
+
+- P rendre en charge certains signes de gravité: coma, convulsions, hypoglycémie, collapsus, OAP, insuffisance rénale fonctionnelle.
+
+- R éférer le malade à l'échelon supérieur en l'absence d'amélioration après 24 heures de traitement,
+
+4. Au niveau de l'établissement hospitalier
+
+- L a prise en charge diagnostique des malades devra s'appuyer autant que possible sur des examens paracliniques: GE, NFS, glycémie, azotémie, créatininémie, radiographie pulmonaire et tout autre examen disponible jugé nécessaire.
+
+- E n cas de coma ou de troubles neuropsychiatriques, une ponction lombaire sera effectuée pour éliminer une méningite.
+
+-
+
+Le traitement antipaludique et celui des complications seront conduits sur place. Le personnel médical jugera de l'opportunité du transfert des malades à l'échelon central.
+
+5. Au niveau des centres hospitaliers nationaux de référence ou des centres hospitaliers universitaires (CHU)
+
+Toutes les manifestations graves du paludisme seront prises en charge de façon optimale. En particulier, les malades pourront bénéficier :
+
+- d e différents examens complémentaires (parasitologiques, hématologiques, biochimiques, bactériologiques, radiographiques)
+
+- a insi que des moyens de réanimation (hémodialyse, assistance respiratoire, ...).
+
+56 | Guide du facilitateur | Septembre 2015
+
+EXERCICES
+
+Exercice 1
+
+Lieu : centre de santé de Saraya.
+
+Un enfant de 20 mois est devenu fébrile il y a deux jours et a vomi plusieurs fois aujourd'hui.
+
+Questions :
+
+1. a. L'enfant souffre-t-il de paludisme grave ? Pourquoi ?
+
+Oui, l'enfant souffre d'un paludisme grave parce que :
+
+- Il a eu des convulsions répétées
+
+- Il présente une prostration à l'examen
+
+- La GE est positive à P. falciparum b. Quelle conduite devez-vous tenir pour ce qui est du traitement d'urgence ?
+
+- Faire baisser la fièvre par enveloppement humide et par l'administration de paracétamol (Paracétamol IV : 1,5 ml/kg/dose x4).
+
+- Lutter contre l'hypoglycémie : placer une voie veineuse avec du SG10% ou bien placer une sonde nasogastrique et administrer de l'eau sucrée ou du lait maternel)
+
+- Lutter contre les convulsions : administrer du phénobarbital : 2 à 5 mg/kg en i.m.
+
+2. Quel traitement antipaludique administrerez-vous ? (Spécifiez la posologie, le mode d'administration et la durée du traitement).
+
+- Quinine : 25 mg/kg/j (soit 275 mg/j) en 3 perfusions espacées de 8 heures, dans du SG 10%, soit pour chaque perfusion : 88 mg de quinine-base dans 110 ml de SG 10%.
+
+Le traitement durera 5 à 7 jours.
+
+3. Au 3ème jour du traitement, l'état général s'est amélioré. Il est bien conscient et s'alimente correctement. Mais il est toujours fébrile, et la parasitémie persiste.
+
+Cela laisse-t-il penser que l'enfant a un paludisme chimiorésistant ?
+
+(Expliquez)
+
+Non, à ce stade, on ne peut penser à un paludisme chimiorésistant, car il faut attendre la fin du traitement prévu au 7ème jour pour juger de l'efficacité du traitement.
+
+Guide du facilitateur | Septembre 2015 | 57
+
+Exercice 2
+
+On vous emmène un garçon de 8 ans qui a une fièvre, qui a vomit 4 fois mais qui s'alimente.
+
+Quelles affections suspectez-vous ?
+
+- Un accès palustre simple
+
+- Une fièvre typhoïde
+
+- Une infection urinaire
+
+La goute épaisse effectuée revient positive avec une parasitémie élevée supérieure 100 000 parasites /μl
+
+Quel diagnostic allez-vous retenir ?
+
+- Un paludisme grave
+
+Quel traitement allez-vous administrer au malade
+
+- Q uinine : 25 mg/kg/j (soit 675 mg/j) en 3 perfusions espacées de 8 heures, dans du SG 10%, soit pour chaque perfusion : 216 mg de quinine-base dans 270 ml de SG 10%. Le traitement durera 5 à 7 jours.
+
+- P aracétamol: Paracetamol IV 1,5 ml/kg/dose soit 40,5 ml/dose, 4 fois dans les 24 heures.
+
+- R éhydratation par voie orale (plan B)
+
+Exercice 3
+
+La GE faite est positive à P. falciparum avec une densité parasitaire à 120 000 parasites/ μl.
+
+A-t-il des signes de gravité du paludisme si oui lesquels ?
+
+Oui, il a des signes de gravité :
+
+- Vomit tout ce qu'il consomme
+
+- Prostration
+
+- hyperparasitémie
+
+58 | Guide du facilitateur | Septembre 2015
+
+Quels sont les autres signes de gravité qu'il faut rechercher à l'examen ?
+
+- détresse respiratoire
+
+- saignement anormal
+
+- ictère
+
+- collapsus cardiovasculaire
+
+- hémoglobinurie
+
+Quels sont les examens complémentaires que vous allez faire en urgence ? Expliquez pourquoi ?
+
+- NFS à la recherche d'une anémie sévère (taux d'Hb < 5 g/dl)
+
+- Glycémie à la recherche d'une hypoglycémie (glycémie < 0,40 g/l)
+
+Exercice 4
+
+Quelle est la conduite à tenir ?
+
+Justifiez votre réponse
+
+Correction exercice 4
+
+GE positive
+
+Femme enceinte au 1er trimestre, on a un palu grave
+
+Traitement :
+
+La femme vomit donc quinine IV jusqu a arrêt des vomissements, relais quinine orale de façon à avoir 7 jours de traitement quinine
+
+PEC de la fievre avec paracetamol 500mg à 1000mg par prise sans dépasser 4g par jour Surveillance ++++ (MAF, BDCF)
+
+PHOTOS MONTRANT DES ASPECTS CLINIQUES
+
+DU PALUDISME GRAVE
+
+Dissociation du regard chez une patiente atteinte de paludisme cérébral les axes visuels ne sont pas parallèles, ni dans le plan vertical, ni dans le plan horizontal (© D.A. Warrell)
+
+Anémie sévère (taux d'hémoglobine = 1,2g/dl) consécutive à des épisodes repétés de paludisme chez un enfant africain (© D.A. Warrell)
+
+Guide du facilitateur | Septembre 2015 | 59
+
+Hémorragies rétiniennes multiples chez un enfant atteint de paludisme cérébral (© K. Marshal)
+
+Attitude en opisthotonos chez un enfant comateux profond atteint de paludisme cérébral.
+
+Photo 5. Convulsions focalisées chez un enfant atteint de paludisme cérébral, notez la déviation des yeux, de la bouche à gauche et l'élévation du bras gauche (© J. Crawley)
+
+Œdème aigu du poumon survenu immédiatement après l'accouchement chez une femme atteinte de paludisme grave (© Sornchai Looareesuwan)
+
+Tirage sous – costal chez un enfant en détresse respiratoire avec acidose métabolique et atteint de paludisme grave (© D.A. Warrell)
+
+60 | Guide du facilitateur | Septembre 2015
+
+M A I N E 1 2015
+
+GUIDE DU FACILITATEUR D
+
+- O
+
+SEPTEMBRE
+
+PREVENTION DU
+
+PALUDISME
+
+Guide du facilitateur | Septembre 2015 | 61
+
+DOMAINE 3 : PREVENTION DU PALUDISME
+
+PREVENTION MEDICAMENTEUSE
+
+1. a : TRAITEMENT PREVENTIF INTERMITTENT (TPI) CHEZ LA FEMME
+
+ENCEINTE.
+
+Objectifs pédagogiques du cours
+
+1. Expliquer l'importance du TPI chez la femme enceinte
+
+2. Connaitre les modalités d'administration de la sulfadoxine pyriméthamine (SP) 3. Administrer la SP sous traitement directement observé (TDO) selon les directives du PNLP.
+
+4. Citer les contre-indications de la SP chez la femme enceinte.
+
+Méthodologie
+
+-
+
+-
+
+-
+
+-
+
+Brainstorming
+
+Questions/réponses
+
+Exposé suivi de discussions
+
+Démonstration
+
+1. Définition
+
+Le TPI chez la femme enceinte est une méthode de prévention du paludisme basé sur l'administration d'une dose curative d'un antipaludique (SP) de façon intermittente au cours de la grossesse.
+
+2. Rappel
+
+La femme enceinte est une cible vulnérable au paludisme du fait des conséquences graves aussi bien pour elle que pour le fœtus qu'elle porte.
+
+Conséquences du paludisme sur la femme enceinte
+
+- Fièvre élevée
+
+- Infection plasmodiale du placenta
+
+- Anémie
+
+- Paludisme grave
+
+- Avortement
+
+- Mort
+
+Conséquences sur le fœtus et le nouveau-né
+
+- Insuffisance pondérale à la naissance
+
+- Faible Poids de Naissance (FPN)
+
+- Prématurité
+
+- Mort - MC
+
+- Paludisme congénital
+
+62 | Guide du facilitateur | Septembre 2015
+
+- Anémie fœtale
+
+- Mortalité infantile
+
+Le TPI contribue ainsi fortement à la réduction de la mortalité maternelle et néonatale ....................
+
+3. Principes du TPI
+
+L'OMS recommande donc que toutes les femmes enceintes reçoivent au moins deux doses de Sulfadoxine Pyriméthamine (SP) (lors de chaque contact après le 1er trimestre) après l'apparition des mouvements actifs du fœtus.
+
+Des prises supplémentaires peuvent être administrées jusqu'à l'accouchement en respectant l'intervalle d'au moins un mois entre deux prises. Chaque dose supplémentaire protège d'avantage la femme enceinte et le fœtus.
+
+Le fait d'empêcher les parasites de s'attaquer au placenta aide le fœtus à se développer normalement et lui évite une insuffisance pondérale à la naissance.
+
+Le gouvernement du Sénégal a adopté une politique de gratuité de la SP.
+
+4. Modalités du traitement
+
+Ø Posologie
+
+La Sulfadoxine Pyriméthamine, comprimé de 500mg (S) et 25mg (P) doit être administrée à la femme enceinte en une seule prise (3 comprimés).
+
+Ø Modalités d'administration
+
+L'administration se fera lors des consultations prénatales ou lors de tout autre contact avec la structure sanitaire pendant les 2ème et 3ème trimestres.
+
+-
+
+1ère prise : à partir de la 16ème semaine d'aménorrhée ou dès perception des mouvements actifs du fœtus par la gestante.
+
+- 2ème prise : au moins un mois après la première prise
+
+- Des prises supplémentaires : administrées en respectant un intervalle d'au moins un mois entre deux prises.
+
+Important :
+
+- La Sulfadoxine- Pyriméthamine doit être donnée gratuitement et administrée pendant la consultation prénatale sous la supervision d'un agent de santé à travers le traitement directement observé (TDO) ;
+
+- Il n'existe plus de spécificité pour la femme enceinte séropositive qui, au même titre que l'immunocompétente devra bénéficier d'au moins trois prises de SP ;
+
+- la SP est contre-indiquée chez la femme enceinte séropositive au VIH sous cotrimoxazole.
+
+- La femme enceinte peut recevoir la SP jusqu'à l'accouchement sans risque en respectant l'intervalle d'au moins un mois entre deux prises,
+
+- La SP peut être prise à jeun ou avec des aliments
+
+Guide du facilitateur | Septembre 2015 | 63
+
+Ø Effets indésirables de la SP
+
+- Effets indésirables majeurs :
+
+Réactions cutanées allergiques graves : Syndrome de Lyell ou de Stevens-Johnson Anomalies hématologiques : leucopénie, thrombopénie, anémie mégaloblastique
+
+- Effets indésirables mineurs :
+
+Troubles gastro-intestinaux
+
+NB :
+
+Le prestataire doit :
+
+- p rendre en charge les effets indésirables mineurs
+
+- référer les patientes présentant des effets indésirables graves vers les centres de santé et hôpitaux
+
+- n otifier systématiquement tous les cas d'effets indésirables sur les fiches de pharmacovigilance
+
+Ø Précautions d'utilisation de la SP chez la femme enceinte
+
+- D urant le premier trimestre de la grossesse (avant la 16ème semaine d'aménorrhée) la Sulfadoxine-Pyriméthamine qui est un antifolate, n'est pas recommandée.
+
+- U n intervalle d'au moins un mois doit être respecté entre deux prises de SP ; à cause de sa longue demi-vie la SP pourrait avoir un effet cumulatif et exacerber les risques d'effets secondaires.
+
+- L a Sulfadoxine- Pyriméthamine ne doit pas être administrée à des femmes ayant des antécédents d'hypersensibilité ou d'allergie aux médicaments à base de sulfamide.
+
+Comment prevenir le paludisme chez la femme enceinte ?
+
+Le paludisme est très dangereux chez la femme enceinte.
+
+Il peut provoquer :
+
+* une fausse couche
+
+* la naissance d'un enfant mort-né
+
+* un petit poids du bébé à la naissance
+
+* une anémie de la mère
+
+* la mort de la mère
+
+POUR EVITER LE PALUDISME, TOUTE FEMME ENCEINTE DOIT
+
+DORMIR SOUS MOUSTIQUAIRE IMPREGNEE PENDANT TOUTE
+
+LA DUREE DE LA GROSSESSE ET PRENDRE LA SP LORS DES
+
+CONSULTATIONS PRENATALES.
+
+Administration de la SP sous TDO
+
+64 | Guide du facilitateur | Septembre 2015
+
+1. b. CHIMIOPREVENTION DU PALUDISME SAISONNIER (CPS)
+
+Objectifs pédagogiques du cours
+
+A la fin de la session, les participants seront capables de :
+
+1. Définir la CPS
+
+2. Expliquer les critères d'éligibilité des zones et la population cible 3. Connaitre les molécules utilisées
+
+4. Expliquer les modes d'administration des molécules
+
+Méthodologie
+
+- Brainstorming
+
+- Questions/réponses
+
+- Exposé suivi de discussions
+
+- Démonstration
+
+1. Définition
+
+La Chimioprévention du Paludisme Saisonnier (CPS) est l'administration mensuelle d'un traitement complet de Sulfadoxine - Pyriméthamine (SP) + Amodiaquine (AQ) pendant la saison palustre aux enfants de 3 à 120 mois (9 ans révolus) pour éviter le paludisme
+
+2. Objectif
+
+3. Stratégie
+
+La stratégie de la CPS consiste à administrer un maximum de trois à quatre cycles de traitement de SP + AQ à des intervalles d'un mois à des enfants âgés de 3 à 120 mois dans les régions de forte transmission saisonnière du paludisme.
+
+Conformément aux directives de l'OMS, les zones éligibles répondent aux critères suivants :
+
+- plus de 60% des cas de paludisme surviennent dans un maximum de 4 mois
+
+- le taux d'incidence est supérieur à 10 % par saison chez les moins de 5 ans
+
+- 60% de la pluviométrie annuelle se concentre sur une période n'excédant pas 3 mois ;
+
+- l'efficacité de l'Amodiaquine et de la Sulfadoxine Pyriméthamine est prouvée (au moins égale à 90%).
+
+Au Sénégal, les zones concernées pour le moment sont :
+
+les régions de Kédougou (4 cycles), Kolda, Sédhiou et Tambacounda (3 cycles).
+
+4. Les bénéfices attendus de la CPS sont :
+
+- Une réduction d'environ 75 % de l'ensemble des accès palustres ;
+
+- Une réduction d'environ 75 % des accès palustres graves ;
+
+- Une réduction de la mortalité de l'enfant d'environ 1 pour 1000
+
+Guide du facilitateur | Septembre 2015 | 65
+
+- Réduit l'incidence de l'anémie modérée et sévère ;
+
+- Est bien toléré avec très peu d'évènements indésirables
+
+5. Médicaments
+
+Les médicaments recommandés au Sénégal pour la CPS sont les suivants :
+
+- Sulfadoxine-Pyriméthamine (SP) /500/25mg/cp
+
+- Amodiaquine (AQ) 150mg/cp
+
+- Une Bonne Tolérence
+
+6. Posologie
+
+La CPS est administrée aux posologies ci-dessous selon les trois groupes d'âge définis :
+
+Groupes d'âge
+
+Jour 1*
+
+Jour 2
+
+Jour 3
+
+3-11 mois
+
+1⁄2 cp SP + 1⁄2 cp amodiaquine
+
+1⁄2 cp amodiaquine
+
+1⁄2 cp amodiaquine
+
+12-59 mois
+
+1 cp SP + 1cp amodiaquine
+
+1 cp amodiaquine
+
+1 cp amodiaquine
+
+5-9 ans
+
+11⁄2 cp SP + 11⁄2 cp amodiaquine 11⁄2 cp amodiaquine 11⁄2 cp amodiaquine
+
+NB : La prise du 1er jour est faite sous TDO.
+
+7. Contre-indications
+
+- Enfants ayant reçu un de ces médicaments ou une association contenant SP ou AQ dans les 9 jours précédant le passage
+
+- Enfants ayant des antécédents allergiques supposés après prise de sulfamides ou d'amodiaquine
+
+- Enfants porteurs du virus de l'immunodéficience acquise, recevant du cotrimoxazole en traitement prophylactique contre les infections opportunistes
+
+8. Effets indésirables
+
+- les manifestations dermatologiques : syndrome de Lyell ou de Stevens-Johnson
+
+- les manifestations hématologiques: leucopénie, thrombopénie, anémie mégaloblastique
+
+- Hépatite, agranulocytose (au décours de prises prolongées d'Amodiaquine)
+
+9. Recommandations particulières
+
+- La prise du premier jour est faite sous Traitement Directement Observé
+
+- Il est impératif de respecter le délai de 30 jours entre les traitements/cures
+
+- Le traitement/cure dure 3 jours successifs par mois pendant les 3 à 4 mois éligibles.
+
+- Il faut au minimum 3 cycles successifs de traitement (3 mois Aout Septembre et Octobre) espacé d'un mois
+
+- Pour les zones éligibles où les pluies s'installent plus tôt, le nombre de traitement/cure pourra être élargi à 4 (l'administration démarrant dès le mois de juillet : exemple Kédougou)
+
+66 | Guide du facilitateur | Septembre 2015
+
+1. c. CHIMIOPROPHYLAXIE DU VOYAGEUR
+
+Objectifs pédagogiques du cours
+
+A la fin de la session, les participants devront être capable de :
+
+1. Connaitre la cible concernée par la chimioprophylaxie
+
+2. Enumérer les molécules ou association de molécules utilisées
+
+3. Expliquer les schémas prophylactiques
+
+4. Connaitre les recommandations particulières de la chimioprophylaxie du voyageur
+
+Méthodologie
+
+- Brainstorming
+
+- Questions/réponses
+
+- Exposé suivi de discussions
+
+- Démonstration
+
+1. DEFINITION DES CAS
+
+On entend par voyageur le sujet qui vient séjourner au Sénégal.
+
+Ainsi, différents cas peuvent être définis :
+
+- Un sujet neuf n'ayant jamais vécu dans une zone endémique
+
+- U n sujet ayant déjà vécu dans une zone endémique et qui vient d'une zone non endémique après un séjour permanent de plus de deux ans
+
+2. SCHEMAS PROPHYLACTIQUES
+
+a. Association Atovaquone (250) –Proguanil (100mg)
+
+- Présentation :
+
+Existe seulement en combinaison fixe :
+
+Formes
+
+Dosage
+
+Forme adulte :
+
+Comprimé de 250 mg d'Atovaquone et de 100 mg de Proguanil
+
+Forme pédiatrique : Comprimé de 62,5 mg d'Atovaquone et Proguanil 25mg
+
+Guide du facilitateur | Septembre 2015 | 67
+
+- Posologie :
+
+Catégorie d'Age et de Poids
+
+Posologie
+
+Adulte et enfant de plus de 40 kg
+
+1 comprimé par jour:
+
+250 mg d'Atovaquone - 100 mg de Proguanil
+
+Enfant de 31 à 40kg
+
+3 comprimés par jour en une seule prise :
+
+62,5 mg d'Atovaquone - Proguanil 25mg
+
+Enfant de 21 à 30 kg
+
+2 comprimés par jour en une seule prise :
+
+62,5 mg d'Atovaquone -Proguanil 25mg
+
+Enfant de 11 à 20kg
+
+1 comprimé par jour :
+
+62,5 mg d'Atovaquone - Proguanil 25mg
+
+NB :
+
+- Le traitement sera débuté la veille ou le jour du départ en zone d'endémie. Il sera poursuivi pendant la durée du risque d'impaludation et 7 jours après avoir quitté la zone d'endémie.
+
+- La durée d'administration ne devra pas dépasser 3 mois.
+
+- Pour la femme enceinte, la prescription est laissée à l'appréciation du médecin traitant.
+
+b. Doxycycline
+
+- Présentation :
+
+Dénomination commune internationale (DCI)
+
+Monohydrate de Doxycycline
+
+Présentation et Dosage
+
+Comprimés à 50 mg
+
+Comprimés à 100 mg
+
+- Posologie :
+
+- Adulte et enfant de plus de 40kg : la posologie est de 100 mg par jour
+
+- Enfant de moins de 40kg : la posologie est de 50mg par jour
+
+NB :
+
+- La Doxycycline est contre indiquée avant l'âge de 8 ans et chez la femme enceinte à partir du deuxième trimestre (elle expose l'enfant à naître au risque de coloration des dents de lait).
+
+- La Doxycycline est déconseillée pendant le premier trimestre de la grossesse.
+
+- Précaution à prendre pour l'utilisation de la Doxycycline:
+
+o La prise le soir au cours du repas, au moins 1 h avant le coucher, associée à une protection solaire adaptée.
+
+oL a prise est à débuter le jour d'arrivée en zone à risque et doit être poursuivie quatre semaines après la sortie de cette zone.
+
+68 | Guide du facilitateur | Septembre 2015
+
+3. EFFETS INDESIRABLES DES ANTIPALUDIQUES EN CHIMIOPROPHYLAXIE :
+
+Tous les médicaments antipaludiques utilisés en chimioprophylaxie : Chloroquine, Doxycycline, Atovaquone + Proguanil ont des effets indésirables neuropsychiques, digestifs, cutanés, en règle non graves.
+
+La Doxycycline peut entrainer une photosensibilité (en cas d'exposition au soleil) qui est dose dépendante (non significative à 50 mg, peu significative à 100 mg, fréquente à 200 mg).
+
+Signalez à votre médecin ou à votre pharmacien tout effet non souhaité et gênant.
+
+4. RECOMMANDATIONS PARTICULIERES
+
+- L a chimioprophylaxie ne dispense pas des mesures destinées à empêcher les piqûres de moustiques : port de vêtements longs après le coucher du soleil, insecticides, utilisation de moustiquaires.
+
+- L
+
+'utilisation de moyens de prévention n'exclut pas totalement le risque de paludisme.
+
+Toute fièvre importante durant le séjour ou dans les 4 semaines qui suivent le retour peut traduire un accès palustre et nécessite une consultation médicale d'urgence pour un diagnostic précis et un traitement approprié.
+
+Guide du facilitateur | Septembre 2015 | 69
+
+DOMAINE 3 : PREVENTION DU PALUDISME
+
+LUTTE ANTIVECTORIELLE
+
+1 - DÉFINITION
+
+Il existe 3 interventions majeures de la lutte anti vectorielle mises en œuvre par le PNLP:
+
+- la moustiquaire (MILDA)
+
+- l'aspersion intra domiciliaire
+
+- la lutte anti larvaire (LAL)
+
+Cependant il existe la pulvérisation spatiale (PSI), technique souvent utilisée par le service national de l'hygiène (SNH)
+
+2. a. L A MOUSTIQUAIRE IMPREGNEE D'INSECTICIDE A LONGUE DUREE
+
+D'ACTION (MILDA)
+
+Objectifs pédagogiques du cours
+
+1. Définir la MILDA
+
+2. Citer les avantages de la MILDA
+
+3. Connaitre le système d'approvisionnement en MILDA
+
+4. Connaitre les différents canaux de distribution des MILDA
+
+5. Connaitre la technique d'utilisation de la MILDA
+
+6. Connaitre la technique d'entretien de la MILDA
+
+Méthodologie
+
+- Brainstorming
+
+- Questions/réponses
+
+- Exposé suivi de discussions
+
+- Démonstration
+
+- Jeux de rôles
+
+- Exercices
+
+Selon l'OMS, la MILDA est un tissu de gaze qui repousse, rend inactif ou tue les moustiques qui viennent en contact avec l'insecticide imprégné dans ce tissu.
+
+Une MILDA est traitée industriellement. Les fibres qui la constituent contiennent en abondance l'insecticide avec une durée d'efficacité qui couvre plusieurs années.
+
+70 | Guide du facilitateur | Septembre 2015
+
+Cette MILDA conserve son effet insecticide sans ré imprégnation pendant 20 lavages ou après 3 années d'utilisation.
+
+2 - AVANTAGES DE LA MILDA
+
+- Pour la communauté :
+
+- Les MILDA sont moins coûteuses que le traitement contre l'infection palustre.
+
+- Les MILDA réduisent le nombre de personnes qui tombent malade du paludisme et le nombre de personnes qui meurent du paludisme compliqué.
+
+- Les MILDA aident à :
+
+o Eviter la maladie chez les enfants, o Promouvoir la santé et la croissance des enfants.
+
+o Améliorer la productivité.
+
+- Pour les femmes enceintes, Les MILDA réduisent les contacts avec le moustique. Ceci diminue le risque d'infection, prévient le risque de parasitémie périphérique ainsi que l'anémie et le décès maternel.
+
+- Pour le fœtus et le nouveau-né, les MILDA aident à :
+
+- Diminuer le risque d'infestation placentaire donc l'incidence de l'insuffisance pondérale à la naissance
+
+- Réduire l'incidence de l'anémie néonatale
+
+- Réduire le risque de décès néonatals.
+
+Tableau I : Comparaison des moustiquaires imprégnées d'insecticides avec les moustiquaires nonimprégnées d'insecticide MOUSTIQUAIRES NON IMPREGNEES
+
+MILDA
+
+- Fournissent une certaine protection contre le paludisme
+
+- Fournissent un haut niveau de protection contre le paludisme
+
+- Ne tuent pas les moustiques qui y touchent et ne les repoussent pas
+
+- Tuent ou repoussent les moustiques qui y touchent
+
+- Ne diminuent pas le nombre de moustiques
+
+- Réduisent le nombre de moustiques
+
+- Ne tuent pas d'autres insectes tels que les poux, les tiques, les punaises et les cafards
+
+- Tuent d'autres insectes tels que les poux, les tiques, les punaises et les cafards
+
+- Ne présentent pas de risques pour les femmes enceintes, les jeunes enfants et les nourrissons
+
+- Ne présentent pas de risques pour les femmes enceintes, les jeunes enfants et les nourrissons (Extrait de Prévention et contrôle du paludisme pendant la grossesse – JHPIEGO, 2003)
+
+NB : L'OMS a recommandé les insecticides à utiliser pour traiter les moustiquaires. Ils sont sûrs pour les êtres humains et sont utilisés dans de nombreux pays dans le monde entier. Les quantités d'insecticide utilisées pour les moustiquaires sont diluées et sont trop petites pour avoir un effet sur les humains, y compris les nouveau-nés.
+
+Guide du facilitateur | Septembre 2015 | 71
+
+3. Approvisionnement en MILDA
+
+Les populations peuvent trouver les MILDA :
+
+- Au niveau des endroits suivants :
+
+- Formations sanitaires (postes de santé, centres de santé), publiques et privées
+
+- Chez les agents de santé communautaire
+
+- Magasins de marchandises générales
+
+- Pharmacies
+
+- Marchés
+
+- Auprès des organisations non-gouvernementales et des groupes communautaires (organisations communautaires de base, associations sportives et culturelles...)
+
+- Ou lors des campagnes de distribution gratuite (couverture universelle en MILDA)
+
+4. Utilisation de la MILDA
+
+Pour qu'une MILDA protège contre les piqures de moustiques de manière efficace, il faut l'utiliser et en prendre soin correctement.
+
+Voici les conseils pour l'utilisation d'une MILDA:
+
+-S uspendre la moustiquaire pour qu'elle couvre le lit ou le tapis de couchage entièrement et la border sous le matelas ou le tapis.
+
+-U tiliser la moustiquaire chaque nuit pendant toute l'année et non pas seulement quand les moustiques dérangent.
+
+-L a manipuler délicatement pour qu'elle ne se déchire pas.
+
+-P endant la journée, la nouer et la garder à l'écart pour éviter de l'endommager.
+
+- Inspecter la moustiquaire régulièrement pour détecter les trous et les réparer si possible.
+
+-N e pas fumer près de la moustiquaire ou l'utiliser près du feu, car elle peut s'enflammer.
+
+-C hanger la MILDA lorsqu'elle a atteint sa durée de vie inscrite sur l'emballage
+
+Figure 1. Moustiquaire imprégnée d'insecticide, bordée sous un lit (a) et bordée sous un tapis de couchage (b) (Extrait de Prévention et contrôle du paludisme pendant la grossesse – JHPIEGO, 2003)
+
+72 | Guide du facilitateur | Septembre 2015
+
+5. Entretien de la MILDA
+
+La MILDA doit être :
+
+- Etalée à l'ombre pendant 24 heures avant la première utilisation ;
+
+- Tenue dans un endroit propre ;
+
+- Lavée en cas de besoin avec du savon ordinaire;
+
+- Réparée en cas de déchirure.
+
+La MILDA ne doit pas être :
+
+- Lavée avec de l'eau chaude ou javellisée ;
+
+- Etalée ou séchée au soleil après lavage ;
+
+- Ré imprégnée.
+
+POUR EVITER LE PALUDISME
+
+Utilisons les rideaux et la moustiquaire imprégnés. Ils protègent efficacement contre les pîqûres de moustiques et participent ainsi à la prévention du paludisme.
+
+Femme enceinte (a) et enfants de moins de dix ans (b) dormant sous MILDA
+
+Guide du facilitateur | Septembre 2015 | 73
+
+2. b. L'Aspersion intra-domiciliaire d'insecticide (AID)
+
+Objectifs pédagogiques du cours
+
+1. Définir les AID
+
+2. Connaitre les insecticides utilisés au Sénégal
+
+3. Connaitre les critères d'éligibilité des sites
+
+4. Connaitre les critères d'éligibilité des supports
+
+5. Connaitre les limites de l'AID
+
+Méthodologie
+
+- Brainstorming
+
+- Questions/réponses
+
+- Exposé suivi de discussions
+
+- Démonstration
+
+- Exercices
+
+1. Définition
+
+L'AID consiste à appliquer sur un support pouvant servir de lieux de repos aux vecteurs ciblés (murs, plafonds et toits) un insecticide, dans le but de réduire leur densité et ou leur longévité.
+
+L'effet rémanence de l'insecticide est variable (3 à plus de 6 mois) selon la molécule. Cette stratégie est mise en œuvre par le PNLP dans certains districts du pays depuis 2007.
+
+2. Les insecticides utilisés au Sénégal
+
+3 familles d'insecticides sont utilisées :
+
+- les pyréthrinoides avec 2 molécules différentes : la lambda-cyhalothrine et la deltamethrine
+
+- les carbamates avec le bendiocarb
+
+- les organophosphorés avec le pirimiphos methyl
+
+3. Critères d'éligibilité des sites d'intervention
+
+Cette stratégie est réalisable dans tous les faciès épidémiologiques qui répondent à certains caractéristiques.
+
+- Les vecteurs ciblés doivent avoir 3 caractéristiques :
+
+- Endophages : tendance à piquer à l'intérieur des habitations
+
+- Endophiles : tendance à se reposer à l'intérieur des habitations
+
+- une susceptibilité à l'insecticide utilisé
+
+- 80% des structures doivent être éligibles à l'aspersion.
+
+-L es infrastructures doivent être adéquates (moins de meubles ou de matériels lourds difficile à déplacer).
+
+74 | Guide du facilitateur | Septembre 2015
+
+NB : il est nécessaire que les populations dorment à l'intérieur des habitations la nuit.
+
+4. Critères d'éligibilité des supports
+
+Tout support qui ne permet pas la fixation de l'insecticide aspergé n'est pas éligible à cette intervention. On peut citer quelques-uns tels que :
+
+- Des supports en métal,
+
+- Des supports vitrés,
+
+- Des supports recouverts d'une peinture à huile.
+
+5. Les limites de l'AID
+
+- L'intervention qui coûte chère
+
+- Elle demande beaucoup de ressources humaines.
+
+- Certains insecticides utilisés peuvent avoir un effet répulsif réduisant l'entrée des moustiques dans les habitations.
+
+- Certaines populations de vecteurs peuvent être résistantes aux insecticides
+
+- La méthode est sélective car elle ne détruit que la fraction des populations de vecteurs qui entre dans les habitations.
+
+- Elle nécessite une bonne adhésion des populations.
+
+- L'intervention est difficile à réaliser dans les zones enclavées Cependant il existe une autre forme d'aspersion/pulvérisation dite spatiale.
+
+6. Pulvérisation spatiale d'insecticide (PSI)
+
+Les limites de la PSI
+
+- L'action insecticide n'est pas durable et il faut en général refaire le traitement un certain nombre de fois par semaine ou par mois.
+
+- Le risque de pollution et de contamination des zones traitées est réel.
+
+- L'insecticide peut affecter la faune non cible.
+
+- La réussite de l'intervention dépend des conditions météorologiques (direction du vent, pluie, température)
+
+Guide du facilitateur | Septembre 2015 | 75
+
+Exercice 1 :
+
+Lors de la campagne AID, un applicateur entre dans une concession et traite toutes les 5 pièces qui s'y trouvent et qui présentent les caractéristiques suivantes.
+
+Est-ce que l'applicateur a respecté les règles d'éligibilité des supports ?
+
+Expliquer en détaillant les raison de votre position.
+
+Si vous étiez à sa place quelles de pièces alliez-vous traiter ?
+
+Exercice 2 :
+
+Quel insecticide doit-elle utiliser ? Pourquoi ?
+
+Donner la période idéale pour faire l'application et expliquer les raisons de ce choix.
+
+Corrigé de l'exercice
+
+Exercice 1 :
+
+Non, l'applicateur n'a pas respecté les règles d'éligibilité des supports Certains supports ne permettent pas la fixation du produit. Il s'agit des supports avec peinture à huile (a), des supports métallique/zinc (d). Les pièces qui servent de la conservation de la nourriture ne sont pas éligibles au traitement (e).
+
+A sa place, seules 2 pièces seront traitées, il s'agit des pièces b) et c)
+
+Exercice 2 :
+
+L'insecticide 3 doit être utilisé par ce que présentant une efficacité (rémanence) qui permet de couvrir la période où la transmission du paludisme est maximale.
+
+L'idéale est de faire l'application au mois de juillet, ce qui permettra une protection durant les 4 mois de transmission maximale de la zone.
+
+2. c. LUTTE ANTI LARVAIRE (LAL)
+
+Objectifs pédagogiques du cours
+
+1. définir la LAL
+
+2. connaitre les différentes approches de la LAL
+
+3. définir les critères d'éligibilité des sites
+
+4. connaitre les avantages de la LAL
+
+5. connaitre les limites de la LAL
+
+Méthodologie
+
+- Brainstorming
+
+- Questions/réponses
+
+- Exposé suivi de discussions
+
+- Exercices
+
+76 | Guide du facilitateur | Septembre 2015
+
+1 - DÉFINITION
+
+2 - LES DIFFÉRENTES APPROCHES DE LA LAL
+
+- Aménagement de l'environnement (lutte physique)
+
+L'aménagement de l'environnement consiste à modifier le milieu pour empêcher la création/formation de gîtes larvaires de moustiques vecteurs.
+
+- drainage des collections d'eau stagnante,
+
+- comblement ou assèchement des collections d'eau stagnante,
+
+- création de systèmes d'écluse pour amener des eaux salées dans des milieux d'eau douce,
+
+- rectification des berges des cours d'eau ou des grandes collections d'eau,
+
+- entretien (désherbage et curage) des réseaux d'irrigation,
+
+- modification des pratiques culturales,
+
+- amélioration de l'habitat, etc...
+
+- Lutte biologique
+
+La lutte biologique repose sur l'utilisation d'organismes vivants ou de produits dérivés dans les gites larvaires pour contrôler les vecteurs.
+
+- prédateurs (poissons, insectes),
+
+- micro-organismes (virus, bactéries, protozoaires, champignons, et/ou vers parasites).
+
+- Lutte chimique
+
+Elle consiste à l'utilisation de produits chimiques ou de dérives pour le contrôle des vecteurs. Le meilleur produit doit être efficace, rémanent et peu ou pas toxique pour la faune non cible.
+
+Cette méthode de lutte ne peut être efficace que dans les zones ayant l'ensemble des critères cidessus :
+
+- de paludisme instable,
+
+- à foyers circonscrits,
+
+- où les gîtes sont bien localisés et accessibles.
+
+3 - AVANTAGES DE LA LAL
+
+Guide du facilitateur | Septembre 2015 | 77
+
+4 - INCONVÉNIENTS/LIMITES DE LA LAL
+
+La LAL est
+
+-d ifficile à mettre en œuvre dans les contextes écologiques et socio-économiques de nombre de pays africains d'endémie palustre car elle n'est pas simple,
+
+- coûte très cher
+
+- nécessite des traitements réguliers
+
+- une couverture suffisante (80% des gites).
+
+Exercice / Travail de groupe (MILDA)
+
+Enoncé :
+
+A la fin de la consultation, avant de laisser la cliente repartir, vous décidez de vous entretenir avec elle sur les mesures préventives à prendre contre le paludisme. Elle vous informe qu'elle vit dans une concession où le paludisme est une maladie fréquente et la moustiquaire inconnue. Cependant, elle a reçu la veille une MILDA offerte par les agents de santé communautaire mais ne l'a pas encore utilisé.
+
+Questions :
+
+1. Quels conseils lui donnerez-vous pour une utilisation efficace de la MILDA ?
+
+2. Quelles sont les mesures recommandées pour un bon entretien de la MILDA ?
+
+3. Quelles sont les actions à éviter pour que la MILDA ne perde pas son efficacité ?
+
+4. Ou est ce qu'on s'approvisionne en MILDA ?
+
+Corrigé exercices
+
+Exercice / Travail de groupe (MILDA)
+
+Enoncé :
+
+A la fin de la consultation, avant de laisser la cliente repartir, vous décidez de vous entretenir avec elle sur les mesures préventives à prendre contre le paludisme. Elle vous informe qu'elle vit dans une concession où le paludisme est une maladie fréquente et la moustiquaire inconnue. Cependant, elle a reçu la veille une MILDA offerte par les agents de santé communautaires, mais ne l'a pas encore utilisé.
+
+Questions :
+
+- Suspendre la moustiquaire pour qu'elle couvre le lit ou le tapis de couchage entièrement et la border sous le matelas ou le tapis.
+
+- Utiliser la moustiquaire chaque nuit pendant toute l'année et non pas seulement quand les moustiques dérangent.
+
+- La manier délicatement pour qu'elle ne se déchire pas. Pendant la journée, la nouer et la garder à l'écart pour éviter de l'endommager.
+
+- Ne pas fumer près de la moustiquaire ou l'utiliser près du feu, car elle peut s'enflammer.
+
+- Changer la MILDA lorsqu'elle a atteint sa durée de vie inscrite sur l'emballage.
+
+1. Quelles sont les mesures recommandées pour un bon entretien de la MILDA ?
+
+La MILDA doit être :
+
+- Tenue dans un endroit propre ;
+
+- Lavée en cas de besoin avec du savon ordinaire;
+
+- Réparée en cas de déchirure ;
+
+2. Quelles sont actions à éviter pour que la MILDA ne perde pas son efficacité ?
+
+La MILDA ne doit pas être :
+
+- Lavée avec de l'eau chaude ou javellisée ;
+
+- Etalée ou séchée au soleil après lavage;
+
+- Ré imprégnée
+
+78 | Guide du facilitateur | Septembre 2015
+
+M A I N E 3 2015
+
+GUIDE DU FACILITATEUR D
+
+- O
+
+SEPTEMBRE
+
+INTERVENTIONS
+
+DE SOUTIEN
+
+Guide du facilitateur | Septembre 2015 | 79
+
+DOMAINE 4 : INTERVENTIONS DE SOUTIEN
+
+COMMUNICATION INTERPERSONNELLE
+
+Objectifs pédagogiques du cours
+
+A la fin de ce module le participant devra être capable de :
+
+- Définir le concept de la CIP
+
+- Connaitre les objectifs de la CIP
+
+- Appliquer correctement les techniques de communication interpersonnelle
+
+Méthodologie
+
+-
+
+-
+
+-
+
+-
+
+Brainstorming
+
+Questions/réponses
+
+Exposé suivi de discussions
+
+Démonstration
+
+1. DEFINITION
+
+La CIP est une communication de personne à personne pouvant être verbale ou non verbale ou les deux en même temps. Elle permet d'établir une relation d'aide entre le prestataire et le client.
+
+2. LES DIFFERENTS TYPES DE CIP
+
+-L a communication verbale est un mode de communication utilisant le verbe ; il exprime l'empathie, l'approbation, l'encouragement au bon comportement.
+
+- la communication non verbale permet de communiquer avec le client par le gestuel (attitudes, mimique, expressions faciales, etc....)
+
+3. APPLICATION DE LA CIP A LA PRISE EN CHARGE DU PALUDISME
+
+1. Bien communiquer avec le ou la client(e) a. Faire preuve de bienveillance, de respect et s'abstenir de jugement ;
+
+b. Utiliser un langage simple et clair ;
+
+c. Encourager le (la) client(e) à poser des questions ;
+
+d. lui expliquer ce que l'on fait (test de diagnostic rapide, goutte épaisse) ;
+
+e. S'assurer de sa compréhension des messages.
+
+80 | Guide du facilitateur | Septembre 2015
+
+2. Respecter l'intimité et la confidentialité du/de la client(e) a. Veiller à utiliser un lieu privé pour l'examen et l'entretien ;
+
+b. S'assurer, lorsque l'on discute/transmet les messages nécessaires, que l'on ne risque pas d'être entendu(s) par d'autres personnes;
+
+c. veiller à ce que tous les dossiers soient confidentiels et mis sous clé ;
+
+d. limiter l'accès aux registres uniquement aux prestataires de soins concernés.
+
+4. GESTION DES RUMEURS
+
+4.1. Définition des rumeurs
+
+Les rumeurs sont des histoires non confirmées qui sont transmises d'une personne à une autre de bouche à oreille. En général, les rumeurs se produisent quand :
+
+-Une information ou une question est importante pour des personnes, mais n'a pas été clairement expliquée ;
+
+-Il n'y a personne de disponible pour clarifier ou corriger l'information incorrecte ;
+
+-la source originale est perçue comme étant crédible ;
+
+-Il n'a pas été donné aux clients suffisamment d'options pour la question ;
+
+-Des personnes sont motivées à les propager pour d'autres raisons.
+
+4.2. Les rumeurs les plus courantes
+
+4.3. Les techniques de gestion des rumeurs
+
+-Quand un client s'exprime, l'écouter poliment et ne pas rire de ses propos ;
+
+-Identifier la rumeur ou la conception erronée ;
+
+-Trouver la source de la rumeur et parler aux personnes qui ont commencé à la propager ou qui l'ont répétée ;
+
+-Vérifier s'il y a des bases à cette rumeur ;
+
+-Expliquer les faits ;
+
+-Utiliser de solides faits scientifiques concernant les ACT, les TDR et les MILDA pour contrecarrer l'information ;
+
+-Toujours dire la vérité. Ne jamais essayer de cacher les effets secondaires ou les problèmes qui peuvent survenir avec les différents produits (ACT et MILDA) ;
+
+-Clarifier les informations en faisant des démonstrations et en utilisant des aides visuelles ;
+
+-Donner des exemples de personnes qui sont des utilisateurs satisfaits des ACT et des MII avec leur consentement (ce genre de témoignage personnel est plus convainquant).
+
+-Rassurer le client en l'examinant et en lui faisant part de vos conclusions.
+
+Guide du facilitateur | Septembre 2015 | 81
+
+5. UTILISATION DES SUPPORTS DE COMMUNICATION.
+
+5.1. Définition d'un support IEC.
+
+Il s'agit d'un support visuel de présentation orale, qui :
+
+Complète et renforce les activités d'apprentissage permet de répondre aux styles différents d'apprentissage mais ne remplace pas une présentation.
+
+5.2. Les différents types de supports IEC.
+
+- Tableau noir ou blanc
+
+- Papier flip chart
+
+- Cassettes vidéo
+
+- Boîtes à images
+
+- Cartes conseil
+
+- Modèles anatomiques
+
+- Affiches
+
+- dépliants
+
+- Objets réels ....
+
+5.3. Critères de choix des supports IEC.
+
+- Pertinence : contribution du matériel aux objectifs; intérêt du contenu...
+
+- Cohérence avec les messages à transmettre
+
+- Synchronisation dans la démarche d'information, éducation, de conseil
+
+- Caractère attrayant: être agréable à regarder ou à entendre.
+
+NB :
+
+Les aides visuelles donnent diversité et intérêt au message
+
+Leur utilisation nécessite un choix adéquat pour chaque séance d'interactions avec les prestataires
+
+Il faut toujours revoir et essayer l'équipement avant chaque séance pour être sûr qu'il fonctionne bien.
+
+82 | Guide du facilitateur | Septembre 2015
+
+6. MESSAGES A VULGARISER
+
+Comportements clés
+
+Les femmes enceintes
+
+- Effectuent leur CPN1 au premier tiers de la grossesse
+
+- Respectent les rendez-vous,
+
+- Acceptent le TPI avec la SP sous TDO
+
+- Dorment sous MILDA tout au long de la grossesse
+
+Les hommes
+
+- Encouragent leurs conjointes à aller en CPN dès les premiers signes de grossesse
+
+- Incitent les conjointes à respecter les rendez-vous pour les CPN
+
+- Incitent les conjointes à respecter les prescriptions (TPI et MILDA) Les chefs de ménage ou gardiens d'enfants
+
+- Ils emmènent toute personne atteinte de fièvre au point de prestation le plus proche le plus tôt possible et au plus dans les 24 heures
+
+Les élus locaux et les comités de santé
+
+- Assurent la disponibilité des produits et médicaments antipaludiques (SP et MILDA...) au niveau des points de prestation de service,
+
+- Financent certaines activités de promotion et prévention
+
+- Appuient les activités d'assainissement et l'achat de certains produits et médicaments Les leaders religieux et communautaires
+
+- Ils appuient la mise en œuvre des activités de prévention et de lutte contre le paludisme.
+
+Les pharmaciens, agents de comptoirs et dépositaires
+
+- Orientent les populations vers les PPS en cas de fièvre
+
+- Expliquent comment prendre les médicaments et produits antipaludiques
+
+Exercice 1 :
+
+Guide du facilitateur | Septembre 2015 | 83
+
+2 PHARMACOVIGILANCE
+
+Objectifs pédagogiques du cours
+
+A la fin de ce module le participant devra être capable de :
+
+- Décrire les notions de base relatives à la pharmacovigilance
+
+- Détecter les effets indésirables
+
+- Notifier les effets indésirables
+
+- Connaitre le circuit de notification
+
+Méthodologie
+
+-
+
+-
+
+-
+
+-
+
+Brainstorming
+
+Questions/réponses
+
+Exposé suivi de discussions
+
+Exercices
+
+1. Généralités sur la pharmacovigilance
+
+1.1 Définitions et terminologies des notions de base
+
+Evènement indésirable : C'est une manifestation nocive et non recherchée, survenant chez un sujet pendant un traitement. Le terme évènement indésirable contrairement à effet indésirable ne préjuge pas d'un lien causal avec une exposition notamment à un médicament.
+
+Effet indésirable
+
+Effet indésirable grave
+
+C'est un effet indésirable létal ou mettant la vie en danger ou entraînant une invalidité ou une incapacité, ou provoquant ou prolongeant une hospitalisation.
+
+Effet indésirable sévère
+
+C'est un effet indésirable nécessitant en plus de l'arrêt du médicament des soins supplémentaires.
+
+Notification
+
+Elle désigne un cas d'événement indésirable rapporté par un observateur à un système de surveillance.
+
+84 | Guide du facilitateur | Septembre 2015
+
+Mésusage
+
+C'est une utilisation non conforme aux recommandations du résumé des caractéristiques du produit de santé.
+
+− usage inapproprié par rapport aux données de référence.
+
+− usage en dehors des indications autorisées
+
+Imputabilité
+
+L'imputabilité est l'évaluation clinique systématisée du lien causal susceptible d'exister entre un événement indésirable et l'administration d'un médicament ou produit de santé.
+
+Signal
+
+C'est un événement ou un dépassement d'un seuil fixé, convenu comme devant attirer l'attention lors d'une surveillance.
+
+Alerte
+
+C'est un signal prévenant d'un danger et appelant à prendre toutes les mesures de sécurité utiles.
+
+2. Fiche de notification
+
+2.1 Définition
+
+C'est une fiche de collecte et de déclaration des cas d'effets indésirables 2.2 Intérêt de la fiche
+
+C'est un outil de collecte permettant de recueillir toute manifestation clinique résultant soit :
+
+- d'un effet indésirable
+
+- d'un manque d'efficacité liée à une contrefaçon, une résistance ou une interaction médicamenteuse ou bien à un mauvais usage
+
+- d'un problème de qualité du produit
+
+- d'une dépendance ou d'un abus
+
+- d'un sevrage
+
+- d'une mauvaise publicité
+
+- d'une intoxication
+
+- d'une erreur médicamenteuse
+
+2.3 Description de la fiche
+
+Les différentes parties de la fiche sont ainsi décrites pour faciliter le remplissage de la fiche
+
+Le patient :
+
+Cette rubrique permet d'identifier le patient. Il est alors important de renseigner :
+
+- le prénom et le nom du patient
+
+- la date de naissance et/ou l'âge
+
+- le sexe
+
+- le numéro d'enregistrement au niveau de la structure sanitaire.
+
+Sur le plan clinique il faut :
+
+- noter le poids (en kg)
+
+Guide du facilitateur | Septembre 2015 | 85
+
+LE NOTIFICATEUR
+
+C'est un professionnel de santé qui constate un effet indésirable susceptible d'être lié à un médicament et qui transmet l'information à la structure de pharmacovigilance.
+
+Dans le souci d'assurer un suivi des déclarations de cas, l'agent de santé doit être identifié. Il est alors nécessaire de spécifier :
+
+- le prénom et le nom du notificateur
+
+- sa qualification : s'il est médecin, pharmacien, dentiste, infirmier ou sage-femme ou bien s'il a une autre qualification
+
+- sa spécialité éventuellement (infectiologue, dermatologue, gastro-entérologue, neurologue etc...)
+
+- ses contacts : numéro de téléphone, de fax et adresses email
+
+- sa structure et lieu d'exercice : hôpital, centre de santé, poste de santé, clinique, cabinet médical, service médical d'entreprise ou pharmacie.
+
+LES MEDICAMENTS OU PRODUITS
+
+Il s'agit des médicaments, substances ou produits que le malade a pris. Le notificateur devra noter :
+
+- le nom commercial du médicament et/ou sa dénomination commune internationale (DCI)
+
+- la forme galénique (comprimés, sirop, injectables, suppositoires...) et le dosage
+
+- la voie d'administration : orale, IM, IV, intra rectale...
+
+- la posologie : dose à laquelle le médicament a été pris
+
+- la date de début de la prise du médicament et la date d'arrêt de la prise
+
+- le fabricant et le numéro de lot du médicament.
+
+LA DESCRIPTION DE L'EFFET
+
+C'est l'une des étapes les plus importantes de la notification. C'est pourquoi le notificateur est tenu de :
+
+- décrire l'effet, c'est-à-dire les manifestations cliniques et/ou biologiques observées chez le sujet
+
+- préciser la date à laquelle l'effet est apparu (après la prise du médicament) et la date où la disparition de l'effet a été constatée.
+
+- S'assurer si le médicament a été ré-administré ou non après la constatation de l'effet.
+
+Dans le cas où il y a ré-administration du médicament ou produit : noter si oui ou non l'effet est réapparu à la suite de la ré-administration
+
+- S'il n'y a pas eu de ré-administration du produit, noter « pas de ré-administration »
+
+LA CONDUITE ADOPTEE
+
+C'est la conduite que le notificateur a adoptée après avoir constaté l'effet. Elle comporte :
+
+- le traitement correcteur qui a été administré au patient pour juguler l'effet.
+
+EVOLUTION
+
+86 | Guide du facilitateur | Septembre 2015
+
+3. Circuit de notification
+
+La fiche de notification dûment remplie, par les professionnels de santé, est transmise à la DPM en suivant le circuit de notification :
+
+- Les Postes et Centres de santé envoient leurs notifications aux Districts Sanitaires qui transmettent aux Régions Médicales qui recueillent l'ensemble des notifications de la région.
+
+- Les Hôpitaux, Cliniques, Cabinets médicaux, Entreprises, Garnisons, Pharmacies Régionales d'Approvisionnement et Officines privées transmettent les notifications à la Région Médicale.
+
+- La Région Médicale transmet les notifications aux programmes de santé ou à la Direction de la Pharmacie et du Médicament.
+
+- Les Centres Hospitaliers Universitaires et Hôpitaux nationaux peuvent transmettre directement leurs notifications aux programmes de santé ou à la Direction de la Pharmacie et du Médicament
+
+- Le Centre Antipoison est chargé de l'imputabilité des cas d'effets indésirables qui lui sont transmis par les programmes de santé ou la Direction de la Pharmacie et du Médicament
+
+- L'archivage des données de pharmacovigilance est nécessaire à tous les niveaux de la pyramide sanitaire.
+
+- Le schéma ci-dessous décrit le circuit des informations :
+
+OMS/UMC
+
+DIRECTION DE LA
+
+PHARMACIE ET DU
+
+MEDICAMENT
+
+COMITE TECHNIQUE
+
+LABORATOIRES
+
+PHARMACEUTIQUES
+
+REGION
+
+MEDICALE
+
+HOPITAUX
+
+Figure 2 : circuit de collecte de l'information
+
+COMMISSION
+
+NATIONALE
+
+PROGRAMMES
+
+DE SANTE
+
+DISTRICT
+
+SANITAIRE
+
+CENTRES DE SANTE
+
+CABINETS
+
+MEDICAUX
+
+PHARMACIES
+
+POSTE DE SANTE
+
+COMMUNAUTAIRE
+
+INFORMATION ET
+
+RETRO INFORMATION
+
+Guide du facilitateur | Septembre 2015 | 87
+
+Exercice 1:
+
+Monsieur A NDIAYE âgé de 29 ans, présente des éruptions cutanées prurigineuses 12 heures après la prise de la combinaison Artésunate + Amodiaquine pour paludisme simple. L'évolution après arrêt du médicament est favorable. Il consulte chez l'infirmier du Poste de santé de Keur Moussa dans le district sanitaire de Pout, Mr S. Diagne. L'interrogatoire montre que l'ordonnance contenait outre la combinaison Artésunate + Amodiaquine (2 Cp par jour), du paracétamol (2 Cp x 2 par jour). Il a commencé à prendre les médicaments prescrits le 30 mars 2012 et a arrêté la prise le 31 mars 2012, jour où les éruptions sont apparues. Il n'a pas repris les médicaments. En outre Mr Ndiaye est asthmatique connu et prend du salbutamol sprays depuis 2008.
+
+L'infirmier a prescrit un antihistaminique (Phénergan) et a donné rendez-vous au patient le lendemain matin pour évaluation.
+
+Remplir la fiche de notification
+
+Décrire le circuit de notification
+
+Exercice 2:
+
+Ils ont tous été hospitalisés au niveau du centre de santé ; et après deux jours d'hospitalisation un cas de décès a été répertorié.
+
+Cela a créé une panique au sein de la population et des rumeurs incriminant le médicament ont étés soulevées.
+
+NB : les autorités sanitaires avaient veillé à ce que la dispensation des médicaments soit effectuée sous la supervision des professionnels de santé habilités.
+
+1. Quelle est la conduite à tenir
+
+2. Formulez les hypothèses sur les causes probables de ces événements
+
+Corrections exercice 2:
+
+1. CAT :
+
+- Prise en charge des cas
+
+- Notifier les premières informations aux autorités sanitaires
+
+- Remplir la fiche de notification
+
+2. Hypothèses :
+
+- Investigation sur la population (famille, ethnie ou population totale, les sources d'eau utilisées)
+
+- Investigations sur le médicament : Est-ce que le médicament a été distribué ailleurs, voir conformité du produit, dosage, voir fiches relais, prélèvements échantillons de médicaments, identifier le numéro de lot, etc....
+
+- Faire des analyses biologiques
+
+- Transmettre les résultats d'investigation au niveau supérieur
+
+- Communiquer avec les populations pour bien les rassurer
+
+- Communiquer les résultats d'investigation
+
+88 | Guide du facilitateur | Septembre 2015
+
+3 SUIVI EVALUATION
+
+Objectifs pédagogiques du cours
+
+A la fin de ce module, le participant devra être capable de :
+
+- Décrire le système de suivi évaluation des activités de lutte contre le paludisme
+
+- Connaitre l'importance de la surveillance dans la lutte contre le paludisme
+
+- Identifier les supports cibles pour la collecte de chacune des données du Paludisme
+
+- Remplir les outils de collecte des données conformément aux instructions
+
+- Analyser les données collectées
+
+Méthodologie
+
+-
+
+-
+
+-
+
+-
+
+Brainstorming
+
+Questions/réponses
+
+Exposé suivi de discussions
+
+Exercices
+
+Ce module permet :
+
+- La maitrise des méthodologies pour tous les acteurs de la lutte contre le paludisme;
+
+- Une meilleure efficacité des acteurs dans l'exécution des tâches de suivi et d'évaluation.
+
+Ce module comprend trois chapitres.
+
+1. Rappel des définitions et concepts
+
+2. La collecte et la Gestion des données de routine.
+
+3. Les outils de collecte des données de surveillance :
+
+1- RAPPEL DES DÉFINITIONS ET CONCEPTS
+
+Le Suivi - Evaluation
+
+1.1 - a Le Suivi :
+
+(Manuel de Gestion des programmes à l'OMS : Planification opérationnelle - Règles et Procédures. Genève, Mars 2007)
+
+Guide du facilitateur | Septembre 2015 | 89
+
+1.1 - bL'Evaluation :
+
+C'est l'appréciation périodique des résultats cibles qui pourrait être attribué au programme.
+
+Elle tente de lier un résultat particulier ou un impact (sanitaire) directement à une intervention particulière après une période de temps.
+
+En d'autres termes l'évaluation c'est la collecte périodique d'information sur la pertinence, l'efficience, l'impact et la pérennisation d'un programme par rapport aux objectifs fixés.
+
+(Manuel de Gestion des programmes à l'OMS : Planification opérationnelle - Règles et Procédures.
+
+Genève, Mars 2007)
+
+2. LA SURVEILLANCE ÉPIDÉMIOLOGIQUE :
+
+2.1. Définitions
+
+C'est la collecte, le traitement, l'analyse, l'interprétation régulière et systématique des informations auprès de ceux qui en ont besoin pour la prise de décision.
+
+Quatre objectifs ont été assignés à la surveillance au Sénégal : Suivre les tendances de la maladie;
+
+identifier les populations à risque ; suivre l'impact du programme ou des interventions ; alerter précocement sur les problèmes de santé.
+
+Il existe deux types surveillance :
+
+- La Surveillance passive : Les informations sont acheminées sans sollicitation ou intervention de la part des services responsables de la surveillance. Le système attend les notifications.
+
+Rappel des orientations stratégique de la surveillance du paludisme au Sénégal
+
+2.2 - a. Définition des cas dans les zones de contrôle
+
+- Cas suspect de paludisme : C'est une personne malade présentant une fièvre ou antécédent de fièvre sans autre signe d'appel pouvant être à l'origine de la fièvre.
+
+-C as confirmé de paludisme : C'est le cas suspect de paludisme qui a le TDR et/ou la GE positif (s).
+
+- Cas grave de paludisme : C'est tout cas confirmé par GE et /ou TDR hospitalisé pour paludisme.
+
+- Cas présumé de paludisme : C'est tout cas suspect de paludisme sans test diagnostic pour confirmer le paludisme mais néanmoins traité de façon présomptive comme un paludisme.
+
+2.2 - b. Définition de cas dans les zones de pré – élimination/élimination
+
+- Cas autochtones : Une personne qui a séjourné de manière permanente dans l'aire géographique du district dans les quinze jours précédant le début de la maladie est considérée comme un cas autochtone
+
+- Cas importés : Une personne qui a séjourné en dehors de l'aire géographique du district dans les quinze jours précédant le début de la maladie est considérée comme un cas importé.
+
+90 | Guide du facilitateur | Septembre 2015
+
+- Cas induit : C'est un cas dont l'origine peut être rattachée à une transfusion sanguine ou une autre forme d'inoculation parentérale mais pas par la transmission normale par un moustique.
+
+2.2 - c. Le Line listing des cas :
+
+C'est la liste des personnes testées, avec leur âge et les résultats du TDR lors des investigations.
+
+2.2 - d. La Détection des cas
+
+- Détection active proactive : L'agent de santé se déplacera pour tester l'ensemble de la population symptomatique dans une zone donnée.
+
+- Détection active réactive : L'agent se déplace dans les concessions autour d'un cas index pour tester la population symptomatique ou non.
+
+2.2 - e. Hot spot (foyer chaud) :
+
+C'est une zone circonscrite avec une incidence élevée située dans une zone de faible prévalence.
+
+2.2 - f.Rétablissement de la transmission:
+
+La présence renouvelée d'une incidence constante et mesurable des cas et d'une transmission par les moustiques dans une région au cours de deux ou plusieurs années successives.
+
+2.2 - g. Elimination :
+
+2.2 - h. Eradication:
+
+2.2 -i. Certification:
+
+2.2 - j. La surveillance dans les zones de transmission élevée et modérée :
+
+Guide du facilitateur | Septembre 2015 | 91
+
+2 : LA COLLECTE ET LA GESTION DES DONNÉES DE ROUTINE
+
+2.1 - Introduction
+
+Pour mener une collecte de données de routine et en assurer la bonne gestion il faudrait au préalable être en mesure de répondre à ces 5 questions :
+
+- Où ? : où faire la collecte de données
+
+- Par Qui ? qui fera la collecte des données
+
+- Quand ? quand mener la collecte des données
+
+- Sources ? quels sont les sources cibles
+
+- Utilisation des données ? A quoi servent les données collectées
+
+- Mensuelle pour le poste et la case de santé,
+
+- Trimestrielle pour le niveau district
+
+- Semestrielle pour le niveau régional et central.
+
+Où ?
+
+Par Qui ?
+
+Quand ?
+
+Sources ?
+
+Structures Services
+
+- Accueil
+
+- Pédiatrie
+
+- Maternité
+
+- Médecine Interne
+
+- Hospitalisation
+
+- Maladies Infectieuses
+
+- Urgences
+
+- Pharmacie
+
+- Prestataires
+
+- Gestionnaire de données
+
+- R esponsable de service ou personnes déléguées
+
+- Mensuelle
+
+- Revue
+
+- Enquête
+
+- Ou à déterminer
+
+- Registres
+
+Utilisation des données ?
+
+- Analyse
+
+- Atteinte des objectifs
+
+- Orientations
+
+- Planification
+
+2.2 - Les supports de collecte
+
+La fiche CFR est libellée en trois formats :
+
+- La fiche CFR1 destinée aux consultations externes
+
+- La fiche CFR2 qui fait la situation des patients vus en hospitalisation
+
+- La fiche CFR3 relative aux cas de décès enregistrés en hospitalisation Les autres supports attendus sont les suivants :
+
+- La fiche mensuelle TPI
+
+- Fiche de distribution des moustiquaires
+
+- Fiche mensuelle de consommation des TDR
+
+- Fiche mensuelle de consommation des ACT
+
+- Fiche récapitulative de la situation des cas de paludisme simple vus au niveau communautaire 92 | Guide du facilitateur | Septembre 2015
+
+Le registre comme source primaire de collecte :
+
+Pour faciliter la disponibilité des données et leur collecte, l'utilisation du Tableau de collationnement journalier (TACOJO) à tous les niveaux est fortement recommandée.
+
+Cf. ci-dessous les différentes fiches de collecte par type de niveau et de structure :
+
+Guide du facilitateur | Septembre 2015 | 93
+
+Au niveau Poste de santé :
+
+94 | Guide du facilitateur | Septembre 2015
+
+Guide du facilitateur | Septembre 2015 | 95
+
+96 | Guide du facilitateur | Septembre 2015
+
+Guide du facilitateur | Septembre 2015 | 97
+
+Au niveau Centre de santé :
+
+98 | Guide du facilitateur | Septembre 2015
+
+Guide du facilitateur | Septembre 2015 | 99
+
+100 | Guide du facilitateur | Septembre 2015
+
+Guide du facilitateur | Septembre 2015 | 101
+
+102 | Guide du facilitateur | Septembre 2015
+
+Au niveau Etablissement Publics de Santé :
+
+Guide du facilitateur | Septembre 2015 | 103
+
+104 | Guide du facilitateur | Septembre 2015
+
+II. La Transmission des données
+
+- Les cases et les DSDOM transmettent leurs données aux postes de santé
+
+- Les postes transmettent leurs données aux districts
+
+- Les districts transmettent leurs données à la région médicale
+
+- Les régions médicales au niveau central
+
+A chaque niveau de la pyramide il est nécessaire avant toute transmission :
+
+- de faire un Feed back au niveau immédiatement inférieur dès réception des données ;
+
+- de procéder à une validation avec l'ensemble des acteurs concernés par la production de l'information.
+
+La transmission des données de routine du paludisme suit le circuit de l'information ci-dessous :
+
+Circuit de l'information au niveau du PNLP.
+
+L'Archivage des données
+
+L'archivage c'est l'action de recueillir, de classer et de conserver des documents (Registres, Rapports périodique, fiches de collecte remplies, cahier de gestion, etc.) à des fins de consultation ultérieure.
+
+L'archivage implique des moyens permettant de conserver les documents d'une manière fiable et de permettre leur restitution fidèle, même après une longue période (plusieurs années, voire plusieurs dizaines d'années). A noter que la base d'un bon archivage c'est avant tout un bon classement.
+
+Pour les documents le classement peut être : (06) types de classement : alphabétique, numérique, alphanumérique, thématique, chronologique, géographique, etc.
+
+Guide du facilitateur | Septembre 2015 | 105
+
+III.Le traitement et utilisation des données a. Le traitement des données
+
+- La complétude des données
+
+- Les sommes ou totaux
+
+- Les moyennes, les écarts type,
+
+- Etc.
+
+b. L'analyse l'interprétation et l'utilisation des données
+
+Selon le niveau où se situe l'acteur, l'analyse peut se faire de diverses manières notamment :
+
+- Faire une bonne analyse des données
+
+- Comparer les données aux objectifs fixés par la structure de santé
+
+- Assurer une bonne planification pour résoudre les problèmes identifiés à l'analyse Exemple d'analyse : (cf. figure ci-dessous)
+
+L'analyse et l'interprétation des données permettront aux acteurs du niveau opérationnel de :
+
+- Connaître la situation de la maladie dans la zone,
+
+- Suivre l'évolution des cas
+
+- Suivre l'efficacité des actions menées au sein de la communauté,
+
+- Maitriser l'estimation des besoins en médicaments, TDR et autres produits,
+
+- Disposer d'arguments scientifiques et réels pour d'éventuels plaidoyers auprès des autorités de la zone
+
+106 | Guide du facilitateur | Septembre 2015
+
+c. Les indicateurs qui peuvent être tirés des données de routine
+
+- Quelques indicateurs traceurs ont été retenus pour suivre la performance des structures de santé. Il s'agit :
+
+- Taux et Pourcentage de réalisation des TDR parmi les cas suspects
+
+- Pourcentage de Traitement ACT dispensé sur le Nombre de cas de Paludisme simple Confirmé
+
+-P ourcentage de Femmes enceintes ayant bénéficié de la SP2 (TPI2) et de la SP3 (TPI3) sur les premiers contacts
+
+- Indicateurs de performance
+
+Quelques exemples d'indicateurs pour chaque domaine :
+
+- Le diagnostic du paludisme
+
+Nombre de cas de paludisme simple (confirmé) chez les enfants de moins de 5 ans Nombre de cas de paludisme grave confirmés par TDR/GE chez les patients vus en hospitalisation
+
+Guide du facilitateur | Septembre 2015 | 107
+
+- La qualité de la prise en charge des cas
+
+Nombre et pourcentage de patients atteints de paludisme simple* correctement traités conformément aux directives nationales dans les structures sanitaires.
+
+- La prévention du paludisme
+
+Nombre et proportion de femmes enceintes ayant bénéficié de la SP3 (TPI 3) conformément aux directives nationales.
+
+- La gestion des intrants
+
+Nombre et proportion de cases de santé n'ayant pas signalé une rupture d'ACT d'une durée ≥ 7 jours au cours des 3 derniers mois.
+
+IV. La rétro information
+
+Dans un souci de partage des données à tous les niveaux du système, chaque acteur qui reçoit des données, doit après analyse, faire la rétro information à ses collaborateurs et informer la hiérarchie.
+
+Cette rétro information doit âtre axée sur les indicateurs, les points forts et les éventuelles difficultés identifiées et surtout formuler des recommandations en vue d'améliorer la qualité des prestations et interventions à tous les niveaux.
+
+Chapitre 3 : Les outils de collecte des données de surveillance
+
+108 | Guide du facilitateur | Septembre 2015
+
+Fiche de documentation d'un cas de paludisme
+
+Adresse exacte :
+
+Diagnostic :
+
+TDR /_ / GE /_ /
+
+Date de début de la maladie : /_ _ / /_ _ / /_ _ /
+
+Notion de voyage au cours des quinze derniers jours : oui /_ _ / non /_ _ / Si oui:
+
+Classification : Zone de responsabilité /_ / ou Hors zone /_ /
+
+Guide du facilitateur | Septembre 2015 | 109
+
+110 | Guide du facilitateur | Septembre 2015
+
+N°
+
+Nom
+
+Date admis
+
+Village ou quartier de Sexe résidence
+
+Age
+
+Type diagnostic (TDR, GE)
+
+MILDA dans ménage
+
+MILDA utilise 2 semaines avant
+
+Prévention
+
+Date de
+
+Date début des recherche symptômes de soins
+
+Traitement
+
+Reçu
+
+Date
+
+Médicaments traitement début reçu (ACT, (O/N) traitement quinine, autre)
+
+Région médicale : ____________________ District sanitaire :______________________
+
+Fiche de liste des cas simples
+
+Fin hosp.
+
+(Guéri, décédé, transfert)
+
+No
+
+Nom
+
+Village ou quartier de résidence
+
+Sexe
+
+Age
+
+Type de diagnostic (TDR, GE)
+
+Résultat du diagnostic
+
+MILDA utilise
+
+MILDA dans pendant les 2 ménage semaines avant
+
+Prévention
+
+Date de
+
+Date recherche début des de soins symptômes
+
+Date début traitement
+
+Traitement
+
+Région médicale : ____________________ District sanitaire :______________________
+
+Fiche de liste des cas graves et décès
+
+Médicaments reçu (T1, T2, T3,
+
+T4, autre)
+
+Guide du facilitateur | Septembre 2015 | 111
+
+112 | Guide du facilitateur | Septembre 2015
+
+Guide du facilitateur | Septembre 2015 | 113
+
+114 | Guide du facilitateur | Septembre 2015
+
+Guide du facilitateur | Septembre 2015 | 115
+
+116 | Guide du facilitateur | Septembre 2015
+
+Guide du facilitateur | Septembre 2015 | 117
+
+Fiche de notification des cas
+
+118 | Guide du facilitateur | Septembre 2015
+
+Exercice sur la collecte et la gestion des données de routine :
+
+Ceci est un extrait du registre de consultations générales du Poste de santé de Dakar sur mer.
+
+MOIS D'AOUT 2009
+
+N°
+
+Prénom
+
+Nom
+
+Age (Ans)
+
+Sexe
+
+P. M.
+
+Faye
+
+M
+
+K.
+
+Ndione
+
+I. Diouf
+
+11ans
+
+FE
+
+Signes Cliniques
+
+Diagnostic
+
+TDR
+
+Traitement observation
+
+Fièvre, céphalée, vertiges, frissons courbature
+
+Paludisme simple Positif
+
+ASAQ Adulte
+
+Paracétamol vitamine C
+
+Repos 3 jours
+
+M
+
+Amaigrissement, anorexie
+
+Ascaridiose
+
+Mebendazole
+
+F
+
+Anorexie, vomissements il y a 2 j
+
+Fièvre à 38°
+
+Paludisme simple Positif
+
+Quinine IM
+
+Aspégic
+
+AVC
+
+Perfusion quinine
+
+Cas référé
+
+F. Ndiaye
+
+M
+
+Altération de l'état général
+
+Paralysie hémicorps droit
+
+Fièvre à 38°
+
+I. S. Sané
+
+F
+
+Fièvre à 36°
+
+Aménorrhée de 6 mois
+
+Palu + grossesse
+
+G. Diouf
+
+M
+
+Toux, fièvre, douleurs abdominales bronchopneumopathie+
+
+Paludisme
+
+A. Ciss
+
+M
+
+Plaie infectée
+
+Fièvre, douleurs du bas ventre palu
+
+ACT
+
+Paracétamol
+
+RV 3 jours pour soins
+
+M
+
+Douleurs abdominales vives Fièvre
+
+Diarrhée sanguinolente
+
+Amibiase
+
+Paludisme chronique
+
+Metronidazole
+
+Parégorique
+
+Paracétamol
+
+ACT
+
+Bilan à faire :
+
+NFS-VS, Selles
+
+KAOP
+
+Goutte épaisse
+
+F
+
+Fièvre, céphalées anorexie arthralgies
+
+P. M.
+
+Faye
+
+K. Ndione
+
+Syndrome palustre
+
+A référer centre de santé
+
+Négatif
+
+Négatif
+
+Négatif
+
+ACT paracétamol
+
+Fer sirop
+
+HPV gouttes
+
+Questions our chaque ligne et en fonction des signes cliniques, discuter et commenter le diagnostic posé et le traitement administré. La décision thérapeutique est – elle conforme aux directives du PNLP?
+
+Argumentez.
+
+2. A Partir de cette page du registre remplissez le tableau ci-dessous :
+
+Guide du facilitateur | Septembre 2015 | 119
+
+FICHE RECAPITULATIVE DE LA SITUATION DES MALADES VUS EN CONSULTATION EXTERNE Enfants de - 5 Ans
+
+Nb. total de cas vus (toutes affections confondues)
+
+* Nb. de cas de paludisme
+
+Suspect.
+
+Patients Agés de Plus de 5 ans (Excluant les FE)
+
+Nombre de
+
+Tests (TDR) réalisés
+
+[Positifs +
+
+Négatifs]
+
+Nb. de cas de paludisme confirmé (par TDR)
+
+Nb. total de cas vus (toutes affections confondues)
+
+* Nb. de cas de paludisme
+
+Suspect.
+
+Nombre de
+
+Tests (TDR) réalisés
+
+[Positifs +
+
+Négatifs]
+
+Nb. de cas de paludisme confirmé (par TDR)
+
+Femmes Enceintes MALADES
+
+Nb. total de cas vus (toutes affections confondues)
+
+* Nb. de cas de paludisme
+
+Suspect.
+
+Nombre de
+
+Tests (TDR) réalisés
+
+[Positifs +
+
+Négatifs]
+
+Nb. de cas de paludisme confirmé (par TDR)
+
+No. D'unités ou de formations sanitaires ayant notifié
+
+1. Le rapport transmis le 15 du mois de septembre est arrêté par l'ICP à 342 consultations. Quels commentaires, faites – vous de ce rapport ?
+
+2. Quelles actions doivent entreprendre les membres de l'ECD pour améliorer la qualité des données transmises par le poste de santé?
+
+Correction exercice sur les données de routine :
+
+Question 1 :
+
+234 : diagnostic et traitement conforme (respect ordinogramme) iagnostic non conforme car il a spécifié l'espèce de parasite sans faire un KAOP. Il pouvait évoquer le diagnostic d'une parasitose ou helminthiase
+
+236 : Traitement non conforme car il s'agit d'un paludisme simple à traiter avec les ACT, il est déconseillé d'administrer la quinine en IM.
+
+iagnostic non conforme car TDR non fait, il administre de la quinine sans confirmation (utilisation abusive de la quinine) bsence de fièvre à 36° et aménorrhée de 6 mois n'est pas systématiquement une grossesse.
+
+Il pose ensuite le diagnostic de paludisme sans confirmation. wMême s'il s'agit d'un cas de grossesse le prestataire devait le spécifier dans la partie observation ou colonne femme enceinte avec les nouveaux registres.
+
+339 : Il y a un signe d'appel (broncho-pneumopathie) si le prestataire applique l'ordinogramme il ne devait pas faire le TDR. En plus deux affections ne doivent pas figurer sur une même ligne.
+
+iagnostic et traitement non conforme. La fièvre peut être due à la plaie infectée ou aux douleurs du bas ventre donc il ne doit pas poser le diagnostic de paludisme. L'utilisation des ACT n'est pas justifiée.
+
+tilisation irrationnelle des TDR et plus paludisme chronique n'existe pas. L'administration des ACT n'est pas justifiée. Il ne devait pas spécifier l'espèce de parasite en cause sans examen de labo au préalable.
+
+342 : Le TDR étant négatif, le prestataire doit évoquer un diagnostic autre que le paludisme. La prescription d'ACT n'est pas aussi justifiée.
+
+Question 2 :
+
+Enfants de - 5 Ans
+
+Nb. total de cas vus (toutes affections confondues)
+
+Aout
+
+Nombre de
+
+* Nb. de cas Tests (TDR) de paludisme réalisés
+
+Suspect.
+
+[Positifs +
+
+Négatifs]
+
+Patients Agés de Plus de 5 ans (Excluant les FE)
+
+Femmes Enceintes MALADES
+
+Nb. de cas de paludisme confirmé (par TDR)
+
+Nb. total de cas vus (toutes affections confondues)
+
+* Nb. de cas de paludisme
+
+Suspect.
+
+Nombre de
+
+Tests (TDR) réalisés
+
+[Positifs +
+
+Négatifs]
+
+Nb. de cas de paludisme confirmé (par TDR)
+
+Nb. total de cas vus (toutes affections confondues)
+
+* Nb. de cas de paludisme
+
+Suspect.
+
+Nombre de
+
+Tests (TDR) réalisés
+
+[Positifs +
+
+Négatifs]
+
+Nb. de cas de paludisme confirmé (par TDR)
+
+No. D'unités ou de formations sanitaires ayant notifié
+
+Question 3:
+
+Commentaires du rapport de l'ICP :
+
+L'incohérence dans le numérotage du registre (saut de 100 cas) donc c'est 242 consultations au lieu de 342.
+
+Le rapport est transmis tard au district (problème de promptitude).
+
+Ce rapport pose globalement le problème de la qualité des données
+
+120 | Guide du facilitateur | Septembre 2015
+
+Question 4:
+
+Les membres de l'ECD doivent entreprendre des actions comme :
+
+- La supervision formative :
+
+- Respect des directives
+
+- Remplissage des outils
+
+- Tenue des registres.
+
+- La vérification des données sur site
+
+Exercice sur l'utilisation des données de surveillance
+
+S°
+
+Sem 31
+
+Sem 32
+
+Sem 33
+
+Sem 34
+
+Sem 35
+
+1) Dans le cadre de la surveillance, il est demandé à l'ICP de calculer et de tracer la courbe des seuils hebdomadaires.
+
+2) Tracer la courbe d'évolution du paludisme de l'année 2012 pour la période S31 à S35.
+
+3) Interpréter ces résultats et donner la conduite à tenir.
+
+Correction exercice sur la surveillance :
+
+1) Courbes
+
+S°
+
+Moyenne
+
+Seuil
+
+Sem 31
+
+Sem 32
+
+Sem 33
+
+Sem 34
+
+Sem 35
+
+Guide du facilitateur | Septembre 2015 | 121
+
+2) Dépassement du seuil épidémiologique
+
+2) Dépassement du seuil épidémiologique
+
+3) Il d'un s'agitdépassement d'un dépassement du seuil épidémique donclalaConduite
+
+Conduite àà ternir est
+
+3) Il s'agit du seuil épidémique donc est: :
+
+- Investiguer
+
+- Investiguer
+
+- Mener la riposte (les grandes lignes)
+
+- Mener la riposte (les grandes lignes)
+
+122 | Guide du facilitateur | Septembre 2015
+
+4 A
+
+PPROVISIONNEMENT
+
+ET GESTION DES STOCKS
+
+Objectifs pédagogiques du cours
+
+A la fin de ce module le participant devra être capable de :
+
+- Décrire le circuit d'approvisionnement en médicaments et produits
+
+- Estimer les besoins en médicaments et produits
+
+- Contrôler les stocks
+
+- Déterminer les normes de stockage
+
+- Remplir les outils de gestion
+
+Que savez-vous de l'approvisionnement et de la gestion des stocks?
+
+Méthodologie
+
+- Brainstorming
+
+- Questions/réponses
+
+- Exposé suivi de discussions
+
+- Exercices
+
+1. Approvisionnement en médicaments et produits
+
+Ainsi les procédures décrites dans ce document passeront en revue les différentes étapes du cycle de gestion des médicaments.
+
+Guide du facilitateur | Septembre 2015 | 123
+
+UTILISATION
+
+SELECTION
+
+- Prescription rationnelle
+
+- Système de pharmacovigilance
+
+- Utilisation de données sur les résistances
+
+- Evaluation de l'utilisation des médicaments
+
+- Bonnes pratiques de dispensation
+
+- Fourniture d'information et conseil aux patients
+
+- Rétro-information au programme
+
+- Listes des médicaments essentiels et formulaires thérapeutiques
+
+- Directives standardisées de traitement, Fiches techniques
+
+- Ordinogrammes
+
+- Enregistrement dans le pays
+
+APPROVISIONNEMENT
+
+SELECTION
+
+DISTRIBUTION
+
+- Suivi des mouvements de stocks (Fiches de stock, registres)
+
+- Inventaire périodique
+
+- Verticalité ou intégration des programmes
+
+SUPPORT A LA
+
+GESTION
+
+APPROVISIONNEMENT
+
+SUPPORT A LA GESTION
+
+UTILISATION
+
+- Quantification selon morbidité ou consommation
+
+- Cout
+
+- Assurance Qualité (conditionnement, chaine de froid, durée de validité des produits,)
+
+- Suivi des fournisseurs (pré-qualification)
+
+- Système de gestion de l'information sur les consommations
+
+- Coordination des donneurs
+
+DISTRIBUTION
+
+POLITIQUE ET CADRE LEGAL
+
+Le support à la gestion doit s'articuler autour des points essentiels suivants :
+
+- Organisation et Gestion (Plan programme et approches de mise en œuvre, participation communautaire, programme de suivi-évaluation)
+
+- Finances suffisantes pour la réalisation des activités et l'achat des médicaments (recouvrement de cout,
+
+Finances de donneurs, système de gestion et planning de finances)
+
+- un Système d'Information fonctionnel capable de fournir des informations pertinentes pour la réalisation des activités (planification, supervision et évaluation) et pouvant aboutir à une prise de décisions
+
+- Ressources Humaines compétentes et qualifiées (formation de base, formation continue)
+
+POLITIQUE ET CADRE LEGAL
+
+La Politique en vigueur ainsi que le
+
+Cadre légal sont basés sur Quoi ? :
+
+- LNME
+
+- Questions relatives à l'enregistrement des produits
+
+- Importation /Production locale
+
+- Mécanismes de financement :
+
+recouvrement de couts, subvention, assurance, mutualisation, etc.
+
+- Ressources humaines : « Qui doit prescrire quoi comme médicaments? »,
+
+« Quid de la dispensation ? »
+
+Source : Management Sciences for Health, Managing Drug Supply, 2nd Ed. (W. Hartford, CT: Kumarian Press, 1997) 124 | Guide du facilitateur | Septembre 2015
+
+1.1 Modalités pratiques d'approvisionnement en ACT et TDR
+
+Le PNLP étudie la commande et envoie à la structure concernée et à la PRA le bon de sortie pour que les produits soient enlevés.
+
+PNLP
+
+PNA
+
+PRA
+
+HOPITAUX
+
+DISTRICT
+
+POSTE DE SANTE
+
+CENTRE DE SANTE
+
+CASE DE SANTE
+
+Schémas : Mode d'approvisionnement et de réapprovisionnement en ACT et TDR
+
+2. Estimation des besoins
+
+Les besoins c'est la quantité de médicaments ou produits que la structure doit avoir pour prendre en charge un nombre attendu de patients dans une période donnée
+
+Guide du facilitateur | Septembre 2015 | 125
+
+2.1 Méthodes d'estimation des besoins
+
+L'estimation des besoins en médicaments et produits repose principalement sur deux méthodes :
+
+- Méthode basée sur la morbidité
+
+- Méthode basée sur la consommation antérieure
+
+2.2 Méthodes de calcul sur la base de la consommation antérieure
+
+Pour effectuer une commande, il faut savoir bien estimer les besoins en médicaments et produits. Pour cela, il faut tenir compte des paramètres suivants :
+
+- Connaître la consommation pour une période donnée (trois mois par exemple)
+
+- Consommation Moyenne Mensuelle (CMM) : besoins pour un mois ;
+
+-
+
+Stocks seuils fonctions des paramètres de la chaine d'approvisionnement et des capacités logistiques
+
+- Stock Maximum : quantité de produit équivalant aux besoins pour 2 mois :
+
+o Max = 2 CMM ;
+
+- Stock Minimum : quantité de produit équivalant aux besoins pour 1 mois :
+
+o Min = 1 CMM ;
+
+-
+
+Quantité de produits à commander pour satisfaire continuellement les besoins dans la période (1 mois) :
+
+- QAC = Stock Maximum – Stock Disponible Utilisable (SDU) ;
+
+- QAC = Max – SDU
+
+- QAC = 2CMM - SDU
+
+Remarque :
+
+- CMM est calculée à partir de la fiche de stock ;
+
+- On obtient le SDU par inventaire ;
+
+-
+
+Fiche de stock (FDS) est renseignée à partir du Registre de Distribution Journalière des Médicaments (RDJM)
+
+- RDJM est rempli à partir du Cahier de Sortie de Médicaments par Malade
+
+3. Contrôle de stock
+
+Les prestataires doivent procéder à des contrôles réguliers des stocks de produits dans leurs dépôts pour assurer la disponibilité correcte des produits.
+
+En outre, ils doivent régulièrement procéder à des supervisions du dépôt afin de s'assurer de du respect des normes de gestion et conditions de stockage.
+
+126 | Guide du facilitateur | Septembre 2015
+
+3.1 Inventaire
+
+But
+
+- Vérifier la balance du stock enregistré sur la fiche de stock
+
+- Vérifier la quantité de produits disponibles pour la distribution
+
+- Trouver les produits périmés ou endommagés et les retirer du stock
+
+- Fournir une occasion de réorganiser le magasin
+
+Périodicité
+
+La périodicité de l'inventaire est de façon conventionnelle MENSUELLE Rapportage des résultats de l'inventaire sur la fiche de stock
+
+Après inventaire, remplir la fiche de stock selon les indications suivantes :
+
+- Mettre la date
+
+- Inscrire (en rouge) Inventaire dans la colonne « Origine des mouvements »
+
+- Noter la quantité comptée dans la colonne « Stock disponible »
+
+- Mentionner la date de péremption dans la colonne « Observations »
+
+3.2 Réception des produits
+
+Lors de la réception des produits il faudra voir si :
+
+- Des avaries ou péremptions sont constatées
+
+- Des manquants sont constatés
+
+- Un surplus de stock a été livré
+
+- Les produits livrés sont conformes à la commande
+
+Si aucun problème n'est identifié lors de la réception alors il faudra :
+
+- Compter les produits reçus
+
+- Noter les quantités reçues sur les fiches de stocks par produit
+
+- Marquer les étiquettes et les dates d'expiration en gros caractère sur les emballages
+
+- Ranger les produits selon les normes « premier expiré, premier sorti », « premier entré, premier sorti »
+
+4. Normes de stockage
+
+Emmagasinage/ Rangement
+
+Les normes d'un bon stockage reposent sur les éléments suivants :
+
+- Un local propre et désinfecté
+
+- Un local bien éclairé, ventilé, sans humidité et à l'abri de la lumière solaire directe
+
+- La disponibilité et l'accessibilité du matériel anti incendie
+
+- La formation sur l'utilisation du matériel anti incendie
+
+- L'utilisation de palettes pour éviter de poser les médicaments à même le sol Guide du facilitateur | Septembre 2015 | 127
+
+- Mettre en quarantaine les produits périmés
+
+- Respecter le principe du « premier expiré, premier sorti »
+
+5. Remplissage des outils de gestion
+
+5.1 Principaux outils de gestion
+
+- Fiche de stock
+
+- Registre de sortie des médicaments par malade
+
+- Registre journalier de distribution des médicaments
+
+- Carnet de commande et livraison
+
+- Rapport mensuel de gestion des stocks
+
+5.2 Intérêts du remplissage des outils de gestion
+
+Le remplissage des outils de gestion permet à tout moment de :
+
+- Connaitre le stock existant
+
+- Savoir quelle quantité est dispensée par jour et quelle est la consommation en médicaments de la structure pendant un mois
+
+- Savoir quand et comment les médicaments ont été utilisés
+
+Exercice 1 :
+
+Le 31 juillet 2007, le dépositaire de médicaments du poste de santé de Diama conduit un inventaire qui donne la situation suivante :
+
+- 200 flacons de cotrimoxazole 100mL avec 2 dates de péremption (150 Fl périmant en Janvier 2008, 50 Fl périmant en Juin 2007);
+
+- 75 kits de traitements antipaludiques ACT Kit adulte périmant en Novembre 2007;
+
+- 100 boîtes de Paracétamol 500 mg comprimé avec 2 dates de péremption (55 boîtes périmant en Décembre 2007, 45 boîtes périmant en Juin 2007);
+
+- 500 comprimés d'amoxicilline 500mg gélules périmant en Février 2008.
+
+1. Quel outil doit-il renseigner ? Faites-le à sa place
+
+Les fiches de stock des différents produits totalisaient les sorties suivantes pour les mois antérieurs :
+
+Cotri (Fl)
+
+ACT (Kit)
+
+Paracétamol (Bte)
+
+Amoxicilline (cp)
+
+Mai
+
+Juin
+
+Juillet
+
+128 | Guide du facilitateur | Septembre 2015
+
+2. Pour chaque produit, Calculez la CMM et Déterminez les stocks Max et Min (Max=2 Mois ; Min = 1 Mois)
+
+Le dépositaire décide de commander au dépôt de district :
+
+- 530 flacons de cotrimoxazole 100mL à 375F;
+
+- 75 kits de traitements antipaludiques ACT Kit adulte 585F;
+
+- 60 boîtes de Paracétamol 500 mg comprimé 575F;
+
+- 1000 comprimés d'amoxicilline 500mg gélules 200F.
+
+3. Comment appréciez-vous cette commande ?
+
+Le matin du 01er Août 2007, il reçoit du dépôt de district :
+
+- 500 flacons de cotrimoxazole 100ml ;
+
+- 20 kits de traitements antipaludiques ACT Kit adulte ;
+
+- 50 boîtes de Paracétamol 500 mg comprimé ;
+
+- 500 comprimés d'amoxicilline 500mg gélules.
+
+4. Quel(s) document(s) doit-il récupérer du dépositaire du district ?
+
+5. Comment procéder avant rangement de la commande dans le stock ?
+
+Au cours de la journée du 1er Août 2007, l'ICP a prescrit des ordonnances que le dépositaire a eu à dispenser comme suit :
+
+- Patient Mamadou Ndiaye 18 ans habitant à Keur Samba : 1 kit ACT adulte à 600F, 1 boîte de paracétamol 500mg à 700F ;
+
+- Patient Ibrahima Diallo 13 ans habitant à Saaré Diallo : 12 comprimés amoxicilline
+
+- Patient Pierre Coly 5 ans habitant à Escale : 1 flacon de cotrimoxazole à 475F 6. Quels outils devra renseigner le dépositaire ?
+
+CORRIGE
+
+1- Il doit renseigner la Fiche de stock
+
+- Cotrimoxazole 100mL Fl : Stock Disponible Utilisable =150 car les 50 sont périmés depuis juin ;
+
+- ACT adulte : Stock Disponible Utilisable = 75 ;
+
+- Paracétamol : SDU = 55 boites; 45 déjà périmés ;
+
+- Amoxicilline SDU = 500 cp
+
+2- Calcul des CMM et stocks seuils
+
+Cotri (Fl)
+
+ACT (Kit)
+
+Paracétamol (Bte)
+
+Amoxicilline (cp)
+
+Mai
+
+Juin
+
+Juillet
+
+CMM
+
+MAX
+
+MIN
+
+Guide du facilitateur | Septembre 2015 | 129
+
+3- Appréciation de la commande du dépositaire
+
+En se basant sur la formule de la quantité à commander (QAC = Max – SDU) on peut élaborer le tableau comparatif suivant :
+
+Cotri (Fl)
+
+ACT (Kit)
+
+Paracétamol (Bte)
+
+Amoxicilline (cp)
+
+SDU
+
+QAC théorique
+
+Commande du dépositaire
+
+En aucun moment le dépositaire n'a respecté la QAC :
+
+- Méconnaissance de la formule de commande approximative;
+
+- Ou arbitrage arbitraire suite à la faiblesse de l'allocation du comité de santé ;
+
+- Ou restriction des quantités suite à renseignement pris auprès du dépôt de district ;
+
+- Pour le Cotrimoxazole il s'expose à un sur-stockage avec risque de péremption et pour les autres produits un sous-stockage avec risque de rupture de stock 4 - La commande exécutée, le dépositaire du district doit lui livrer les produits en même temps qu'un jeu de facture et Bordereau de Livraison ;
+
+5 - Une commission de réception devra vérifier les produits livrés sur la base des documents produits (facture et BL), la quantité, l'apparence, l'intégrité des emballages, la date de péremption, etc. seront vérifiées et à la suite un procès-verbal établi et signé par tous les membres de la commission avant rangement des produits dans le stock.
+
+Ce rangement dans le stock se fera avec une mise à jour de la fiche de stock (matérialiser entrée et existant, tracer le mouvement et préciser Numéro lot ou Date De Péremption)
+
+6 - A chaque dispensation, le dépositaire devra renseigner le cahier de sortie de médicaments par malade ;
+
+En fin de journée, renseigner le registre de distribution journalière de médicaments ;
+
+A la suite, faire la mise à jour de la fiche de stock (matérialiser sortie et existant).
+
+NB : Mise à jour de la fiche de stock ne signifie pas remplissage systématique au quotidien ; la fiche d'un stock n'est renseignée que si l'on a fait un ou des mouvements de stocks (ENTREE ou SORTIE) Exercice 2 : ANALYSE D'UNE FICHE DE STOCK
+
+Apprécier les connaissances et pratiques du gestionnaire/la performance du système de gestion:
+
+- Disponibilité
+
+- Périodicité inventaire/Commandes
+
+- Gestion/Prévention péremption
+
+- Respect des stocks seuils
+
+Exercice 3
+
+130 | Guide du facilitateur | Septembre 2015
+
+Date
+
+Origine des mouvements
+
+PNA
+
+R1
+
+R2
+
+R3
+
+R4
+
+R5
+
+R6
+
+R7
+
+R8
+
+R9
+
+PNA
+
+R4
+
+R2
+
+R1
+
+INVENTAIRE
+
+R7
+
+R9
+
+PEREMPTION
+
+R6
+
+R1
+
+R2
+
+R3
+
+R5
+
+R8
+
+PNA
+
+Entrée
+
+Sortie
+
+Existant
+
+Observations
+
+9OO
+
+Questions
+
+- Calculer la CMM
+
+- Calculer l'intervalle de commande
+
+- Nombre de jours de rupture de stock
+
+- Quantité perdue par péremption
+
+- Déterminer le stock maximum et le stock minimum
+
+- Taux de disponibilité (Période totale en jours-Nombre de jours de rupture de stock)/ Période totale en jours*100
+
+- Quel(s) commentaire(s) vous inspire cette fiche de stock ?
+
+Guide du facilitateur | Septembre 2015 | 131
+
+Correction
+
+Total consommation
+
+Nombre de mois de la période
+
+CMM
+
+STOCK MIN
+
+STOCK MAX
+
+- Péremption= 100 unités
+
+- Erreurs de rapportage à l'Inventaire (900/940)
+
+- Erreurs de décompte sur l'existant
+
+- Dates incomplètes sauf le 05/01/06
+
+- 2 Ruptures de stock de 10 jours (28 mars au 1er avril) et (10 au 17 avril)
+
+- Irrégularité des commandes (auprès du dépôt central)
+
+- Une longue période (15 février-17 avril) sans commande alors que le stock filait tout droit vers le plancher
+
+- Au lieu d'une commande régulière auprès du dépôt central, dépannage à partir de la structure R2 pour 50 unités (très loin du MIN égal à 598 unités).
+
+- Défaut de maitrise des notions élémentaires de gestion des stocks à partir des paramètres logistiques ou défaut de disponibilité des ressources ou ...
+
+132 | Guide du facilitateur | Septembre 2015
+
+Guide du facilitateur | Septembre 2015 | 133
+
+134 | Guide du facilitateur | Septembre 2015
+
+M A I N E 4 2015
+
+GUIDE DU FACILITATEUR D
+
+- O
+
+SEPTEMBRE
+
+ANNEXES
+
+Guide du facilitateur | Septembre 2015 | 135
+
+ANNEXE
+
+FICHES TECHNIQUES DES MÉDICAMENTS
+
+RECOMMANDÉS POUR LE TRAITEMENT DU
+
+PALUDISME SIMPLE
+
+ARTEMETHER LUMEFANTRINE comprimés
+
+Comprimés dosés à 20 g d'artéméther et 120 mg de luméfantrine
+
+6 prises recommandées
+
+Age
+
+1er jour
+
+2e jour
+
+3e jour
+
+2-11 mois
+
+1 Comprimé X 2 / J
+
+1 Comprimé X 2 / J
+
+1 Comprimé X 2 / J
+
+1-5 ans
+
+2 Comprimés X 2 / J
+
+2 Comprimés X 2 / J
+
+2 Comprimés X 2 / J
+
+6-13 ans
+
+3 Comprimés X 2 / J
+
+3 Comprimés X 2 / J
+
+3 Comprimés X 2 / J
+
+14 ans et plus
+
+4 Comprimés X 2 / J
+
+4 Comprimés X 2 / J
+
+4 Comprimés X 2 / J
+
+COMBINAISON A DOSES FIXES (FDC) D'ARTESUNATE/AMODIAQUINE
+
+ARTÉSUNATE/AMODIAQUINE (FDC) 25 mg/67,5 mg
+
+3 comprimés sous plaquettes aluminium/aluminium (blisters), pour les nourrissons de 2 à 11 mois;
+
+Boîte contenant 25 blisters
+
+ARTÉSUNATE/AMODIAQUINE (FDC) 50 mg/135 mg
+
+3 comprimés sous plaquettes aluminium/aluminium (blisters); pour les enfants de 1 à 5 ans;
+
+Boîte contenant 25 blisters
+
+ARTÉSUNATE/AMODIAQUINE (FDC) 100 mg/270 mg
+
+- 3 comprimés sous plaquettes aluminium/aluminium (blisters) pour les enfants de 6 à 13 ans;
+
+Boîte contenant 25 blisters
+
+- 6 comprimés sous plaquettes aluminium/aluminium (blisters) pour les 14 ans et au-delà; Boîte contenant 25 blisters.
+
+POSOLOGIE:
+
+136 | Guide du facilitateur | Septembre 2015
+
+ANNEXE
+
+Age
+
+Poids en
+
+Kg
+
+2 à 11 mois
+
+<9
+
+J1
+
+J2
+
+J3
+
+Artésunate/
+
+Amodiaquine (FDC)
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé blister de 3 cps
+
+Artésunate/
+
+Amodiaquine (FDC)
+
+50 mg/135 mg blister de 3 cps
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+Artésunate/
+
+Amodiaquine (FDC) blister de 3 cps
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+Artésunate/
+
+Amodiaquine (FDC) blister de 6 cps
+
+2 comprimés
+
+2 comprimés
+
+2 comprimés
+
+1 à 5 ans
+
+6 à 13 ans
+
+14 ans et plus
+
+Les comprimés doivent être avalés avec de l'eau. Chez les enfants en bas âge, les comprimés peuvent être dissous dans de l'eau.
+
+DIHYDRO-ARTÉMISININE/PIPÉRAQUINE (DUO-COTECXIN®)
+
+PRESENTATION
+
+Chaque comprimé contient :
+
+- 40 mg de DIHYDRO-ARTEMISININE (DHA)
+
+- 320 mg de PIPERAQUINE Phosphate(PQP)
+
+Chaque boîte contient un blister de 8 comprimés pelliculés, BLEUS
+
+PHARMACOLOGIE
+
+DUO-COTECXIN® est une association synergique contenant un dérivé d'artémisinine et une bis quinoléine, il est actif contre toutes les formes du parasite.
+
+Son action schizonticide assure une rapide diminution de la parasitémie entraînant une rapide guérison clinique. Son action gamétocytocide prévient la contamination.
+
+L'absorption orale de DUO-COTECXIN® est rapide et complète. La demi-vie de la DHA est très courte (environ 2 heures) tandis que celle de la PQP est longue (environ 9 heures).
+
+Guide du facilitateur | Septembre 2015 | 137
+
+INDICATIONS
+
+DUO-COTECXIN® est indiqué dans le traitement des formes simples de paludisme, particulièrement dans les cas de paludisme à Plasmodium falciparum multi-résistant.
+
+ADMINISTRATION
+
+Poids
+
+Age
+
+1er jour
+
+2ème jour
+
+3ème jour
+
+5 à 9,9kg
+
+6mois - 1an
+
+1/2 comprimé
+
+1/2 comprimé
+
+1/2 comprimé
+
+10 à 20kg
+
+2-7ans
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+20 à 40kg
+
+8-13ans
+
+2 comprimés
+
+2 comprimés
+
+2 comprimés
+
+≥ 40kg
+
+≥ 14ans
+
+3 comprimés
+
+3 comprimés
+
+3 comprimés
+
+PRECAUTIONS D'EMPLOI :
+
+Déconseillé pendant la grossesse ;
+
+Respecter un délai de 4 semaines entre deux cures de traitement ;
+
+Tenir hors de portée des enfants ;
+
+Conserver à l'abri de la lumière et de l'air dans un endroit frais et sec (< 30°c).
+
+138 | Guide du facilitateur | Septembre 2015
+
+ANNEXE
+
+ECHELLES D'EVALUATION DU NIVEAU DE
+
+CONSCIENCE
+
+Echelle de coma de Glasgow
+
+Points
+
+Les yeux s'ouvrent :
+
+spontanément en réaction à la parole en réaction à la douleur jamais
+
+Meilleure verbale :
+
+sensée confuse paroles inappropriés paroles incompréhensibles aucune obéit aux ordres localise la douleur flexion face à la douleur :
+
+retrait anormale extension face à la douleur aucune
+
+Meilleure motrice :
+
+réponse réponse
+
+Additionnez les points de toutes les sections pour obtenir le total des points de l'échelle de Glasgow.
+
+Echelle de coma de Glasgow modifiée (Blantyre)
+
+Mouvements des yeux :
+
+dirigé (suit le visage des mères ou les objets) vague
+
+Points
+
+Réponse verbale :
+
+cri approprié gémissement ou cri inapproprié aucune
+
+Meilleure motrice :
+
+localise les stimuli douloureux retire le membre en réaction à la douleur non spécifique ou absence de réponse réponse
+
+Guide du facilitateur | Septembre 2015 | 139
+
+Additionnez les points de toutes les sections pour obtenir le total des points de l'échelle de Glasgow modifiée.
+
+Le coma est défini par un score de Glasgow ≤ 9 ou de Blantyre ≤ 2 (≤ 3 si impossibilité de localiser la douleur.
+
+140 | Guide du facilitateur | Septembre 2015
+
+ANNEXE
+
+CONDUITE A TENIR DEVANT DES SIGNES DE
+
+GRAVITE DU PALUDISME
+
+Serum
+
+Glucosé 10% *
+
+Tranches d'âge
+
+Poids
+
+<1 mois
+
+< 4 kg x 2/j soit 0,5 ml x 2/j
+
+50 cc x 2/j
+
+1 mois - 4 mois
+
+4 kg - 6,9 kg x 2/j soit 1 ml x 2/j
+
+75 cc x 2/j
+
+5 mois -11 mois
+
+7 kg - 9,9 kg x 2/j soit 1,5 ml x 2/j
+
+125 cc x 2/j
+
+12 mois -24 mois x 2/j soit 2 ml x 2/j
+
+150 cc x 2/j
+
+25 mois -35 mois
+
+3 ans
+
+- 4 ans
+
+5 ans - 7 ans
+
+8 ans – 10 ans
+
+25 kg - 33 kg
+
+11 ans – 12 ans
+
+34 kg - 44 kg
+
+13 ans – 15 ans
+
+≥ 16 ans
+
+200 cc x 2/j soit 3 ml x 2/j
+
+250 cc x 2/j soit 4 ml x 2/j
+
+300 cc x 2/j soit 6 ml x 2/j
+
+400 cc x 2/j x 2/j soit 8 ml x 2/j
+
+45 kg - 55 kg soit 10 ml x 2/j
+
+≥ 56 kg soit 12 ml x 2/j x 2/j soit 2,5 ml x 2/j
+
+500 cc x 2/j
+
+500 cc x 2/j
+
+500 cc x 2/j
+
+Guide du facilitateur | Septembre 2015 | 141
+
+* Une perfusion à passer en 4 h, toutes les 12 heures. Etant donné la quantité Q (en ml) de soluté à perfuser en 4 heures, le nombre de gouttes/min de la perfusion (G) sera calculé de la sorte :
+
+G= soit Q_
+
+Ne pas dépasser 7 jours de traitement. Mettre en place un cathéter veineux si possible.
+
+NB : 1 Ampoule de Quinimax ® 500 = 2 Ampoules de Paluject ® 0,40 ; 1 Ampoule de Quinimax ® 250 = 2 Ampoules de Paluject ® 0,20 ; 1 Ampoule de Quinimax ® 125 = 2 Ampoules de Paluject ® 0,10. Pour tout autre sel de quinine (S en mg pour une Ampoule donnée) dont la teneur en quininebase (B en %) serait différente de celle du Paluject ® ou du Quinimax ®, la dose journalière en quinine-base (25 mg par kg de poids P) permettra de déterminer le nombre d'ampoules (A) à répartir dans les 24 h. A = 25 x P x 100
+
+BxS
+
+142 | Guide du facilitateur | Septembre 2015
+
+ANNEXE
+
+FICHE DE PHARMACOVIGILANCE
+
+Guide du facilitateur | Septembre 2015 | 143
+
+PERSONNES AYANT PARTICIPE
+
+A L'ELABORATION DU MANUEL
+
+N°
+
+Prénoms et Noms
+
+Dr Mamadou Lamine DIOUF
+
+Abdou Oudotte DIENG
+
+Dr Ibrahima DIALLO
+
+Dr Moustapha CISSE
+
+Mr Moussa NDOUR
+
+Dr Alioune Badara GUEYE
+
+Dr Libasse GADIAGA
+
+Dr Fatou Ba FALL
+
+Dr Seynabou GAYE
+
+Mme Yacine WARDINI
+
+Mme Ndeye Mour COLL
+
+Mr Médoune NDIOP
+
+Dr Eugenie Siga D. N. DIOUF
+
+Raky DIAGNE
+
+Dr Mame Kene SYLLA
+
+Dr Daye KA
+
+Dr Alpha Seydi NDIAYE
+
+Pr Boubacar CAMARA
+
+Pr Sylvie A.G. DIOP
+
+Ouleye BEYE
+
+Dr Mansour Niang
+
+Mamoudou WADE
+
+Mady BA
+
+144 | Guide du facilitateur | Septembre 2015
+
+Fonctions/Structure
+
+Pharmacien / PNLP
+
+Infirmier d'Etat / PNLP
+
+Pharmacien / PNLP
+
+Coordonnateur Adjoint / PNLP
+
+Conseiller PECADOM / PNLP
+
+Chef bureau PEC / PNLP
+
+Entomologiste / PNLP
+
+Chargée Recherche / PNLP
+
+Chargée PECADOM / PNLP
+
+Point focal ONG et Réseau / PNLP
+
+Assistante chargée secrétariat / PNLP
+
+Chef bureau Suivi Evaluation / PNLP
+
+Pédiatre / IntraHealth
+
+Assistante du Coordonnateur
+
+Pharmacien / PNLP
+
+Médecin Maladies Infectieuses / Fann
+
+Pédiatre Hôpital Régional de Kolda
+
+Pédiatre Hôpital Pikine / Dakar
+
+Maladies Infectieuses / Fann
+
+Chef Bureau Prevention Partenariat / PNLP
+
+Clinique Gynécologique et Obstétricale
+
+Bureau Prevention Partenariat / PNLP
+
+Coordonnateur PNLP
+
+ANNEXE
+
+Guide du facilitateur | Septembre 2015 | 145
+
+146 | Guide du facilitateur | Septembre 2015
+
+ANNEXE
+
+Guide du facilitateur | Septembre 2015 | 147
+
+GUIDE DU FACILITATEUR - MANUEL DE FORMATION SUR LA PRISE EN CHARGE ET LA PREVENTION DU PALUDISME

@@ -1,0 +1,2949 @@
+GUIDE PRATIQUE
+
+DE LUTTE CONTRE
+
+LE PALUDISME
+
+EN ENTREPRISE
+
+Comment mettre en place une stratégie de lutte contre le paludisme en entreprise ?
+
+1.1. Le paludisme dans le monde
+
+VI.
+
+1.2. Le paludisme au Sénégal
+
+6.1. Réussir l'analyse situationnelle
+
+1.3. Le paludisme en entreprise
+
+6.1.1. Analyser la situation de l'entreprise
+
+1.4. Les enjeux économiques
+
+6.2. Circonscrire son périmètre d'intervention
+
+II. Objectifs du guide
+
+6.3. Quelle stratégie de lutte à mettre en place ?
+
+III. Cibles du guide
+
+6.3.1. Programme standard de lutte contre le paludisme
+
+IV. Que comprendre du paludisme ?
+
+6.3.2. Programme intégré élargi
+
+4.1. Le vecteur
+
+6.4. Réussir l'IEC sur le paludisme
+
+4.1.1. Le cycle de vie de l'anophèle
+
+6.4.1. Quels messages diffuser?
+
+4.1.2. Le comportement de l'anophèle
+
+6.4.2. Principes pour une IEC réussie
+
+6.5. La prévention
+
+4.2. Le parasite
+
+4.3. La maladie
+
+6.5.1. La lutte anti-vectorielle
+
+4.3.1. Les formes simples
+
+4.3.2. Les formes graves
+
+4.4. Les risques en entreprise
+
+V.
+
+Comment prendre en charge le paludisme en entreprise ?
+
+5.1. La prévention du paludisme
+
+La protection individuelle :
+
+la moustiquaire imprégnée
+
+6.6. Prendre en charge les cas de paludisme
+
+6.6.1. Le diagnostic
+
+6.6.2. Le traitement
+
+6.7. Stratégie de partenariat
+
+5.1.1. La lutte anti vectorielle
+
+6.7.1. Quel(s) partenaire(s) pour quel(s) partenariat(s)?
+
+5.1.2. La chimio prévention
+
+6.7.2. Les étapes du partenariat
+
+L'information et l'éducation pour le changement de comportements (IEC)
+
+6.8. Cadre logique et suivi-évaluation
+
+6.8.2. Les indicateurs
+
+5.2.1. Le diagnostic clinique
+
+6.8.3. Assurer le suivi-évaluation
+
+5.2.2. Le diagnostic biologique
+
+VII. Ils se sont engagés !
+
+5.2. Le diagnostic
+
+5.3. Le traitement du paludisme
+
+Références bibliographiques
+
+PREFACE
+
+Le Programme National de Lutte contre le Paludisme (PNLP) a adopté un plan stratégique 2016-2020 qui se veut un plan de consolidation des acquis de la mise en oeuvre du plan décennal de développement sanitaire et social et entend accorder la priorité au renforcement des capacités en matière d'offre de services et de création de la demande.
+
+Ainsi, il est le cadre de référence pour les interventions de tous les acteurs impliqués dans la lutte contre le paludisme pour les cinq années à venir.
+
+Ce plan stratégique participe à donner corps à la vision de la politique de santé dans le cadre du Plan Sénégal Emergent en réaffirmant l'ambition du Sénégal d'aller à l'élimination du paludisme et à la réduction de la mortalité palustre à un niveau proche de zéro en adaptant les interventions de lutte aux différents faciès épidémiologiques, mais aussi, en adoptant des interventions innovantes à haut impact.
+
+Afin d'atteindre les objectifs ambitieux que le pays s'est fixé, l'engagement de tous les acteurs aussi bien stratégiques que de mise en oeuvre doit être renforcé.
+
+A travers son impact direct sur l'économie, l'entreprise et les communautés locales, le paludisme constitue un véritable frein au développement économique des pays endémiques, en particulier en Afrique.
+
+Il est aujourd'hui largement admis que le secteur privé dans son ensemble a un rôle-clé à jouer dans la lutte contre le paludisme. Afin de favoriser l'engagement accru des entreprises, le PNLP a décidé d' élaborer un guide pratique sur le paludisme à l' intention des entreprises, un guide opérationnel qui devrait permettre au secteur privé de co-investir de manière efficace dans les activités de lutte contre le paludisme en milieu de travail et dans les communautés locales au Sénégal.
+
+Il me plait ici d'inviter l'ensemble des acteurs du secteur privé à s'approprier le contenu du présent guide et à inscrire leurs interventions dans les orientations stratégiques retenues pour une meilleure synergie et une efficience dans l'action.
+
+Il s'agit non seulement de protéger le personnel des entreprises et leurs familles, mais aussi de trouver un mode opératoire pour participer à l'effort national.
+
+Par Le Docteur Mady BA – Coordonnateur du Programme National de Lutte contre le Paludisme
+
+Abréviations
+
+ACT
+
+Artemisinin-based combination therapy (Combinaisons à base d'artémisinine)
+
+AID
+
+Aspersion intra domiciliaire
+
+A-L
+
+Artémether-Luméfantrine
+
+AQ
+
+Amodiaquine
+
+AS
+
+Artésunate
+
+BICIS
+
+Banque Internationale pour le Commerce et l'Industrie du Sénégal
+
+CAP
+
+Connaissances, attitudes et pratiques
+
+CDD
+
+Contrat à durée déterminée
+
+CDI
+
+Contrat à durée indéterminée cp comprimé
+
+CPS
+
+Chimioprévention du Paludisme Saisonnier
+
+CSS
+
+Compagnie sucrière sénégalaise
+
+DHA
+
+Dihydroartémisinine
+
+DRH
+
+Direction des ressources humaines
+
+EPI
+
+Equipements de protection individuelle
+
+GE
+
+Goutte épaisse
+
+HSE
+
+Hygiène, sécurité et environnement
+
+IEC
+
+Information, éducation pour le changement de comportements
+
+IM
+
+Intramusculaire
+
+LED
+
+Light-emitting diode (diode électroluminescente)
+
+MII
+
+Moustiquaire imprégnée d'insecticides
+
+MILDA
+
+Moustiquaire imprégnée à longue durée d'action
+
+OMS
+
+Organisation mondiale de la Santé
+
+ONG
+
+Organisations non gouvernementales
+
+PECADOM
+
+Prise en charge des cas de paludisme à domicile
+
+PEPFAR
+
+Plan d'urgence du président pour la lutte contre le sida
+
+PIB
+
+Produit intérieur brut
+
+PID
+
+Pulvérisation intra domiciliaire
+
+PNLP
+
+Programme national de lutte contre le paludisme
+
+PQ
+
+Pipéraquine phosphate
+
+RSE
+
+Responsabilité sociétale des entreprises
+
+SCB
+
+Société des ciments du Bénin
+
+SP
+
+Sulfadoxine- Pyriméthamine
+
+TDR
+
+Test de diagnostic rapide
+
+TIE
+
+Taux d'inoculation entomologique
+
+TPI
+
+Traitement préventif intermittent
+
+CONTEXTE
+
+1.1. LE PALUDISME DANS LE
+
+MONDE
+
+- 278 millions de personnes vivaient dans des foyers où il n'y a aucune moustiquaire ;
+
+- 15 millions de femmes enceintes sur 35 millions n'avaient reçu aucune dose de TPI ;
+
+L'intensification depuis 2000 des efforts de lutte antipaludique a permis un recul remarquable du paludisme ces 15 dernières années. Cette belle dynamique est illustrée à travers les bonnes performances enregistrées sur divers indicateurs :
+
+- L'incidence du paludisme a diminué de 37 % dans le monde et le taux de mortalité associée de 60 %1
+
+- 6,2 millions de décès ont été évités entre 2001 et 2015 dont 95% concernent des enfants de moins de 5 ans2.
+
+- Le TPI a été adopté par 37 pays et 57 % des femmes enceintes dans ces pays ont reçu au moins une dose de TPI3.
+
+- Entre 56 et 69 millions d'enfants atteints de paludisme n'avaient pas été traités par ACT
+
+- Par ailleurs, 3,2 milliards de personnes environ, soit près de la moitié de la population mondiale sont exposées au risque de contracter le paludisme8.
+
+- De plus, en 2015, 89% des cas de paludisme et 91% des décès dus à cette maladie sont survenus en Afrique subsaharienne.
+
+- En outre, les fonds destinés à la lutte contre le paludisme sont certes conséquents mais ils restent nettement en deçà des US$ 5,1 milliards nécessaires pour l'atteinte des objectifs mondiaux définis sur la voie du contrôle et de l'élimination de la maladie.
+
+- En 2013, près de la moitié de la population à risque (49 %, plage comprise entre 44 % et 54 %) avait accès à une moustiquaire imprégnée d'insecticide (MII) au sein de son foyer, contre 3 % en 20044.
+
+- En 2013, 62 % des patients suspectés de paludisme dans un établissement de santé public de la région Afrique ont reçu un test de diagnostic, contre 40 %
+
+- La proportion d'enfants de moins de 5 ans atteints de fièvre traités au moyen de médicaments antipaludiques autres que les ACT est passée de 46 % en En dépit des progrès spectaculaires enregistrés en termes de couverture des interventions antipaludiques, il a été estimé par l'OMS qu'en 2013 sur une population totale à risque de 840 millions en Afrique subsaharienne7 :
+
+1.2. LE PALUDISME AU SÉNÉGAL
+
+A l'instar du reste du monde, le Sénégal connait une nette régression de l'incidence palustre, qui a baissé de plus de 50% entre 2009 et 2015. En effet, la prévalence parasitaire est passée de 3% à 1,2% et la mortalité toutes causes confondues de 72% de naissances vivantes à 33 ‰ chez les moins de 5 ans entre 2009 et 2014. Ces résultats probants ont permis au Sénégal d'atteindre les objectifs de Roll Back Malaria (RBM) en
+
+1. Atteinte de la cible des omd pour le paludisme : inversion de la tendance entre 2000 et 2015 2. tteinte de la cible des omd pour le paludisme : inversion de la tendance entre 2000 et 2015 3. World malaria report 2014 : points essentiels 4. World malaria report 2014 : points essentiels 5. World malaria report 2014 : points essentiels 6. tteinte de la cible des omd pour le paludisme : inversion de la tendance entre 2000 et 2015 7. World malaria report 2014 : points essentiels http://www.who.int/mediacentre/factsheets/fs094/fr/ consulté le 25/01/2016
+
+Cette faible incidence peut s'expliquer par la mise en œuvre d'une série de mesures à efficacité prouvée et recommandées par l'OMS et une meilleure connaissance par les populations de la maladie.
+
+Les analyses de morbidité et de mortalité dues au paludisme au Sénégal montrent clairement une disparité entre les régions. Le fardeau du paludisme est beaucoup plus ressenti dans les régions du centre, du sud et de l'est du pays. On note également malgré le maintien des conditions environnementales favorables au paludisme, un recul des cas de paludisme avec une prévalence parasitaire qui passe de 3% en 2012 à 1,2% en 2014. De même l'incidence du paludisme augmente du Nord au Sud. Cela s'explique par divers facteurs, notamment, la densité de la population humaine, les aspects épidémiologiques, la pluviométrie, etc.
+
+En matière de lutte contre le paludisme, le Sénégal fait partie des premiers pays à avoir introduit les ACT en 2006 jusqu'au niveau communautaire (cases de santé).
+
+En 2007, les aspersions intra domiciliaires ont débuté au niveau de 3 districts pilotes (Richard Toll, Nioro et Vélingara).
+
+La même année, les tests de diagnostic rapide (TDR) ont été introduits et rapidement mis à l'échelle. Aujourd'hui, le taux de confirmation des cas de paludisme au niveau des structures de santé a atteint 90%.
+
+En 2008, la prise en charge des cas de paludisme à domicile (PECADOM) a été mise en œuvre au niveau de trois (03) districts pilotes et aujourd'hui, 2115 villages bénéficient de cette stratégie.
+
+En 2009, la phase pilote de la stratégie de couverture universelle (un lit, une moustiquaire) a été lancée et mise en œuvre dans 4 régions en 2010.
+
+En 2013, l'ensemble du territoire national a été couvert par la couverture universelle en moustiquaire avec la mise en œuvre de la dernière phase de la campagne de masse de MILDA dans les régions de Dakar et Thiès.
+
+Malgré ces efforts et les résultats inhérents, le paludisme demeure un problème de santé publique au Sénégal car les décès qui lui sont attribuables persistent. Des défis demeurent encore, notamment ceux en rapport avec l'accès universel aux interventions majeures comme l'utilisation des MILDA et le traitement par les combinaisons thérapeutiques à base d'Artémisinine jusqu'au niveau communautaire après un diagnostic avec les tests de diagnostic rapide (TDR).
+
+préjudiciable à l'entreprise de manière directe par son impact sur la main d'œuvre, et de manière indirecte, par un effet néfaste sur son environnement économique.
+
+L'IMPACT DIRECT DU PALUDISME SUR L'ENTREPRISE Le paludisme est responsable en grande partie de l'absentéisme des travailleurs, les malades étant souvent alités pendant plusieurs jours. De même, une épouse ou un enfant malade peut obliger un employé à rester chez lui pour s'occuper d'eux. En effet, à chaque épisode palustre, les adultes manquent entre un et cinq jours de travail, et autant lorsqu'ils soignent un enfant malade. L'OMS12 estime que cet impact est encore plus important, soit l'équivalent de 10 journées de travail perdues par épisode palustre. Dans une étude du Forum économique mondial réalisée au Ghana13, 63 % des 119 responsables d'entreprise interrogés déclaraient que cette maladie était une cause d'absentéisme des employés.
+
+1.3. LE PALUDISME EN ENTREPRISE
+
+Le constat est unanime, l'impact négatif du paludisme sur les performances économiques est bien réel.
+
+En effet, selon la Coalition française contre le Paludisme10, le paludisme est une maladie de la pauvreté qui contribue à la renforcer dans les pays concernés.
+
+A l'échelle de l'entreprise, on note que 72%11 des responsables d'entreprises en Afrique subsaharienne déclaraient en 2006 que le paludisme avait un impact négatif sur leurs activités, et 39 % avaient le sentiment que cet impact était considérable. Le paludisme est
+
+Même après la reprise du travail, les employés sont souvent moins productifs en période de rétablissement.
+
+Les employés, surtout ceux qui accomplissent des tâches physiques, peuvent avoir besoin de plusieurs jours pour retrouver leur niveau de productivité antérieur. Dans une étude réalisée en 2008 en Zambie, les employés confiaient qu'après un épisode palustre, ils se sentaient fatigués et moins productifs au travail14.
+
+La productivité peut également être affectée par une baisse de moral, par exemple lorsqu'un employé s'inquiète de sa santé ou de celle de sa famille, ou, pire, lorsque la maladie entraîne le décès de l'un de ses proches.
+
+Le paludisme a aussi une incidence sur les dépenses de santé. Beaucoup de grandes entreprises fournissent des services de santé à leurs employés et aux personnes à leur charge. Lorsqu'un employé fait une crise de paludisme, l'entreprise prend en charge ses frais médicaux. De même, lorsque l'employeur s'occupe des soins, une part importante du coût de la prise en charge d'un membre de la famille est imputée au ménage. À nouveau, cette situation peut affecter les revenus et le moral de l'employé et pourrait nuire à l'environnement économique de l'entreprise.
+
+L'IMPACT INDIRECT DU PALUDISME SUR
+
+L'ENTREPRISE
+
+Le paludisme a aussi des répercussions en chaîne sur l'économie en général, et pas seulement sur l'entreprise concernée. La parasitémie parmi les employés d'une entreprise augmente le risque de transmission à la communauté en général, affectant ainsi l'économie de la région. Une prévalence parasitaire élevée va probablement affaiblir le capital humain et entraîner l'indisponibilité des ressources locales.
+
+Le paludisme peut peser sur les économies en réduisant ou en annihilant la capacité d'épargne et d'investissement, d'où une diminution des revenus disponibles. Par ailleurs, celui qui ne pense pas vivre très longtemps, heureux et en bonne santé est moins enclin à économiser et à investir dans l'économie locale. Ainsi, le paludisme peut contribuer à diminuer les recettes fiscales et, en définitive, à réduire les budgets de santé publique.
+
+SECTEUR :
+
+construction
+
+NOMBRE DE SALARIÉS :
+
+540 (1500 ayant-droits)
+
+Personnel local et expatrié
+
+PROFIL DU PALUDISME :
+
+zone rurale à transmission continue
+
+ETUDE D'IMPACT DU PALUDISME
+
+50% Absentéisme (Jours/an)
+
+42% des consultations
+
+Coût du paludisme/an (FCFA)
+
+Absentéisme
+
+Diagnostic et médicaments
+
+Personnel médical
+
+Coût par salarié/an (FCFA)
+
+Source : Santé en Entreprise (SEE)
+
+Encadré 1 : Cas SCB-Large Bénin15
+
+Etude d'impact du paludisme en entreprise
+
+10. http://www.coalitionpaludisme.org/
+
+11. Initiative mondiale en faveur de la santé/Forum économique mondial, Harvard School of Public Health (2006), Business and Malaria :
+
+A NeglectedThreat?, Genève,
+
+12. OMS (1998, révisé en avril 2010), Paludisme [Aide-mémoire N°94], Genève, www.who.int/mediacentre/factsheets/fs094/fr 13. Cook L.D. et J.D. Sachs (2001), Africa competitiveness report 2000/2001, Forum économique mondial, Genève.
+
+14. McFarland et Banda (2008), Communication personnelle.
+
+15. Mesurer l'impact du paludisme et évaluer le retour sur investissement d'un programme en entreprise P.6, www.santeenentreprise.com
+
+1.4. LES ENJEUX ÉCONOMIQUES
+
+Selon l'OMS/Sénégal16, le paludisme appauvrit, génère une perte de produit intérieur brut annuel de 12 milliards de FCFA, ralentit la croissance économique, compromet le développement et entretient le cercle vicieux de la pauvreté. Il grève de 25% les revenus des ménages et représente 40% des dépenses publiques de santé.
+
+Les enjeux économiques du paludisme englobent également les retombées économiques de la lutte contre cette endémie.
+
+Ainsi, les coûts engendrés par la lutte contre le paludisme sont certes importants, les bénéfices le sont plus encore et les risques associés à l'inaction trop élevés pour être ignorés.
+
+En effet, le contrôle, et l'élimination permettront une réorientation des ressources vers d'autres priorités sanitaires.
+
+Les conditions de vie des populations s'en trouveraient améliorées (moins de décès, d'inconfort, d'évacuation, de dépenses négatives).
+
+En outre, la lutte contre le paludisme est un motif de création d'emplois par l'implantation de fabriques de moustiquaires, de pesticides et d'intrants nécessaires au diagnostic et au traitement du paludisme.
+
+A la dimension de l'entreprise, les retombées des politiques de lutte contre le paludisme sont essentiellement liées à la réduction des dépenses relatives aux traitements antipaludiques et aux pertes inhérentes aux absences.
+
+Le cas AngloGold Ashanti17 en est une parfaite illustration. Après la mise en place d'une politique intégrée, entre 2005 et 2009, l'incidence du paludisme à Obuasi (l'entreprise y exploite des mines d'or) a diminué chaque année de manière constante. Le coût mensuel moyen des traitements antipaludiques a baissé de 31 De la même manière, le nombre mensuel moyen de journées de travail perdues pour cause de paludisme a considérablement diminué : 6 983 en 2005 contre Ce programme de lutte contre le paludisme a été distingué au niveau international. Il a notamment été cité comme exemple d'excellence au niveau mondial.
+
+Il a, par ailleurs, reçu trois récompenses lors des Healthcare Initiative Awards parrainés par la banque sud-africaine ABSA en association avec le Congrès panafricain de la santé (Pan African Healthcare Congress), relevant ainsi son image auprès des partenaires et des différentes parties prenantes.
+
+EVALUER L'EFFICACITÉ D'UN
+
+PROGRAMME INTÉGRÉ DE LUTTE CONTRE
+
+LE PALUDISME EN ENTREPRISE
+
+Coût du paludisme/an avant le programme (1)
+
+Coût du programme (2)
+
+Economies générées (3)
+
+Absentéisme
+
+Diagnostic et médicaments
+
+Personnel médical
+
+Coût du paludisme/an avec programme (4)
+
+Gain/an
+
+Source : Santé en Entreprise (SEE)
+
+Il est à noter que cette évaluation d'impact n'inclue pas les retombées sur l'environnement qui sont plus difficiles à chiffrer et qui n'en sont pas moins importants.
+
+Encadré 2 : Cas SCB-Large Bénin15
+
+Evaluer l'efficacité d'un programme intégré de lutte contre le paludisme
+
+Il ressort de ce qui précède que le paludisme a connu un net recul dans le monde grâce aux efforts intenses de lutte et à la hausse des financements qui y sont consacrés. En sus, l'impact économique du paludisme sur l'économie et les entreprises sont bien réels comme le sont aussi les retombées positives des investissements des entreprises, des Etats et des PTF dans la lutte antipaludique.
+
+En outre, le partenariat public/privé étant devenu, un des axes majeurs de cette lutte, il demeure plus qu'opportun de disposer d'un cadre opérationnel afin d'accompagner et de faciliter l'engagement des acteurs du secteur privé dans ce combat. C'est cela qui justifie le présent guide.
+
+16. Dr Farba Lamine SALL Economiste de la Santé OMS/Sénégal impact économique du paludisme 17. Investissement des entreprises dans la lutte contre le paludisme : retombées économiques et protection de la main d'œuvre en Afrique – Mai 2011 – Roll Back Malaria, Encadré 2, page 21 18. Mesurer l'impact du paludisme et évaluer le retour sur investissement d'un programme en entreprise P.6, www.santeenentreprise.com
+
+OBJECTIFS DU GUIDE
+
+Ce guide a pour objectif d'aider et d'accompagner les entreprises dans la mise en place d'un programme de lutte antipaludique. En d'autres termes, il se veut un cadre pratique d'élaboration et de mise en œuvre d'une politique, pour l'entreprise qui soit en cohérence avec ses objectifs, ses ressources, son environnement social et sanitaire et en phase avec les orientations et directives nationales de lutte contre le paludisme. Il est aussi un outil pour la matérialisation du partenariat public privé.
+
+De façon plus spécifique, ce guide se fixe comme objectifs de :
+
+- Fournir des informations pratiques, pour une bonne connaissance du paludisme et des moyens de lutte.
+
+- Accompagner les entreprises dans le diagnostic, l'élaboration et la mise en œuvre d'une politique intégrée de lutte contre le paludisme dans une approche pragmatique.
+
+- Orienter les responsables desdites politiques dans le suivi et l'évaluation de cette politique.
+
+- Faciliter le partenariat public privé pour une action coordonnée de tous les acteurs dans la lutte contre le paludisme.
+
+CIBLES DU GUIDE
+
+Ce guide est destiné à toute entreprise multinationale ou société locale qui souhaite participer à la dynamique mondiale et nationale de lutte contre le paludisme et à la réduction de son impact sur la communauté et l'économie. Il s'adresse de façon plus spécifique à toute personne susceptible de porter ce projet dans l'entreprise. Il s'agit selon la taille de l'entreprise, de sa structuration et du niveau de délégation des pouvoirs des :
+
+- Directeurs généraux
+
+- Responsables de programmes RSE
+
+- Responsables des ressources humaines
+
+- Médecins d'entreprise
+
+- Représentants du personnel
+
+- Chargés de marketing et communication
+
+- Membres des conseils d'administration
+
+Ce guide cible également toutes les parties prenantes de l'entreprise, c'est-à-dire toute entité qui peut être impactée par l'entreprise et son activité.
+
+QUE COMPRENDRE
+
+DU PALUDISME ?
+
+4.1. LE VECTEUR
+
+L'ESSENTIEL
+
+- Le moustique vecteur du paludisme est l'anophèle femelle. Il pique l'homme pour absorber le sang essentiel aux besoins de sa reproduction.
+
+- Le cycle de l'anophèle comprend quatre stades :
+
+œufs, larve, nymphe et âge adulte.
+
+- Les larves se développent dans une eau quasi stagnante et peu polluée.
+
+- Le moustique prélève le parasite quand il prend son repas de sang sur une personne infectée.
+
+Une fois dans le moustique, le parasite se multiplie et il est transmis lors du prochain repas à une autre personne.
+
+4.1.1. Le cycle de vie de l'anophèle
+
+Quels facteurs favorisent le développement des moustiques ?
+
+Pour que le moustique puisse proliférer, 3 facteurs sont indispensables :
+
+- La présence d'une eau stagnante
+
+- Une température favorable
+
+- Une humidité relative favorable
+
+La durée de vie du moustique est en moyenne de 4 semaines mais peut atteindre dans certaines situations 2 à 3 mois et son rayon d'action est en moyenne de 2 km. Avec l'aide du vent, il peut atteindre des distances plus grandes.
+
+Derrière le mot moustique se cache une grande variété d'espèces. Elles présentent des différences d'habitat, de comportement et des périodes de développement distinctes. Cependant, toutes ces espèces ont un cycle de développement similaire.
+
+Quelles sont les étapes du cycle de vie du moustique ?
+
+- La phase aquatique, qui commence par les œufs suivi de 4 stades larvaires et le stade nymphal.
+
+- La phase aérienne, pendant laquelle l'adulte provenant de l'éclosion de la nymphe vole et s'accouple. Après avoir été fécondée, la femelle se gorge de sang et récupère ainsi les protéines indispensables à la maturation de ses œufs. La prochaine ponte intervient 48 heures après son repas de sang.
+
+4.1.2. Le comportement de l'anophèle
+
+Quel rayon d'action ?
+
+4.2. LE PARASITE
+
+L'anophèle peut parcourir jusqu'à 2km pour trouver une cible, mais en général elle ne s'éloigne pas de son lieu de ponte. Son vol est plus silencieux qu'un bon nombre d'espèces de moustique.
+
+Il existe de très nombreuses espèces de Plasmodium (plus de 140) parasites du sang et des tissus (essentiellement le foie) de diverses espèces animales.
+
+Comment trouve-t-elle sa cible ?
+
+L'ESSENTIEL
+
+Elle est guidée par la chaleur (température), le CO2 et l'odeur corporelle émis par l'hôte, les couleurs sombres aussi l'attirent.
+
+A quelle période s'active t-elle ?
+
+- L'anophèle se déplace généralement aux heures humides, pour éviter de trop se déshydrater. Mais il arrive qu'il entre dans la maison aux heures de la journée.
+
+- Certains moustiques commencent à piquer au crépuscule, avant même que la nuit tombe, alors que d'autres atteignent une période d'activité intense dans les dernières heures de la nuit. Les anophèles femelles piquent toute la nuit.
+
+Après le repas sanguin
+
+La femelle se retire dans un endroit spécial appelé gîte de repos de préférence dans les coins sombres et humides, sur les murs, sous les meubles (endophile);
+
+ou à l'extérieur (exophile). Puis, elle cherche un lieu de ponte aquatique ou gîte larvaire (différent du gîte de repos).
+
+- Le paludisme est causé par un parasite: le plasmodium. Cinq espèces affectent l'homme, dont le Plasmodium falciparum, responsable de l'immense majorité des décès.
+
+- Le développement du plasmodium se fait en deux étapes, chez le vecteur (moustique) et chez l'hôte (l'homme).
+
+- Le parasite se transmet au moustique lors de la piqûre d'un individu atteint de paludisme et infecte l'individu sain par le biais de la piqûre d'un moustique porteur du parasite.
+
+Quel plasmodium est responsable du paludisme chez l'homme ?
+
+L'homme peut être infecté spécifiquement par cinq espèces :
+
+- P. falciparum responsable du paludisme qui peut tuer : fièvre tierce maligne et accès pernicieux.
+
+- P. vivax et P. ovale, agents des fièvres tierces bénignes.
+
+- P. malariae, responsable de la fièvre quarte.
+
+- P. knowlesi, responsable d'une fièvre quotidienne et d'accès palustre sévère.
+
+Comment se développe le plasmodium ?
+
+Le cycle du Plasmodium se décompose en deux grands temps, l'un chez le moustique, l'autre chez l'homme. C'est au moment des piqûres du moustique que le parasite passe de l'un à l'autre.
+
+- Chez l'homme
+
+1. LA PIQÛRE INFECTANTE
+
+C'est à ce moment que le parasite est inoculé à l'homme et qu'il commence son cycle.
+
+4. LA DIFFÉRENTIATION DES PARASITES EN
+
+GAMÉTOCYTES (CELLULES REPRODUCTRICES)
+
+A l'intérieur des globules rouges, certains parasites se transforment en gamétocytes mâles et femelles.
+
+A ce stade, le parasite ne peut poursuivre son cycle que s'il est absorbé par le moustique.
+
+2. LE DÉVELOPPEMENT DANS LES CELLULES
+
+DU FOIE
+
+Les parasites vont dans le foie, s'y multiplient et donnent naissance à des milliers de nouveaux parasites. Les cellules du foie éclatent, libérant ces parasites qui pénètrent dans des globules rouges.
+
+3. LA MULTIPLICATION ET L'ÉCLATEMENT
+
+DANS LE SANG
+
+Les parasites se multiplient dans les globules rouges et les font éclater, libérant de nombreux parasites qui vont infecter de nouveaux globules rouges. A cet éclatement des globules rouges, correspond le paroxysme de l'accès palustre.
+
+- Chez le moustique
+
+1. LA PIQÛRE INFECTANTE
+
+POUR LE MOUSTIQUE
+
+Lors de la piqûre d'un sujet humain porteur de gamétocytes, le moustique ingère ces gamétocytes qui se transformeront ensuite en gamètes.
+
+2. LA REPRODUCTION DU PLASMODIUM
+
+La fécondation des gamètes dans l'organisme du moustique produit de nouveaux parasites qui rejoignent les glandes salivaires. Le cycle peut alors se poursuivre chez l'homme dès la prochaine piqûre.
+
+4.3. LA MALADIE
+
+- Parfois de diarrhées chez l'enfant
+
+- Nausées ou vomissements (peu abondants) Manifestation
+
+Fréquence observée
+
+- Le paludisme est une maladie parasitaire grave, multiforme, parfois mortelle.
+
+Fièvre
+
+- Il existe deux catégories principales d'accès palustres :
+
+Maux de tête
+
+Douleurs musculaires
+
+Foie ou rate palpable
+
+Nausées et vomissements
+
+L'ESSENTIEL
+
+»» Les accès simples caractérisés par : la fièvre, la fatigue, des maux de tête, des frissons, etc.
+
+»» Les accès graves à l'origine de diverses complications potentiellement mortelles.
+
+- Les signes du paludisme grave sont: la forte fièvre, des délires, des hallucinations, un ictère, une anémie, ...
+
+- Les premiers symptômes du paludisme se manifestent 9 à 30 jours après l'infection, selon l'espèce de Plasmodium impliquée et selon que le sujet est immun ou pas. Pour P. falciparum (le plus fréquent), cette période d'incubation dure 9 à 14 jours
+
+- Les jeunes enfants, les femmes enceintes et les voyageurs non immunisés venant de régions exemptes de paludisme sont particulièrement vulnérables à la maladie lorsqu'ils sont infectés.
+
+Le risque de paludisme grave et de décès est élevé au niveau de ces cibles.
+
+FRÉQUENCE DES SYMPTÔMES DES FORMES
+
+SIMPLES DU PALUDISME
+
+PRÉCISIONS
+
+Les symptômes digestifs et gastriques (vomissements et diarrhées) se retrouvent surtout chez l'enfant. La répétition des accès simples affaiblit l'organisme, et augmente progressivement la taille de la rate.
+
+4.3.2. Les formes graves
+
+L'accès grave est caractérisé par une ou plusieurs complications :
+
+4.3.1. Les formes simples
+
+- Anémie sévère
+
+- Coma
+
+- Ictère
+
+Comment se manifestent les formes simples ?
+
+- Convulsions généralisées
+
+Elles se caractérisent par une fièvre brutale, intense et courte (accès de quelques heures), qui s'accompagne le plus souvent de :
+
+- Hypoglycémie
+
+- Fatigue
+
+- Insuffisance rénale
+
+- Maux de tête
+
+- Infections sévère
+
+- Frissons puis de sueurs
+
+- Hémorragies
+
+- Œdème pulmonaire
+
+Manifestation
+
+Fréquence observée chez l'enfant
+
+Fréquence observée chez l'adulte
+
+Anémie sévère
+
++
+
+Oedème pulmonaire
+
++
+
++
+
+Hypoglycémie
+
+++
+
+Insuffisance rénale
+
++
+
+Convulsions répétées
+
++
+
+Troubles de conscience
+
+++
+
+FRÉQUENCE DES SYMPTÔMES DES FORMES
+
+GRAVES DU PALUDISME
+
+PRÉCISIONS : Risques chez les populations immunes et vulnérables
+
+Les accès graves sont presque exclusivement le fait de P. falciparum, parfois de P. vivax.
+
+Un accès simple à P. falciparum est susceptible d'évoluer en un accès grave en quelques jours, parfois même en quelques heures. Si cette évolution est rare chez le sujet adulte vivant en zone d'endémie, elle est plus fréquente chez l'enfant ou le sujet non-immun.
+
+LES SUJETS IMMUNS SONT-ILS COMPLÉTEMENT PROTÉGÉS CONTRE LE PALUDISME ?
+
+Plus la transmission du paludisme dans une zone est forte, plus la prémunition de la population s'établit rapidement et à un niveau élevé.
+
+La prémunition reste toujours imparfaite et exige de rester vigilant face au paludisme même pour les populations semi-immunes.
+
+LES SUJETS VULNÉRABLES
+
+QU'EST-CE QUE LA PRÉMUNITION ?
+
+En zone d'endémie, les individus développent une immunité partielle appelée prémunition.
+
+Cette « semi-immunité » empêchera en général les accès simples d'évoluer vers des accès graves parfois mortels.
+
+Elle met plusieurs années à s'établir, les enfants ne sont donc pas protégés.
+
+Certains groupes ne présentent qu'une prémunition faible ou en sont totalement dépourvus :
+
+les enfants en bas-âge, les femmes enceintes et l'embryon, les personnes affaiblies par certaines maladies, les personnes qui passent d'une zone de paludisme instable à une zone de paludisme stable et les sujets neufs (expatriés non immuns) Ces individus, et en premier lieu les jeunes enfants, sont les principales victimes des accès graves et mortels.
+
+4.4. LES RISQUES EN ENTREPRISE
+
+- Se préoccupe de la RSE
+
+- Est menée par des hommes
+
+Le paludisme est communément associé à la pauvreté, mais il représente aussi une cause majeure de la pauvreté et un frein important au développement économique et humain.
+
+La maladie a des effets économiques négatifs dans les régions où elle est répandue.
+
+Une comparaison du PIB par habitant en 1995, ajustée par parité à pouvoir d'achat, entre les pays touchés par le paludisme et ceux non touchés, montrait des écarts de 1 à 5 (1 526 USD contre 8 268 USD). De plus, dans les pays où le paludisme est endémique, le PIB pays habitant a cru de 0,4 % par an en moyenne de 1965 à 1990, contre 2,4 % pour les autres pays 109.
+
+Le coût économique du paludisme est estimé à 12 milliards FCFA par an pour l'Afrique seule.
+
+Au niveau individuel, l'impact économique inclut les frais de soins et d'hospitalisation, les jours de travail perdus, les jours de présence à l'école perdus, la baisse de productivité due aux dommages cérébraux créés par la maladie.
+
+Pour les Etats, à ces impacts s'ajoutent des baisses d'investissement et du tourisme. Dans certains pays particulièrement touchés par le paludisme, la maladie peut être responsable de 40 % des dépenses publiques de santé, 30 à 50 % des patients admis à l'hôpital, et jusqu'à 50 % des consultations. Pour ce qui est de l'entreprise la logique est le profit, ce qui va à l'encontre de l'abus social ou de l'erreur de gestion.
+
+Tout programme d'entreprise doit obéir à une logique de résultats financiers mesurables et rentables (rapport coût / efficacité).
+
+Il n'en reste pas moins que l'entreprise est un corps social inscrit dans son environnement, qui:
+
+- Doit préserver sa force de travail
+
+- Doit la santé à ses employés
+
+- Doit tenir compte de ses intérêts à long terme Le paludisme est donc une préoccupation légitime de l'entreprise puisqu'il:
+
+- Attaque sa force de travail - absentéisme, anémie, coûts directs et indirects
+
+- Affaiblit les communautés environnantes
+
+- Met en jeu la responsabilité légale quand le paludisme est considéré comme maladie professionnelle (pour les travailleurs venus de pays non impaludés par exemple)
+
+- Diminue le profit de l'entreprise.
+
+Toutes ces raisons font du paludisme un risque économique et social pour l'entreprise et rendent impérative sa prise en charge à travers des stratégies intégrées de lutte.
+
+Les stratégies de lutte contre le paludisme s'articulent essentiellement autour de trois grands piliers :
+
+- La prévention (lutte anti vectorielle, chimio prévention)
+
+- Le diagnostic
+
+- Et le traitement précoce des cas de paludisme
+
+COMMENT PRENDRE EN
+
+CHARGE LE PALUDISME EN
+
+ENTREPRISE ?
+
+5.1. LA PRÉVENTION DU
+
+PALUDISME telles que la gestion des gîtes larvaires et le renforcement des mesures de protection individuelle viennent en appui des mesures de base de lutte anti vectorielle.
+
+a. Les moustiquaires à longue durée d'action (MILDA)
+
+L'ESSENTIEL
+
+La prévention du paludisme se fait essentiellement à travers trois axes :
+
+- Axe 1 : la lutte anti vectorielle avec des mesures de contrôle de l'environnement (assainissement, la pulvérisation intra domiciliaire) et l'utilisation des moustiquaires imprégnées d'insecticides longue durée;
+
+- Axe 2 : le traitement préventif intermittent chez la femme enceinte, la chimioprévention du paludisme saisonnier (CPS), la chimioprophylaxie
+
+- Axe 3 : l'information, éducation pour le changement de comportements (IEC).
+
+5.1.1. La lutte anti vectorielle
+
+La lutte anti vectorielle regroupe toutes les mesures visant à freiner le développement des moustiques vecteurs et protéger l'homme contre les piqûres de moustiques.
+
+La lutte anti vectorielle est un élément essentiel de la prévention du paludisme. Il est prouvé qu'elle permet de réduire ou d'interrompre la transmission lorsque la couverture est suffisamment large.
+
+Quelles sont les composantes de la lutte antivectorielle ?
+
+Les deux méthodes de base, largement applicables, pour lutter contre les vecteurs de la maladie, sont les moustiquaires à longue durée d'action (MILDA) et la pulvérisation intra domiciliaire (PID). Dans certains cas et dans certaines circonstances, d'autres méthodes
+
+Qu'est-ce que c'est ?
+
+Une moustiquaire à longue durée d'action est une moustiquaire traitée avec un produit insecticide (deltaméthrine) directement intégré dans la fibre de polyester ou polyéthylène au moment de la fabrication. Sa durée de vie est d'environ 3 ans, elle peut être efficace jusqu' à 20 lavages et n'a pas besoin d'être ré-imprégnée (le lavage suffit à la réactiver).
+
+Aujourd'hui, les MILDA sont les moustiquaires recommandées par le Programme National de Lutte contre le Paludisme.
+
+Quand utiliser la moustiquaire ?
+
+La moustiquaire doit être utilisée pour toute la famille, toutes les nuits et pendant toute l'année et même après la saison des pluies.
+
+Conseils pratiques d'utilisation de la moustiquaire imprégnée longue durée
+
+- Déballer et étaler la MILDA à l'ombre pendant 24 heures avant la première utilisation.
+
+- Attacher la moustiquaire en s'assurant qu'elle couvre bien le lit ou la natte. S'assurer qu'il n'y a aucun moustique à l'intérieur.
+
+- La moustiquaire sale se lave avec de l'eau et du savon ordinaire. Lors du lavage :
+
+»» Ne pas utiliser de l'eau de javel.
+
+»» Ne pas utiliser de l'eau chaude.
+
+»» Toujours sécher la MILDA à l'ombre et jamais au soleil.
+
+b. La pulvérisation intradomiciliaire
+
+Qu'est-ce que c'est ?
+
+Consiste à pulvériser de l'insecticide liquide sur les murs et plafonds à l'intérieur des habitations.
+
+Un double effet a. Le traitement préventif intermittent
+
+- Effet létal
+
+Les anophèles qui piquent à l'intérieur de la maison sont tués en quelques instants en se posant sur les murs pour digérer leur repas de sang. L'effet létal casse la dynamique des transmissions futures.
+
+- Effet répulsif
+
+La PID réduit fortement le nombre d'anophèles qui entrent dans la maison et donc le nombre de piqûres.
+
+PRÉCISIONS : Les limites de la pulvérisation intradomiciliaire
+
+- Elle n'offre qu'une protection personnelle partielle. Certains anophèles rentrent malgré tout dans les habitations traitées et sont capables de piquer. Par conséquent, l'utilisation simultanée de la moustiquaire reste conseillée.
+
+- Lorsque le niveau de transmission est trop élevé, une baisse de la transmission n'entraînera pas de recul sensible de l'incidence des accès palustres
+
+5.1.2. LA CHIMIO PRÉVENTION
+
+Qu'est-ce que la chimio prévention ?
+
+Action préventive obtenue grâce à l'utilisation de certains produits chimiques permettant d'éviter une infection.
+
+Quelles sont les composantes de la chimio prévention du paludisme ?
+
+- Le traitement préventif intermittent chez la femme enceinte
+
+- La chimioprophylaxie chez le voyageur
+
+- La Chimioprévention du Paludisme Saisonnier (CPS)
+
+Quelle posologie, quelle dose ?
+
+La Sulfadoxine Pyriméthamine comprimé de 500mg (S) et 25mg (P) doit être administrée à la femme enceinte en une seule dose (3 comprimés).
+
+L'administration se fera lors des consultations prénatales ou lors de tout autre contact avec la structure sanitaire pendant les 2ème et 3ème trimestres.
+
+- 1ère dose : à partir de la 16ème semaine d'aménorrhée ou dès perception des mouvements actifs du fœtus par la gestante.
+
+- 2ème dose : au moins un mois après la première dose
+
+- Des doses supplémentaires : administrées en respectant un intervalle d'au moins un mois entre deux doses.
+
+b. La chimio prophylaxie chez le voyageur Pour prévenir le paludisme chez les voyageurs, le Sénégal à travers ses directives de prévention et de prise en charge du paludisme recommande l'administration de doses de médicaments :
+
+- Aux sujets n'ayant jamais vécus dans une zone endémique
+
+- Et aux sujets ayant déjà vécu dans une zone endémique et qui viennent d'une zone non endémique après un séjour permanent de plus de deux ans.
+
+La chimioprophylaxie consiste en l'administration d'une combinaison Atovaquone (250) –Proguanil (100mg) ou de doses de Doxycycline suivant la posologie indiquée pour les différentes catégories de cibles.
+
+Quelle posologie, quelle dose ?
+
+- Combinaison Atovaquone (250) –Proguanil (100mg)
+
+Le traitement sera débuté la veille ou le jour du départ en zone d'endémie. Il sera poursuivi pendant la durée du risque d'impaludation et 7 jours après avoir quitté la zone d'endémie.
+
+Catégorie d'Age et de Poids
+
+Posologie
+
+Adulte et enfant de plus de 40 kg
+
+1 comprimé par jour:
+
+250 mg d'Atovaquone 100 mg de Proguanil
+
+Enfant de 31 à 40kg
+
+3 comprimés par jour en une seule prise :
+
+62,5 mg d'Atovaquone Proguanil 25mg
+
+Enfant de 21 à 30 kg
+
+2 comprimés par jour en une seule prise :
+
+62,5 mg d'Atovaquone
+
+-Proguanil 25mg
+
+Enfant de 11 à 20kg
+
+1 comprimé par jour :
+
+62,5 mg d'Atovaquone Proguanil 25mg
+
+Posologie pour la chimioprophylaxie avec association Atovaquone (250) –Proguanil (100mg) c. La Chimioprévention du Paludisme
+
+Saisonnier (CPS)
+
+L'objectif est de maintenir des concentrations thérapeutiques de médicaments antipaludiques efficaces dans le sang pendant la période où le risque palustre est le plus élevé afin de prévenir ou traiter un accès palustre.
+
+Conformément aux directives de l'OMS, au Sénégal les régions éligibles sont Kédougou (4 cycles), Kolda, Sédhiou et Tambacounda (3 cycles), qui répondent à ces critères.
+
+La CPS est administrée aux posologies ci-dessous selon les trois groupes d'âge définis :
+
+Groupes d'âge
+
+»» 50mg par jour pour enfant de moins de 40kg.
+
+»» La Doxycycline est contre indiquée avant l'âge de 8 ans et chez la femme enceinte à partir du deuxième trimestre (elle expose l'enfant au risque de coloration des dents de lait).
+
+Jour 3
+
+1⁄2 cp SP
+
+1⁄2 cp
+
+1⁄2 cp amodiaquine amodiaquine amodiaquine mois
+
+1 cp SP
+
+1 cp
+
+1 cp amodiaquine amodiaquine amodiaquine ans
+
+11⁄2 cp SP amodiaquine amodiaquine amodiaquine
+
+La posologie recommandée est :
+
+»» 100 mg par jour pour adulte et enfant de plus de 40kg.
+
+Jour 2 mois
+
+La durée d'administration ne devra pas dépasser 3 mois
+
+- Doxycycline
+
+Jour 1
+
+Posologie pour la chimioprévention du paludisme saisonnier
+
+»» La Doxycycline est déconseillée pendant le premier trimestre de la grossesse.
+
+5.1.3. L'information et l'éducation pour le changement de comportements (IEC)
+
+Apprendre les règles du jeu représente une première étape importante dans la formation pour n'importe quelle compétition ; cela est essentiel lorsque des vies humaines sont en jeu. Avec des outils de formation et des ressources efficaces, les organisations peuvent donner des informations faisant autorité.
+
+Un programme contre le paludisme ne peut avoir un impact que si la population-cible change ses habitudes face à une maladie qu'elle a l'impression de « connaître depuis toujours » ; L'IEC doit donc être le socle du programme et en accompagner chacune des actions.
+
+Qu'est-ce que l'IEC ?
+
+C'est un processus participatif et interactif communautaire utilisant des messages, approches et canaux de communication appropriés en vue d'opérer un changement positif et volontaire du comportement individuel et des normes sociales, pour améliorer le bien-être de l'individu, de la communauté, et de la société.
+
+Supports très adaptés pour la communication interpersonnelle (causeries, visites à domicile, entretien individuel)
+
+- La radio : bon support de communication de masse pour faire passer des messages simples auprès d'un large public.
+
+5.2. LE DIAGNOSTIC20
+
+Dans le cas du paludisme, on distingue deux types de diagnostic :
+
+- Le diagnostic clinique, réalisé après examen clinique complet du malade (interrogatoire, examen) ;
+
+- Le diagnostic biologique, basé sur des tests visant à mettre en évidence la présence du parasite dans le sang de la personne testée.
+
+5.2.1. Le diagnostic clinique
+
+Quel contenu pour une IEC sur le Paludisme?
+
+L'IEC sur le paludisme se rattache à quelques grands thèmes transversaux :
+
+- La connaissance de la maladie, de ses risques et des possibilités de traitement.
+
+- La compréhension des techniques de lutte, de leur intérêt et de leurs limites.
+
+- La motivation des individus, basée sur la conviction que la lutte est possible et efficace.
+
+Le diagnostic clinique est complexe ; Le paludisme est une maladie insidieuse qui peut se manifester de multiples manières selon les individus, de sorte que les symptômes principaux eux-mêmes (fièvre, maux de tête... ) sont difficiles à interpréter, même par des médecins expérimentés. La confusion avec d'autres maladies à fièvre comme la grippe est probable.
+
+5.2.2. Le diagnostic biologique
+
+Quels supports pour une IEC réussie ?
+
+Le choix des supports de communication dépend du contexte et des objectifs de communication.
+
+A titre d'exemples :
+
+Plusieurs techniques de diagnostic biologique du paludisme existent :
+
+- Les affiches : soutenir la mobilisation, faire la promotion d'une initiative du programme.
+
+a. La goutte épaisse
+
+- Les dépliants : donner des conseils pratiques (ex :
+
+comment préparer la maison avant une campagne PID).
+
+- Les boîtes à images : animer des séances d'IEC.
+
+Définition
+
+La goutte épaisse est l'examen au microscope d'une goutte de sang qui a été confectionnée sur une lame, séchée et colorée avec le Giemsa. La goutte épaisse étant plus sensible que le frottis est utilisée pour prouver la présence ou non des parasites. Le frottis est utilisé pour l'identification des espèces plasmodiales.
+
+Comment elle se pratique ?
+
+Déposer 1 grosse goutte (ou 3 petites gouttes) de sang à 1 cm de l'extrémité de la lame pour faire une goutte épaisse et une autre petite goutte au milieu de la même lame pour le frottis.
+
+A l'aide du coin d'une lame, étaler la grosse goutte de sang sous forme d'un cercle d'un centimètre de diamètre en tournant avec des mouvements circulaires pendant 15 secondes. (Essuyer le coin de la lame qui a servi à étaler le sang!).
+
+Placer à 45° l'arrêt d'une autre lame en contact avec la petite goutte, laisser fuser le sang par capillarité, en conservant toujours la même inclinaison, tirer la goutte vers l'extrémité libre de la lame.
+
+Laisser sécher en position horizontale, à la température ambiante, à l'abri des mouches et de la poussière (par exemple: couvrir avec une boite de Pétri).
+
+Fixer le frottis avec du méthanol et le faire sécher.
+
+Déshémoglobiniser la GE pendant 5 à 10 mn avec de l'eau de robinet ou distillée si disponible.
+
+20. Directives nationales de prévention et de prise en charge du paludisme
+
+Faire la dilution de la solution de Giemsa.
+
+Méthode rapide : solution de travail: Giemsa à 10%, colorer pendant 15 minutes.
+
+Quel est son intérêt ?
+
+La goutte épaisse montre plus d'éléments, donc le médecin a plus de chances de voir des parasites ; mais elle ne peut donner de résultats rapides, il faut attendre plusieurs heures. Elle complète le frottis sanguin, qui donne un premier résultat en urgence.
+
+b. Le frottis sanguin
+
+Définition
+
+Un frottis sanguin est du sang étalé sur une lame de microscope, dans le but d'observer ses cellules et aussi les dénombrer. Le frottis doit subir une coloration pour révéler certaines cellules qui sans cela seraient transparentes, donc non visibles. Il permet également de repérer un éventuel parasite dans le sang comme l'agent du paludisme.
+
+Technique
+
+- Marquer la lame de verre.
+
+- Déposer une petite goutte de sang à 1 cm du bord de la lame, à l'aide d'un tube capillaire.
+
+- Placer le bord de l'étaleur en contact avec la lame, puis entrer en contact avec la goutte de sang.
+
+- Laisser le sang s'étaler le long de l'arête de l'étaleur
+
+- Pousser l'étaleur rapidement, régulièrement, et sans trop appuyer, tout en gardant la même inclinaison.
+
+- Soulever progressivement l'étaleur, en fin d'étalement. Le frottis doit s'arrêter à environ 1 ou 2 cm de l'autre extrémité de la lame.
+
+- Sécher immédiatement le frottis, par agitation à l'air.
+
+- Essuyer l'annulaire avec du coton sec.
+
+- Piquer d'un coup sec et rapide avec une lancette/ vaccinostyle stérile sur le bord du doigt.
+
+- Presser le doigt et essuyer la première goutte avec du coton sec.
+
+- Faire garder au patient le coton sec au point de piqure pendant 2 à 3 minutes.
+
+- la suite voir technique décrite en haut.
+
+c. Le test de diagnostic rapide (TDR)
+
+Définition
+
+Un test de diagnostic rapide ou test de dépistage rapide (TDR) est un test qui permet d'établir rapidement (en 15 minutes au plus) le diagnostic d'une maladie, le plus souvent grâce à des réactions chimiques. Les TDR détectent les antigènes du paludisme dans le sang d'une personne. Si les antigènes du paludisme sont présents, le test de la personne sera positif. Si les antigènes du paludisme ne sont pas présents, le test de la personne sera négatif.
+
+- Toujours porter des gants et blouse.
+
+Pourquoi les TDR ?
+
+- Étiqueter ou numéroter chaque lame avec instrument indélébile (marqueur, crayon gras) au moment du prélèvement.
+
+- Les TDR sont une manière simple et rapide pour les agents de santé de rechercher des parasites du paludisme dans le sang d'un patient. Ils sont plus précis que le diagnostic présomptif et peuvent être utilisés à proximité du domicile du patient.
+
+- Désinfecter l'annulaire avec l'alcool à 70 degré. (tout petit enfant utiliser le gros orteil ou le talon).
+
+- Une ligne rouge dans la fenêtre « C » et pas de ligne dans la fenêtre « T » signifient que le patient n'est pas atteint de paludisme à P. falciparum.
+
+- Les TDR donnent un résultat en 15 minutes (vérifier les instructions concernant le produit), permettant ainsi de commencer immédiatement la prise en charge du patient ayant le paludisme.
+
+- Les TDR n'exigent pas de matériel coûteux ou compliqué. La plupart des gens sont capables d'apprendre à utiliser les TDR en quelques heures seulement.
+
+Comment utiliser les TDR ?
+
+5.3. LE TRAITEMENT DU PALUDISME
+
+Le traitement des cas de paludisme diffère selon qu'il s'agisse d'un cas simple ou d'un cas grave.
+
+5.3.1. Prise en charge d'un cas simple de paludisme
+
+- Utiliser l'anse de prélèvement pour recueillir la goutte de sang.
+
+- Utiliser l'anse de prélèvement pour mettre la goutte de sang dans l'alvéole carrée marquée « A ».
+
+- Ajouter la solution tampon dans l'alvéole ronde marquée « B ».
+
+- Attendre 15 minutes après avoir ajouté la solution tampon avant de lire les résultats.
+
+Comment lire les résultats ?
+
+- Selon les directives sénégalaises de prévention et de prise en charge du paludisme, est considéré comme paludisme simple, tout cas de fièvre sans signes de gravité avec une confirmation biologique.
+
+- L'OMS recommande d'utiliser les associations thérapeutiques à base d'artémisinine pour traiter les cas de paludisme simple à P. falciparum. Au Sénégal, les différentes ACT recommandées pour le traitement du paludisme simple sont les suivantes :
+
+- Une ligne rouge dans la fenêtre « C » et une ligne rouge dans la fenêtre « T » signifient que le patient est effectivement atteint du paludisme à P. falciparum. Le test est positif même si la ligne rouge dans la fenêtre « T » est peu visible.
+
+»» Artémether + Luméfantrine,
+
+»» Artésunate + Amodiaquine,
+
+»» Dihydroartémisinine- Pipéraquine phosphate
+
+Quelle dose, quelle posologie ?
+
+Le traitement recommandé consiste à administrer 2 doses par jour, espacées de 12 heures, pendant 3 jours.
+
+La posologie est fonction du poids ou de l'âge.
+
+- Traitement à base d'Artémether-Luméfantrine (A-L) Selon le poids la dose recommandée est de 4mg/kg pour l'artémether et 12mg/kg pour la luméfantrine, deux fois par jour pendant 3 jours.
+
+Age
+
+1er jour
+
+2ème jour
+
+3ème jour
+
+2 - 11 mois
+
+1 Comprimé X 2 / J
+
+1 Comprimé X 2 / J
+
+1 Comprimé X 2 / J
+
+1 - 5 ans
+
+2 Comprimés X 2 / J
+
+2 Comprimés X 2 / J
+
+2 Comprimés X 2 / J
+
+6 - 13 ans
+
+3 Comprimés X 2 / J
+
+3 Comprimés X 2 / J
+
+3 Comprimés X 2 / J
+
+14ans et plus
+
+4 Comprimés X 2 / J
+
+4 Comprimés X 2 / J
+
+4 Comprimés X 2 / J
+
+Posologies pour la prise en charge de l'accès palustre simple à base d'Artémether-Luméfantrine(A-L)
+
+- Traitement à base d'Artésunate - Amodiaquine (AS-AQ) La posologie est fonction du poids ou de l'âge.
+
+Le traitement recommandé consiste à administrer une dose par jour à heure fixe pendant 3 jours. La dose est de 4 mg/kg/jour d'artésunate et de 10 mg/kg/jour d'amodiaquine pendant trois jours.
+
+Intervalle de poids / intervalle d'âge approximatif
+
+Dosage /
+
+Présentation de l'ACT
+
+1er jour
+
+2ème jour
+
+3ème jour
+
+≥4,5 kg à<9 kg (2 à 11 mois)
+
+Artésunate/Amodiaquine (FDC) 25 mg/67,5 mg blister de 3 comprimés
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+≥9kg à <18kg (1 à 5 ans)
+
+Artésunate/Amodiaquine (FDC) 50 mg/135 mg blister de 3 comprimés
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+≥18kg à <36kg (6 à 13 ans)
+
+Artésunate/Amodiaquine (FDC) 100 mg/270 mg blister de 3 comprimés
+
+1 comprimé
+
+1 comprimé
+
+1 comprimé
+
+≥ 36kg (14 ans et plus)
+
+Artésunate/Amodiaquine (FDC) 100 mg/270mg blister de 6 comprimés
+
+2 comprimés
+
+2 comprimés
+
+1 comprimé
+
+Posologies pour la prise en charge de l'accès palustre simple à base d'Artésunate - Amodiaquine (AS-AQ)
+
+- Traitement à base de DihydroartémisininePipéraquine phosphate (DHA-PQ) ou plusieurs des manifestations cliniques de l'accès palustre grave.
+
+Cette combinaison est administrée selon l'âge ou le poids. La dose recommandée est de 4 mg/kg/ jour de dihydroartémisinine et de 18 mg/kg/jour de pipéraquine phosphate, administrée une fois par jour à heure fixe pendant 3 jours.
+
+- En cas de paludisme grave, il est essentiel qu'un traitement antipaludique efficace par voie parentérale soit administré.
+
+Pour les jeunes enfants, les comprimés peuvent être écrasés et dilués dans un peu d'eau.
+
+La posologie consiste en une prise unique chaque jour pendant 3 jours successifs.
+
+Poids
+
+Age
+
+1 jour er ème jour ème jour
+
+- Les médicaments recommandés par le PNLP pour la prise en charge du paludisme grave sont la quinine, l'artésunate et l'artémether injectable.
+
+- L'artésunate injectable est administré en première intention.
+
+Quelle dose, quelle posologie ?
+
+- Prise en charge de l'accès palustre grave à base de Quinine injectable
+
+»» La quinine est administrée par voie intraveineuse.
+
+à 9,9kg
+
+6mois 1an comprimé comprimé comprimé à 20kg
+
+2-7ans comprimé comprimé comprimé à 40kg
+
+8-13ans comprimés comprimés comprimés
+
+≥ 40kg
+
+≥ 14ans comprimés comprimés comprimés
+
+Posologies pour la prise en charge de l'accès palustre simple de Dihydroartémisinine- Pipéraquine phosphate (DHA-PQ)
+
+Les cas simples sont susceptibles d'évoluer en cas graves notamment chez l'enfant et la femme enceinte.
+
+5.3.2. Prise en charge d'un cas de paludisme grave
+
+»» La durée du traitement par la quinine va de 5 à 7 jours. Cependant, dès que le malade est capable de s'alimenter, il est recommandé de faire le relais oral (sauf chez la femme enceinte au premier trimestre) avec les ACT.
+
+»» La posologie recommandée est 25 mg/kg/jour de quinine base répartis en 2 à 3 perfusions par jour dans du sérum glucosé à 10% (SGI 10%), à défaut à 5% (SGI 5%) à raison de 5 à 10 ml de sérum/kg.
+
+- Prise en charge de l'accès palustre grave à base d'Artémether injectable
+
+La posologie de l'artémether doit être adaptée en fonction du poids corporel et administrée pendant 5 jours. Elle comporte une dose de charge de 3.2 mg/ Kg le premier jour suivie de doses d'entretien de 1.6 mg /Kg les jours suivants.
+
+Elle est administrée en intramusculaire profonde (IM) et est exclusivement réservée aux centres de santé et établissements hospitaliers.
+
+Est considéré comme cas de paludisme grave tout cas de paludisme confirmé (par TDR ou GE) avec présence de formes asexuées de P. falciparum associé à l'une
+
+LE TRAITEMENT PRÉVENTIF
+
+INTERMITTENT
+
+Le traitement préventif intermittent (TPI) du paludisme pendant la grossesse se base sur l'hypothèse que toute femme qui habite une zone de forte transmission palustre a un fort risque de porter des parasites du paludisme dans le sang ou dans le placenta, qu'elle ait ou non des symptômes de paludisme.
+
+L'OMS recommande donc que toutes les femmes enceintes reçoivent au moins deux doses de Sulphadoxine Pyriméthamine (SP) (lors de chaque contact après le 1er trimestre) après l'apparition des mouvements actifs du fœtus. Des doses supplémentaires peuvent être administrées jusqu'à l'accouchement en respectant l'intervalle d'au moins un mois entre deux prises. Chaque dose supplémentaire protège davantage la femme enceinte et le fœtus.
+
+Le fait d'empêcher les parasites de coloniser le placenta aide le fœtus à se développer normalement et lui évite une insuffisance pondérale à la naissance.
+
+PRISE EN CHARGE D'UN CAS DE
+
+PALUDISME SIMPLE
+
+Conformément aux recommandations nationales, le traitement des accès palustres simples, repose sur l'administration des ACT comme l'artéméther-luméfantrine ou l'artésunate-amodiaquine.
+
+La DHA-PQ est contre-indiquée chez la femme enceinte.
+
+Est considéré comme cas de paludisme grave tout cas de paludisme confirmé chez la femme enceinte
+
+- Au premier trimestre avec ou sans signes de gravité.
+
+- Au 2e ou 3e trimestre avec la présence d'une ou plusieurs des manifestations.
+
+Encadré 5 :
+
+Paludisme chez la femme enceinte
+
+COMMENT METTRE EN
+
+PLACE UNE STRATÉGIE
+
+DE LUTTE CONTRE LE
+
+PALUDISME EN ENTREPRISE ?
+
+6.1. RÉUSSIR L'ANALYSE
+
+SITUATIONNELLE
+
+Tout programme de santé en entreprise commence par une analyse situationnelle interne de l'entreprise afin de produire un état des lieux et de déterminer les besoins pour une réponse adaptée. L'analyse situationnelle est construite autour de deux volets :
+
+- L'entreprise.
+
+- L'environnement de l'entreprise.
+
+6.1.1. Analyser la situation de l'entreprise 22
+
+2. Quel est l'impact économique du paludisme sur l'entreprise ?
+
+Une évaluation économique fiable du coût du paludisme ne présente pas de difficultés majeures.
+
+Elle s'appuie sur quelques chiffres récoltés en interne auprès du service médical et du service des ressources humaines. Le traitement de ces chiffres est simple (cf.
+
+tableau d'évaluation du coût du paludisme).
+
+Lorsque les chiffres ne sont pas disponibles, les responsables concernés (médecin d'entreprise, DRH) sont souvent en mesure de donner des estimations tout à fait suffisantes pour avoir une idée de l'impact du paludisme sur l'entreprise.
+
+Action 1 : s'entretenir avec les responsables de l'entreprise et bien cerner :
+
+- Leur requête, leur position sur les sujets de santé.
+
+- Et ce qu'ils envisagent de faire et de ne pas faire.
+
+Action 2 : Une fois que les déterminants de la mission sont précisés :
+
+- Effectuer l'état des lieux de la situation sanitaire dans l'entreprise.
+
+- Mettre en exergue les forces et les faiblesses de la politique santé.
+
+- Et analyser son opérationnalité.
+
+Analyser la situation de l'entreprise consiste à répondre à la série de questions suivantes :
+
+1. Quel est l'impact du paludisme sur la santé des employés et de leurs ayants droit ?
+
+Se fait en priorité à partir des données du centre de santé de référence/du centre médico-social interne à l'entreprise. Pour les populations environnantes, elle se fait par le recueil de données épidémiologiques auprès des autorités sanitaires.
+
+Absentéisme
+
+Nombre de jours d'absence pour cause de paludisme Coûts salariaux moyens journaliers
+
+Total absentéisme
+
+Diagnostics
+
+Les outils de diagnostic utilisés
+
+Coût par diagnostic
+
+Total diagnostic
+
+Nombre de traitements préventifs intermittents Coût par traitement préventif intermittent Total traitements préventifs intermittents
+
+Traitements
+
+Nombre de traitements pour les accès simples Coût par traitement pour un accès simple Total traitements accès simples
+
+Nombre de traitements pour les accès graves Coût par traitement pour un accès grave
+
+Total traitements accès graves
+
+Total traitements
+
+Hospitalisations
+
+Nombre d'hospitalisations pour les accès graves Coût par hospitalisation pour un accès grave Total hospitalisations accès graves
+
+Personnel de santé
+
+% du temps de travail pour consultations paludisme Coûts salariaux moyens du personnel de santé Total coût du personnel de santé pour le paludisme Nombre d'évacuations
+
+Coût d'une évacuation
+
+Autres coûts
+
+Total évacuations
+
+Divers (1)
+
+Total coûts divers
+
+Total autres coûts
+
+Total coût économique du paludisme
+
+Tableau d'évaluation du coût du paludisme en entreprise 23 :
+
+(1) : coûts pour dommages et intérêts en cas de poursuite judiciaire, coûts de rapatriement...
+
+3. Quel est le niveau d'exposition de l'entreprise et de la population cible aux facteurs de risque naturels ?
+
+Il s'agit ici d'identifier et d'évaluer :
+
+- Les facteurs liés à l'environnement et au cadre de vie favorisant l'épanouissement du vecteur et du parasite (climat, gîtes larvaires, etc.).
+
+- L'intensité et les caractéristiques de la transmission.
+
+Ces informations peuvent être récupérées grâce à un travail d'observation et de documentation ou auprès du PNLP (Programme National de Lutte contre le Paludisme), d'instituts de recherche, de bureaux d'études...
+
+4. Y-a t-il des situations de travail qui exposent les employés à un risque particulier ?
+
+L'entreprise à travers ses processus ou pour faire face à certaines contraintes peut adopter des pratiques qui exposent davantage ces employés au paludisme.
+
+Il peut s'agir par exemple :
+
+- Du travail de nuit.
+
+- Sur la propension à agir de la direction.
+
+- Sur les moyens humains, matériels et financiers pouvant être alloués au programme.
+
+7. Quelles actions de prévention l'entreprise a-t-elle menées jusqu'à présent ? Quels en ont été les résultats ?
+
+L'évaluation des actions entreprises antérieurement est une condition sine qua none pour sa reconduction dans le futur plan ou son abandon. Cette évaluation peut être envisagée à travers une étude comparative entre la situation du paludisme (nombre de cas par exemple) et son impact sur l'entreprise avant le déploiement de ces actions et après leur mise en œuvre. En plus de l'évaluation des actions réalisées, il faut rechercher les obstacles à la réussite du programme, tant au niveau de la culture que de l'organisation de l'entreprise.
+
+8. Quelle couverture santé et quelles prestations médicales l'entreprise fournit- elle ?
+
+Existe-il une structure de santé dans l'entreprise ou y a t-il contractualisation avec une formation sanitaire extérieure à l'entreprise?
+
+- D'affectation dans des zones à forte transmission.
+
+- La qualité de la prise en charge (standard des protocoles, fonctionnement de la structure de santé);
+
+5. Quelles sont les besoins et préoccupations des employés face aux problèmes de santé ?
+
+- Le coût de la prise en charge pour l'entreprise et pour les salariés/ayants droit/communauté riverain;
+
+Sans l'implication des employés, un programme est voué à l'échec. Une étude d'opinion peut être réalisée pour déterminer :
+
+- Les sujets de santé qui préoccupent le plus les employés et par rapport auxquels ils expriment une volonté d'agir.
+
+- La proximité de la formation sanitaire pour les salariés/ayants droits;
+
+- L'accessibilité financière aux soins pour les employés (couverture santé si elle existe).
+
+6.1.2. Etude du contexte national
+
+- Ceux sur lesquels ils souhaitent un engagement de l'entreprise.
+
+Cette étape est nécessaire pour réussir l'intégration du programme dans le contexte sanitaire et social local.
+
+Cette partie de l'étude se structure autour de 3 axes :
+
+6. Quel est le potentiel d'engagement de l'entreprise ?
+
+- Le contexte politique, socio-économique et démographique.
+
+La réflexion porte :
+
+22. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD 23. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec
+
+- Le contexte sanitaire.
+
+- La structure et l'organisation du secteur de la santé.
+
+Si le programme envisage d'intégrer le niveau communautaire environnant il est impératif d'approfondir cette analyse par une étude CAP.
+
+Elle doit donc être calibrée en fonction de l'implantation géographique, et des objectifs de l'entreprise.
+
+De même, l'offre de soins à l'extérieur de l'entreprise doit être bien analysée ainsi que les possibilités de collaboration ou d'utilisation du réseau sanitaire déjà existant.
+
+1. Quel est l'intérêt pour l'entreprise de collaborer avec le système de sanitaire national ?
+
+- L'offre de soins de ces structures (y compris l'hôpital de district), la qualité des soins, les taux de fréquentation, la tarification des soins.
+
+- L'accessibilité aux soins pour la population cible (financière et géographique).
+
+- La structure de soins de référence la plus proche.
+
+3. Que proposent les programmes nationaux de lutte contre le paludisme?
+
+Les programmes nationaux (PNLP) sont des partenaires essentiels: sources d'approvisionnement, sources d'information, soutien à la formation.
+
+PRÉCISIONS :
+
+L'adéquation du programme de santé de l'entreprise avec la politique nationale présente quatre (4) avantages :
+
+Lorsque le programme envisage d'intégrer les populations environnantes dans ses cibles, il importe de répondre aux interrogations suivantes :
+
+- Intégration dans le tissu sanitaire : un programme qui diverge avec la politique locale peut susciter une certaine réserve, voire de l'hostilité, de la part des autorités de santé.
+
+- Comment les pathologies des communautés environnantes affectent-elles l'entreprise?
+
+- Inscription dans un cadre de santé publique : en particulier, dans le cas du désengagement de l'entreprise, la population-cible éprouvera moins de difficultés à se réadapter à la politique publique.
+
+- Elargissement potentiel du programme aux communautés avoisinantes, en partenariat avec les autres acteurs de santé (centres publics, ONG...).
+
+- Utilisation du circuit d'approvisionnement du programme national.
+
+2. Quelle est l'offre de soins à l'extérieur de l'entreprise ?
+
+Il ne s'agit plus ici de s'intéresser à l'offre de soins de la formation sanitaire interne à l'entreprise ou celle avec laquelle l'entreprise a contractualisé ou passé un accord tacite mais d'analyser l'offre de soins dans le périmètre défini de l'entreprise. Cette analyse doit permettre de déterminer :
+
+- Le nombre de formations sanitaires disponibles dans le district d'implantation de l'entreprise.
+
+L'évaluation de cet impact est un des critères principaux pour définir la cible du programme et son périmètre d'intervention.
+
+- Les activités de l'entreprise ont elles un impact sur la santé des communautés environnantes ?
+
+Cette question de responsabilité sociale a une dimension stratégique pour l'entreprise, car elle peut être la condition de la poursuite ou non de ses activités dans la zone où elle est implantée.
+
+6.2. CIRCONSCRIRE SON
+
+PÉRIMÈTRE D'INTERVENTION
+
+Dans ces circonstances, l'élargissement d'un programme d'entreprise aux communautés environnantes constitue une opportunité très intéressante.
+
+Rien n'oblige l'entreprise à intégrer les communautés environnantes dans la cible de son programme de lutte contre le paludisme.
+
+Communautés
+
+Cependant, certains contextes rendent cette démarche légitime :
+
+Familles élargies
+
+- L'entreprise occupe une place particulière dans son environnement (ex : grandes entreprises en zone rurale ou urbaine dont l'activité fait vivre toute une région). Ce statut l'amène souvent à mener une politique sociale volontariste à l'égard des communautés environnantes. Un tel programme se prête alors idéalement à ce type d'action.
+
+- L'entreprise veut mettre en place un programme d'envergure comprenant des actions de contrôle vectoriel. Pour des questions techniques, la couverture de zones relativement vastes est une nécessité. Dans ce cas, l'action doit nécessairement concerner des populations autres que les employés et leurs familles.
+
+- L'entreprise entretient des relations particulières avec certaines entreprises-tiers. L'entreprise peut inclure dans la cible des bénéficiaires du programme les employés de certains de ses fournisseurs, sous-traitants ou prestataires...
+
+Salariés, salariés expatriés et famille (populations vulnérables)
+
+Cibles d'un programme de lutte contre le paludisme en entreprise 25
+
+Par ailleurs, une telle démarche présente un intérêt majeur : le coût marginal par bénéficiaire du programme est décroissant.
+
+Par exemple, si un programme coûte en moyenne 100 par personne en touchant une cible de 2000 personnes, le coût pour permettre à 1000 personnes supplémentaires d'en bénéficier ne sera que de 50 par personne 24.
+
+24. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE - J. Bonneville C. Defrance - T. Miklavec 25. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec
+
+6.3. QUELLE STRATÉGIE DE LUTTE
+
+METTRE EN PLACE ?
+
+6.3.1. Programme standard de lutte contre le paludisme
+
+Tout programme intégré de lutte contre le paludisme en entreprise, pour être efficace, devrait reposer sur trois piliers :
+
+Un programme standard poursuit 2 objectifs :
+
+PILIER I
+
+Prévention (lutte anti vectorielle, protection individuelle, chimioprévention) PILIER II
+
+Diagnostic et traitement
+
+- Prévenir le paludisme.
+
+- Prendre en charge les cas de paludisme.
+
+Les actions prioritaires pour mettre en place un programme standard concernent :
+
+- L'acquisition de moustiquaires imprégnées pour leur utilisation.
+
+PILIER III
+
+Information, Education et
+
+Communication pour le changement de comportement
+
+- La prise en charge des cas avec des médicaments antipaludiques (ACT) pour tous.
+
+Toutes les entreprises n'évoluent pas dans le même contexte, chaque entreprise évolue dans un environnement spécifique. La définition d'un programme adapté à sa situation passe d'abord par l'examen :
+
+- La protection des femmes enceintes.
+
+- Du « contexte paludisme » de l'entreprise et au niveau local ou national.
+
+- Des risques spécifiques liés à son environnement et à son activité.
+
+- Des opportunités d'actions particulières qui s'offrent à elle.
+
+En fonction de ces éléments, des moyens de l'entreprise et de son ambition à faire reculer le paludisme, elle mettra en place un programme qui lui est propre.
+
+Selon les cas de figure, une entreprise peut opter pour un programme standard adapté à priori au plus grand nombre d'entreprises ou pour un programme plus personnalisé.
+
+Dans tous les cas, l'intégration des différentes composantes (voire tableau Composantes d'un programme standard et Composantes d'un programme élargi) est le gage d'une stratégie efficace.
+
+- La protection spécifique des expatriés non-immuns.
+
+Composantes d'un programme standard 26
+
+MOYENS DE LUTTE
+
+Assainissement
+
+Amélioration du cadre de vie
+
+Moustiquaires
+
+Traitement préventif intermittent (TPI)
+
+Chimioprophylaxie
+
+X*
+
+Diagnosticbiologique
+
+ACT
+
+X*Mesure pour les expatriés non-immuns
+
++
+
+SUPPORTS IEC ESSENTIELS
+
+Communautés
+
+X*
+
+X*
+
+X*
+
+X*
+
+Chimioprophylaxie
+
+Protection individuelle (moyens de protection laissés à l'appréciation de l'entreprise)
+
+Personnel externe
+
+ACT
+
+Enfants de moins de 5 ans
+
+TPI
+
+Enfants
+
+Femmes enceintes
+
+Conjoints
+
+Expatriés non-immuns
+
+Moustiquaires
+
+Salariés
+
+MOYENS DE LUTTE
+
+Composantes par cible d'un programme standard 27
+
+X*
+
+X*
+
+X*
+
+X : cible prioritaire
+
+X* : cible laissée à l'appréciation de l'entreprise (question de politique sociale interne et externe)
+
+26. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec 27. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec
+
+6.3.2. Programme intégré élargi
+
+6.4. RÉUSSIR L'IEC SUR LE
+
+PALUDISME
+
+Dans certaines situations, une entreprise peut chercher à s'engager dans un programme intégré plus sophistiqué que le programme standard.
+
+Dans ce cas, le programme poursuit trois (3) objectifs de front :
+
+- Réduire la densité des moustiques, en intervenant aussi bien sur les stades larvaires qu'adulte ;
+
+- Réduire le contact homme-vecteur ;
+
+- Réduire la morbidité et la mortalité dues au paludisme, par des traitements préventifs et curatifs.
+
+L'organisation d'une prise en charge rigoureuse par un diagnostic biologique (TDR ou Goutte épaisse) et le traitement des cas confirmés avec les ACT en cas de paludisme simple et par l'Artésunate en première intention, est la disposition prioritaire de toute lutte contre le paludisme.
+
+Cependant, les bénéfices du programme peuvent être doublés avec la mise en place simultanée, en plus des TDR, de la microscopie des ACT, du TPI, des moustiquaires imprégnées et de l'AID.
+
+Avec des outils de formation et de ressources efficaces, les organisations peuvent donner des informations sur le paludisme qui font autorité.
+
+LES ÉTAPES
+
+1. Définir le plan d'action IEC : objectifs, stratégie, groupe cible, période, équipe...
+
+2. Définir un calendrier d'activités IEC : événements, communiqués radio, visites d'informations à domicile,...
+
+3. Produire les supports de communication :
+
+impression des T-shirts, affichage, dépliants, etc.
+
+4. Suivre et évaluer l'activité et les résultats.
+
+Composantes d'un programme élargi 28
+
+MOYENS DE LUTTE
+
+Assainissement
+
+Amélioration du cadre de vie
+
+AID
+
+Moustiquaires imprégnées
+
+Protection personnelle
+
+X*
+
+TPI
+
+Chimioprophylaxie
+
+X*
+
+Diagnostic biologique
+
+ACT
+
+X* : Mesure pour les expatriés non-immuns X** : Mesure potentielle
+
++
+
+SUPPORTS IEC
+
+6.4.1. Quels messages diffuser ?
+
+- Les risques : insister sur les risques pour les populations en particulier les cibles vulnérables (enfants, femmes enceintes, expatriés...).
+
+- Le moustique : insister sur la transmission du parasite par le moustique vecteur du paludisme et sur les heures de piqûres.
+
+- La protection : insister sur la possibilité de réduire de manière significative les risques d'être malade grâce à des moyens simples comme la moustiquaire imprégnée.
+
+- La prise en charge : insister sur le besoin de consulter au plus vite (dans les 24h) un médecin ou un infirmier en présence des signes du paludisme (fièvre). Rappeler que les accès graves pourraient être évités si tout accès simple était correctement pris en charge dans les 24 heures.
+
+- Le traitement et l'observance : insister sur l'efficacité des ACT et l'importance de prendre le traitement jusqu'à son terme.
+
+- L'offre de soins et la disponibilité des moyens de prévention (lieux d'approvisionnement, prix)
+
+6.4.2. PRINCIPES POUR UNE IEC
+
+RÉUSSIE
+
+- Privilégier les démarches participatives :
+
+»» Diffuser des messages clairs et simples, sans les multiplier inutilement
+
+»» Ne pas hésiter à répéter les mêmes choses, tout en cherchant à communiquer d'une façon percutante.
+
+»» Intervenir à des moments propices
+
+DONNER PLUS D'ENVERGURE À SA
+
+CAMPAGNE IEC 29
+
+- S'appuyer sur les leaders d'opinion (guides religieux, imams & prêtres, sportifs, artistes) pour plus d'impact ;
+
+- Enseigner les bons réflexes aux enfants L'effort mérite d'être engagé auprès des enfants afin d'assurer un changement des comportements dans le long terme.
+
+Quelques réflexes à leur transmettre :
+
+- La nuit tombe, attention, le moustique du paludisme peut me piquer
+
+- La nuit avant d'aller dormir, mettre des habits longs pour réduire les surfaces accessibles aux moustiques
+
+- Pour me protéger du paludisme, je dors sous la moustiquaire en prenant garde à ne laisser aucun espace à travers lequel un moustique pourrait passer.
+
+- J'ai la fièvre, c'est peut-être le paludisme, je demande à mes parents qu'ils me conduisent le plus vite possible à une structure de santé.
+
+- L'infirmier m'a donné des médicaments contre le paludisme, je les prends aux doses indiquées et jusqu'au bout (nombre de jours indiqués par le prestataire de santé) pour être complètement guéri.
+
+- Bien choisir ses supports de communication Le choix des supports de communication dépend d'un éventail de paramètres notamment la cible et les objectifs poursuivis.
+
+A titre indicatif :
+
+»» Affiches
+
+»» Dépliants
+
+»» Boîtes à images
+
+»» Jeux
+
+»» Spots audio et vidéo
+
+- Quelles approches privilégier ?
+
+Il n'y a jamais d'approche prédéfinie en matière d'IEC :
+
+messages et techniques doivent toujours être adaptés à un contexte donné.
+
+Voici cependant quelques conseils pour toucher plus efficacement la population-cible :
+
+»» Utiliser les langues locales lorsque cela peut faciliter l'appropriation.
+
+»» Privilégier les démarches participatives.
+
+»» Une discussion est souvent plus constructive qu'un « cours » magistral pour faire passer des messages, susciter l'interrogation et favoriser l'adhésion autour de solutions trouvées collégialement.
+
+28. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec 29. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD
+
+»» Rechercher la constance dans le fond et la créativité dans la forme. Il ne faut pas hésiter à répéter les mêmes choses, mais en renouvelant la manière de les présenter.
+
+»» S'appuyer sur le groupe pour combattre les fausses croyances.
+
+»» Les croyances sont souvent très ancrées. Un bon moyen est de prendre appui sur les personnes les plus éclairées du groupe en leur donnant la parole pour convaincre les autres.
+
+»» Veiller à ce que les informations communiquées soient en adéquation avec la réalité. Par exemple, avant de communiquer sur le fait que les femmes enceintes sont éligibles pour recevoir une moustiquaire gratuite au centre de santé de l'entreprise, s'assurer que les moustiquaires y sont bien disponibles au risque de décrédibiliser le programme.
+
+10 ACTIONS GAGNANTES 30
+
+1.
+
+Organiser des réunions d'informations sur le paludisme qui coïncident avec des réunions du personnel.
+
+2.
+
+Organiser des sessions de questions et réponses avec des professionnels de la santé qualifiés pour corriger les idées fausses sur le paludisme.
+
+3.
+
+4.
+
+5.
+
+Organiser une manifestation spéciale sur le paludisme à l'échelle de l'institution, organiser un déjeuner à thème ou un concours pour récompenser les membres de l'institution pour avoir accroché et utilisé des moustiquaires imprégnées de longue durée dans leurs domiciles.
+
+Utiliser des revues et bulletins internes et des panneaux d'affichages installés dans les salles de repos pour informer les membres sur une prévention et un traitement corrects.
+
+Joindre des fiches d'information aux feuilles de paie ou aux paquets d'orientation des nouveaux membres.
+
+6.
+
+Présenter des supports pédagogiques, des jeux-tests et des outils de formation sur le paludisme, sur le portail de santé ou l'Intranet de votre entreprise.
+
+7.
+
+Recruter des agents de santé locaux pour former le personnel de l'entreprise et discuter de problèmes locaux liés au paludisme.
+
+8.
+
+Eduquer les enfants par la distribution de livres de coloriage, de bandes dessinées, de jeux et de musique instructifs sur le paludisme.
+
+9.
+
+Informer les clients en insérant des messages liés au paludisme sur les reçus, les factures, les cartes à gratter et autres produits.
+
+10. Parrainer des annonces d'intérêt public, des émissions radio ou des concours sur le thème du paludisme visant à l'éducation de membres des communautés.
+
+6.5. LA PRÉVENTION
+
+Vivre sans paludisme suppose de fournir deux moustiquaires par employé dans un pays endémique comme le Sénégal.
+
+6.5.1. La lutte anti-vectorielle nombreuses espèces y pondent dans les bras morts ou le long des berges, là où la végétation fait de longues poches d'eau quasi-stagnante. Le curage des bords enlève la végétation et supprime ces poches.
+
+- Remblayage : ornières le long des pistes, surfaces accidentées ou en travaux, zones inondables... on comble ces accidents de terrain avec de la terre, du sable, des gravats...
+
+- Evacuation des eaux et drainage : dans les villes, construction de réseaux de canalisations.
+
+En amont, la lutte contre le paludisme consiste à combattre le moustique, vecteur du parasite.
+
+Diverses techniques existent, certaines destinées à détruire les larves (assainissement, contrôle biologique, épandage d'insecticides) et d'autres orientées vers l'élimination des moustiques adultes (fumigation et pulvérisation intra-domiciliaire)
+
+LES ÉTAPES
+
+1. Définir la stratégie de contrôle des vecteurs :
+
+calendrier, groupe cible, zone d'intervention, technique (assainissement, AID, moustiquaires imprégnées...) 2. Identifier les partenaires et prestataires, 3. Officialiser la campagne et communiquer (en interne et externe),
+
+4. Suivre le déroulement des activités
+
+5. Évaluer l'activité et les résultats a. L'assainissement 31
+
+Les actions sont multiples, de l'évacuation des eaux usées au revêtement des routes en passant par le remblayage des ornières et autres accidents de terrain.
+
+Les techniques sont diverses :
+
+- Curage des cours d'eau (canaux, ruisseaux, fleuves) :
+
+les grands cours d'eau font partie dans certaines régions des gîtes larvaires les plus importants. De
+
+- Revêtement des routes (pavés, bétons, enrobés)
+
+- Contrôle des points d'eau : scellement des puits et des réservoirs d'eau...
+
+- Quelques techniques secondaires :
+
+»» Plantation d'eucalyptus dans les marais :
+
+Ces arbres ont besoin de beaucoup d'eau et permettent d'assécher des zones insalubres.
+
+Technique naturelle intéressante, d'autant que le bois d'eucalyptus a plusieurs usages, dont par exemple la production de papier.
+
+»» Utilisation d'huiles ou de films mono-moléculaires à la surface des réservoirs d'eau pour étouffer les larves (les larves se nourrissent à la surface de l'eau). Technique qui permet de garder l'eau potable, adaptée pour des zones urbanisées où les réservoirs d'eau sont bien identifiés et accessibles. Peu utilisée en Afrique.
+
+Ces grandes mesures d'assainissement sont cependant surtout du ressort des collectivités publiques dans le cadre d'une politique de travaux de voirie (et non dans le cadre strict de la lutte contre le paludisme).
+
+Il est concevable cependant qu'une grande entreprise y recourt dans deux situations :
+
+- En tant que partenaire d'une grande opération avec les pouvoirs publics ;
+
+- Sur un vaste chantier qui nécessite des travaux de remise en état des routes et des terrains, de
+
+30. Le Guide des stratégies pour la lutte : Malaria Safe 31. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD construction d'infrastructures temporaires... dans le cadre d'une initiative pour améliorer le bien-être des employés et des personnes résidant à proximité.
+
+b. Le contrôle biologique
+
+Alternative aux insecticides, non polluante et non toxique, le contrôle biologique consiste à agir sur les gîtes larvaires existants par l'introduction de prédateurs tels que les poissons mangeurs de larves ou l'épandage de biolarvicides (bactéries)..
+
+Même si le contrôle biologique apparaît comme une alternative séduisante, son utilisation contre les vecteurs du paludisme, en particulier dans les zones de forte transmission, reste très limitée pour plusieurs raisons :
+
+- De fortes contraintes logistiques (épandages fréquents pour les bactéries, surveillance régulière pour les poissons);
+
+- De fortes contraintes financières.
+
+- De fortes contraintes techniques (types de gîtes, protégés pour les bactéries, permanents pour les poissons).
+
+PRÉCISIONS : Les mesures de contrôle larvaire ne sont pas toujours efficaces
+
+Les mesures de contrôle larvaire ne seront efficaces que si elles permettent d'assainir tous les points d'eau sur plusieurs centaines de mètres, voire plusieurs kilomètres à la ronde.
+
+d. L'aspersion intra domiciliaire (AID) 32 Complexe à mettre en œuvre et exigeant de réelles précautions de santé publique (il s'agit de rentrer dans les pièces d'habitations pour pulvériser les pans intérieurs des murs/supports de l'insecticide), il est fortement recommandé à l'entreprise de se faire assister par le Programme National de Lutte contre le Paludisme (PNLP), un institut de recherche ou une organisation expérimentée sur les différentes étapes (étude de faisabilité, choix de l'insecticide, achat du matériel, formation des équipes, gestion de l'environnement, organisation générale,...).
+
+- 90% des gites soient accessibles et traitables.
+
+c. Les épandages d'insecticides
+
+- Fréquence : en fonction des insecticides utilisés et des conditions météorologiques (de fortes pluies peuvent diluer la quantité d'insecticides), la fréquence de traitement des gîtes peut varier entre 2 et 10 semaines.
+
+- Mise en œuvre : le matériel utilisé pour épandre les insecticides est semblable à celui utilisé dans l'agriculture.
+
+- Précautions à prendre :
+
+»» Proscrire tout épandage des insecticides (sauf le Temephos) dans l'eau potable et tout contact avec la nourriture des animaux destinés à la consommation.
+
+»» Equiper le personnel en vêtements de protection (bottes, gants, masques, combinaisons) et le former pour éviter tout accident.
+
+Cette technique du fait de la pollution qu'elle engendre n'est plus très courante.
+
+CONSEILS PRATIQUES
+
+Insecticides : choix, forme, dosage
+
+- Le choix des insecticides :
+
+La liste des fournisseurs est disponible sur le site RBM. Il faut vérifier l'absence de résistances chez le vecteur.
+
+Les pyréthrinoïdes sont les insecticides les plus adaptés en raison de leur bonne rémanence (une campagne tous les 6 ou même 12 mois peut suffire) et leur faible toxicité. Leur variété permet d'effectuer une rotation entre les insecticides utilisés, ce qui est un bon moyen de limiter l'apparition des résistances.
+
+Cependant, l'OMS recommande d'utiliser les autres classes d'insecticides en PID, car les pyréthrinoides sont les molécules d'imprégnation des MILDA.
+
+Les autres classes homologuées par l'OMS pour la PID sont :
+
+»» Les carbamates
+
+»» Les organophosphorés
+
+»» Les organochlorés
+
+Cette dernière présente des niveaux de résistance très élevés et n'est pas recommandé au Sénégal.
+
+- Equipements de protection individuelle (EPI)
+
+RESSOURCES HUMAINES
+
+ET FORMATION DES ÉQUIPES
+
+- Le dosage des insecticides : spécifique à chaque insecticide, il doit suivre les recommandations de l'OMS.
+
+Dans des conditions normales, une personne qui pulvérise peut traiter entre 10 et 20 maisons par jour selon qu'elle est expérimentée ou non, sachant que pour éviter tout risque, il vaut mieux que les équipes ne travaillent pas plus de 4 - 5 heures par jour.
+
+Les surfaces à traiter ont chacune un potentiel d'absorption différent qui fait varier l'efficacité de l'insecticide et son dosage. Un matériau absorbant trop l'insecticide risque de le faire disparaître de la surface.
+
+L'usage d'insecticides, en particulier à l'intérieur des maisons, requiert une formation rigoureuse (au minimum 5 jours).
+
+Points principaux de la formation :
+
+»» Les murs fabriqués en terre ou en bouses de vache absorbent beaucoup d'insecticide.
+
+- Intégration des consignes d'hygiène et de sécurité.
+
+»» Les murs fabriqués en bois dur ou les murs peints absorbent moins et sont donc les meilleures surfaces à pulvériser.
+
+- Maniements des appareils.
+
+Le matériel nécessaire
+
+- Pompes,
+
+- Mixers pour mélanger les insecticides,
+
+- Maîtrise des signes d'intoxication.
+
+- Maîtrise de la préparation des insecticides.
+
+- Manière de communiquer et de se comporter avec les propriétaires des maisons traitées.
+
+La formation est primordiale pour éviter tout risque d'intoxication des équipes et des habitants.
+
+Plusieurs précautions doivent être prises par les équipes :
+
+- Utiliser l'équipement de protection : masque, chapeau, gants, lunettes, combinaison, bottes.
+
+- Se nettoyer le visage et les mains, ne pas manger ou boire pendant le travail, se laver à la fin de la journée et changer de vêtements.
+
+- Nettoyer les vêtements de travail quotidiennement, séparément des autres vêtements.
+
+- Changer chaque jour les cartouches des masques.
+
+- Disposer d'antidotes en cas d'intoxication.
+
+32. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec
+
+- Convaincre de l'intérêt de l'opération.
+
+LES PRÉALABLES
+
+Préparer la population-cible aux campagnes d'aspersions intra-domiciliaires.
+
+L'aspersion intra-domiciliaire exige de pénétrer dans le foyer, lequel doit être préparé pour l'aspersion:
+
+la population peut exprimer de réelles réticences ou inquiétudes :
+
+- Danger pour la santé.
+
+- Taches sur les murs.
+
+- Odeurs.
+
+Une campagne d'IEC est donc nécessaire pour gagner l'adhésion et la pleine collaboration de la population :
+
+- Rassurer quant aux craintes habituelles.
+
+- Donner les instructions de préparation du foyer avant la visite des équipes de pulvérisations.
+
+L'idéal pour cette campagne d'IEC est de s'appuyer sur des volontaires qui feront du porte à porte préalablement à l'opération. Des photos montrant des exemples de murs pulvérisés peuvent être utiles pour montrer la propreté du résultat.
+
+e. La fumigation
+
+Consiste à tuer les moustiques adultes en pulvérisant un nuage d'insecticide dans les zones habitées où la densité de moustiques est très élevée.
+
+Coûteuse, elle est efficace seulement dans certaines conditions (entomologiques, météorologiques...).
+
+La fumigation est aujourd'hui utilisée de manière exceptionnelle contre les anophèles.
+
+6.5.2. La protection individuelle :
+
+la moustiquaire imprégnée
+
+- Répondre aux interrogations et idées reçues :
+
+comment ça s'accroche, est-ce que ça irrite, est-ce que ça donne chaud, est-ce que l'installation réduit la mobilité, l'esthétique et la visibilité dans la chambre
+
+Proposer des moustiquaires ne suffit pas, il est indispensable d'en assurer l'adoption par la population visée.
+
+- Valoriser la moustiquaire : signe de responsabilité (« Le bon père de famille protège sa famille, il choisit de la protéger du paludisme avec la moustiquaire imprégnée»)...
+
+- La première étape consiste à favoriser l'équipement des foyers en nombre suffisant – une par lit –.
+
+- La seconde d'en assurer un bon usage. Ceci passe par une maîtrise des règles élémentaires de marketing, trop souvent négligées.
+
+b. Proposer des solutions d'acquisition accessibles Faciliter l'acquisition en rendant l'investissement accessible :
+
+- Par des prix étudiés :
+
+LES ÉTAPES
+
+1. Définir la stratégie du programme : calendrier, groupe cible, distribution et installation MII, visites à domicile...
+
+2. Identifier les partenaires, prestataires et fournisseurs,
+
+3. Officialiser la campagne et communiquer (interne et populations) en cohésion avec le programme IEC et les autorités sanitaires locales,
+
+4. Planifier le contrôle qualité, évaluer l'activité et les résultats.
+
+a. Convaincre de l'intérêt de posséder une moustiquaire 33
+
+Mettre en avant le bénéfice en termes de bien-être : « Dormez tranquille », «maman en pleine forme, bébé en bonne santé »...
+
+- Convaincre de l'efficacité par rapport à d'autres moyens de protection : « La moustiquaire, le meilleur moyen de se protéger efficacement contre des piqûres de moustique », « C'est la nuit que le moustique vous donne le palu : dormez sous moustiquaire imprégnée pour vous protéger»...
+
+»» La gratuité n'est pas toujours la meilleure solution (produit perçu comme sans valeur, risque de détournement, opération coûteuse...).
+
+A envisager dans des cas précis (ex : femmes enceintes, consultations d'enfants en bas-âge, consultations pour un accès palustre...).
+
+»» Un prix subventionné peut être souhaitable car il sélectionne naturellement les personnes motivées et les responsabilisent. Solution parfaitement adaptée aux entreprises, d'autant plus qu'elles bénéficieront d'un retour sur investissement en cas d'opération fructueuse.
+
+- Par des solutions de financement : par exemple vente à crédit avec retenue sur salaires, tontines (en particulier celles émanant des associations de femmes)...
+
+c. Faciliter l'acte d'achat
+
+- Favoriser l'exposition directe au produit : la moustiquaire doit être visible (modèles d'exposition) et doit pouvoir être achetée à l'endroit où elle est visible.
+
+- Rendre le produit disponible physiquement : éviter les ruptures...
+
+33. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec
+
+- Dans le cas d'une vente à grande échelle, multiplier les canaux de distribution : centres de soins, pharmacies, épiceries, associations, ONG...
+
+d. Promouvoir l'utilisation durable de la moustiquaire
+
+Les campagnes de sensibilisation doivent diffuser des messages pour lutter directement contre les raisons qui conduisent à abandonner la moustiquaire.
+
+- La chaleur : il fait un peu plus chaud sous la moustiquaire, les gens ont donc tendance à ne plus l'utiliser pendant la saison chaude, quand le danger est justement maximal.
+
+- La lassitude : beaucoup ne laissent pas la moustiquaire en place la journée et il peut être fastidieux d'installer chaque soir la moustiquaire, ce qui finit par lasser.
+
+e. Protéger les personnes à risque
+
+LES ÉTAPES 35
+
+1. Identifier les groupes cibles du projet, évaluer les risques et la vulnérabilité (définir les populations cibles, déterminer la zone géographique d'intervention),
+
+2. S'assurer de la cohérence des interventions avec les campagnes d'IEC,
+
+3. Suivi & évaluation des indicateurs clefs (Exemple : incidence du paludisme chez les enfants moins de 5 ans, les femmes enceintes, les expatriés).
+
+Les enfants
+
+- Les enfants sont particulièrement vulnérables au cours des premières années de leur existence : la protection héritée de leur mère disparaît au bout de quelques mois et il faudra plusieurs années pour que se construise leur propre immunité.
+
+- Toutes les politiques officielles de lutte considèrent donc qu'il faut tout particulièrement protéger les enfants de moins de 5 ans.
+
+- La prévention du paludisme chez les enfants passe actuellement outre les opérations de sensibilisation, quasi-uniquement par la promotion de la moustiquaire imprégnée. La moustiquaire est particulièrement adaptée pour les enfants puisqu'ils sont normalement couchés toute la nuit, c'est-à-dire tout le temps où les anophèles vecteurs du paludisme piquent.
+
+Les femmes enceintes
+
+- L'immunité d'une femme est réduite après ses trois premiers mois de grossesse, ce qui la rend plus vulnérable au paludisme. Les risques sont alors accrus pour elle-même, mais aussi pour l'enfant qu'elle porte. Les femmes enceintes forment ainsi le deuxième groupe-cible dans la lutte contre le paludisme.
+
+- L'effort de prévention porte, comme pour les enfants, sur la moustiquaire imprégnée, ainsi que sur le Traitement Préventif Intermittent (TPI).
+
+Les expatriés
+
+Caractéristiques
+
+Les expatriés et les voyageurs provenant de pays sans paludisme sont entièrement dépourvus d'immunité.
+
+Une faible concentration de parasites peut donc déclencher chez eux des accès palustres, qui évolueront par ailleurs plus facilement vers des accès graves potentiellement mortels.
+
+La politique préventive destinée aux expatriés et voyageurs non-immuns diffère de la stratégie adoptée pour les autres populations vulnérables :
+
+- Immunité naturelle est inexistante.
+
+- Présence en zone d'endémie est souvent plus ou moins temporaire.
+
+- Leur contrainte financière est généralement moindre que celle des populations locales.
+
+Mesures et techniques de protection
+
+- Moustiquaire imprégnée : insister sur l'insuffisante protection de la climatisation
+
+- Diffuseurs et bombes insecticides : plus commodes que la moustiquaire, ils peuvent efficacement la remplacer à condition d'être rigoureusement utilisés dans une chambre fermée.
+
+- Sprays répulsifs : pour la peau et les vêtements. Ils constituent la seule mesure de protection contre les piqûres à l'extérieur une fois la nuit tombée.
+
+Les personnes mobiles
+
+Les populations locales semi-immunes adultes ne sont pas nécessairement protégées des risques qu'encourent les populations vulnérables. Leur mode de vie ou leurs activités peuvent les mettre dans des situations où leur semi- immunité sera insuffisante, les exposant ainsi à des risques accrus. C'est en particulier le cas des personnes mobiles et des travailleurs à risque.
+
+Il s'agit concrètement :
+
+- Des personnes passant d'une paludisme stable à une autre zone de
+
+Même si la prémunition est partielle et spécifique à certaines souches de parasites, elle suffit à protéger la personne mobile des accès graves (exemple d'un sénégalais arrivant au Congo).
+
+Pas de mesures de protection particulières
+
+- Des personnes qui passent d'une zone de paludisme instable à une zone de paludisme stable
+
+Les personnes habitant une zone de paludisme instable ou une zone fortement urbanisée et venant résider dans une zone de paludisme stable ont une immunité insuffisante dans ce nouvel environnement et courent de véritables risques.
+
+34. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec 35. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD (Exemple : Les citadins en zones très urbanisées retournant ponctuellement au village).
+
+6.6. PRENDRE EN CHARGE LES
+
+CAS DE PALUDISME
+
+Usage systématique de la moustiquaire imprégnée, consultation immédiate en cas de fièvre
+
+- Des personnes revenant d'une zone sans paludisme à une zone de paludisme stable Un sujet originaire d'une zone d'endémie qui y revient après avoir passé plusieurs années dans une zone sans paludisme est devenu un sujet neuf, aussi peu protégé qu'un expatrié. La situation est d'autant plus risquée que ces personnes ont rarement conscience de la disparition de leur immunité et prennent difficilement conscience des risques qu'ils encourent.
+
+Adoption des techniques utilisées pour les expatriés dont la chimioprophylaxie, accentuer la sensibilisation sur les risques encourus.
+
+Les travailleurs à risque
+
+Diverses techniques peuvent être utilisées pour protéger les travailleurs à risque.
+
+- Travailleurs de nuit exposés lors des horaires correspondant aux pics de piqûre :
+
+»» Protections individuelles : sprays corporels avec des répulsifs, vêtements de travail couvrants traités avec des insecticides...
+
+»» Protection du site de travail : grillages-moustiquaires aux fenêtres des locaux de travail, AID.
+
+- Travailleurs intervenant sur des sites dans des zones de forte transmission (travailleurs forestiers, ouvriers sur des grands chantiers...) »» Moustiquaire imprégnée.
+
+»» Vêtements couvrants pour la nuit.
+
+»» Grillages-moustiquaires aux fenêtres des campements ou imprégnation des tentes.
+
+LES ÉTAPES 36
+
+1. Évaluer les risques et la vulnérabilité du groupe cible (zone, prévalence...),
+
+2. Mettre en place ou améliorer les techniques de diagnostic biologique,
+
+3. Assurer un circuit fiable d'approvisionnement en tests de diagnostic rapide et en traitements (fournisseurs, centre de référence...),
+
+4. Suivre la mise en œuvre du diagnostic biologique (TDR, microscopie) dans les entreprises 5. Suivre les indicateurs clefs (nombre de cas suspects de paludisme testés par TDR ou microscopie, nombre de cas confirmés par TDR ou microscopie, incidence du paludisme chez les femmes enceintes, les enfants de moins de 5 ans, nombre d'accès simples ou graves...),
+
+6.6.1. Le Diagnostic a. Choisir une méthode de diagnostic biologique
+
+Selon le niveau du plateau technique, l'entreprise devra choisir une méthode de diagnostic biologique parmi les quatre suivants :
+
+- La goutte épaisse :
+
+Méthode adaptée pour un centre médical relativement moderne, disposant d'un laborantin (ou d'un agent de santé pour être formé, supervisé et ayant de réelles disponibilités dans son emploi du temps).
+
+L'idéal est de disposer d'un technicien de laboratoire bien formé pour la gestion du laboratoire.
+
+Technique de référence la plus utilisée en Afrique.
+
+- Le frottis sanguin :
+
+Recommandé dans les mêmes conditions que pour la goutte épaisse.
+
+- Le test fluorescent :
+
+Méthode adaptée pour un centre médical très moderne et doté d'importants moyens financiers, disposant d'un technicien de laboratoire capable d'utiliser ce test.
+
+- Les tests de diagnostic rapide (TDR) :
+
+Méthode préconisée en l'absence de laboratoire, particulièrement adaptée pour l'ensemble des points de prestation sanitaire.
+
+b. Former les prestataires ou améliorer les compétences des prestataires de soins sur l'utilisation du diagnostic biologique choisi.
+
+Quelque soit la méthode de diagnostic biologique choisie, les prestataires de soins et les laborantins (éventuellement) doivent connaitre les procédures et être capables de réaliser selon les normes les méthodes de diagnostic biologique afin de produire des diagnostics de qualité. Des sessions de renforcement de capacités et de supervision peuvent s'avérer utiles.
+
+La sensibilisation et la formation du personnel de santé sont indispensables pour :
+
+- Convaincre de l'efficacité des tests rapides (personnel souvent sceptique a priori).
+
+c. Etablir un circuit fiable d'approvisionnement permettant d'assurer la disponibilité des intrants nécessaires au diagnostic
+
+L'interruption d'un programme peut être lourde de conséquences au plan sanitaire et entamer l'image de l'entreprise. Il est donc impératif d'établir un circuit d'approvisionnement et de stockage qui garantit la disponibilité à temps de tous les intrants indispensables pour un bon fonctionnement du programme.
+
+6.6.2. Le traitement (Cf. partie V, section traitement du paludisme) a. Le traitement de l'accès simple (cf. partie V, section traitement du paludisme, prise en charge de l'accès simple. Pour aller plus loin Directives Nationales de prévention et de prise en charge du paludisme, PNLP).
+
+b. Le traitement de l'accès grave (cf. partie V, section traitement du paludisme, prise en charge de l'accès grave. Pour aller plus loin Directives Nationales de prévention et de prise en charge du paludisme, PNLP).
+
+- Assurer un bon usage des tests.
+
+La formation comprend :
+
+- L'utilisation pratique des tests et les conditions de leurs recours (la formation est l'occasion notamment d'insister sur le fait que le test rapide ne doit pas être utilisé si le patient n'a pas de fièvre ou d'antécédent de fièvre).
+
+- Le comportement face aux résultats.
+
+Si le test est positif, traiter avec les médicaments recommandés selon les directives nationales de prévention et de prise en charge du PNLP.
+
+Si le test est négatif, chercher d'autres pathologies.
+
+6.7. STRATÉGIE DE PARTENARIAT
+
+«La meilleure façon d'optimiser les ressources financières et humaines est la coopération efficace des partenaires.37»
+
+Le succès de la lutte contre les grandes épidémies mondiales passe nécessairement par la mise en place de partenariats réunissant différentes parties prenantes publiques ou privées.
+
+36. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD 37. Mme Debbie Guèye, Conseillère technique paludisme, USAID/PMI
+
+Pour de nombreux acteurs publics, l'entreprise est un partenaire essentiel car elle permet de toucher une grande partie de la population active et, plus largement, de nombreuses populations locales.
+
+L'entreprise, quant à elle, doit compter sur des partenaires externes pour l'aider à gérer les aspects techniques et financiers de problèmes de santé qui sont éloignés de son cœur d'activité.
+
+Ce partage de responsabilité n'est toutefois pas toujours facile à mettre en œuvre tant les logiques des partenaires potentiels sont différentes. Un dialogue permanent est alors primordial pour que les intérêts et les contraintes de chacun des acteurs soient compris et respectés.
+
+LES ÉTAPES 38
+
+1. Identifier le(s) bon(s) partenaire(s) selon le type de partenariat envisagé.
+
+2. Définir la meilleure manière d'approcher le partenaire : Qui l'approche (position, compétence, rôle adapté à la démarche), avec quel argumentaire ?
+
+3. Organiser les premiers échanges : prise de connaissance, partage d'objectifs...
+
+4. Formaliser le partenariat : calendrier, rôles respectifs, contrat...
+
+5. Mettre en œuvre le partenariat.
+
+6. Suivre le partenariat : comités de pilotage...
+
+6.7.1 Quel(s) partenaire(s) pour quel(s) partenariat(s) ?
+
+bilatérales pour bénéficier de façon ponctuelle de services (sensibilisation, formation du personnel) ou de produits (moustiquaires). L'intérêt pour le partenaire de l'entreprise est de toucher facilement une large population tandis que l'intérêt pour l'entreprise est de bénéficier d'une expertise dont elle ne dispose pas en interne et de produits qui ne grèvent pas son budget santé.
+
+- L'entreprise bénéficie d'un soutien technique et éventuellement financier pour mettre en œuvre un programme complet qui s'inscrit dans la durée.
+
+Ces programmes, qui couvrent tous les aspects de la réponse à l'endémie (prévention, diagnostic, traitement), sont à destination du lieu de travail avec, parfois, des extensions vers les sous-traitants, les familles des salariés et/ou les populations locales.
+
+Ce type de partenariat, généralement mis en place par des agences de coopérations nationales ou des ONG, fait l'objet de conventions permettant aux parties prenantes de clairement définir leurs rôles et leurs responsabilités.
+
+- L'entreprise participe à la mise en œuvre de plans nationaux de lutte contre les épidémies. C'est notamment le cas dans le cadre des programmes financés par le Fonds mondial ou la Banque mondiale.
+
+6.7.2. LES ÉTAPES DU PARTENARIAT
+
+Tous les partenariats suivent à peu prés les mêmes étapes nonobstant la flexibilité de certains plus souples dans la mise en œuvre.
+
+a. La formalisation
+
+Les partenariats varient en fonction des activités qui sont menées et des partenaires impliqués. Il est possible de distinguer trois grands types de partenariats :
+
+- L'entreprise bénéficie d'un produit ou d'un service de façon ponctuelle et non commerciale. De nombreuses entreprises ont noué des partenariats avec des ONG ou des agences de coopération
+
+Tout partenariat doit être clairement formalisé avant d'être mis en œuvre. Trois étapes sont particulièrement importantes à ce stade:
+
+- Construire l'idée du partenariat:
+
+»» Identifier les besoins de l'entreprise ;
+
+»» Définir les objectifs du projet ;
+
+»» Identifier la population cible ;
+
+»» Identifier ce que l'entreprise apporte (y compris financièrement mais pas seulement car cela peut aussi s'exprimer en terme de ressources humaines par exemple) ;
+
+»» Identifier le ou les meilleurs partenaires possibles ;
+
+»» Approcher les partenaires et valider l'idée du partenariat.
+
+- Se mettre d'accord avec le(s) partenaire(s):
+
+- Les personnes impliquées dans le partenariat doivent bénéficier d'un soutien visible et constant de la part de la direction, à plus forte raison si le programme repose sur l'implication bénévole de salariés ;
+
+- Le gestionnaire du partenariat doit avoir à sa disposition les moyens humains, techniques et financiers nécessaires à la réussite du partenariat ;
+
+- La mise en œuvre du partenariat gagne à s'inspirer des techniques de gestion de projet connues des entreprises.
+
+»» Démontrer la valeur ajoutée du partenariat ;
+
+c. Le suivi
+
+»» Identifier la population cible ;
+
+Nécessaire pour assurer le succès et la pérennité d'un partenariat. Les éléments-clés sont alors les suivants :
+
+»» Définir des objectifs ainsi que des jalons clairs et précis ;
+
+»» Définir les rôles et responsabilités de chaque partie prenante.
+
+- Rédiger un contrat de partenariat :
+
+»» Formaliser le partenariat par écrit ;
+
+»» Etablir un calendrier ;
+
+»» Définir un budget ;
+
+»» Définir des indicateurs de suivi simples à évaluer mais engageants ;
+
+»» Le partenariat doit être signé par la direction de l'entreprise.
+
+b. La mise en œuvre
+
+Tout comme la formalisation, la mise en œuvre peut varier en fonction des types de partenariats établis.
+
+Dans tous les cas, les facteurs de succès sont relativement similaires :
+
+- La personne qui sera responsable de la gestion du projet doit être clairement identifiée comme telle par les collaborateurs de l'entreprise ;
+
+- Le partenariat doit faire l'objet d'un suivi continu par l'intermédiaire d'indicateurs définis à l'avance ;
+
+- Certains organismes ont de fortes exigences en matière de suivi, ce qui peut se révéler assez contraignant pour l'entreprise ;
+
+- Les objectifs et le calendrier définis en amont doivent être scrupuleusement respectés ;
+
+- Une attention particulière doit être apportée au suivi des budgets, un système de comptabilité rigoureux devra être mis en place ;
+
+- Les difficultés rencontrées doivent être soulevées le plus tôt possible afin de trouver des solutions à des problèmes qui relèvent souvent du malentendu entre des partenaires dont les manières de fonctionner sont différentes.
+
+- Enfin, l'amélioration permanente du programme doit être constamment en ligne de mire des partenaires.
+
+Ceux-ci doivent être intransigeants sur les critères de performance choisis, mais également suffisamment flexibles pour changer de cap lorsqu'il apparaît évident que le partenariat est dans une impasse.
+
+38. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD
+
+6.8. CADRE LOGIQUE ET SUIVI-ÉVALUATION
+
+6.8.1. Le cadre logique39
+
+Buts
+
+Objectis
+
+Ajustements
+
+& réorientations
+
+Résultats
+
+OBJECTIFS (Indicateurs de résultats)
+
+Activités
+
+Ressources
+
+Mise en oeuvre (Indicateurs de mise en oeuvre)
+
+Cadre de logique d'un programme intégré de lutte contre le paludisme
+
+Son but est de relier, dans un seul outil cohérent, les différents niveaux du programme (but, objectifs spécifiques, activités opérationnelles, ressources disponibles) et de suivre l'avancement du programme sur ces différents niveaux grâce aux indicateurs de résultat et aux indicateurs de mise en œuvre.
+
+Indicateurs d'impact
+
+Buts
+
+Sources de données
+
+Réalisé
+
+Responsable
+
+Ressources
+
+Réalisé
+
+Responsable
+
+But 1
+
+But 2
+
+Objectif 1
+
+Objectifs
+
+Objectif 2
+
+Objectif n
+
+Indicateurs de mise en œuvre
+
+Activité 1 :
+
+Activités
+
+Activité 2 :
+
+Activité 3 :
+
+Activité n :
+
+Matrice cadre logique d'un programme intégré de lutte contre le paludisme
+
+6.8.2. Les Indicateurs40
+
+Une fois le cadre logique défini, il est impératif de préciser les indicateurs de mise en œuvre, de résultat et de retombées du Programme.
+
+a. Les indicateurs de mise en œuvre
+
+Indicateurs de base
+
+Programme standard
+
+Indicateurs sophistiqués
+
+Moustiquaires
+
+Taux de couverture en moustiquaires
+
+Etudes CAP, % de moustiquaires effectivement utilisées
+
+Protection personnelle
+
+Taux d'expatriés ou de travailleurs à risque à qui sont fournis des moyens de protection personnelle
+
+Etudes CAP
+
+TPI
+
+Taux de femmes enceintes sous TPI
+
+Chimioprophylaxie
+
+Taux d'expatriés sous chimioprophylaxie
+
+Etudes CAP, % de traitements réellement pris (tests d'observance)
+
+Diagnostic
+
+Nombre de cas suspects testés par
+
+TDR ou microscopie
+
+Données de routine
+
+ACT
+
+Taux d'accès simples traités par
+
+ACT
+
+Etudes CAP
+
+Tableau ou carte de suivi des sites traités, fréquence des opérations
+
+Taux de couverture (sites traités / sites existants)
+
+Assainissement
+
+Contrôle biologique
+
+Programme élargi
+
+Epandages
+
+Fumigation
+
+Pulvérisation intra-domiciliaire
+
+Taux de maisons traitées sur la zone cible, fréquence des opérations
+
+39. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD 40. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec b. Les indicateurs de résultat
+
+Indicateurs de base
+
+Indicateurs sophistiqués
+
+Nombre de consultations
+
+Incidence (accès simples)
+
+Programme standard
+
+Accès graves et mortalité
+
+Nombre de cas suspects
+
+Nombre de diagnostics biologiques positifs (accès simples confirmés)
+
+Nombre d'accès simples
+
+Nombre d'accès graves (hospitalisations), nombre de jours d'hospitalisation Nombre de décès
+
+Divers (nombre d'évacuations)
+
+Absentéisme
+
+Nombre de jours d'absentéisme pour paludisme
+
+% d'individus porteurs de parasite sur la population-cible
+
+Prévalence
+
+Programme élargi
+
+Transmission
+
+Evolution de la transmission, nombre de piqûres infectantes par personne et par durée de temps c. Les indicateurs d'évaluation des retombées Indicateur de retour sur investissement, obtenu à partir de trois coûts :
+
+- Coût du paludisme avant le lancement du programme ;
+
+Taux d'inoculation entomologique (TIE)
+
+Cet indicateur est le principal outil de mésure de la performance économique d'un programme. A l'occasion d'une présentation des résultats d'un programme, son responsable peut fonder son discours en s'inspirant du schéma suivant :
+
+- Coût actuel du paludisme ;
+
+- Coût total du programme.
+
+GAINS NETS
+
+Coût du paludisme sans programme
+
+Réduction d'impact liée au programme
+
+/ économies réalisées
+
+Coût du programme
+
+Coût du paludisme avec programme
+
+Les autres retombées (image de l'entreprise par exemple) sont difficilement évaluables avec des indicateurs formels.
+
+6.8.3. Assurer le suivi-évaluation
+
+LES ÉTAPES
+
+1. Définir les indicateurs de mise en œuvre associés aux activités listées dans le cadre logique.
+
+2. Définir les indicateurs de résultats associés aux buts et objectifs listés dans le cadre logique.
+
+3. Identifier et former, au sein des différents services concernés en interne ainsi que chez les partenaires du programme, les personnes responsables de la collecte des données permettant de nourrir ces indicateurs
+
+4. Compléter, suivant la périodicité choisie, la colonne Réalisé du cadre logique.
+
+5. Analyser ces données pour définir et proposer des actions correctrices dans le cadre de la mise en œuvre des activités.
+
+6. Analyser ces données pour évaluer la performance du programme et en assurer la promotion.
+
+a. Quelles ressources humaines pour la mise en œuvre et le suivi du programme ?41
+
+- Le responsable du programme
+
+Il est indispensable de désigner officiellement, un responsable de programme. Le responsable de programme s'occupe des activités suivantes :
+
+»» La mise en œuvre des activités ;
+
+»» Le suivi-évaluation du programme ;
+
+»» La coordination des différents acteurs.
+
+Le responsable de programme peut être désigné parmi les collaborateurs internes. Dans le cas d'un programme d'envergure complexe, le recrutement d'un Directeur de programme familier avec ce type de mission ou le recours à un spécialiste peut être envisagé.
+
+- Le comité de santé
+
+Le responsable de programme doit pouvoir trouver des relais dans les différents services potentiellement concernés. Ces relais forment le comité de santé en charge :
+
+»» De la définition de la stratégie ;
+
+»» Du suivi-évaluation régulier.
+
+Le comité de santé se réunit au moins une fois par trimestre.
+
+- Le comité de pilotage
+
+»» C'est l'organe décisionnel du programme, lieu de la réflexion et de la prise de décision stratégique.
+
+»» Il rassemble l'ensemble des partenaires du projet, internes et externes à l'entreprise (ONG, bailleurs de fonds) afin d'assurer la représentativité des parties prenantes.
+
+»» Le comité de pilotage se réunit en général chaque trimestre ou (chaque semestre) pour :
+
+-- Dresser le bilan des activités réalisées durant la période écoulée,
+
+-- Préparer la phase suivante.
+
+- Les acteurs opérationnels
+
+Le responsable du programme et le comité de santé s'appuient sur un réseau de personnel technique pour la mise en œuvre du programme.
+
+Il est important de maintenir un bon niveau de motivation des équipes et une bonne prise de conscience de la part des acteurs de l'importance du programme et de ces retombées pour l'entreprise et la communauté.
+
+41. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD
+
+Service nécessairement concerné
+
+État des lieux
+
+Service potentiellement concerné
+
+Service médical, service du personnel, service RSE
+
+Conception de la stratégie et montage
+
+Service médical du dossier
+
+Service du personnel, service HSE
+
+Approvisionnement en moyens de lutte
+
+Service logistique / achats, service
+
+Service du personnel, service HSE médical
+
+Recherche de prestataires externes
+
+Service du personnel, service RSE
+
+IEC
+
+Service médical, service du personnel
+
+Lutte anti-larvaire, contrôle vectoriel
+
+Service RSE
+
+Distribution des moustiquaires et des
+
+Service du personne moyens de protection personnelle
+
+Prise en charge
+
+Services techniques
+
+Service médical
+
+Service médical
+
+Interface avec les pouvoirs publics, les éventuels partenaires, communication Direction autour du programme
+
+Suivi du programme
+
+Service médical
+
+Service médical
+
+Service médical, service RSE, service
+
+Direction du personnel, service comptabilité
+
+Répartition des tâches pour un programme intégré de lutte contre le paludisme42
+
+42. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance - T. Miklavec 43. Zéro Palu ! Je m'engage. Lutte contre le paludisme au Sénégal, l'histoire d'un partenariat réussi
+
+ILS SE SONT ENGAGÉS !
+
+ZÉRO PALU ! JE M'ENGAGE
+
+La campagne « Zéro Palu ! Je m'engage » est un mouvement citoyen d'ampleur nationale en faveur de l'élimination du paludisme. Elle s'intègre dans une stratégie de plaidoyer inclusive pour accroitre la sensibilisation, la priorisation et l'engagement national afin d'atteindre l'élimination du paludisme.
+
+Les objectifs de la campagne sont les suivants :
+
+Susciter un engagement politique au plus haut niveau des Etats pour l'élimination du paludisme.
+
+Mobiliser les ressources financières nécessaires pour mettre un terme au paludisme en Afrique.
+
+Valoriser les progrès et les efforts des citoyens et partenaires.
+
+L'ENGAGEMENT DU SECTEUR PRIVÉ
+
+Le secteur privé est un partenaire stratégique, capable d'agir indépendamment ou en tandem avec le gouvernement pour lutter contre le paludisme et son élimination qui ne sera possible que grâce à son engagement dans la lutte contre la maladie.
+
+Les entreprises qui ont su intensifier la lutte contre le paludisme ont observé un rapide retour sur investissement. En effet, les dépenses liées au paludisme dans les établissements de soins de ces entreprises ont baissé de plus de 75%.
+
+Ainsi, l'engagement du secteur privé est essentiel à la réalisation de notre objectif d'élimination du paludisme.
+
+À travers ce partenariat gagnant-gagnant les entreprises peuvent :
+
+- Collaborer avec les acteurs chargés de la mise en œuvre au niveau local (services de santé et/ou organisations non gouvernementales) pour intensifier les interventions.
+
+- Mener des activités à l'interne de prévention du paludisme ou en faveur de ses clients ou des communautés environnantes.
+
+- S'associer au Programme National de Lutte contre le Paludisme : une grande entreprise peut le faire à travers un accord de cofinancement et plusieurs petites entreprises peuvent également mettre leurs ressources en commun pour atteindre la capacité opérationnelle d'une grande entreprise.
+
+- Se rapprocher des partenaires locaux afin de participer à certaines interventions, telles que la distribution de moustiquaires imprégnées d'insecticide à longue durée d'action, qui peuvent être mises en œuvre à petite échelle avec des ressources modestes.
+
+- Utiliser leurs propres supports pour faire la promotion des moyens de prévention du paludisme (sites web, affiches, écrans, transport de moustiquaires, distribution de dépliants sur le paludisme à travers leurs réseaux, etc.).
+
+UTILISATION DES FINANCEMENTS
+
+REÇUS
+
+Les fonds récoltés serviront à financer des champions communautaires. En effet, le Programme National de Lutte contre le Paludisme (PNLP) et ses partenaires ont élaboré un programme basé sur des champions communautaires dont la mission sera uniquement de sensibiliser et de communiquer sur les moyens de prévention et de lutte contre le paludisme au Sénégal.
+
+En soutien aux activités mises en œuvre par les districts et leurs partenaires, le programme vise à renforcer les capacités et l'encadrement de personnes bénévoles qui souhaitent s'impliquer ou sont déjà impliquées dans l'amélioration du cadre de vie et la santé de leur communauté et ainsi contribuer à l'élimination du paludisme au Sénégal.
+
+Le champion communautaire à pour rôle de :
+
+- Sensibiliser et informer les communautés.
+
+- Contribuer à la lutte anti-vectorielle.
+
+- Assurer la coordination et le suivi avec la pyramide sanitaire.
+
+Le champion sera équipé d'un kit qui sera composé de :
+
+- Un sac à dos
+
+- Un lot de 25 MILDA
+
+- Une casquette
+
+- Un dossard pour les hommes et un foulard pour les femmes
+
+- Un Smartphone
+
+- Des outils de communication IEC/CCC
+
+- Une indemnité mensuelle
+
+Sur chacun des outils (casquette, dossard, foulard) apparaitront les logos du Programme National de Lutte contre la Paludisme, de la campagne « Zéro Palu ! Je m'engage » et de l'entreprise finançant le ou les champions communautaires.
+
+À ce jour, diverses entreprises du secteur privé se sont impliquées dans la lutte contre le paludisme à travers des plans de lutte contre le paludisme, de partenariats, ou des actions de soutien dans une logique de responsabilité sociale.
+
+- Créer un réseau d'agents de changement.
+
+PRÉSENTATION
+
+La Compagnie Sucrière Sénégalaise (CSS) est un complexe agro-alimentaire située dans le département de Dagana à 105 km au Nord-est de Saint-Louis.
+
+Elle emploie 7000 travailleurs dont 3000 saisonniers et 4000 permanents et constitue à ce titre le deuxième employeur après l'état.
+
+CONTEXTE
+
+En 2011, le PNLP et PATH ont identifié le district de Richard-Toll, situé au nord du Sénégal, comme zone pilote d'élimination du paludisme. Le projet vise à arrêter la transmission locale de la maladie, en contrôlant tous les cas confirmés de paludisme dans la zone. Pour garantir la pérennité du projet, les autorités sanitaires ont innové en intégrant pleinement les entreprises locales du secteur privé locales dans un partenariat public-privé. La compagnie sucrière sénégalaise (CSS) est aujourd'hui un partenaire clé du PNLP dans le district.
+
+INTERVENTIONS
+
+- Distribution de moustiquaires aux employés et à leurs familles.
+
+- Confirmation de tous les cas suspects grâce aux tests de diagnostic rapide (TDR).
+
+- Utilisation des combinaisons thérapeutiques à base d'artémisinine (ACT).
+
+- Séances de sensibilisation sur le paludisme.
+
+- Dépistage systématique de tous les saisonniers lors des visites d'embauche avant le début de la campagne sucrière.
+
+- La mise en place des lotions anti moustiques pour les travailleurs postés
+
+- La pulvérisation périodique des ateliers.
+
+- Le reporting hebdomadaire des données.
+
+IMPACT
+
+- Avant l'investissement dans la lutte contre le paludisme :
+
+20 cas de paludisme traités par jour.
+
+- Après l'investissement dans la lutte contre le paludisme: une moyenne de 21 cas traités par semestre.
+
+- Coûts pharmaceutiques liés au traitement du paludisme ramenés à 300 dollars US par an en 2012, en comparaison des 23 000 dollars US dépensés en 2011.
+
+Séance de sensibilisation des employées de la CSS, par le personnel médical de l'entreprise.
+
+PRÉSENTATION
+
+Le Groupe Wari qui est un vaste réseau de transfert d'argent créé en 2008 et qui intervient dans 34 pays, compte un réseau de points de ventes de 20 000 enseignes au Sénégal pour un total de 30 000 au niveau mondial.
+
+CONTEXTE
+
+L'engagement de Wari dans la lutte contre le paludisme s'est matérialisé en 2015 à travers la campagne « Zéro Palu je m'engage » dont l'objectif est de faire de l'élimination du paludisme au Sénégal une réalité.
+
+Objectifs :
+
+- Amener les individus à s'engager individuellement dans la lutte contre le paludisme
+
+- Maintenir l'attention sur la lutte contre le paludisme au niveau national, régional, et local
+
+- Assurer une reconnaissance internationale à la campagne « Zéro Palu ! je m'engage » comme un programme novateur
+
+INTERVENTIONS
+
+L'intervention était essentiellement axée sur la communication et s'est concrétisée à travers les actions suivantes :
+
+- Mise en place d'une plateforme de collecte de dons « Zéro Palu 250 », disponible dans tous les points Wari
+
+- Signature de la déclaration d'engagement de la campagne Zéro Palu par M. Kabirou Mbodje PDG du Groupe Wari
+
+- Participation à la Journée Mondiale contre le Paludisme (2015), avec une mise en place de supports de communication Wari
+
+- Diffusion d'une animation de 10 secondes sur des écrans LED dans trois points de grand passage à Dakar.
+
+- Appui à la réalisation de l'hymne officiel de la campagne Zéro Palu
+
+- Création, distribution et affichage de supports de communication (flyers, affiches et animation sur écrans LED) relative à la plateforme de dons.
+
+- Distribution gratuite de 1000 Moustiquaires imprégnées à longue durée d'action (MILDA) couplée à une activité sensibilisation sociale à Bambilor, dans le district sanitaire de Rufisque (Janvier 2016).
+
+ILS SE SONT AUSSI ENGAGÉS !
+
+Et vous, comment vous engagez vous ?
+
+Témoignez de votre engagement sur le site zeropalu.org ou sur notre page Facebook/Zeropalu
+
+Références bibliographiques
+
+1. ATTEINTE DE LA CIBLE DES OMD POUR LE PALUDISME : INVERSION DE LA TENDANCE ENTRE 2000 ET 2. World malaria report 2014 : points essentiels 3. http://www.who.int/mediacentre/factsheets/fs094/fr/ consulté le 25/01/2016 4. PLAN STRATEGIQUE NATIONAL 2011-2015
+
+5. www.coalitionpaludisme.org/
+
+6. Initiative mondiale en faveur de la santé/Forum économique mondial, Harvard School of Public Health (2006), Business and Malaria: A NeglectedThreat?, Genève 7. OMS (1998, révisé en avril 2010), Paludisme [Aide-mémoire N°94], Genève, www.who.int/mediacentre/ factsheets/fs094/fr
+
+8. Cook L.D. et J.D. Sachs (2001), Africa competitiveness report 2000/2001, Forum économique mondial, Genève.
+
+9. McFarland et Banda (2008), Communication personnelle.
+
+10. Mesurer l'impact du paludisme et évaluer le retour sur investissement d'un programme en entreprise P.6, www.santeenentreprise.com,
+
+11. Dr Farba Lamine SALL Economiste de la Santé OMS/Sénégal impact économique du paludisme 12. GUIDE PRATIQUE DE LUTTE CONTRE LE PALUDISME EN ENTREPRISE J. Bonneville C. Defrance T.
+
+13. GUIDE PRATIQUE DES PROGRAMMES DE SANTÉ EN ENTREPRISE PCS, AFD 14. Le Guide des stratégies pour la lutte : Malaria Safe 15. DIRECTIVES NATIONALES DE PREVENTION ET DE PRISE EN CHARGE DU PALUDISME 16. LUTTE CONTRE LE PALUDISME AU SÉNÉGAL L'HISTOIRE D'UN PARTENARIAT RÉUSSI 17. Zéro Palu ! Je m'engage. Lutte contre le paludisme au Sénégal, l'histoire d'un partenariat réussi
+
+Ce guide a été réalisé par pour le compte du

@@ -1,0 +1,1335 @@
+REPUBLIQUE DU SENEGAL
+
+Un Peuple – Un but – Une foi
+
+MINISTERE DE LA SANTE
+
+ET DE L'ACTION SOCIALE
+
+DIRECTION GENERALE DE LA SANTE PUBLIQUE
+
+DIRECTION DE LA LUTTE CONTRE LA MALADIE
+
+Programme National de Lutte contre le Paludisme
+
+BULLETIN EPIDEMIOLOGIQUE ANNUEL 2023
+
+DU PALUDISME AU SENEGAL
+
+Mars 2024
+
+Bulletin épidémiologique du Paludisme au Sénégal Année 2022
+
+Tableau II : Niveau de complétude et promptitude au niveau national Tableau II : Couvertures CPS dans les Districts Sanitaires à 4 passages Tableau III : Niveau des indicateurs de 2023 Tableau III : Couvertures CPS dans les Districts Sanitaires à 5 passages Tableau IV : Incidence ajustée pour 1000 habitant Tableau IV : Evolution de la couverture en TDO 3 de 2020 à 2023 Tableau V : Moyenne pluviométrique mensuelle nationale 2020 - 2023 PECADOM Pus / TPI COMMUNAUTAIRE
+
+Tableau I : Répartition des Districts Sanitaires ayant mis en œuvre la PECADOM
+
+DIAGNOSTOC BIOLOGIQUE
+
+Plus
+
+Tableau I : Evaluation de la Sensibilité selon les régions médicales Tableau II : Répartition des résultats des ratissages selon les districts sanitaires cibles SURVEILLANCE ENTOMOLOGIQUE Tableau III : Résultats de la détection des cas de paludisme par cible
+
+Tableau I : Indicateurs entomologiques par méthode de collecte Tableau IV : Résultats de la détection des cas de paludisme par district sanitaire cible Tableau II : Composition anophélienne et abondance relative par espèce Tableau V : Résultats de la prise en charge des cas de paludisme Tableau III : Taux d'Agressivité sur homme et taux d'endophagie d'An. gambiae s.l. Tableau VI: Récapitulatif des cas vus de diarrhées et IRA Tableau VII : Résultats de la recherche des enfants irréguliers à la vaccination et à la
+
+Tableau IV : Taux de parturité d'An. gambiae s.l.
+
+supplémentation en vitamine A
+
+Tableau V : Résultats des tests de sensibilité des femelles d'An. gambiae sl Tableau VIII : Répartition des cas référés par district sanitaire Tableau IX : Répartition des doses de SP administrées par district sanitaire lors du TPI
+
+DISTRIBUTION DE MILDA EN ROUTINE communautaire
+
+Tableau I : Dotation en MILDA 2023
+
+INVESTIGATION DES CAS ET DES FOYERS
+
+Tableau I : Résultats documentation des cas
+
+Tableau II : Résultats des investigations dans les districts sanitaires
+
+Tableau III : Résultats de la gestion des flambées enregistrées par district sanitaire
+
+I. SUIVI DES PRINCIPAUX INDICATEURS DE MORBIDITE ET DE MORTALITE
+
+L'année 2023 a été particulièrement marquée par la grève des prestataires de soins accompagnée d'une rétention des données sanitaires. Cette rétention des données a fortement impacté la qualité des données disponibles.
+
+La complétude nationale des données, saisies dans le DHIS2 est de 26, 6%. Ce qui est très faible et limite toute possibilité d'analyse ou de comparaison avec les années passées.
+
+A. Complétude et promptitude des données du paludisme en 2023 :
+
+Tableau I : Niveau de complétude et promptitude des données par région de janvier à décembre 2023: (Extraction DHIS2 au 31 Janvier 2024) Directions Régionales Directions Régionales
+
+Taux de Complétude Taux de Promptitude Taux de Complétude Taux de Promptitude de la Santé de la Santé
+
+DRS Kédougou 73,0% 47,4% DRS Fatick 19,8% 5,2%
+
+DRS Dakar 51,9% 15,2% DRS Saint-Louis 15,2% 6,1%
+
+DRS Diourbel 42,1% 16,4% DRS Ziguinchor 12,4% 4,6%
+
+DRS Kolda 35,5% 18,3% DRS Louga 12,4% 5,4%
+
+DRS Thiès 30,5% 12,6% DRS Sédhiou 10,2% 2,9%
+
+DRS Tambacounda 26,8% 11,2% DRS Kaffrine 4,6% 1,4%
+
+DRS Kaolack 22,2% 8,1% DRS Matam 2,7% 0,4%
+
+Tableau II : Niveau de complétude et promptitude au niveau national
+
+Extraction DHIS2 du 31 Janvier 2024
+
+Taux de complétude 26,66%
+
+Taux de promptitude 10,28%
+
+B. Niveau des principaux indicateurs du paludisme en 2023 :
+
+Tableau III : Niveau des indicateurs de 2023
+
+INDICATEURS 2023 : Extraction DHIS2 du 31 Janvier 2024
+
+Taux de complétude 26,66%
+
+Taux de promptitude 10,28%
+
+Total MILDA distribuées en routine 267 703
+
+Pourcentage de femme enceinte ayant reçu sous TDO le TPI 3 lors de leurs visites CPN. 71,79%
+
+Nombre total de cas de paludisme graves hospitalisés sur la période 7 196
+
+Taux de dépistage 95,5%
+
+Nombre de cas confirmés de paludisme (par microscopie ou TDR) TOTAL 2023 172 866
+
+Nombre de cas confirmés de paludisme (par microscopie ou TDR) Moins de 5 ans 2023 17 983
+
+Nombre de cas confirmés de paludisme (par microscopie ou TDR) Plus de 5 ans 2023 154 883
+
+Nombre de décès dus au paludisme parmi les malades hospitalisés (Tout âge) 199
+
+Nombre de décès dus au paludisme parmi les malades hospitalisés (Moins de 5 ans) 28
+
+Nombre de décès dus au paludisme parmi les malades hospitalisés (Plus de 5 ans) 171
+
+Nombre de décès dus au paludisme parmi les malades hospitalisés (Plus de 5 ans Excluant les FE) 170
+
+Nombre de décès dus au paludisme parmi les malades hospitalisés (Femmes enceintes) 1
+
+Remarque :
+
+La très faible complétude des données limites les possibilités d'appréciation ou d'analyse de ces indicateurs.
+
+II. STRATIFICATION PAR L'INCIDENCE AJUSTEE de 2018 à 2022
+
+Avec le très faible niveau de complétude des données, il a été procédé à une stratification de l'incidence ajustée pour apprécier l'évolution de l'épidémiologie du paludisme par l'incidence. Cette stratification est réalisée avec l'incidence du paludisme enregistrée chaque année mais ajustée par le taux de dépistage, le taux de positivité des tests de diagnostic et la complétude des données.
+
+Il y a d'abord l'incidence brute obtenue à partir des données brutes rapportées par le secteur public et celui du privé. Suivent après, les différents niveaux d'ajustement basés sur :
+
+a) Le taux de dépistage :
+
+Là, on utilise le nombre de cas suspects non testés auquel on applique le taux de positivité des tests. Pour porter ainsi le taux de dépistage à 100%. Le nombre trouvé est ajouté aux cas confirmés notifiés.
+
+b) Le taux de complétude :
+
+La complétude est aussi ajustée et ramenée à 100%
+
+Pour la cartographie la classification de l'OMS est utilisée : ≤ 5‰ : Zone de très faible transmission, 5‰ < Incidence ≤ 100‰ Zone de transmission faible, 100‰ < Incidence ≤ 250‰ Zone de transmission modérée, Incidence > 250‰ Zone de transmission élevée.
+
+Cet exercice a donné les résultats ci-dessous :
+
+A. Résultats de l'ajustement en 2021 et 2022 :
+
+Incidence ajustée de l'année 2021 Incidence ajustée de l'année 2022
+
+En 2021 avec un taux de
+
+En 2022 avec un taux de complétude acceptable de complétude faible de 73,8% et un
+
+97,8% et un taux de taux de dépistage de 98,5%. Mais dépistage acceptable de ajustés à 100% on observait une
+
+99,6%, Mais ajustés à augmentation du nombre de
+
+100% on observait que districts en transmission modérée seuls 10 districts du Sud et (100‰ ≤ incidence < 250‰) à
+
+Sud-Est ont atteint un élevée (forte incidence, ≥ 250‰) niveau de transmission qui passe de 10 à 11. Avec 2 modérée (100‰ ≤ districts dans le centre du pays incidence < 250‰) à (Kaolack et Touba) et 9 districts élevée (forte incidence, ≥ dans le Sud et Sud-Est.
+
+Figure 1 : Evolution des strates entre 2021 et 2022
+
+B. Résultats de l'ajustement en 2023 :
+
+En 2023 avec la faible complétude des données et la baisse du taux de dépistage, le nombre de district en transmission faible (5‰ ≤ incidence < 100‰) a augmenté comparé à 2021 et 2022. Le Sud et Sud-Est reste toujours la zone de forte transmission.
+
+Au total, cette stratification montre qu'au Sénégal le paludisme est inégalement réparti avec une zone de très forte transmission dans le Sud et
+
+Sud-Est du pays, une zone de transmission modérée dans le centre du pays et une zone de très faible transmission dans le nord et une partie du centre du pays. Il est donc nécessaire sur le plan de la gestion programmatique de maintenir la complétude des données à au moins 99% et le taux de dépistage à des niveaux suffisamment élevés (au moins 99%).
+
+Figure 2 : Incidence Ajustée en 2023
+
+C. Données d'Incidences ajustées de l'année 2018 à 2023 ; Synthèse Nationale :
+
+Tableau IV : Incidence ajustée pour 1000 habitants
+
+Total cas de paludisme rapportés (Public + Incidence ajustée au taux de
+
+Total cas de paludisme
+
+ANNEES Complétude Population Privé) ajusté au taux de dépistage et au dépistage et au taux de rapportés (Public + Privé) taux de complétude complétude
+
+Constats :
+
+- L'ajustement de l'incidence corrigeant à la fois le taux de dépistage et la complétude des données reflète le mieux l'incidence moyenne.
+
+Mesures à prendre :
+
+- Renforcer les efforts pour maintenir la complétude des données et le taux de dépistage à des niveaux suffisamment élevés entre 99 et 100%.
+
+- Mesurer la recherche des soins sur la population générale et non seulement chez les enfants de moins de cinq ans (EDS).
+
+III. EVOLUTION DE LA PLUVIOMETRIE PAR FACIES de 2020 à 2023
+
+1) Evolution de la pluviométrie mensuelle entre 2020 et 2023
+
+Tableau V : Moyenne pluviométrique mensuelle nationale 2020 - 2023
+
+Moyenne pluviométrique mensuelle nationale 2020 - 2023
+
+Janvier 0 0 0 0
+
+Février 0 0 0 0
+
+Mars 0 0 0 0
+
+Avril 0 0 0 0
+
+Septembre 308 158 244 199
+
+Octobre 65 48 79 55
+
+Novembre 0 0 0 0
+
+Décembre 0 0 1 0
+
+Figure 1 : Evolution mensuelle de la moyenne pluviométrique entre 2020 et 2023
+
+Sources ANACIM
+
+Globalement sur l'ensemble du territoire national, on note que la distribution mensuelle des pluies a été plus équilibrée en 2022 et 2023 que les autres années (2020 et 2021). Il est à noter que 2022 a été l'année la plus pluvieuse que 2023.
+
+Mais en termes de répartition dans le temps on observe que la saison des pluies débute au mois de juin et se termine en octobre et l'essentiel des pluies a été enregistré entre juillet et septembre. Cette pluviométrie reste toujours très favorable au développement de gîtes larvaires où se reproduisent les vecteurs responsables de la transmission du paludisme.
+
+2) Evolution de la pluviométrie entre les différents faciès de 2019 et 2023
+
+Sources ANACIM
+
+Cumul pluviométrique (mm) au 31 Décembre Cumul pluviométrique (mm) au 31 Décembre Cumul pluviométrique (mm) au 31 Décembre Stations Stations Stations
+
+Dans le Sud et l'Est du pays la pluviométrie a été à l'image
+
+Dans le Centre du pays, comme dans le Nord, la
+
+En 2023, la moyenne pluviométrique dans cette zone est du Centre, très variable au cours des cinq dernières années.
+
+moyenne pluviométrique de l'année 2023 est supérieure à la moyenne de la normale, et moins La moyenne pluviométrique en 2023 est supérieure à la supérieure à la moyenne de la normale, mais moins importante que celle enregistrée en 2022 dans cette partie moyenne de la normale. La région de Kédougou est la seule importante que celle enregistrée en 2022. On note nord et ouest du pays. Néanmoins, le département de qui a enregistré un cumul en deçà de la normale. Comparée aussi que la station de Koungheul est la seule qui a
+
+Matam a enregistré un cumul en dessous de la normale. à l'année 2022, la moyenne du cumul pluviométrique de cette enregistré en 2023 un cumul inférieur à la normale.
+
+année 2023 est moins importante.
+
+Dans ce faciès la saison des pluies 2023 s'étend de mai Dans ce faciès la saison des pluies 2022 s'étend de mai à Dans ce faciès la saison des pluies de l'année 2023, à novembre avec un pic de pluviométrie en août. A noter novembre avec des pics de pluviométrie en juillet, août et s'étend de juin à octobre avec trois pics de pluviométrie que la pluviométrie est plus importante dans ce faciès septembre. A noter que la pluviométrie est beaucoup plus en juillet, en août et en septembre.
+
+comparé au Nord importante dans ce faciès comparé aux deux autres.
+
+F ig u re 2 : E v o lu tio n m e n su e lle d e la m o y e n n e p lu v io m é triq u e e n tre 2 0 2 0 e t 2 0 2 3 e lle u sn e m eu q irté m o ivu lp e n n eyo
+
+M e 350 lle u sn 300 em 250 eu q 200 irtém o ivu 100 lp e 50 n n eyo 0
+
+M
+
+Figure 3: Evolution mensuelle de la moyenne pluviométrique entre 2020 et 2023
+
+F ig u re 4 : E v o lu tio n m e n su e lle d e la m o y e n n e p lu v io m é triq u e e n tre 2 0 1 9 e t 2 0 2 3 e lle u sn em eu q irtém o ivu lp e n n eyo
+
+M
+
+IV. EVOLUTION DE LA PREVALENCE PARASITAIRE
+
+La prévalence parasitaire est mesurée à travers les enquêtes EDS et les enquêtes sur les indicateurs du paludisme (EIP ou MIS). La dernière enquête est une enquête MIS réalisée en 2020-2021.
+
+De 2012 à 2017, on voit sur les cartes ci-dessous que 11 régions sur 14 ont enregistré une prévalence parasitaire proche de zéro, c'est pour cette raison que l'enquête de 2020-2021 n'a porté que sur les trois régions de forte transmission (Kédougou, Kolda et Tambacounda) où la prévalence de 2017 était supérieure à 1%. Cette dernière enquête de prévalence s'est faite par district, contrairement aux autres où les résultats étaient présentés par région.
+
+Avec l'enquête MIS 2020-2021 on note une augmentation de la prévalence parasitaire dans la zone Sud, Sud-Est où la transmission reste très élevée.
+
+LES INDICATEURS DE COUVERTURE
+
+V. EVOLUTION DE LA COUVERTURE EN MOUSTIQUAIRE IMPREGNEE D'INSECTICIDE :
+
+Ces résultats étaient imputables à la campagne de distribution de masse organisée durant le 1er semestre
+
+Comparés à 2021 la possession a baissé de 7% passant de 81% en 2019 à 75,3% en 2021.
+
+Sur la même période :
+
+− Le taux d'utilisation des MILDA dans la population générale est passé de 62,5% en 2019 à 46,4% en 2021 ; soit une réduction de 26%.
+
+− Le taux d'utilisation des MILDA chez les enfants de moins de 5 ans est passé de 65,4% en
+
+2019 à 46,5 % en 2021 soit une réduction de
+
+− Le taux d'utilisation des MILDA chez les femmes enceintes est passé de 68,1% en 2019 à
+
+52,5% en 2021 ; soit une réduction de 23% ;
+
+Avec les résultats prochains de l'EDS 2023, on s'attend à une amélioration de ces couvertures avec la campagne de masse réalisée en 2022 .et le renforcement de la distribution de routine.
+
+DISTRIBUTION DE MILDA
+
+VI. RESULTATS DISTRIBUTION DE MILDA EN ROUTINE
+
+Depuis 2020, le programme en collaboration avec PMI/USAID a réorganisé et redynamisé la distribution de MILDA en routine. Avec l'implication de l'agence d'exécution VectorLink, remplacé en 2023 par Evolve, dans l'approvisionnement et la gestion des stocks de MILDA et le suivi conjoint PNLP _ Evolve de la gestion des MILDA au niveau opérationnel, de bons résultats sont enregistrés dans la distribution des moustiquaires surtout aux groupes cibles. Malheureusement, en 2023 le rapportage des données de distribution de routine a été impacté par la rétention des données sanitaires.
+
+Néanmoins une bonne disponibilité des MILDA a été assurée grâce au mécanisme mis en place avec la collaboration de Evolve. De janvier à décembre 2023, PMI Evolve a fourni en dotation, 1 218 950 moustiquaires imprégnées (24 379 balles) aux 14 directions régionales de la santé (Kolda, Thiès, Dakar, Louga, Kédougou, Ziguinchor, Kaffrine, Fatick, Kaolack, Tambacounda, Sédhiou, Matam, St Louis et Diourbel). Voir Tableau I ci-dessous :
+
+Tableau I : Dotation en MILDA 2023
+
+Régions Dotation en MILDA Régions Dotation en MILDA
+
+Dakar 245 600 Louga 60 000
+
+Diourbel 30 000 Matam 55 000
+
+Fatick 83 350 Saint Louis 30 000
+
+Kaffrine 75 000 Sédhiou 20 700
+
+Kaolack 69 000 Tamba 75 000
+
+Kédougou 60 000 Thiès 298 700
+
+Kolda 66 000 Ziguinchor 50 600
+
+De 2020 à 2022 la moyenne de MILDA distribué par an aux populations à travers les différents canaux de routine est de 887 254 MILDA. Avec la dotation de 1 218 950 moustiquaires imprégnées on peut dire que les structures ont été suffisamment approvisionné pour assurer voire dépasser ce niveau de distribution.
+
+.
+
+CAMPAGNE
+
+CHIMIOPREVENTION DU
+
+PALUDISME SAISONNIER : CPS
+
+Campagne réalisée sur financement PMI/USAID
+
+VII. RESULTATS CAMPAGNE CPS_2023
+
+En 2023, sur financement de PMI/USA ID, le PNLP a mis en œuvre la campagne de chimio prévention du paludisme saisonnier dans 16 districts sanitaires pour cinq régions médicales. Dans sa mise en œuvre le PNLP a été accompagné par l'agence d'exécution de USAID/OWOD, qui s'est occupée des aspects financier et matériel d'organisation de la campagne. La chimio prévention du paludisme saisonnier au Sénégal cible les enfants de 3 à
+
+120 mois répartis en trois groupes : les enfants de 3 à 11 mois, les enfants de 12 à 59 mois et les enfants de 60 à 120 mois.
+
+La mise en œuvre a consisté à l'organisation de campagnes de masse d'administration gratuite des médicaments à base de Sulfadoxine-Pyriméthamine + Amodiaquine (SP + AQ), par une stratégie porte à porte en s'appuyant sur le système communautaire et comportant un important volet sur la pharmacovigilance, la communication, le plaidoyer et la mobilisation sociale. Pour s'assurer de l'administration effective des différentes doses, le PNLP a opté depuis 2019, pour un traitement directement observé (TDO) des trois doses par les relais communautaires.
+
+En tenant compte de l'étendue de la période de forte transmission spécifique à chaque district, un nombre de cycle ou passage a été adopté pour chaque district selon sa spécificité épidémiologique :
+
+Passages Districts Période
+
+5 Passages Kédougou, Salémata, Saraya et Dianké Makha Juin, Juillet, Août, Septembre et Octobre
+
+4 Passages Goudiry, Kidira, Kolda, Médina Yéro Foulah et Vélingara Juillet, Août, Septembre et Octobre
+
+3 Passages Touba, Diourbel, Kaolack, Tambacounda, Bakel, Maka Colibantang et Koumpentoum Juillet, Août et Septembre 1) Cibles de la CPS_2023
+
+Nombre d'enfants cibles CPS 2023
+
+REGION DIOURBEL REGION KAOLACK REGION KEDOUGOU REGION KOLDA REGION DE TAMBA Total
+
+%
+
+Nombre districts 2 1 3 3 7 16
+
+2) Résultats de couverture de la cible en 2023
+
+TDO1 : Traitement Directement Observé : Administration d'une 1ere dose de SP/AQ
+
+TDO2 : Traitement Directement Observé : Administration d'une 2e dose de AQ
+
+TDO3 : Traitement Directement Observé : Administration d'une 3e dose de AQ
+
+Tableau I : Couvertures CPS dans les Districts Sanitaires à 3 passages
+
+Enfants
+
+TDO 1 TDO 2 TDO 3 Enfants couverts TDO 3 Couverture Couverture couverts sur Cible
+
+DISTRICTS Sur les DEUX Théorique Réelle
+
+Enfants traités Couverture Enfants traités Couverture Enfants traités Couverture les TROIS Théorique premiers 3 Passages 3 Passages
+
+TDO 1 TDO 1 TDO 2 TDO 2 TDO 3 TDO 3 passages passages
+
+98,4% de la cible réelle (enfants trouvés dans les ménages) a bénéficié d'un traitement correct complet sur les trois passages au niveau des 7 districts sanitaires (4 de la région de Tambacounda, 2 de la région de Diourbel et 1 de la région de Kaolack) qui ont fait trois passages. Cependant la couverture théorique (85,0%) n'a pas atteint l'objectif de 90% visé par le niveau national.
+
+Tableau II : Couvertures CPS dans les Districts Sanitaires à 4 passages
+
+Enfants Enfants
+
+TDO 1 TDO 2 TDO 3 couverts en couverts sur Couverture Couverture
+
+DISTRICTS TDO 3 au les
+
+Cible
+
+Théorique Réelle
+
+Enfants traités Couverture Enfants traités Couverture Enfants traités Couverture Théorique
+
+1er, 2e et 3ème QUATRE 4 Passages 4 Passages
+
+TDO 1 TDO 1 TDO 2 TDO 2 TDO 3 TDO 3
+
+Passage Passages
+
+Dans les 5 districts qui ont fait quatre passages (2 districts sanitaires de la région de Tambacounda et 3 districts de la région de Kolda), la couverture réelle pour les 4 passages CPS est de 98,7% et la couverture théorique de 97,4%. Ces deux couvertures ont atteint respectivement 95% et 90% qui sont les objectifs du PNLP.
+
+Tableau III: Couvertures CPS dans les Districts Sanitaires à 5 passages
+
+Enfants
+
+TDO 1 TDO 2 TDO 3 Enfants couverts en Couverture Couverture couverts sur Cible
+
+DISTRICTS TDO 3 au Théorique Réelle
+
+Enfants traités Couverture Enfants traités Couverture Enfants traités Couverture les CINQ Théorique
+
+1er , 2ème, 3e et 4 Passages 4 Passages
+
+TDO 1 TDO 1 TDO 2 TDO 2 TDO 3 TDO 3 Passages
+
+4ème Passage
+
+Dans les 4 districts sanitaires qui ont fait cinq passages (3 districts sanitaires de la région de Kédougou et 1 district de la région de Tambacounda), la couverture réelle pour les 4 passages CPS est de 98,1%. Cependant la couverture théorique (88,3%) n'a pas atteint l'objectif de 90% fixé par le niveau national.
+
+3) Evolution de la performance des districts sur la couverture en TDO 3 de 2020 à 2023
+
+Tableau IV : Evolution de la couverture en TDO 3 de 2020 à 2023
+
+Variation de
+
+DISTRICTS performance
+
+Enfants traités Couverture Enfants traités Couverture Enfants traités Couverture Enfants traités Couverture TDO 3 TDO 3 TDO 3 TDO 3 TDO 3 TDO 3 TDO 3 TDO 3 2020-2023
+
+Globalement entre 2020 et 2023 la performance a diminué de 0,7%, ce qui n'est pas négligeable pour des performances annuelles de plus de 96% au moins concernant la couverture de 2020 à 2022, contrairement à celle de 2023 qui est à 95,6%.
+
+Cependant avec une bonne supervision des acteurs, les districts de Dianké Makha, Tambacounda, Diourbel, Touba et Salémata ont vu leur performance augmentée en 2023. Avec le district sanitaire de Dianké Makha qui a enregistré l'augmentation la plus élevée avec 1,5% en 2023.
+
+Toutefois, la plus grande contre-performance est enregistrée dans le district sanitaire de Kédougou suivi de celui de Goudiry, avec respectivement une baisse de 4,1% et 3,8%. Le district sanitaire de Koumpentoum est resté stable avec 98,6%.
+
+DIAGNOSTIC
+
+BIOLOGIQUE
+
+Bulletin épidémiologique du Paludisme au Sénégal Année 2022
+
+VIII. SUIVI DE LA QUALITE DU DIAGNOSTIC BIOLOGIQUE :
+
+1) Contrôle de qualité du diagnostic microscopique
+
+Le contrôle de la qualité du diagnostic microscopique a porté sur la lecture de 05 lames positives avec des parasitémies (faibles, moyennes et élevées) et 05 lames négatives, toutes issues de la banque nationale de lames certifiées OMS. Ce contrôle a été effectué lors des supervisions des techniciens des laboratoires des districts, hôpitaux et garnisons militaires en 2023. Les résultats sont consignés dans le tableau ci-après par région. La méthodologie consiste à évaluer les performances des techniciens des laboratoires dans la détection des parasites.
+
+L'analyse a porté sur la sensibilité par rapport aux lames déclarées positives, la spécificité par rapport aux lames déclarées négatives :
+
+Tableau I : Evaluation de la Sensibilité selon les régions médicales :
+
+Lames VP : Vrais FP : Faux Sensibilité = Lames négatives VN : Vrais FN : Faux Spécificité =
+
+Région positives lues Positifs Positifs VP/ (VP+FP)*100 lues Négatifs Négatif VN/ (VN+FN)*100
+
+Les techniciens des laboratoires des districts, hôpitaux et garnisons militaires ont participé à ces ateliers de lecture et contrôle qualité. Au total 1496 lames ont été lues (748 lames positives et 748 lames négatives). Toutes ces lames ont été sélectionnées dans la banque nationale de lames pour un contrôle de qualité. Sur l'ensemble des participants chacun a lu 5 lames positives et 5 lames négatives. L'analyse par rapport aux lames positives (vrais positifs) a montré en moyenne une sensibilité de 93,08 % et concernant les lames négatives (vrais négatifs) on note une spécificité de 89,71 %. Cependant ces résultats montrent des insuffisances dans la capacité de faire une détection sans faille des parasites car 9,89 % des lames positives et 10,29 % des lames négatives ont été déclarés respectivement faux négatifs et faux positifs.
+
+2) Contrôle de la qualité des lots des tests de diagnostic rapide (TDR)
+
+En 2023, le PNLP a procédé à un échantillonnage de lots de TDR à la réception au niveau de la SEN Pharmacie Nationale d'Approvisionnement (PNA) pour un contrôle de la qualité au labor atoire de parasitologie de l'UCAD certifié par OMS/FIND.
+
+Tous les lots de TDR réceptionnés par le PNLP ont été testés et les résultats ont montré des taux de sensibilité de l'ordre de 100% par contre certains lots avaient des sensibilités inférieures à 90% suite au testing avec des échantillons de sang suivant : Faiblement parasité : 200 parasites par μl de sang ;
+
+Fortement parasité : 2 000 parasites par μl de sang mais aussi avec un échantillon de sang sans parasite et la lecture faite après 15 minutes selon les recommandations du fabricant.
+
+SURVEILLANCE GENOMIQUE
+
+DU PALUDISME
+
+IX. SURVEILLANCE GENOMIQUE :
+
+Introduction : "Génétiques parasitaires. Une nouvelle source d'informations dans la lutte contre le paludisme au Sénégal"
+
+La surveillance moléculaire continue du paludisme (SMcP) est importante pour détecter et surveiller les menaces émergentes pour les efforts d'élimination du paludisme au Sénégal. Plusieurs rapports de l'OMS, dont la Stratégie de réponse à la résistance aux antipaludiques en Afrique et les Directives de surveillance du paludisme, préconisent la surveillance de l'efficacité, de la résistance aux antipaludiques et de la fiabilité des tests de diagnostic rapide (délétions du gène pfhrp2/3). Le PNLP, en collaboration avec UCAD-CIGASS, l'Université Harvard, l'Institute Broad, La Fondation Bill et Melinda Gates, l'USAID/PMI entre autres partenaires, a mis en place un système de surveillance moléculaire continue (SMcP) à travers le Sénégal pour le suivi des niveaux de transmission. Les données provenant de la prise en charge à domicile du paludisme (PECADOM Plus) ont été modélisées pour déterminer les niveaux de transmission, évaluer et planifier les stratégies de lutte. La modélisation a été également utilisée sur les données de PECADOM Plus pour aider le PLNP à planifier et à évaluer les interventions.
+
+1) Surveillance de la résistance aux antipaludiques a) Etude d'efficacité thérapeutique (EET)
+
+Les résultats obtenus montrent que les combinaisons thérapeutiques à base d'artémisinine sont toujours efficaces ; et aucune des mutations conférant la résistance à l'artémisinine n'a été retrouvée.
+
+Les modifications des marqueurs moléculaires peuvent fournir des informations sur l'émergence de résistances aux antipaludiques. Les études d'efficacité thérapeutique (TES) pourraient permettre de détecter ces changements avant la survenue de la perte d'efficacité de ces médicaments. Les données TES de 2022 ont montré une élimination rapide des parasites pour l'Artéméther-Luméfantrine (AL) et l'Artésunate/Amodiaquine (ASAQ) à Kolda et Kédougou, avec une tendance d'élimination parasitaire légèrement plus lente détectée chez les individus traités par AL par rapport à l'ASAQ.
+
+Dans l'ensemble, il a été enregistré des taux de réponse clinique et parasitologique adéquats (93% à 100%) avec un échec thérapeutique précoce (1,2%) détecté à Kolda dans le groupe AL sans la correction par PCR.
+
+b) Marqueurs moléculaires de résistance aux antipaludiques : Etude moléculaire et phénotypique
+
+Il a été observé des changements au niveau des marqueurs moléculaires de la résistance aux médicaments, comme une fréquence croissante de Pfcrt K76T, qui pourraient être liés à l'utilisation de l'amodiaquine. Depuis 2014, il a été retrouvé chez des parasites très apparentes et présentant la mutation Pfcrt K76T, des parties de séquences nucléotidiques qui sont sélectionnées autour de ce locus. Ce qui est en phase avec l'utilisation de la chimioprévention du paludisme saisonnier (CPS) (Figure 1).
+
+Figure 1 : La mutation Pfcrt K76T associée à la résistance à la Chloroquine et à l'Amodiaquine. La mutation Pfcrt K76T associée à la résistance à la chloroquine et à l'amodiaquine a augmenté en fréquence. Elle se retrouve chez des parasites apparentés à travers le Sénégal et est en cours de sélection. Ce qui concorde avec les changements récents liés à l'utilisation de médicaments qui peuvent contribuer à la résistance aux médicaments utilisés.
+
+Pour vérifier s'il y a une concordance entre les marqueurs moléculaires et les empreintes génétiques de la résistance aux antipaludiques au Sénégal, il a été étudié les phénotypes de résistance chez de parasites présentant des gènes de mutations ou d'haplotypes (combinaisons de mutations) évolutifs ou sélectionnés.
+
+Ces tests phénotypiques évaluent la croissance des parasites en présence des antipaludiques et ont été réalisés sur des parasites provenant de Thiès ou il n'y a pas de CPS et Kédougou où la CPS a démarré depuis 2014. Les résultats ont montré des modifications pour les gènes Pfcrt, Pfdhfr, Pfdhps ainsi que des sections de séquences nucléotidiques sélectionnées sur les chromosomes 6, 7, 8, 9, 11 et 12. Une forte corrélation a été retrouvée entre la mutation Pfcrt K76T et la réponse à la chloroquine ainsi qu'une tendance à une survie accrue sous l'effet du métabolite AQ mono déséthyl-AQ (MDAQ) par rapport aux parasites Pfcrt de type sauvage. Ce qui suggère que la pression du médicament AQ pourrait être à l'origine de l'augmentation de la fréquence du Pfcrt K76T. La même tendance a été retrouvée pour l'allèle Pfdhps A437G qui donne un avantage de croissance par rapport aux parasites possédant l'allèle de type sauvage. Ces tests suggèrent que certaines combinaisons de mutations de résistance aux médicaments peuvent survivre par rapport aux parasites de type sauvage. Ces tests seront également menés avec AQ pour déterminer si ces mutations confèrent des avantages de croissance sous la pression des antipaludiques. Ce travail est en cours pour identifier les variantes génétiques qui évoluent sous la pression croissante des médicaments et qui contribuent à la résistance aux médicaments afin de détecter ces changements avant qu'il n'y ait une perte d'efficacité thérapeutique (Figure 2).
+
+Figure 2 : Réponses phénotypiques (médicament et croissance) des parasites sénégalais avec de nouveaux haplotypes sélectionnés.
+
+(A) Profils génotypiques d'exemples de parasites du Sénégal. (B) Les données représentatives de la réponse aux médicaments (EC50) montrant que les parasites dépourvus de Pfcrt K76T mais possédant un haplotype sélectionné (Th093.14, sarcelle) ont augmenté leur survie en présence de CQ et de MDAQ. (C) Les tests de croissance par compétition montrent que les parasites avec le locus sauvage Pfdhps A437 (Th038.14, violet) surpassent les parasites avec l'allèle Pfdhps A437G (Th027.14, vert ; Th015.14, rouge).
+
+c) Surveillance des marqueurs de résistance aux antipaludiques par séquençage à Thiès, Diourbel et Kédougou :
+
+Un séquençage a été réalisé sur 405 échantillons positifs à P.
+
+falciparum collectés entre 2013 et 2022 à Thiès, à Diourbel et à
+
+Kédougou. Le séquençage a été fait pour les marqueurs de résistance, notamment Pfkelch13 pour l'Artémisinine, Pfmdr1 pour la
+
+Luméfantrine et l'Amodiaquine, Pfcrt pour la Chloroquine, la
+
+Luméfantrine et l'Amodiaquine, Pfdhfr pour la Pyriméthamine et
+
+Pfdhps pour la Sulfadoxine.
+
+La mutations Pfkelch13 associée à une résistance à l'Artémisinine n'a pas été observée. La mutation A578S, une variante courante en
+
+Afrique, a été détectée dans un isolat de Kédougou collecté en 2022.
+
+Dans l'ensemble, les obtentions de faibles taux de Pfmdr1 N86Y (0,7% à 25%), des taux modérés à élevés de Y184F (41% à 85%) et d'un faible taux de Pfcrt K76T (2% à 38%) suggèrent la circulation d'une population parasitaire qui pourrait être Figure 3 : Cartographie des haplotypes de résistance aux médicaments ou des combinaisons de mutations associées à la résistance aux médicaments pour Diourbel, Thiès et prédisposée à une sensibilité réduite à la Luméfantrine.
+
+Kédougou.
+
+La mutation clé Pfdhps K540E a été observée à Thiès et à Kédougou, avec une faible fréquence allélique (moins de 5%), indiquant une résistance significative à la Sulfadoxine-Pyriméthamine (SP) dans les deux sites. Le taux de mutation clé Pfdhps A581G observé uniquement à Thiès et Kédougou (moins de 5%) était inférieur au seuil de l'OMS (prévalence de 10%) pour une résistance significative à la SP, même avec la triple mutation Pfdhfr fixée dans tous les sites (fréquence allélique supérieure à 85%). L'haplotype mutant quadruple (IRN/SGKAA) était prédominant dans tous les sites (50% à 80%) et l'haplotype mutant quintuple (IRN/SGEAA) Pfdhfr/Pfdhps a été observé à Thiès et à Kédougou avec une faible fréquence allélique d'environ 8%, en 2022. L'haplotype mutant sextuple (IRN/AGKGS) Pfdhfr/Pfdhps n'a été observé qu'à Kédougou en 2022 (environ 4%). L'haplotype Pfdhps d'intérêt, VAGKGS, observé se déplaçant vers l'ouest à travers la région du Sahel, a été trouvé dans un échantillon à Kédougou. Cet haplotype n'a pas été décrit dans les études antérieures au Sénégal. Pour Pfcrt, l'haplotype sauvage CVMNK est prédominant dans tous les sites (62% à Thiès, 94% à Diourbel et 74% à Kédougou), tandis que l'haplotype mutant CVIET était mineur. Pour Pfmdr1, NFD est l'haplotype majeur sur tous les sites. De plus, l'haplotype super résistant YYD a été observé dans un échantillon de Thiès en 2017 (Figure 3).
+
+En conclusion, les CTA sont toujours efficaces cependant la tendance de l'augmentation des associations de mutation conférant la résistance pour l'association SP devrait faire penser à une alternative pour la CPS et le TPI avant que la résistance ne s'installe.
+
+2) Estimation de l'incidence du paludisme à l'aide des mesures génétiques
+
+Nous évaluons l'utilisation de la génétique du paludisme pour surveiller la transmission et en déduire l'incidence. L'utilisation de données génétiques incluant la fréquence des infections polygénomiques (souches multiples), les clones génétiques et la complexité de l'infection (nombre de souches par infection) sont en corrélation avec l'incidence lorsqu'elles sont utilisées dans un modèle linéaire généralisé de « Poisson » à effets mixtes (Poisson generalized linear mixed ;
+
+GLM). Cependant, ces paramètres génétiques se comportent différemment selon le niveau d'incidence. Les paramètres génétiques sont bien corrélés à l'incidence pour les sites ayant une incidence annuelle >10 cas pour 1 000. Mais lorsque l'incidence annuelle est <10 cas pour 1 000, les corrélations entre les paramètres génétiques et l'incidence sont inversées. Ceci pourrait être dû à l'impact de l'importation et de la transmission focale dans des sites à très faible transmission (Figure 4).
+
+Figure 4 : Modèle de prédictions de l'incidence.
+
+Il a été utilisé cinq métriques génétiques pour (A) tous les sites et toutes les années et (B) à partir d'un modèle linéaire généralisé (GLM) à effet mixte de Poisson par morceaux qui divise les données en sites à faible transmission (GLM en dessous de10, ombré en gris) et à transmission élevée (GLM au-dessus de 10). Chaque point représente l'incidence prévue pour toutes les années-site examinées. Les barres d'erreur représentent l'intervalle de confiance de 95% généré par des analyses itératives sans exception où toutes les années-site associées à un site choisi ont été exclues de l'analyse.
+
+Il a été utilisé la parenté génétique entre les souches de parasites [la proportion du génome héritée par le même ancêtre commun récent, ou identique par descendance ou encore identical-by-descent (IBD)] pour comprendre la transmission et en déduire l'incidence (Figure 5). Les résultats ont montré davantage de parasites génétiquement apparentés pour les infections à souche unique (monogénomiques) dans les régions où la transmission est faible. Les données suggèrent que la parenté génétique des parasites est plus efficace pour surveiller les changements dans l'intensité de la transmission pour une transmission modérée-à-élevée (incidence annualisée de 10 à 300).
+
+Figure 5 : La génétique des parasites révèle une diversité dans la structure du réseau de parenté génétique au Sénégal.
+
+Chaque nœud du réseau représente un parasite individuel et des limites sont tracées entre les individus génétiquement liés. Les réseaux de parenté génétique dans les régions à faible transmission (vertes) sont plus interconnectés (Diourbel, Touba) que ceux des zones à transmission élevée.
+
+3) Production, analyse et utilisation de données génétiques :
+
+La Surveillance Moléculaire continue du Paludisme (SMcP) au Sénégal utilise des paramètres génétiques qui peuvent estimer les niveaux de transmission. Les partenaires de l'UCAD/CIGASS sont en mesure de développer des flux de travail d'analyse des données génétiques à l'aide d'une plateforme appelée Terra. Cette avancée permet de générer et d'analyser des données génétiques et comprend un espace de travail sur le génome entier (Figure 6) qui peut rechercher des variants dans un échantillon unique ou les rechercher conjointement dans des cohortes d'échantillons et effectuer diverses analyses tertiaires (par exemple, dépistage de la résistance aux médicaments, analyse rapide et dépistage de l'évasion des tests de diagnostic, etc.).
+
+Figure 6 : Espace de travail sur le génome entier.
+
+Les résultats de ces flux de travail moléculaires peuvent être affichés dans des tableaux de bord destinés à être utilisés par le PNLP du Sénégal. Le PNLP travaille avec l'Institute for Disease Modeling (IDM), qui fait partie de la Fondation Bill & Melinda Gates, pour développer un tableau de bord de données permettant de visualiser les modèles de données dans l'espace et dans le temps avec le soutien de partenaires de recherche de l'UCAD/CIGASS que sont l'Université de Harvard et le Broad Institute. Un accord de partage de données entre ces partenaires permet d'incorporer les données rapportées directement par le PNLP ainsi que les résultats modélisés générés par le Malaria Atlas Project (MAP). Le PNLP rapporte l'incidence (cas pour 1000 par an) pour chaque district sanitaire. Le modèle géostatistique qui a été développé par MAP utilise les mêmes comptes de données pour rendre compte de l'exhaustivité, de l'accès aux soins et des taux de recherche de soins. Le tableau de bord (Figures 7 et 8) a la capacité d'afficher des cartes côte à côte pour permettre la comparaison des données modélisées avec les données rapportées ainsi que les différences entre les années pour montrer l'impact des stratégies et des interventions du PNLP (Figure 8).
+
+Figure 8 : Comparaison entre incidence et niveau de couverture des
+
+Figure 7 : Comparaison entre données rapportée et estimée interventions (Ex : Distribution MILDA)
+
+La carte de gauche affiche les données d'incidence rapportées par le PNLP pour l'année La carte de gauche affiche les données d'incidence rapportées par le PNLP pour 2020. La carte de droite montre la différence entre les valeurs rapportées et les l'année 2020. La carte de droite montre la couverture estimée en MILDA (Calculée estimations modélisées fournies par le projet Malaria Atlas pour la même année. à partir des données distribution de MILDA rapportées à la population).
+
+Le tableau de bord, encore en développement, verra un certain nombre d'améliorations prévues pour l'année à venir. Le PNLP travaillera avec IDM et MAP pour générer des cartes mensuelles pour tous les indicateurs et les données d'intervention telles que la distribution de routine et de masse des moustiquaires seront présentées. En collaboration avec l'UCAD/CIGASS, le tableau de bord affichera également des données de surveillance génomique telles que les marqueurs de résistance aux médicaments (Figure 3). La visualisation de la surveillance génomique parallèlement à la surveillance de routine du PNLP facilitera la prise de décision opérationnelle.
+
+SURVEILLANCE
+
+ENTOMOLOGIQUE
+
+X. LA SURVEILLANCE ENTOMOLOGIQUE EN 2022 AU SENEGAL
+
+1. METHODE
+
+1.1 Sites sélectionnés pour le suivi entomologique
+
+En 2023, avec l'an un du projet PMI Evolve, la surveillance entomologique a été implémenté directement par le projet. La surveillance entomologique a concerné un total de 29 sites répartis dans les 14 régions du pays dont 13 sites avec une surveillance standard, 13 sites de surveillance à base communautaires et 3 sites de surveillance d'An.
+
+stephensi (Figure 1). Les sites de surveillance standard regroupent les anciens sites AID ainsi que leurs sites de contrôle. Afin de compléter un bon maillage du pays, une extension des sites de surveillance communautaire a été effectuée allant de 6 en 2022 à 13 en 2023 soit une augmentation de 7 nouveaux sites. Avec l'apparition d'An. stephensi dans certains pays d'Afrique de l'est et du centre, le Sénégal a mis en place 3 sites de surveillance au niveau des grandes portes d'entrée du pays notamment autour du port de Dakar, de l'aéroport de Dakar et de Touba. PMI Evolve en collaboration avec le Laboratoire d'Écologie Vectorielle et
+
+Parasitaire (LEVP/UCAD) a signé un contrat pour les analyses biomoléculaires des échantillons de 2023 sur la période de janvier à avril 2024.
+
+Figure 1 : Districts sélectionnés pour la surveillance entomologique dans les différentes Zones écogéographiques.
+
+1.2 Dynamique des vecteurs et transmission du paludisme
+
+1.2.1 Echantillonnage des vecteurs
+
+- Surveillance standard
+
+Les méthodes de collecte utilisées sont les captures horaires nocturnes sur appât humain (CAH) et la récolte de la faune matinale résiduelle (FMR) à l'intérieur des habitations.
+
+- Surveillance à base communautaire
+
+Les méthodes de collecte utilisées sont les captures avec pièges CDC lumineux à l'intérieur des habitations et la récolte de la faune matinale résiduelle (FMR) à l'intérieur des habitations.
+
+- Surveillance de l'introduction d'An. stephensi
+
+Elle consiste à une collecte larvaire au niveau de tous les types de collections d'eau identifiées dans les sites sélectionnés. Ses larves sont élevées jusqu'au stade adulte afin d'être identifiées sur le plan morphologique.
+
+Tableau I : Indicateurs entomologiques par méthode de collecte
+
+Méthode de collecte Heure de collecte Fréquence de collecte Echantillonnage Indicateurs
+
+Taux d'Agressivité sur Homme (TAH)
+
+CAH (Intérieur et 2 nuits consécutives par site et par
+
+20:00 - 6:00 3 maisons dans chaque site Taux de parité (PR)
+
+Extérieur) mois
+
+Taux d'endophagie/Exophagie
+
+Densité au Repos à l'intérieur des
+
+CAP 7:00 - 9:00 1 jour par site et par mois 10 pièces par site habitations (DRI)
+
+Taux d'Agressivité sur Homme (TAH)
+
+CDC LT 2 nuits consécutives par site et par 6 maisons par mois dans chaque site de surveillance (Intérieur) mois a base communautaire (3 maisons par nuit)
+
+Taux de parité (PR)
+
+Dans tout type de collection d'eau susceptible de
+
+Collecte larvaire 10:00 - 16:00 3 jours par site et par mois Taux de gites positifs gite aux anophèles
+
+1.2.2 Identification spécifique et recherche de l'infection plasmodiale
+
+L'identification des espèces du complexe Anopheles gambiae et du groupe Anopheles funestus se fait par la méthode moléculaire utilisant la PCR. La recherche d'infection plasmodiale ainsi que la détermination de l'origine de sang chez les femelles des moustiques vecteurs se fait par tests immunoenzymatiques (Elisa CSP et Elisa repas de sang). Les données biomoléculaires seront partagées avec le PNLP dès qu'elles seront disponibles.
+
+1.2.3 Tests de sensibilité aux insecticides
+
+La sensibilité des vecteurs vis-à-vis des pyréthrinoïdes (Alpha-cyperméthrine, Deltaméthrine et Perméthrine), des carbamates (Bendiocarbe), organophosphorés (Pirimiphos-méthyl ), de la Clothianidine et du Chlorfenapyr a été déterminée sur des femelles d'An. gambiae s.l. à jeun et âgées de 3-5 jours. La sensibilité au clothianidine et au chlorfenapyr a été déterminée par des tests en bouteilles CDC. Pour les autres molécules, les cylindres OMS ont été utilisés. L'intensité de la résistance aux pyréthrinoïdes a été évaluée. Des tests avec une préexposition aux synergistes (PBO) des 3 pyréthrinoïdes ont également été effectués.
+
+2. RESULTATS
+
+2.1 Composition spécifique
+
+Huit espèces anophéliennes ont été collectées avec les différentes méthodes de capture utilisées avec la prédominance d'Anopheles gambiae s.l. (86,4%) suivi d'An. funestus (7,6%), d'An. nili (3,4%), d'An. ziemanni (1%) et d'An. pharoensis (0,9%) (Tableau 2). An. nili n'a été trouvé que dans la zone soudanoguinéenne (région de Kédougou) où elle pourrait jouer un rôle dans la transmission. An. funestus a été l'espèce anophélienne majoritaire dans la zone sahélienne proche du fleuve Sénégal avec de la végétation notamment dans les régions de Saint-Louis et de Louga. Cette densité nécessite un suivi rapproché de la compétence vectorielle d'An. funestus dans la zone sahélienne qui présente un statut de pré élimination. (Tableau II).
+
+Tableau II : Composition anophélienne et abondance relative par espèce selon la zone géographique
+
+Sahélo- Soudano- Soudano-
+
+Espèces Sahélienne Soudanienne Total Pourcentage (%) soudanienne Sahélienne Guinéene
+
+An. funestus s.l. 666 0 3 7 13 689 7.6%
+
+An. rufipes 4 0 25 8 2 39 0.4%
+
+An. pharoensis 67 0 3 8 0 78 0.9%
+
+An. coustani 0 0 0 0 13 13 0.1%
+
+An. ziemanni 80 0 4 7 0 91 1.0%
+
+An. squamosus 0 0 0 12 0 12 0.1%
+
+2.2 Taux d'agressivité d'An. gambiae s.l.
+
+Les Taux d'Agressivité sur Homme (TAH) étaient plus élevés dans la zone Soudano-Guinéenne avec en moyenne plus de 11,15 piqûres personne-nuit (p/h/n). Dans les autres zones, le TAH moyen était inférieur à 1 p/h/n. An. gambiae s l. avait une tendance à piquer beaucoup plus à l'extérieur des habitations dans les zones soudano-Sahélienne et soudano-Guinéenne (Tableau III). Le pic d'agressivité a été observé en juillet (assez tôt) dans les zones Soudano- Sahélienne et Soudano-Guinéenne et en octobre dans la zone Soudanienne (Figure 1). Les TAH les plus élevés ont été enregistrés dans la zone soudano- Guinéenne aussi bien à l'intérieur qu'à l'extérieur avec respectivement 29.2 p/h/m et 30.7 p/h/m. (Figure 2), coïncidant avec la saison des pluies dans le pays.
+
+Tableau III : Taux d'Agressivité sur homme et taux d'endophagie d'An. gambiae s.l. dans les différentes zones géographiques.
+
+Zone An. gambiae s.l. H/N TAH Taux d'endophagie (%)
+
+Intérieur 160 336 0.48
+
+Soudano - Sahélienne 0.59 0.40
+
+Extérieur 237 336 0.69
+
+Intérieur 51 84 0.61
+
+Soudanienne 0.55 0.55
+
+Extérieur 41 84 0.49
+
+Intérieur 2072 168 10.9
+
+Soudano - Guinéenne 11.15 0.49
+
+Extérieur 2171 168 11.4
+
+Intérieur 2283 588 11.99
+
+Extérieur 2449 588 12.58
+
+Figure 2 : Variation mensuelle du taux d'agressivité d'An. gambiae s.l. par zone géographique
+
+2.3 Densité au repos à l'intérieur des habitation (DRI)
+
+La densité au repos à l'intérieur des habitations (DRI), exprimée par le nombre moyen de femelles par pièce (F/P) a été plus élevée dans la zone Soudano- Sahélienne avec une moyenne de 1.35 F/P suivi de la zone sahélienne avec 0,9F/P. Les pics de DRI varient en fonction des zones géographiques du pays.
+
+Le pic de DRI le plus élevé a été aussi observé dans la zone Soudano-Guinéenne avec 2.9 F/P en novembre suivi de la zone Sahélienne avec 2.6 F/P pour les femelles d'An. gambiae s.l., en septembre. La DRI moyenne la plus faible a été notée dans la zone Soudano-Guinéenne avec 0,35 F/P et un pic de de 1 F/P en septembre (Figure 3). Ces résultats confirment la tendance exophage notée chez An. gambiae s.l dans la zone Soudano-Guinéenne.
+
+Figure 3 : Variation mensuelle de la DRI d'An. gambiae s.l.
+
+2.4 Taux de parturité d'An. gambiae s.l.
+
+Le taux moyen de parturité des femelles d'An. gambiae s.l. pour l'ensemble des zones géographiques suivies a été estimé à 71 % (Tableau 4). Globalement, les taux de parturité ont augmenté dans toutes les zones comparées à l'année dernière. En 2023, il a été relativement plus faible en zone soudano-Guinéenne avec 69%. Les taux de parturité les plus élevés ont été obtenus dans la zone Soudanienne avec 84% et dans la zone Soudano-Sahélienne avec 82% de femelles pares (Tableau IV).
+
+Tableau IV : Taux de parturité d'An. gambiae s.l.
+
+Intérieur Extérieur Total
+
+Parturité Parturité
+
+Zone géographique #Dissequés #Pares #Dissequés #Pares #Dissequés #Pares Parturité (%)
+
+Zone Soudano-sahélienne 109 83 76 162 138 85 271 221 82
+
+Zone Soudanienne 31 28 90 32 25 78 63 53 84
+
+Zone Soudano-Guinéenne 1246 875 70 1014 693 68 2260 1568 69
+
+2.5 Sensibilité des vecteurs aux insecticides
+
+La résistance aux pyréthroïdes a été observée dans tous les sites et pour toutes les molécules testées (deltaméthrine 0,05%, perméthrine 0,75% et alphacyperméthrine 0,05%), sauf à Touba où une sensibilité à la deltaméthrine et à l'alpha-cyperméthrine a été notée.
+
+Pour l'évaluation de l'intensité de la résistance :
+
+- Une forte résistance a été observée dans toutes les zones géographiques pour la perméthrine.
+
+- Une résistance modérée à forte a été détectée dans la majorité des sites pour la deltaméthrine et l'alpha-cyperméthrine.
+
+- La préexposition au PBO a restauré la sensibilité des femelles d'An. gambiae s.l. pour la deltaméthrine (deltaméthrine + PBO) dans 7 districts sur 13 testés, et dans 5 districts sur 9 pour l'alpha-cyperméthrine.
+
+- Dans les 10 districts testés pour la perméthrine, aucune restauration de la sensibilité n'a été observée. Pour les autres molécules (bendiocarbe, pirimiphos-méthyl, clothianidine et chlorfenapyr), les tests effectués ont mis en évidence la sensibilité totale des populations d'An. gambiae s.l testées dans toutes les zones géographiques à l'exception du bendiocarbe dans la zone Soudano-Guinéenne (district de Kédougou) (Tableau V).
+
+Tableau V : Résultats des tests de sensibilité des femelles d'An. gambiae s.l. en fonction des zones géographiques Zone District C h lo r fé n a p y r C h lo th ia n id in e P e r m é th r in e c y p e r m e th r in A - lp h a D e lt a m é th r in e + P B O D e lt a m é th r in e P B O P e r m é th r in e + + P B O c y p e r m e th r in e A - lp h a B e n d io c a r b e m e th y l P - ir im ip h o s 100μg/ml 4μg/ml 1X 5X 10X 1X 5X 10X 1X 5X 10X 1X 1X
+
+Soudanosahélienne
+
+Soudanaise Sédhiou 100
+
+Soudanoguinéenne
+
+Sahélosoudanaise
+
+Tests non réalisés Sensible Résistance Probable Résistant
+
+3. CONCLUSION ET RECOMMANDATIONS
+
+- Huit espèces anophéliennes (Anopheles gambiae s.l., An. funestus s.l, An. nili, An. ziemanni, An. pharoensis, An rufipes, An. squamosus et An. coustani) ont été collectées dans les différentes zones géographiques du pays.
+
+- Les résultats de la surveillance entomologique ont mis en évidence la prédominance d'An. gambiae s.l. dans toutes les zones géographiques à l'exception de la zone Sahélienne où An. funestus s.l. a été dominant. Dans l'ensemble, ils confirment les tendances des années précédentes, avec des vecteurs légèrement plus exophages (piquant plus à l'extérieur des habitations humaines) et des densités agressives beaucoup plus élevées dans les zones soudaniennes et soudano-guinéenne où le principal vecteur manifeste à la fois une résistance aux pyréthrinoïdes et une préférence à piquer l'homme et à se reposer hors des chambres de couchage.
+
+- Les pics d'agressivité variant en fonction des zones nécessitent une adaptation des stratégies de lutte antivectorielle avec la période adéquate.
+
+- Le statut pyréthro-résistant associé à l'exophilie devrait être pris en compte pour mieux orienter les interventions de lutte antivectorielle particulièrement dans les zones soudano-guinéenne et soudanienne. A cet effet, la restauration de la sensibilité des vecteurs locaux par le PBO dans certains districts avec la deltaméthrine et l'alpha-cyperméthrine ainsi que leur sensibilité au chlorfenapyr autorisent le passage aux moustiquaires avec PBO ainsi que celles à double principe actif (DUAL) en lieu et place des MII standards. Selon les résultats obtenus, les moustiquaires PBO + perméthrine ne sont pas prioritaires par rapport aux autres moustiquaires avec PBO.
+
+- La collecte larvaire dans le cadre de la surveillance d'An. stephensi n'a pas jusque-là montré la présence de cette espèce dans le pays.
+
+- La lutte anti larvaire pourrait toujours constituer une intervention complémentaire pour aider à réduire les densités des populations de vecteurs. Une première étape consisterait à identifier les zones où il serait possible de la mettre en œuvre en mode pilote.
+
+PECADOM Plus :
+
+Prise En Charge du Paludisme à Domicile
+
+Détection active au niveau communautaire
+
+TPI Communautaire.
+
+XI. LA PECADOM Plus : détection active au niveau communautaire
+
+La politique de lutte contre le paludisme de l'Etat du Sénégal est de renforcer les capacités et les compétences du personnel de santé en vue d'offrir des soins de qualité le plus proche possible des populations à travers les structures de santé et de rapprocher les services de santé aux populations en mettant en place les services à base communautaire. Ainsi, dans le cadre de la stratégie de prise en charge des cas de paludisme, le Programme National de Lutte contre le Paludisme (PNLP) a initié la mise en œuvre d'un projet communautaire de Prise En Charge des Cas de Paludisme à Domicile (PECADOM) depuis 2008.
+
+Cette stratégie a débuté par une phase pilote dans les districts sanitaires de Ranérou, Dioffior et Mékhé à la même année (2008). Puis, elle a été étendue aux autres districts sanitaires du pays. Après plusieurs années de mise en œuvre avec des résultats et une efficacité prouvée, le PNLP a ajouté à cette approche, la détection active passant ainsi à ce qu'on appelle la PECADOM Plus.
+
+Il en est de même pour tous les enfants retrouvés dans les ménages dont le calendrier vaccinal n'est pas à Jour (irréguliers). Tous les enfants en âge d'être vaccinés et n'ayant jamais reçu de dose de Penta 1 (zéro dose) sont aussi référés ou orientés vers les postes et centres de santé. Les Enfants de 6-59 mois non supplémentés en vitamine A ou non supplémentés depuis plus de 6 mois, ont reçu la vitamine A et l'Albendazole ou Mébendazole par les DSDOM.
+
+En 2023, sur financement de PMI/USAID, le PNLP a consolidé cette stratégie dans les 35 districts des régions de Kédougou, Kolda, Tambacounda, Sédhiou et les Points de Prestation de Service « hot spot » des districts sanitaires des régions de Dakar, Thiès, Kaolack, Fatick, Kaffrine et Diourbel (Cf.
+
+Tableau I).
+
+Sur le plan opérationnel, la mise en œuvre de la PECADOM Plus dans les districts sanitaires des régions de Kolda, Kédougou, Tambacounda, Sédhiou et Diourbel est appuyée par l'agence d'exécution USAID/OWOD.
+
+Tableau I : Répartition des districts sanitaires ayant mis en œuvre la PECADOM Plus par région
+
+R épartition des 35 districts ayant mis en œuvre la PECADOM Plus en 2023
+
+Nombre de District
+
+Régions Liste des districts PECADOM Plus concernés
+
+Sédhiou 3 Bounkiling, Goudomp et Sédhiou
+
+Kolda 3 Kolda, Médina Yoro Foulah et Vélingara
+
+Kédougou 3 Kédougou, Salémata et Saraya
+
+Tambacounda 7 Bakel, Dianké Makha, Goudiry, Kidira, Koumpentoum, Maka Colibantang et Tambacounda
+
+Diourbel 3 Diourbel, Mbacké et Touba
+
+Fatick 3 Dioffior, Passy et Sokone
+
+Kaffrine 4 Birekelane, Kaffrine, Koungheul et Malem Hoddar
+
+Kaolack 4 Guinguinéo, Kaolack, Ndoffane et Nioro
+
+Thiès 4 Khombole, Joal, Pout et Thiadiaye
+
+Dakar 1 Keur Massar
+
+1) Résultats de la consultation durant les ratissages
+
+La mise en œuvre de la PECADOM Plus a été réalisée de janvier à décembre 2023 dans les 6 districts sanitaires et de juillet à décembre dans 29 districts, soit un total de 35 districts.
+
+Les résultats ci-dessous issus de cette mise en œuvre concernaient, 2 648 DSDOM avec 81 684 ratissages réalisés, soit un taux de ratissage de 98,4% ;
+
+286 687 cas toutes affections confondues ont été vus.
+
+Les motifs de consultation étaient représentés par la fièvre avec 60,1% ; la diarrhée 21,4% ; la toux/rhume 23,3% et autres affections 17,4%. Les résultats sont consignés dans le Tableau II ci-dessous.
+
+Les raisons de la non réalisation des ratissages étaient dus soit à :
+
+- Une absence du DSDOM pour raison de voyage ou de santé
+
+- Un décès DSDOM
+
+- Une maladie d'un membre de la famille du DSDOM
+
+- Une cérémonie familiale ou fête religieuse.
+
+- Un désistement du DSDOM
+
+Tableau II : Répartition des résultats des ratissages selon les districts sanitaires cibles de janvier à décembre 2023 Tab 1/2
+
+Situation des Ratissages Cas vus toutes causes confondues
+
+Districts Nombre Nombre de Nombre de DECES
+
+Taux de Symptôme Symptôme Symptôme Total des total de ratissages ratissages Autres cas réalisation Fièvre Diarrhée Toux cas vus
+
+DSDOM prévus effectués
+
+Tab 2/2
+
+Situation des Ratissages Cas vus toutes causes confondues
+
+Districts Nombre No mbre de Nombre de DECES
+
+DSDOM prévus effectués
+
+2) Résultats de la prise en charge des cas de paludisme
+
+Durant les ratissages les DSDOM ont identifié tous les cas de fièvre (cas suspects) et ces cas ont été testés avec les TDR du paludisme. Les cas positifs sont traités avec les ACT. Les femm es enceintes, les enfants de moins de deux mois, les cas de TDR négatifs et les cas graves de paludisme sont référés au niveau des structures sanitaires.
+
+En 2023 les résultats ci-dessous ont été obtenus :
+
+- Chez les moins de 5 ans excluant les enfants de moins de 2 mois :
+
+- 57 894 cas de fièvre ont été identifiés par les DSDOM avec 56 470 tests réalisés soit un taux de dépistage de 97,5%
+
+- Avec 6 965 TDR positifs soit un taux de positivité de 12,3%.
+
+- Chez les plus de 5 ans excluant les femmes enceintes :
+
+- 114 387 cas de fièvre ont été identifiés par les DSDOM avec 112 681 tests réalisés soit un taux de dépistage de 98,5%
+
+- Avec 37 600 TDR positifs soit un taux de positivité de 33,4%.
+
+- Total tous groupes :
+
+- 172 281 cas de fièvre ont été identifiés par les DSDOM avec 169 151 tests réalisés soit un taux de dépistage de 98,2%
+
+- Avec 44 565 TDR positifs soit un taux de positivité de 26,3%.
+
+Voir tous les résultats dans les Tableaux III et IV ci-dessous.
+
+Tableau III : Résultats de la détection des cas de paludisme par cible de janvier à décembre 2023
+
+Moins de 5 Ans Plus de 5 Ans Total tous groupes
+
+Total cas TDR TDR Taux de Taux de Total cas TDR TDR Taux de Taux de Total cas TDR TDR Taux de Taux de de fièvre réalisés positifs dépistage Positivité de fièvre réalisés positifs dépistage Positivité de fièvre réalisés positifs dépistage Positivité Tableau IV : Résultats de la détection des cas de paludisme par district sanitaire cible de janvier à décembre 2023.
+
+Tab 1/2 Tab 2/2
+
+Moins de 5 Ans Plus de 5 Ans Moins de 5 Ans Plus de 5 Ans
+
+DISTRICTS Total cas TDR TDR Total cas TDR TDR DISTRICTS Total cas de TDR TDR Total cas TDR TDR de fièvre réalisés positifs de fièvre réalisés positifs fièvre réalisés positifs de fièvre réalisés positifs Maka Colibantang 2679 2679 111 3022 3022 596 Malem Hoddar 682 682 27 254 254 48
+
+Thiadiaye 48 48 0 76 76 0
+
+Moins de 5 Ans Plus de 5 Ans Total
+
+Total cas de Total cas de Total cas de
+
+TDR réalisés TDR positifs TDR réalisés TDR positifs TDR réalisés TDR positifs fièvre fièvre fièvre
+
+Au total, parmi les 169 151 cas testés /
+
+- 44 565 cas sont positifs avec 23 292 cas masculins soit 52% et 21 273 cas féminins soit 48%.
+
+- 43 677 cas positifs ont reçu un traitement avec ACT soit un taux de dispensation de 98,0%.
+
+Ces résultats sont consignés dans le Tableau V.
+
+Tableau V : Résultats de la prise en charge des cas de paludisme
+
+Prise en charge des cas de paludisme Tab 1/2
+
+Nombre total de cas
+
+Total Cas Paludisme Cas traités avec ACT Cas traités et guéris Nombre de cas référés d'effets indésirables
+
+DISTRICTS
+
+Total cas TDR
+
+Fem de fièvre réalisés Moins Moins Age Cas Total Moin Plus
+
+Plus de Plus de TDR mes
+
+Masculin Féminin Total de 5 Total de 5 Total < 2 Grav cas s de 5 de 5 Total
+
+5 Ans 5 Ans négatif encei
+
+Ans Ans mois es référés Ans Ans ntes
+
+Prise en charge des cas de paludisme Tab 2/2
+
+Nombre total de cas
+
+DISTRICTS
+
+Total cas TDR
+
+Fem de fièvre réalisés Moins Moins Age Cas Total Moin Plus
+
+Plus de Plus de TDR mes
+
+5 Ans 5 Ans négatif encei
+
+Ans Ans mois es référés Ans Ans ntes
+
+3) Résultats de la prise en charge des cas de diarrhées et infections respiratoires aiguës (IRA)
+
+En dehors des cas de fièvre, les ratissages réalisés par les DSDOM, ont enregistré 36 122 cas de diarrhées et 60 007 d'IRA dont 49 520 cas de Toux/Rhume et 10 487 cas de Pn eumonie.
+
+Le pourcentage des cas de diarrhée traités par le SRO et le Zinc par les DSDOM était de 37,6% (13 581/ 36 122).
+
+Le pourcentage des cas de pneumonies traités par Amoxicilline dispersible était de 48,2% (5 061/10 487).
+
+Ces faibles pourcentages étaient dus à une rupture d'amoxicilline dispersible et de SRO/Zinc au niveau de certains sites PECADOM. Ces résultats sont consignés dans le tableau VI.
+
+Tableau VI: Récapitulatif des cas vus de diarrhées et IRA
+
+Tab 1/2
+
+DIARRHEES IRA
+
+Total cas de
+
+DISTRICTS Total Cas de
+
+Total cas de Cas traités avec Cas traites et Cas graves Total cas Total cas de Pneumonies
+
+Pneumonies diarrhée SRO/Zinc guéris référés toux/rhume Pneumonies traitées par référés
+
+Amoxicilline
+
+Maka Colibantang 287 238 238 0 458 105 98 5
+
+Médina Yoro Foulah 1247 37 37 0 2073 80 7 73
+
+Tab 2/2
+
+DIARRHEES IRA
+
+Total cas de
+
+DISTRICTS Total Cas de
+
+Amoxicilline
+
+4) Résultats de la recherche des enfants irréguliers à la vaccination et à la supplémentation en vitamine A La PECADOM plus a été couplée aussi à la recherche des enfants irréguliers à la vaccination, à la supplémentation en vitamine A et au déparasitage.
+
+Les DSDOM ont supplémenté en Vitamine A, 38 672 enfants âgés de 6 à 59 mois et déparasité 31 425 enfants âgés de 12 à 59 mois. Ils ont aussi orienté au total 17 245 enfants de 0 à 23 mois irréguliers à la vaccination dans tous les antigènes, dont 341 enfants qui n'ont jamais été en contact Penta 1 dans le cadre du Programme Elargi de Vaccination (PEV).
+
+Ces résultats sont consignés dans le Tableau VII.
+
+Tableau VII : Résultats de la recherche des enfants irréguliers à la vaccination et à la supplémentation en vitamine A :
+
+Tab 1/2
+
+Supplémentation en
+
+Enfants irréguliers à la vaccination trouvés et orientés vers les structures Déparasitage vitamine A
+
+Districts Nombre
+
+Nombre Nombre Nombre Nombre Nombre enfants Zéro Hépatite enfants enfants BCG Penta1 Penta2 Penta3 Rota 1 Rota 2 VPI RR1/VAA RR 2 enfants enfants enfants
+
+12- doses B
+
+6-11mois 6- 59mois 6-11mois 12- 59mois 6- 59mois
+
+59mois
+
+Tab 2/2
+
+Supplémentation en
+
+Districts
+
+Nombre
+
+Nombre
+
+Nombre
+
+Nombre
+
+Nombre Nombre enfants Zéro Hépatite enfants enfants enfants doses
+
+BCG
+
+B
+
+Penta1 Penta2 Penta3 Rota 1 Rota 2 VPI RR1/VAA RR 2
+
+6- enfants enfants
+
+6-11mois 6- 59mois 12- 59mois 6- 59mois
+
+59mois 11mois
+
+5) Résultats de la référence des cas :
+
+Au total, 163 074 patients ont été référés pour une prise en charge au niveau des structures sanitaires dont 76,4% (124 586/163 074) avaient un TDR négatif, 22,3% (36387/163 074) pour rupture d'intrants et 0,5% de cas graves (789/163 074).
+
+La rupture de traitement qui concernait les intrants antipaludiques (ACT et TDR) était présentée dans 2,2% des cas référés (3 526/163 074) et les médicaments pour les IRA et diarrhées (SRO, Zinc et Amoxicilline dispersible) dans 20.2% des cas référés (32 861/163 074). Il faut noter que la rupture de SRO et de Zinc a été notée dans 17,7% des cas (28 842/163 074) entrainant ainsi la référence.
+
+Ces résultats sont consignés dans le Tableau VIII.
+
+Tableau VIII : Répartition des cas référés par district sanitaire
+
+Tab 1/2
+
+Situation des cas référés PECADOM PLUS
+
+Districts
+
+Cas Graves Rupture
+
+TDR Moins de 2 Femmes
+
+Total Cas Référés
+
+Négatifs mois Enceintes
+
+Paludisme IRA Diarrhée TDR ACT SRO Zinc Amox
+
+Maka Colibantang 4994 9 10 0 0 0 0 0 19 19 5 5056
+
+Tab 2/2
+
+Situation des cas référés PECADOM PLUS
+
+Cas Graves Rupture
+
+TDR Moins de 2 Femmes
+
+Total Cas Référés
+
+Négatifs mois Enceintes
+
+Paludisme IRA Diarrhée TDR ACT SRO Zinc Amox
+
+XII. TPI COMMUNAUTAIRE : Résultats
+
+Au total les acteurs communautaires (DSDOM, Matrones, Bajenu Gox, etc.) ont administré aux femmes enceintes 14 142 doses de SP2, 13 115 doses de SP3 et 6 494 doses de SP4. Ces fem mes enceintes ont reçu ces doses de SP grâce aux TPI communautaire après la première dose administrée par un personnel qualifié.
+
+Ces résultats sont consignés dans le tableau IX ci-dessous.
+
+Tableau IX : Répartition des doses de SP administrées par district sanitaire lors du TPI communautaire
+
+TPI Communautaire
+
+Districts SP2 SP3 SP4 et plus Districts SP2 SP3 SP4 et plus
+
+Kédougou 288 114 64 Mbacké 0 0 0
+
+Salémata NA NA NA Touba 316 118 2
+
+Saraya NA NA NA Dioffior 0 0 0
+
+Bakel 448 365 271 Passy 0 0 0
+
+Dianké 232 212 0 Sokone 310 245 0
+
+Goudiry 470 333 297 Birekelane 0 0 0
+
+Kidira 200 145 84 Kaffrine 0 0 0
+
+Koumpentoum 251 187 46 Koungheul 0 0 0
+
+Maka Colibantang 1217 1285 53 Malem Hoddar 0 0 0
+
+Tamba 2960 2981 1717 Kaolack 0 0 0
+
+Kolda 494 292 0 Ndoffane NA NA NA
+
+Médina Yoro Foulah 446 412 206 Nioro NA NA NA
+
+Vélingara 2999 3362 1519 Guinguinéo NA NA NA
+
+Bounkiling 1136 936 769 Keur Massar NA NA NA
+
+Goudomp 291 262 166 Khombole NA NA NA
+
+Sédhiou 668 458 117 Joal NA NA NA
+
+Pout NA NA NA
+
+Diourbel 1416 1408 1183
+
+Thiadiaye NA NA NA
+
+SP2 SP3 SP4 et plus
+
+Total
+
+SURVEILLANCE POUR L'ELIMINATION
+
+INVESTIGATION DES CAS
+
+ET DES FOYERS
+
+XIII. LES RESULTATS DE L'INVESTIGATION DES CAS DANS LES ZONES DE PRE ELIMINATION
+
+L'année 2023 a été marquée par la consolidation du processus de dévolution des activités d'investigation pour une appropriation totale par les acteurs du système de santé. Macepa a maintenu un personnel technique réduit, basé au niveau de la zone nord, ouest et Sud pour appuyer les régions dans la coordination et le suivi des activités menées au niveau des structures sanitaires. CHEMONICS à travers son projet Bâtir un Système de Santé Résilient (BSSR) a assuré un financement des activités d'élimination dans les régions de Saint-Louis, Louga, Matam par un système d'achat de performance après signature d'un MOU avec les Directions Régionales de la Santé. Dans la zone centre, le PNLP a financé les activités d'élimination à travers le NDAMIR tandis que la région de Ziguinchor a bénéficié de l'appui de l'Usaid à travers G2G.
+
+Dans la région de Tambacounda, Macepa a appuyé pour un démarrage effectif des investigations en basse transmission. Seul, le district de Kidira a pu mener cette expérience durant le premier semestre du fait de la grève du personnel paramédical dans les autres districts, mais aussi, devant l'insuffisance d'intrants comme la DHAPQ. Les autres districts de la région ont été formés durant le dernier trimestre de l'année 2023 pour un démarrage effectif de la documentation en janvier 2024.
+
+Par ailleurs, le climat social a fortement impacté la qualité de la mise en œuvre des activités surtout durant les mois de novembre et décembre où on a noté un boycott du DHIS2 Tracker par un nombre important d'Infirmiers Chefs de Poste.
+
+Le niveau central a pu organiser un atelier de mise à jour des procédures opératoires normalisées des investigations de cas et les équipes cadres des régions et districts ont pu être formés à l'exception de ceux de Thiès et Ziguinchor pour qui une session est prévue en février 2024. La primaquine a été mise en place dans l'ensemble des hôpitaux des régions de Thiès et Fatick ainsi que dans les structures privées après une série de formations qui a permis de toucher 180 prestataires et hôpitaux et 80 du secteur privé de la santé.
+
+A. Documentation des cas par district sanitaire en 2023 :
+
+En 2023, le nombre de cas de paludisme notifiés dans le DHIS2 tracker a connu une baisse notable passant de 11956 en 2022 à 7815 en 2023. Ceci est lié à la situation de rétention de données observée par un grand nombre de postes de santé. Il faudrait tout de même noter que ces données sont plus complètes que celles dans le DHIS2 où la complétude est presque nulle.
+
+Le délai de notification des cas dans les 24h (documentation) est de 94%. Les districts de Kanel, Mbour n'ont renseigné aucun cas de paludisme, celui de Louga seulement 8 cas durant toute l'année. (Cf. Tableau I)
+
+Globalement, 60 % des cas de paludisme n'avaient pas une notion de voyage, 60 jours avant le début de la maladie. Ceci traduit une forte probabilité d'infection locale pour cette proportion de malades. Les districts de Pété, Passy, Linguère, Thilogne, Ranérou, Matam, Oussouye, Thionck-Essyl, Pout, Popenguine, Sokone méritent une attention car la transmission locale semble soutenue. D'autres districts comme Sakal, Dagana, Richard Toll ont très peu de cas sans notion de voyage, il serait opportun d'identifier les foyers de transmission résiduelle et mettre en œuvre un plan d'élimination approprié.
+
+Le district sanitaire de Saint-Louis se singularise en 2023 par une notification importante de cas de paludisme par rapport aux années précédentes. La gestion des gîtes larvaires et l'adhésion des structures privées de santé très fréquentées par les populations constituent des défis majeurs pour une maitrise de la transmission du paludisme dans ce district.
+
+Tableau I : Résultats documentation des cas
+
+Nombre de Cas sans Pourcentage de cas de
+
+Nombre de cas documentés dans les 24 Pourcentage de cas documentés
+
+Districts notion de voyage sur paludisme sans notion heures dans les 24 heures
+
+60 derniers jours de voyage
+
+Région Diourbel 192 100 15 8%
+
+Richard Toll 197 100 22 11%
+
+Saint-Louis 1481 96 900 61%
+
+Région Saint-Louis 1901 98.7 1073 56%
+
+Darou-Mousty 208 96.7 140 67%
+
+Keur Momar Sarr 80 100 22 28%
+
+Louga 8 100 0 0%
+
+Région Louga 1064 96.7 524 49%
+
+Thionck-Essyl 187 97.9 135 72%
+
+Région Ziguinchor 471 97.3 335 71%
+
+Nombre de Cas sans Pourcentage de cas de
+
+60 derniers jours de voyage
+
+Dioffior 98 93.9 32 33%
+
+Foundiougne 117 96.6 58 50%
+
+Région Fatick 1227 91.7 629 51%
+
+Mbour 0 0 0 -
+
+Popenguine 211 97.6 181 86%
+
+Thiadiaye 115 96.5 43 37%
+
+Tivaouane 299 97 209 70%
+
+Région Thiès 1617 80.6 974 60%
+
+Kanel 0 0 0 -
+
+Thilogne 97 95.9 78 80%
+
+Région Matam 1209 97 1092 90%
+
+Région Tambacounda 134 93.3 114 85%
+
+B. Résultats investigation des cas : en 2023
+
+En 2023, 69 % des cas de paludisme ont pu être investigués dans les 72 heures. Cette contre-performance cache cependant des disparités car l'objectif de 80% a pu être atteint par 18 districts. L'axe nord se singularise par de bonnes performances dans l'ensemble des districts des régions de Saint-Louis, Louga et Matam à l'exception de ceux de Louga et Kanel où il n'existe pas de données (Tableau II).
+
+Les régions de Thiès et Fatick présentent une promptitude de la notification dans les 24 heures mais les ripostes se font pour l'essentiel tardivement audelà des 72 heures. Les districts de Bambey, Oussouye et Thionck-Essyl ont eu des délais de ripostes de plus de 80% dans les 72 heures.
+
+Durant l'année 2023, le PNLP a assuré une bonne disponibilité en intrant pour les investigations. La DHAPQ a connu une période de rupture transitoire durant la période de faible transmission. La période de haute transmission a été couverte aussi bien en DHAPQ qu'en primaquine. Les médicaments ne peuvent donc pas être évoqués comme raison de contre-performance. Il semblerait que la grève soit le principal élément déterminant ; aussi, les mécanismes de financement dans la zone nord et Sud étant basé sur les performances influenceraient l'engagement des acteurs. Reproduire un schéma similaire dans la zone ouest et centre pourrait être une alternative à envisager.
+
+On note par ailleurs, une bonne acceptation de la stratégie par les populations avec seulement 99 cas de refus enregistrés sur 5640 personnes vivant dans les concessions des cas index soit 1.7% de refus.
+
+Le nombre de MILDA distribuées durant les investigations reste insuffisant au regard des besoins constatés sur place. Les zones urbaines présentent les gaps les plus importants en MILDA notamment le district de Saint-Louis, la région de Thiès. Pour les zones rurales, le district de Ranérou avec son vaste Ferlo mérite une attention particulière devant les besoins observés.
+
+Tableau II : Résultats des investigations dans les districts sanitaires (Source DHIS2 Tracker)
+
+ACM/r : Administration ciblée de médicament/ riposte
+
+C'est l'administration d'un traitement à toutes les personnes éligibles trouvées dans la maison du cas index et sensibilisation dans les concessions voisines
+
+Résultats
+
+Nombre de Pourcentage
+
+Nombre Sensibilisation Refus Traitement lors des ripostes Distribution MILDA en riposte
+
+Nombre de Nombre de cas de cas de cas
+
+Districts cas index cas investigués investigués index Nombre
+
+Investigables investigués dans les dans les Nombre total de Nombre notifiés Total d'enfants Nombre
+
+72h 72h personnes Nombre total de Nombre de personnes de moins Couchages de Gap en sensibilisées lors de cas de femmes MILDA
+
+Traitées de 2 recensés MILDA MILDA des refus enceintes distribuées
+
+FDA mois utilisables investigations référées référés
+
+ACM/r : Administration ciblée de médicament/ riposte
+
+Résultats
+
+Nombre de Pourcentage
+
+Nombre
+
+Nombre de Nombre de cas de cas
+
+Sensibilisation Refus Traitement lors des ripostes Distribution MILDA en riposte de cas
+
+Districts index cas index cas investigués investigués
+
+Nombre
+
+FDA mois utilisables investigations référées référés
+
+ACM/r : Administration ciblée de médicament/ riposte
+
+Résultats
+
+Nombre de Pourcentage
+
+Nombre
+
+Nombre de Nombre de cas de cas
+
+Districts index cas index cas investigués investigués
+
+Nombre
+
+FDA mois utilisables investigations référées référés
+
+Mbour 0 0 0 0 0 0 0
+
+ACM/r : Administration ciblée de médicament/ riposte
+
+Résultats
+
+Nombre de Pourcentage
+
+Nombre
+
+Nombre de Nombre de cas de cas
+
+Districts index cas index cas investigués investigués
+
+Nombre
+
+FDA mois utilisables investigations référées référés
+
+Région
+
+Tambacounda
+
+C. Gestion de flambées : en 2023
+
+Tableau III : Résultats de la gestion des flambées enregistrées par district sanitaire (Source DHIS2 Tracker) Nombre Nombre de Pourcentage Concessions Total Total Total Pourcentage
+
+Cas ayant #Cas de de flambées de flambées Traitées lors Individus Individus Individus d'individus traités
+
+Districts occasionné refus flambées détectées dans détectées dans des recensés éligibles Traités lors d'un traitement la Flambée (MFDA) détectées les 7 jours les 7 jours Flambées (MFDA) (MFDA) (MFDA) de flambée
+
+Région Diourbel 6 6 100% - - - - - - -
+
+Popenguine 3 1 33% 0 13 12 4 33.3
+
+Koki 1 1 100%
+
+Matam 3 3 100%
+
+- En 2023, 63 flambées ont été notifiés dans le système de surveillance dont 93% détectées dans les sept (07) jours. Ce chiffre est largement inférieur à celui des années précédentes où il y avait respectivement en 2021 et 2022, 263 et 152 cas de flambées notifiées. L'impact de la grève du personnel et la rétention des données sanitaires est à l'origine de cette sous notification.
+
+- La riposte aux flambées a permis de traiter 1865 personnes vivants dans 398 concessions prises en charge. Cette cible représente 98% des personnes éligibles, le gap étant lié aux absents temporaires qui n'ont pas été rattrapés.
+
+D. Surveillance et système d'alerte
+
+L'année 2023 a été marquée par une innovation notable. Il a été mis en place grâce au DHIS2 Tracker, un système d'alerte automatisé basé sur les données des cinq années précédentes. Ainsi, les seuils d'alerte hebdomadaire ont été calculés pour l'ensemble des structures sanitaires du pays selon la méthode de la moyenne + 2ET.
+
+Un message d'alerte est automatiquement envoyé par mails à tous les niveaux pour informer du dépassement. Les Médecins Chefs de Districts appuyés par leur staff et les Infirmiers Chefs de Poste se chargent de confirmer la situation épidémique et investiguer les foyers concernés.
+
+Les alertes sont reçus sous forme de tableaux tels que présentés ci-dessous.
+
+Durant l'année toutes les alertes signalés ont été circonscrites et les tendances sont revenues à la normale les semaines suivantes.
+
+Région District Poste de Sante Semaine Début semaine Fin semaine Seuil d'alerte Nombre de cas de la semaine Kolda Vélingara PS Paroumba W30 2023-07-24 2023-07-30 61.7 105
+
+Kolda Kolda PS Sare Yoba Diega W30 2023-07-24 2023-07-30 16.8 20
+
+- Dans la région de Kolda et dans le district de Vélingara, le poste de santé de Paroumba, durant la semaine 30, le seuil d'alerte était de 61.7 (62) cas, le poste a enregistré 105 cas.
+
+- Dans la région de Kolda et dans le district de Kolda, le poste de santé de Sare Yoba Diega, durant la semaine 30, le seuil d'alerte était de 16.8 (17) cas, le poste a enregistré 20 cas.
+
+Région District Poste de Sante Semaine Début semaine Fin semaine Seuil d'alerte Nombre de cas de la semaine Kédougou Saraya PS Madina Sirimana W34 2023-08-21 2023-08-27 49.8 114
+
+Kédougou Saraya PS Saroudia W34 2023-08-21 2023-08-27 30.2 31
+
+Kédougou Saraya PS Bambadji W34 2023-08-21 2023-08-27 25.5 62
+
+- Dans la région de Kédougou et dans le district de Saraya, le poste de santé de Madina Sirimana, durant la semaine 34, le seuil d'alerte était de 49.8 (50) cas, le poste a enregistré 114 cas.
+
+Région District Poste de Sante Semaine Début semaine Fin semaine Seuil d'alerte Nombre de cas de la semaine Dakar Dakar Ouest PS Diamalaye W51 2023-12-18 2023-12-24 0.0 8
+
+Dakar Dakar Centre CS Grand Dakar W51 2023-12-18 2023-12-24 13.9 17

@@ -1,0 +1,1827 @@
+République du Sénégal
+
+Ministère de la Santé et de l'Action Sociale
+
+Programme National de lutte Contre la Tuberculose
+
+GUIDE DE PRISE EN CHARGE
+
+DE LA TUBERCULOSE
+
+DE L'ENFANT AU SENEGAL
+
+Edition 2012
+
+SUSPICION DE TUBERCULOSE
+
+SI L'ENFANT PRESENTE UNE ALTERATION
+
+DE L'ETAT GENERAL DE PLUS DE 15 JOURS
+
+ASSOCIEE A UN OU PLUSIEURS DE CES SIGNES :
+
+- Contact de cas de tuberculose bacillifére
+
+- Altération de l'état nutritionnel (Amaigrissement, manque d'appétit, stagnation ou retard de croissance staturo-pondérale)
+
+- Fièvre et sueurs nocturnes
+
+- Adénopathies cervicales
+
+- Toux de plus de 15 jours
+
+- Baisse du rendement scolaire et/ou des activités ludiques
+
+PRéFACE
+
+La tuberculose pose un problème majeur de santé publique à travers le monde. Chaque année neuf millions d'individus contractent une tuberculose active et deux millions en meurent.
+
+Selon l'OMS, le pourcentage de tuberculose chez les enfants varie de 3% à plus de 25% selon les pays. En Afrique sub-saharienne, cette proportion, toutes formes confondues, est estimée à environ 11% des cas.
+
+L'OMS à travers Stop – TB vise dans son plan 2006 - 2015 à « assurer un accès équitable à des soins standardisés de qualité à tous les patients atteints de tuberculose : infectieux ou non infectieux, adultes et enfants, avec ou sans VIH, avec ou sans tuberculose multi résistante ».
+
+Au Sénégal, beaucoup de progrès ont été accompli dans l'atteinte de l'OMD-6 cible 8 fixés pour réduire l'incidence et la mortalité lié à la tuberculose.
+
+Si des avancées majeurs ont été constatées dans le dépistage et le succès du traitement force est de constater que la prise en charge de la tuberculose de l'enfant restent encore insuffisante. En Effet pour l'année 2012, les formes infantiles ne représentaient que 5,2% des cas en lieu et place des 11% attendus avec seuls 24 cas déclarés dans la tranche des 0 - 4 ans.
+
+De même au-delà de l'OMD-6, la lutte contre la tuberculose de l'enfant entre en droite ligne avec l'atteinte de l'OMD-4 pour la lutte contre la mortalité materno–infantile.
+
+Suivant les recommandations de la Stratégie Stop TB le Sénégal s'inscrit dans une optique de renforcement de la prise en charge de la tuberculose dans ce groupe vulnérable. Pour ce faire, la mise en place de documents standardisés et consensuels de référence, adaptés au contexte sénégalais est indispensable.
+
+Ce guide s'adresse à tous les prestataires de soins impliqués dans la prise en charge des enfants. Il peut être utilisé aussi bien au niveau opérationnel qu'au niveau des hôpitaux.
+
+L'objectif général de ce manuel est d'améliorer la prise en charge de la tuberculose de l'enfant au Sénégal et plus spécifiquement de :
+
+- Renforcer le dépistage précoce des cas de tuberculose infantile,
+
+- Proposer une approche standardisée de diagnostic et de traitement de la tuberculose de l'enfant
+
+- Proposer une approche standardisée de gestion des cas contacts de tuberculose
+
+- Améliorer la prise en charge de la coinfection TB/VIH et de la tuberculose multirésistante de l'enfant
+
+Je tiens à remercier tous ceux qui ont contribué à l'élaboration de cet outil, et souhaite qu'il soit d'un apport considérable aux prestataires de soins impliqués dans la prise en charge des affections de l'enfant.
+
+Pr Awa Marie Coll-Seck
+
+Ministre de la Santé et de l'Action Sociale
+
+REmERCIEmENTS
+
+Sous la houlette du Ministère de la Santé et de l'action sociale, de la Direction Générale de la Santé et de la Division de Lutte contre les Maladies, le Programme National de lutte contre la Tuberculose remercie vivement tous les partenaires techniques et financiers qui ont participé à l'élaboration de ce document : les services de pédiatrie de l'HEAR, HALD, Pikine ,le service de pneumologie du CHN de Fann, le service des maladies infectieuses, la DLSI, la DANSE, le district sanitaire Dakar-Sud, le district sanitaire de Joal, FHI/360, l'OMS et le Fond Mondial.
+
+Ce document a été finalisé par un groupe de travail composé de :
+
+Pr Mamadou Sarr
+
+Pr Mamadou Ba
+
+Pr Boubacar Camara
+
+Pr Haby Sy Signaté
+
+Pr Ousmane Ndiaye
+
+Pr Abdoul Almamy Hane
+
+Pr Nafissatou Oumar Touré
+
+Pr Cheikh Tidiane Ndour
+
+Pr Baye Karim Diallo
+
+Dr Pape Makhtar Faye
+
+Dr Idrissa Ba
+
+Dr Giséle Niouky
+
+Dr Eugénie Niane
+
+Dr Aliou Niang
+
+Dr Yacine Mar Diop
+
+Dr Arame Diop
+
+Dr Fatou Niasse
+
+Mr Maguette Ndoye Ndiaye
+
+Dr Marie Sarr
+
+Dr Awa Héléne Diop
+
+Dr Ramatoulaye Sall
+
+Dr Madou Kane
+
+Dr Fatoumata Ba
+
+Dr Talla Diop
+
+Dr Abdoulaye Diaw
+
+Mr Mouhamadou Niang
+
+Mme Andrée Mendy Sall
+
+Mme Emilie Sarr
+
+Mr Amadou Djigal
+
+Mr Mamadou Diagne
+
+Mme Néné Gallé Diallo
+
+Dr Abdoulaye Ly
+
+Dr Fatou Kiné Wathie
+
+Dr Backary Sambou
+
+Hôpital des enfants Albert Royer
+
+Hôpital des enfants Albert Royer
+
+Service de pédiatrie Hôpital de Pikine
+
+Hôpital des enfants Albert Royer
+
+Service de pédiatrie CHN Abass Ndao
+
+Service de pneumologie CHN Fann
+
+Service de pneumologie CHN Fann
+
+Service des Maladies Infectieuses CHN Fann
+
+Service ORL HOGGY
+
+Hôpital des enfants Albert Royer
+
+Hôpital des enfants Albert Royer
+
+Service de pédiatrie Hôpital Aristide le Dantec
+
+District sanitaire de Joal
+
+Service de pneumologie CHN Fann
+
+District Sanitaire Dakar Sud
+
+EPS IHS
+
+DLSI
+
+DLSI
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+PNT
+
+FHI 360
+
+Plan International
+
+OMS
+
+Ce document a été élaboré sous la coordination du Dr Marie Sarr, coordonnatrice du Programme national de lutte contre la tuberculose et du Dr Ramatoulaye Sall, responsable du bureau de prise en charge.
+
+La tuberculose de l'enfant (0-14 ans) représente 15 à 20 % des cas de tuberculose. La plupart des cas sont à localisation pulmonaire. Certaines localisations extrapulmonaires sont plus fréquentes chez l'enfant (formes ganglionnaire, méningée)
+
+Les formes graves que sont la miliaire et la méningite tuberculeuse sont plus fréquentes chez les enfants de moins de 5 ans.
+
+La prise en charge pour les enfants âgés de plus de 10 ans est similaire à celle des adultes.
+
+Le vaccination au BCG protège contre les formes graves mais n'empêche pas la survenue d'une tuberculose chez l'enfant.
+
+Les facteurs de risque de la tuberculose chez l'enfant sont :
+
+Le contact avec un cas à bacilloscopie positive
+
+L'âge inférieur à 5 ans
+
+La malnutrition
+
+Le déficit immunitaire: diabète, Infection à VIH, cancer, traitement immunosuppresseur, etc.
+
+Le statut nutritionnel constitue un élément clé aussi bien dans le diagnostic que dans le suivi des cas de tuberculose de l'enfant.
+
+L'infection à VIH est l'un des principaux facteurs de risque de tuberculose en Afrique. La proposition du test de dépistage VIH doit être systématique devant tout cas de tuberculose.
+
+La chimioprophylaxie chez les enfants sains de moins de 5 ans, contacts de cas de tuberculose bacillifère, est un moyen de prévention efficace de la tuberculose.
+
+Le diagnostic de la tuberculose chez l'enfant peut se faire dans la majorité des cas selon une approche clinique standardisée
+
+2. APPROCHE DIAGNOSTIqUE
+
+L'approche diagnostique repose sur une évaluation soigneuse et complète de toutes les preuves obtenues par une anamnèse minutieuse, un examen physique complet et des investigations paracliniques appropriées.
+
+2.1. ANAmNèSE
+
+Toujours rechercher un sujet contact qui est défini comme étant un « sujet vivant dans le même ménage ou ayant des contacts fréquents avec un cas index atteint d'une tuberculose pulmonaire à bacilloscopie positive ». Ce contact peut être un adulte ou un enfant.
+
+2.2. mANIFESTATIONS CLINIqUES
+
+Les manifestations cliniques peuvent être pulmonaires, extrapulmonaires ou multifocales.
+
+a) Tuberculose pulmonaire
+
+Altération de l'état nutritionnel (amaigrissement, manque d'appétit, stagnation et/ou retard de croissance staturo-pondéral)
+
+Fièvre et sueurs nocturnes
+
+Toux de plus de 15 jours
+
+Hémoptysie chez le grand enfant
+
+Baisse du rendement scolaire et/ou des activités ludiques b) Tuberculose extrapulmonaire
+
+Les manifestations cliniques de la tuberculose extrapulmonaire varient en fonction du site.
+
+Les signes sont persistants et évoluent dans le temps.
+
+Ils sont souvent associés à des signes d'imprégnation tuberculeuse (fièvre sueurs nocturnes, amaigrissement, manque d'appétit, stagnation ou retard staturo-pondérale.)
+
+NB : Devant des signes suspects de tuberculose extrapulmonaire il faut toujours rechercher une localisation pulmonaire.
+
+L'évaluation et la surveillance staturo-pondérale est un élément clé du diagnostic de la tuberculose de l'enfant
+
+TABLEAU 1 : SIGNES CLINIqUES DE TUBERCULOSES ExTRAPULmONAIRES Localisation
+
+Signes cliniques
+
+Ganglionnaire
+
+Augmentation de volume des ganglions plus ou moins douloureux, fermes, évoluant vers le ramollissement puis la fistulisation, cicatrisant en écrouelles.
+
+Poly-adénite tuberculeuse fistulisée
+
+Adénite non encore fistulisée
+
+Ostéo-articulaire
+
+Raideur et déformation de la colonne vertébralesurtout si d'apparition récente (Mal de Pott).
+
+Gonflement d'une articulation ou d'un os, douleur articulaire à la marche (en l'absence de raumatisme) d'évolution chronique.
+
+Exemple : Tumeur blanche du genou :
+
+gros genou douloureux, unilatéral, chaud, raide et en flexion.
+
+Gibbosité par mal de Pott méningée
+
+Syndrome méningé (habituellement marqué par une raideur de la nuque) avec altération de l'état général et signes de localisation neurologique, à début subaigu ne répondant pas au traitement par antibiotiques.
+
+Séreuse
+
+Epanchement pleural (pleurésie), péricardique (péricardite) ou péritonéal (ascite).
+
+Cutanée
+
+Nodules ulcérés non spécifiques.
+
+Tuberculose cutanée de l'oreille droite
+
+2.3 INVESTIGATIONS PARACLINIqUES a) Anomalies radiologiques
+
+Opacité dans un lobe associée à une adénopathie satellite (complexe primaire)
+
+Adénopathies médiastinales compressives
+
+Miliaire pulmonaire
+
+Epanchements pleuraux importants associés parfois à des infiltrats excavés des sommets
+
+Atteintes osseuses marquées par une déminéralisation : destruction et pincement de l'articulation et des surfaces articulaires.
+
+TABLEAU 2 : ImAGES RADIOLOGIqUES EN FAVEUR D'UNE TUBERCULOSE
+
+Lobite supérieure droite poly excavée avec dissémination homo et controlatérale
+
+Volumineuses adénopathies médiastinales droites
+
+Miliaire tuberculeuse
+
+Spondylodiscite tuberculeuse lombaire (Mal de Pott)
+
+Pleurésie tuberculeuse
+
+Adénopathie hilaire droite, compliquée d'atélectasie de la base droite b) Examens bactériologiques
+
+Examen des expectorations à la recherche de BAAR
+
+Comme chez l'adulte suspect de tuberculose, l'examen doit se faire sur deux (2) échantillons d'expectoration prélevés en 24 heures : un échantillon au premier contact, un échantillon matinal dès le réveil.
+
+Le tubage gastrique
+
+Il doit se faire à l'hôpital, au réveil, avant que l'enfant ne se lève. Deux prélèvements seront faits pendant deux jours de suite, au lit du malade. Les échantillons obtenus doivent rapidement être acheminés au laboratoire pour examen direct, culture et GenXpert.
+
+N.B. : Le GenXpert est une méthode moléculaire d'identification de M. tuberculosis et de son profil de résistance à la rifampicine.
+
+Autres examens spéciaux en fonction du site
+
+TABLEAU 3 : ExAmENS PARACLINIqUES EN FONCTION DES SITES ExTRAPULmONAIRES SITE
+
+Examens paracliniques
+
+Ganglions périphériques
+
+Biopsie ou ponction aspiration à l'aiguille des ganglions
+
++ GenXpert
+
+Tuberculose miliaire
+
+Cliché thoracique
+
+Méningite tuberculeuse
+
+Ponction lombaire + GenXpert
+
+Scanner cérébral
+
+Tuberculose ostéo- articulaire
+
+Radiographie osseuse, ponction articulaire ou biopsie synoviale + GenXpert
+
+Epanchement pleural (enfants plus âgés et adolescents)
+
+Cliché thoracique, ponction pleurale, culture + GenXpert
+
+Tuberculose abdominale (par exemple péritonéale)
+
+Echographie abdominale et ponction d'ascite +
+
+GenXpert
+
+Tuberculose péricardique
+
+Echographie cardiaque et ponction péricardique +
+
+GenXpert
+
+2.4 L'INTRADERmORéACTION à LA TUBERCULINE (IDRT)
+
+Technique :
+
+Injection intradermique de 0,1 ml de tuberculine à la face antérieure de l'avant bras.
+
+Pour attester que l'injection est bien intradermique, on doit observer un phénomène de « peau d'orange » au point d'injection. Il apparait alors une réaction inflammatoire surmontée d'une induration qu'il faudra mesurer. La lecture du test se fera au bout de 72 H. Il faut mesurer à la fois le diamètre vertical et le diamètre horizontal. Pour le résultat on retiendra la plus grande valeur.
+
+Interprétation
+
+L'IDRT est dite positive si le diamètre l'induration est ≥ 10 mm chez les enfants. Chez les enfants à haut risque (VIH, malnutrition sévère) il faut considérer que le test est positif si le diamètre est ≥ 5 mm.
+
+Valeur du test
+
+L'IDRT identifie les personnes infectées par le bacille de Koch. Elle doit être utilisée comme aide au diagnostic de la maladie en sus des arguments cliniques, biologiques et radiologiques.
+
+L'IDRT peut être faussement positive ou négative pour différentes raisons.
+
+Faux positifs :
+
+- Erreurs techniques (Administration ou lecture incorrecte, répétition du test sur le même bras)
+
+- Mycobactérioses non tuberculeuses
+
+Faux négatifs :
+
+- Fenêtre sérologique d'une infection tuberculeuse récente
+
+- Administration ou lecture incorrecte
+
+- Infection à VIH
+
+- Détérioration du test
+
+- Infection virale ou bactérienne sévère
+
+- Hypoprotidémie, malnutrition
+
+- Traitement immunosuppresseur
+
+- Tuberculose sévère
+
+Interprétation IDRT : IDRT positive
+
+- Si IDRT ≥ 5 mm chez enfant VIH ou malnutri
+
+Retenons qu'une IDRt négative
+
+- Si IDRT ≥ 10 mm chez autre n'exclut jamais enfant une tuberculose évolutive
+
+ALGORITHmE DE DIAGNOSTIC DE LA TUBERCULOSE PULmONAIRE DE L'ENFANT Enfant suspect de tuberculose :
+
+Contact d'un cas de tuberculose bacillifére
+
+Altération de l'état nutritionnel (amaigrissement, manque d'appétit, stagnation et/ou retard staturo-pondéral)
+
+Fièvre et sueurs nocturnes
+
+Adénopathies cervicales
+
+Toux de plus de 15 jours
+
+Baisse du rendement scolaire et des activités ludiques
+
+BAAR (Frottis, GenXpert) et/ou
+
+Radiographie et/ou
+
+IDRT
+
+BAAR (+) GenXpert (+) et/ ou
+
+Anomalies radiologiques évocatrices de TB et/ ou
+
+IDRT (+)
+
+BAAR (-) GenXpert (-) et
+
+Pas d'anomalies radiologiques évocatrices de TB et
+
+IDRT (-)
+
+Traiter une tuberculose
+
+Traitement non spécifique pendant 15 jours :
+
+Si pas d'amélioration : Référer
+
+Interprétation IDRT
+
+* IDRT positive si :
+
+- IDRT ≥ 5 mm chez enfant VIH ou malnutri
+
+- Si IDRT ≥ 10 mm chez autre enfant
+
+3. TRAITEmENT DE LA TUBERCULOSE DE L'ENFANT
+
+3.1 PRINCIPES DU TRAITEmENT
+
+Le traitement doit être administré quotidiennement sous supervision direct (TDO) chez les enfants comme chez les adultes.
+
+Le traitement comprend deux phases : une phase intensive suivi d'une phase de continuation.
+
+Le schéma de traitement dépendra de la catégorie, de l'âge, et de la localisation.
+
+La surveillance régulière du poids est un élément essentiel dans le suivi de l'enfant atteint de tuberculose.
+
+Tous les malades TPM (+), TPM(-) et TEP traités doivent faire 3 examens de contrôles durant leur traitement :
+
+- Nouveaux cas : 2ème, 5ème et 6ème mois
+
+- Retraitement : 3ème, 5ème et 8ème mois
+
+La recherche des effets indésirables doit être systématique et active durant toute la durée du traitement.
+
+La streptomycine n'est pas indiquée chez les patients nouveaux cas quelle que soit la localisation.
+
+L'éthambutol peut être administré en toute sécurité à tous les enfants aux doses recommandées.
+
+3.2 LES ANTITUBERCULEUx
+
+Les molécules disponibles pour le traitement de 1ère ligne sont :
+
+molécule
+
+Rifampicine
+
+Isoniazide
+
+Abréviation
+
+R
+
+H
+
+Dose journalière (mg/kg)
+
+Pyrazinamide
+
+Z
+
+Ethambutol
+
+Streptomycine
+
+Association Rifampicine, Isoniazide 60/30
+
+Association Rifampicine, Isoniazide 150/75
+
+Association Rifampicine, Isoniazide, pyrazinamide
+
+E
+
+S
+
+Association Rifampicine, Isoniazide, pyrazinamide,
+
+Ethambutol
+
+Les molécules disponibles pour le traitement de 2ème ligne:
+
+molécule
+
+Ethionamide
+
+Lévofloxacine
+
+Abréviation
+
+Eto
+
+Lfx
+
+Dose journalière (mg/kg)
+
+Amikacine
+
+Am
+
+Cyclosérine
+
+Acide para- amino-salicylique
+
+Cs
+
+PAS
+
+150 mg/kg
+
+3.3 PROTOCOLE DE TRAITEmENT
+
+Le protocole de traitement dépend de la catégorie de traitement et de la localisation.
+
+!
+
+Catégorie I ou Nouveau cas : Malade n'ayant jamais été traité par des médicaments antituberculeux ou traité pendant moins d'un mois.
+
+Traitement de 6 mois :
+
+- Enfants de 0 - 10 ans
+
+: 2 (RHZ) E / 4 (RH)
+
+- Enfants de 11- 14 ans : 2 (RHZE) / 4 (RH)
+
+Cas particuliers des localisations ostéoarticulaire, méningée et miliaire.
+
+Tuberculose ostéo- articulaire :
+
+Traitement de 12 mois : 2 (RHZ) E /10 (RH) méningite Tuberculeuse :
+
+Traitement de 12 mois : 2 (RHZ) E /10 (RH)
+
+Afin de réduire les risques d'hydrocéphalie on associe au traitement une corticothérapie à base de Prednisone à raison de 1 à 2mg/kg/jour (maximum 60 mg/jour) pendant 4 semaines, ensuite réduction progressive pour arrêter au bout de 2-4 semaines.
+
+miliaire Tuberculeuse :
+
+Traitement de 6 mois : 2 (RHZE) /4 (RH)
+
+Associée à une corticothérapie en cas de détresse respiratoire. (Cf. protocole de corticothérapie dans la méningite tuberculeuse).
+
+N.B. : Il faut rappeler l'importance de la vaccination au BCG pour prévenir ces deux formes graves (méningite et miliaire)
+
+Catégorie II ou Retraitement : Malade ayant déjà bénéficié d'un traitement antituberculeux (cas de rechute, de reprise ou d'échec) :
+
+Traitement de 8 mois quelque soit l'âge
+
+2 S (RHZ)E / 1 (RHZ)E / 5 (RHZ) E
+
+La durée du traitement antituberculeux dans la tuberculose ostéo-articulaire et la méningite tuberculeuse est de 12 mois
+
+3.4 POSOLOGIES
+
+Posologie pour les patients nouveaux cas par tranche de poids
+
+Période de traitement (RHZ)
+
+Phase
+
+Intensive (2 mois)
+
+Poids en kg
+
+Phase
+
+Continuation (4 mois) médicaments
+
+Posologies pour les patients en retraitement par tranche de poids
+
+Période de traitement
+
+Phase
+
+Intensive (3 mois)
+
+Phase
+
+Continuation (5 mois) médicaments
+
+S (RHZ)
+
+Poids en kg (RHZ)
+
+Le dosage de la streptomycine doit être calculé en fonction du poids à raison de 15 mg/kg pendant 2 mois sans dépasser 1g / jour.
+
+En raison des tranches de poids très serrées nous recommandons vivement aux prestataires de peser les patients au moins une fois par semaine durant la phase intensive, et tous les 15 jours durant la phase de continuation.
+
+3.5 CONDUITE DU TRAITEmENT
+
+Nouveaux cas
+
+Phase Intensive : dure 2 mois (RHZ) E pendant 2 mois
+
+Contrôle de fin de 2ème mois :
+
+- Négatif : passage à la phase de consolidation
+
+- Positif : passage à la phase de consolidation et contrôle bactériologique au troisième mois
+
+- Contrôle 3ème mois positif : réaliser une culture à la recherche d'une résistance et continuer le traitement de consolidation jusqu'à l'obtention des résultats de la culture
+
+- Contrôle 3ème mois négatif : poursuivre la phase de consolidation
+
+Phase de consolidation: dure 4 mois (RH) pendant 4 mois
+
+Contrôle de fin de 5ème mois :
+
+- Négatif : poursuivre le traitement
+
+- Positif : ECHEC
+
+- Enregistrement du patient
+
+- Protocole de retraitement (surveillance +++)
+
+- Culture, GenXpert
+
+Contrôle de fin de traitement du 6ème mois
+
+- Négatif : attestation de guérison
+
+- Positif : ECHEC
+
+- Enregistrement du patient
+
+- Protocole de retraitement (surveillance +++)
+
+- Culture, GenXpert
+
+Examens paracliniques
+
+Phase Intensive : dure 3 mois
+
+S (RHZ) E pendant 2 mois et (RHZ) E pendant 1 mois
+
+Contrôle de fin de 3ème mois :
+
+- Négatif : passage à la phase de consolidation
+
+- Positif :
+
+- Passage à la phase de consolidation
+
+- Culture
+
+Phase de consolidation: dure 5 mois (RHZ) E pendant 5 mois
+
+Contrôle de fin de 5ème mois :
+
+- Négatif : poursuivre le traitement
+
+- Positif : ECHEC
+
+- Enregistrement du patient
+
+- Continuer le protocole de retraitement (surveillance +++)
+
+- Culture, GenXpert
+
+Contrôle de fin de traitement du 8ème mois
+
+- Négatif : attestation de guérison
+
+- Positif : ECHEC
+
+- Enregistrement du patient
+
+- Continuer le protocole de retraitement (surveillance +++)
+
+- Culture, GenXpert
+
+L'efficacité du traitement sera évaluée sur la disparition des signes cliniques et surtout la prise de poids. Chez les malades diagnostiqués TPM+, l'efficacité du traitement sera attestée par la négativation des expectorations.
+
+Pour les contrôles, un seul échantillon des expectorations suffit, de préférence matinal. Il se fera pour les nouveaux cas à la fin des 2èmes, 5èmes et 6èmes mois. Pour les retraitements, les contrôles seront effectués à la fin des 3èmes, 5èmes et 8èmes mois.
+
+Tout patient, quelle que soit la catégorie de traitement qui présente un frottis positif au-delà du 2ème mois de traitement, doit bénéficier d'une culture pour un dépistage précoce des formes résistantes
+
+3.6 GESTION DES EFFETS INDéSIRABLES médicament
+
+Ethambutol
+
+Isoniazide
+
+Pyrazinamide
+
+Effets indésirables
+
+- Troubles visuels
+
+- Hépatite
+
+Conduite à tenir
+
+- Arrêter
+
+- Arrêter et référer
+
+- Neuropathie périphérique
+
+- Administrer complexe vitamine B
+
+- Convulsions, somnolence/léthargie psychose aiguë, pellagre, agranulocytose, réactions lupoïdes, éruptions cutanées
+
+- Arrêter et référer
+
+- Hépatite
+
+- Arrêter et référer
+
+- Arthralgies
+
+- Prescrire un traitement antalgique
+
+- Troubles digestifs, éruptions cutanées, anémie sidéroblastique
+
+Rifampicine
+
+Streptomycine
+
+- Traitement symptomatique
+
+- Anorexie, nausées, douleurs abdominales
+
+- Traitement symptomatique
+
+- Urines teintées rouge orangé
+
+- Rassurer le malade
+
+- Hépatite
+
+- Arrêter et référer
+
+- Insuffisance rénale aiguë, choc, thrombopénie, éruption cutanée grave, pseudo insuffisance surrénalienne, ostéomalacie, anémie hémolytique, troubles généraux y compris le choc et le purpura
+
+- Arrêter et référer
+
+- Perte de l'acuité auditive, troubles de l'équilibre
+
+- Arrêter et référer
+
+- Eruptions cutanées
+
+- Arrêter et référer
+
+- Atteinte rénale
+
+- Arrêter et référer
+
+Cf document de pharmacovigilance PNT (2008)
+
+N.B : Tout effet indésirable doit être enregistré sur la fiche de notification des effets indésirables des médicaments et produits médicaux qui sera envoyée au centre anti-poison.
+
+4. COINFECTION TB /VIH DE L'ENFANT
+
+4.1 GéNéRALITéS
+
+La tuberculose peut apparaitre à n'importe quel stade de l'infection à VIH.
+
+Au stade précoce, la symptomatologie est la même que chez un enfant immunocompétent. A mesure que l'immunité décline, les formes disséminées telles que la méningite et la miliaire se font plus fréquentes.
+
+Les parents infectés par le VIH sont plus à risques de développer une tuberculose pulmonaire, augmentant ainsi le risque d'exposition pour leurs enfants. Le passage de l'infection à la maladie se fait plus fréquemment et plus rapidement.
+
+Par ailleurs le VIH rend plus difficile le diagnostic de tuberculose pulmonaire chez les enfants car :
+
+les signes de tuberculose et ceux des autres maladies pulmonaires liées au VIH peuvent être difficiles à distinguer, les anomalies radiologiques sont peu spécifiques en cas de co-infection TB-VIH,
+
+L'IDR à la tuberculine est parfois négative.
+
+Il est donc important de :
+
+proposer systématiquement le test de dépistage du VIH aux enfants tuberculeux, rechercher activement la tuberculose chez l'enfant VIH(+) à chaque visite de suivi.
+
+4.2 SIGNES DE LA TUBERCULOSE CHEZ L'ENFANT INFECTé PAR LE VIH Les manifestations cliniques sont les mêmes que chez l'immunocompétent. Toutefois la détection doit être plus précoce.
+
+A quelle occasion faut-il rechercher des signes de suspicion ?
+
+- A chaque visite de suivi de la PVVIH,
+
+- A chaque contact avec le patient ; Pas seulement lors des visites planifiées de suivi.
+
+Quels signes rechercher ?
+
+- Amaigrissement ou retard staturo-pondéral,
+
+- Fièvre,
+
+- Toux,
+
+- Contact récent avec un cas connu de tuberculose évolutive.
+
+Les enfants vivant avec le VIH qui présentent l'un des symptômes suivants :
+
+prise de poids insuffisante, fièvre, toux, ou qui ont été en contact avec un cas de tuberculose, sont susceptibles d'être atteints de tuberculose.
+
+NB : Toujours appliquer la fiche de recherche active de la tuberculose (Fiche de screening TB)
+
+4.3 CO-TRAITEmENT TB/VIH
+
+Traitement antituberculeux
+
+Traitement classique de la tuberculose (Cf Traitement de la tuberculose)
+
+Chimioprophylaxie au cotrimoxazole
+
+Mise sous cotrimoxazole systématique quelle que soit le taux de CD4
+
+Traitement ARV
+
+TABLEAU 10 : CO-TRAITEmENT ANTITUBERCULEUx ET ARV CHEZ LES ENFANTS CO-INFECTéS Enfant VIH + qui présente une tuberculose active
+
+Démarrer immédiatement le traitement de la tuberculose
+
+Cotrimoxazole systématique
+
+TARV dés que possible quelque soit le taux de CD4 (dans les 8 premières semaines)
+
+Enfant TB + /VIH + sous (RHZ)E
+
+Si < 3 ans : AZT + 3TC + ABC
+
+Si > 3 ans :
+
+- VIH-1 : AZT + 3TC + EFV/ABC + 3TC + EFV
+
+- VIH-2 : AZT + 3TC + ABC
+
+Enfant VIH +/TB + sous TARV
+
+- Démarrer immédiatement le traitement de la tuberculose
+
+- Modifier le traitement ARV :
+
+Si AZT+ 3TC + NVP :
+
+- AZT + 3TC + ABC si enfant <3 ans
+
+- AZT + 3TC + EFV si enfant >3 ans
+
+Si AZT+3TC+LPV/r
+
+- AZT+3TC+ABC
+
+N.B : Chez les enfants de plus de 12 ans le Ténofovir (TDF) peut être utilisé en cas d'anémie
+
+Tout patient tuberculeux doit bénéficier d'une proposition de test de dépistage VIH Des signes de tuberculose doivent systématiquement être recherchés à chaque visite médicale d'une personne infectée par le VIH
+
+La chimioprophylaxie au cotrimoxazole doit être systématique en cas de co-infection TB/VIH
+
+Le traitement ARV doit être instauré dans les 15 jours qui suivent le diagnostic
+
+5. TUBERCULOSE mULTIRéSISTANTE DE L'ENFANT
+
+Caractéristiques du cas index suspect de TB-MR
+
+- Patient TB MR connu
+
+- Patient bacillifére après 3 mois de traitement bien conduit
+
+- Patient en retraitement (Echec, rechute, reprise)
+
+- Patient non observant
+
+Caractéristiques de l'enfant suspect de TB-MR
+
+- Enfant contact de patient TB MR connu
+
+- Enfant bacillifére après 3 mois de traitement bien conduit
+
+- Enfant en retraitement (Echec, rechute, reprise)
+
+- Enfant non observant
+
+Le schéma thérapeutique utilisé au Sénégal est celui de 24 mois :
+
+6 AmLfxCsPASEtoZ/ 18 LfxPASEtoZ
+
+Un enfant suspect de tuberculose multirésistante doit être immédiatement référé dans un centre de prise en charge de la tuberculose multirésistante.
+
+6. TUBERCULOSE NéONATALE
+
+La tuberculose peut être acquise en période périnatale. La tuberculose congénitale est exceptionnelle, environ 350 cas seulement de tuberculose congénitale sont recensés dans le monde. Les signes sont peu spécifiques. Le diagnostic est souvent méconnu (mortalité élevé >50%).
+
+La transmission mère-enfant :
+
+- Anténatale : par voie hématogène (50 %), et par infection du liquide amniotique inhalé ou dégluti (50%). La transmission peut également se faire par voie transplacentaire à travers la veine ombilicale vers le foie fœtal.
+
+- Périnatale : par transmission verticale lors de l'accouchement (rare), ou néonatale par voie aérienne après la naissance (membres de la famille)
+
+- Signes cliniques
+
+La présentation clinique est peu spécifique. Les signes les plus fréquemment encontrés sont :
+
+- La détresse respiratoire,
+
+- L'hépatomégalie avec ou sans splénomégalie,
+
+- La fièvre,
+
+- La mauvaise prise alimentaire,
+
+- Et les adénopathies.
+
+Ces signes peuvent être présents dès la naissance mais dans la majorité des cas, ils apparaissent dans les 2 à 3 premières semaines de vie.
+
+La tuberculose néonatale se manifeste en général par une atteinte de plusieurs organes.
+
+- Diagnostic de la tuberculose néonatale
+
+IDRT : reste généralement négative pendant les 6 premières semaines de vie.
+
+Chez le nouveau-né, toute induration est considérée comme un test positif.
+
+La radiographie du thorax peut montrer des infiltrats non spécifiques.
+
+Critères de diagnostic de la tuberculose néonatale : Beitzke et Cantwell Présence d'au moins un des critères suivants :
+
+- Lésions survenant dans la première semaine de vie
+
+- Complexe primaire hépatique ou granulome caséeux
+
+- Infection tuberculeuse documentée de l'endomètre ou du placenta
+
+- Exclusion d'une tuberculose postnatale
+
+7. PRéVENTION DE LA TUBERCULOSE
+
+7.1 GESTION DU SUJET CONTACT
+
+Il faut toujours rechercher le cas index. Le plus souvent il s'agit d'un adulte, parfois non diagnostiqué, vivant sous le même toit.L'examen des contacts doit se faire pour toute la famille et l'entourage de l'enfant atteint de tuberculose.
+
+SIx qUESTIONS ImPORTANTES A POSER AU DEBUT DU TRAITEmENT
+
+1. Le patient est-il BAAR (+) ?
+
+2. Combien d'enfants de 0 à 14 ans vivent dans le ménage ?
+
+3. Quel est l'âge de ces enfants ?
+
+4. Ces enfants sont-ils malades ou sains ?
+
+5. Y'a-t-il d'autres personnes dans la maison qui toussent, adultes comme enfants ?
+
+6. Y'a-t-il d'autres personnes qui toussent dans l'entourage ?
+
+Tout enfant de 0 à 14 ans en contact avec un cas de tuberculose à frottis positifs doit être examiné
+
+La fiche de suivi des contacts doit être administrée à tout enfant contact avec un suivi mensuel pendant 6 mois.
+
+La conduite à tenir sera fonction de l'état clinique et de l'âge du contact.
+
+Chez les enfants de moins de 5 ans en contact avec un cas de tuberculose à frottis positif, il faut :
+
+Si l'enfant est asymptomatique, administrer un traitement préventif à l'isoniazide. Le suivi est mensuel et la fiche de suivi des contacts sera remplie à chaque visite.
+
+(Voir Annexe 5)
+
+Si l'enfant montre des signes évocateurs d'une tuberculose , référer à l'algorithme de diagnostic de la tuberculose de l'enfant. (Voir page 15)
+
+La posologie de l'Isoniazide dans la chimioprophylaxie est de 10 mg/kg/j pendant 6 mois sans dépasser la dose de 300 mg/j.
+
+EN RéSUmé
+
+Enfant contact de patient TPm (+)
+
+Enfant contact de 5 ans et moins :
+
+Asymptomatique
+
+6 mois d'INH
+
+Si après symptomatique
+
+Traiter
+
+Symptomatique
+
+Traiter
+
+Enfants contact de 6 à 14 ans :
+
+Asymptomatique
+
+Surveiller pendant le traitement du cas index
+
+Si après symptomatique
+
+Traiter
+
+Symptomatique
+
+Traiter
+
+Enfant VIH+ :
+
+Asymptomatique
+
+6 mois d'INH
+
+Si après symptomatique
+
+Traiter
+
+Symptomatique
+
+Traiter
+
+Enfant contact de TB-mR :
+
+Asymptomatique :
+
+Surveillance clinique mensuelle
+
+Si après symptomatique :
+
+GenXpert + culture
+
+Si symptomatique :
+
+GenXpert + culture
+
+Si la résistance est confirmée il faut mettre l'enfant sous traitement TB-MR.
+
+Cas particulier du nouveau né
+
+Les nouveau-nés nés de mère atteinte de tuberculose évolutive doivent bénéficier d'une surveillance particulière. (Voir algorithme de prise en charge des nouveau-nés nés de mère atteinte de tuberculose évolutive. (Annexe 4)
+
+Les nouveau-nés nés de mère atteinte de tuberculose évolutive peuvent être alimentés au sein. Toutefois il faut enseigner à la maman les régles à respecter en cas de toux.
+
+7.2 LUTTE CONTRE L'INFECTION
+
+La prévention de l'infection tuberculeuse doit se faire aussi bien dans la famille de l'enfant, les structures fréquentées par l'enfant (écoles, garderies, daaras, etc.), que dans les structures de soins.
+
+Dans les structures de soins
+
+Il faut mettre en place des mesures administratives et gestionnaires, environnementales et individuelles :
+
+Mesures administratives et gestionnaires :
+
+- Mise en place d'un comité de lutte contre l'infection
+
+- Surveillance sur site de la tuberculose maladie chez le personnel de santé et évaluer l'établissement
+
+- Identification rapide et triage des tousseurs
+
+- Application des règles d'hygiène de la toux
+
+- Réduction du temps d'attente
+
+- Traitement rapide des cas contagieux
+
+Mesures environnementales :
+
+- Bonne aération, ventilation et ensoleillement des locaux.
+
+Mesures Individuelles :
+
+- Utilisation de masques de type FFP2 ou N95 pour le personnel et de masques chirurgicaux pour les tousseurs.
+
+Dans les familles et les collectivités :
+
+- Identification et orientation des tousseurs
+
+- Aération et ensoleillement des habitations
+
+- Soutien au patient pour une bonne observance du traitement
+
+- Application des règles d'hygiène de la toux : mettre un mouchoir en tissu ou le creux du coude devant la bouche.
+
+mESSAGES CLES A ADRESSER A L A FAmILLE
+
+- Vacciner les enfants au BCG à la naissance
+
+- Orienter vers les structures de soins tout tousseur de plus de 15 jours
+
+- La tuberculose est une maladie qui se guérit
+
+- Le traitement est gratuit et dure 6 mois sans interruption
+
+- Le traitement doit être directement supervisé
+
+- Il faut soutenir le patient dans son traitement
+
+7.3 LA VACCINATION AU BCG
+
+Le BCG (Bacille de Calmette et Guérin) est une souche de Mycobacterium bovis dont la virulence est atténuée mais capable de stimuler les défenses de l'hôte.
+
+Le BCG ne prévient pas la tuberculose mais protège contre les formes graves (miliaire et méningite) qui surviennent après l'infection, surtout chez les enfants.
+
+La vaccination par le BCG est obligatoire pour tous les nouveau-nés à la naissance et est sous la responsabilité du Programme Elargi de Vaccination (PEV).
+
+Il peut être administré aux nouveau-nés et nourrissons exposés ou infectés au VIH qui sont asymptomatiques.
+
+La vaccination au BCG est contre-indiquée chez le nourrisson présentant des signes fortement évocateurs de SIDA (stade IV, malnutrition sévère inexpliquée et persistante, septicémie sévère, pneumonie sévère, candidose buccale chez les enfants âgés de plus d'un mois).
+
+La vaccination au BCG protège contre les cas graves de tuberculose que sont la miliaire et la méningite tuberculeuse
+
+ANNExES
+
+ANNExE 1: DéFINITION OPéRATIONNELLE DES CAS DE TUBERCULOSE
+
+Catégorie I ou Nouveaux cas :
+
+Malade jamais traité ou ayant reçu moins d'un mois de traitement (TPM+) , (TPM-) ou extrapulmonaire (TEP).
+
+Catégorie II ou retraitement :
+
+Echec :
+
+Malade qui présente une microscopie positive au delà du 5ème mois de traitement bien suivi.
+
+Rechute
+
+Malade déclaré guéri qui revient avec une microscopie positive.
+
+Reprise de traitement
+
+Malade qui présente une microscopie positive après avoir interrompu son traitement pendant plus de 2 mois consécutifs.
+
+Cas autre
+
+Malade ayant déjà été traité pour tuberculose et qui présente une tuberculose non confirmée par la bactériologie.
+
+Catégorie IV : Tuberculose résistante (TB-mR)
+
+Malade qui présente une culture positive résistante au moins à l'isoniazide et à la rifampicine
+
+ANNExE 2 : DéFINITION OPéRATIONNELLE DES ISSUES DU TRAITEmENT Tout patient mis sous traitement doit être évalué à la fin de la période de traitement. Il y a 6 issues possibles :
+
+Guéri : Patient TPM(+) (nouveau cas ou retraitement) qui termine le traitement avec au moins les 2 derniers contrôles négatifs, l'un à la fin du traitement et l'autre précédemment.
+
+Traitement Terminé :
+
+Patient TPM(+) (nouveau ou retraitement) qui a achevé son traitement mais ne peut être classé comme guéri ou échec.
+
+Patient TPM(-) dont les frottis à la fin de la phase intensive sont restés négatifs, et qui a complété son traitement.
+
+Patient TPM(-), dont les frottis à la fin de la phase intensive sont positifs, les contrôles au 5ème mois et en fin de traitement étant négatifs.
+
+Cas de tuberculose extrapulmonaire ayant terminé son traitement.
+
+Patient nouveau cas TPM+ dont les frottis sont positifs au 5ème mois ou plus tard au cours du traitement
+
+Patient sous retraitement dont les frottis dont les frottis sont positifs au 5ème mois ou plus tard au cours du re traitement
+
+Patient qui est passé à un traitement de catégorie IV car le test de sensibilité a confirmé une TB-MR.
+
+Patient diagnostiqué comme TPM- ou cas autres dont les frottis sont sont positifs au 5ème mois ou plus tard au cours du re traitement
+
+Echec :
+
+Décédé : Patient décédé en cours de traitement, quelle que soit la cause.
+
+Perdu de vue : Patient n'ayant pas pris ses médicaments pendant 2 mois consécutifs ou plus.
+
+Transféré (transfert sortant) : Malade qui a été transféré vers un autre CDT et dont les résultats finaux ne sont pas connus dans le CDT où il a été enregistré initialement
+
+ANNExE 3 : DéFINITIONS DANS LA TUBERCULOSE RéSISTANTE
+
+Tuberculose provoquée par une souche de M. Tuberculosis résistante in vitro Mono résistance :
+
+Résistance à une des molécules de 1ère ligne (R, H, Z, E, S)
+
+Poly résistance :
+
+Résistance à au moins 2 des molécules de 1ère ligne (R, H, Z, E, S).
+
+Multi résistance (TB-MR ou MDR) :
+
+Résistance au moins à l'Isoniazide et à la Rifampicine
+
+Ultra résistance (XDR) :
+
+TB-MR associée à une résistance à une fluoroquinolone et à au moins un des aminosides injectables utilisés dans le traitement de la TB-MR
+
+Enfant asymptomatique :
+
+surveillance mensuelle pendant 6 mois mère BAAR (+)
+
+Enfant asymptomatique :
+
+traiter une tuberculose
+
+Vaccination au BCG m1 : surveillance cliniqueet pondérale m2 : Evaluation (clinique + Rxthorax +
+
+IDRT) mère BAAR (-)
+
+Enfant asymptomatique
+
+Traitement complet vaccination BCG à la fin du traitement
+
+Enfant asymptomatique :
+
+continuer la chimioprophylaxie à l'INH surveillance mensuelle pendant 6 mois
+
+Chimioprophylaxie à l'INH m1 : surveillance clinique et pondérale m2 : Evaluation (clinique + Rxthorax + IDRT)
+
+Enfant présente des signes de tuberculose :
+
+tuberculose congénitale
+
+Enfantasymptomatique :
+
+traiter une tuberculose mère atteinte de tuberculose évolutive
+
+ANNExE 4 : ALGORITHmE POUR LA CHImIOPROPHyLAxIE DU NOUVEAU Né
+
+ANNExE 5 : FICHE DE SCREENING DE L'ENFANT CONTACT DE TPm(+) Ministère de la Santé et de l'Action Sociale
+
+Programme National de lutte Contre la Tuberculose
+
+FICHE DE DEPISTAGE DE LA TUBERCULOSE CHEZ L'ENFANT CONTACT DE TPM+ N B : C e q u e st i o n n a i r e e st à a d m i n i st r e r s y st é m a ti q u e m e n t à t o u s l e s e n f a n t s c o n t a c t s d e m a l a d e T P M ( + ) E n fa n t :
+
+M
+
+F
+
+V e u i l l e z p o s e r s u c c e ss i v e m e n t l e s q u e st i o n s c i - d e s s o u s a u p a t i e n t .
+
+D a t e d e r e m p l i ss a g e :
+
+D a t e d e r e m p l i ss a g e :
+
+D a t e d e r e m p l i ss a g e :
+
+D a t e d e r e m p l i ss a g e :
+
+1 L 'e n fa n t e st-il e n c o n ta c t a v e c u n m a la d e con n u
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+2 L ' e n f a n t s o u ff r e - t - i l d ' u n e a n o r e x i e (manque d'appétit) et apathie
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+3 L ' e n f a n t p r é s e n te - t - i l u n a m a i g ri ss e m e n t :
+
+p e rt e o u st a g n a t i o n d u p o i d s
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+4 D im in u tio n d u re n d e m e n t sc o la ire e t/o u d e s a c tiv ité s lu d iqu e s
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+5 . T o u x d e p l u s d e 1 5 j o u rs
+
+6 . F i è v r e e t s u e u rs n o c t u r n e s
+
+7 . P ré se nc e d 'a d é n o pa th ie s
+
+Penser à la tuberculose de l enfant et faire une investigation diagnostique devant un des signes suivants une toux, une fièvre, une perte de poids, des sueurs nocturnes. Mais rechercher éventuellement d autres signes tels que des difficultés respiratoires, épanchement des séreuses (plèvre, péricarde, péritoine), adénopathies surtout cervicales, une raideur de la nuque, déformations osseuses au niveau de la colonne vertébrale ou des articulations.
+
+C O N C L U S IO N
+
+C o n c l u si o n : s u s p i c i o n d e t u b e r c u l o s e
+
+Oui
+
+Non
+
+Oui
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+RECOMMANDATIONS
+
+S i l ' e n f a n t e s t s u s p e c t d e t u b e r c u l o s e , c o c h e z u n e d e s c a s e s c o rr e s p o n d a n t à v o t r e a c t i o n :
+
+L e d i a g n o st i c d e l a t u b e r c u l o s e d e l ' e n f a n t e st p o sé
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+L ' e n f a n t e st p ri s e n c h a r g e d a n s l e C D T d e l a st r u c t u r e p o u r l e t r a i t e m e n t d e l a t u b e r c u l o s e
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+L ' e n f a n t e st r é f é r é d a n s u n C D T p o u r l e tra ite m e n t d e la tu b e rc u lo se
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+L ' e n f a n t a u n e c o n t r e i n d i c a t i o n à l 'I N H (e x e m p le : a lle rg ie )
+
+L ' e n f a n t e st s o u s p r o p h y l a x i e à l 'I N H
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+Non
+
+Oui
+
+N on
+
+Non
+
+PNT 2012
+
+P o id s
+
+P o id s
+
+1 0 m g /k g
+
+1 0 m g /k g
+
+P o s o lo g ie (10 mg/kg/j sans dépasser 300 mg/j)
+
+>30 kg
+
+Tuberculose évolutive : Date ___
+
+__ Structure de traitement ____________
+
+___ N° sur le registre de traitement de la Tuberculose _____________________
+
+Date d'arrêt INH _________________
+
+M o is
+
+Jou r
+
+Numéro dans le registre CDT : _____________ Lien de parenté : ________________
+
+C A S IN D E X :
+
+Numéro Téléphone Parent/Tuteur : ________________________________
+
+F
+
+Unité de traitement__________________
+
+M
+
+S exe :
+
+Programme National de lutte Contre la Tuberculose
+
+FICHE D'ADMINISTRATION DE LA CHIMIOPROPHYLAXIE INH!
+
+ENFANT :
+
+Ministère de la Santé
+
+M IN IS T E R E D E L A S A N T E E T et de l'Action Sociale
+
+D E L 'A C T I O N S O C I A L E
+
+ANNExE 6 : FICHE D'ADmINISTRATION DE L'INH CHEZ L'ENFANT CONTACT
+
+FICHE DE TRAITEMENT
+
+ANTITUBERCULEUX
+
+Adulte
+
+Re-traitement
+
+Jour
+
+ARV
+
+CTM 480
+
+Voir au verso pour la phase de continuation
+
+CTM 960
+
+AUTRES TRAITEMENTS
+
+Résultat de l'Examen de l'exploitation
+
+Résultat
+
+Date
+
+N° Labo bacilloscopique
+
+Sérologie (P.N.R)
+
+6 ou 8
+
+2 ou 3
+
+Mois
+
+* Cochez la case correspondante dès que les médicaments ont été administrés
+
+Mois
+
+Z (RH) (comprimés de RH) (RHZE) (comprimés) de ERHZ) S (RHZE) (comprimés) de EHZE) (S seulement pendant 2 mois)
+
+S = Streptomycine
+
+E = Ethambutol
+
+R = Rifampicine
+
+* Indiquer le nombre de comprimés et ledosage de S (gramme) prescrits oar jour
+
+Enfant
+
+Nouveau cas
+
+Régime et Posologie prescrits
+
+I - PHASE INITIALE INTENSIVE
+
+Date de
+
+RDV
+
+Transfert
+
+Autres
+
+POIDS (Kg)
+
+Reprise après abandon
+
+Echec
+
+F
+
+Nouveau
+
+M
+
+Rechute
+
+SITE DE LA MALADIE
+
+Pulmonaire
+
+Etraa Pulmonaire
+
+SEXE :
+
+Programme National de lutte Contre la Tuberculose
+
+ANNExE 7 : FICHE DE TRAITEmENT DE LA TUBERCULOSE
+
+PROGRAMME NATIONAL DE LUTTE
+
+CONTRE LA TUBERCULOSE
+
+SENEGAL
+
+Ministère de la Santé et de l'Action Sociale
+
+Re-traitement :
+
+Enfant
+
+Adulte
+
+Comprimés RH
+
+Quotidiennement (4 mois)
+
+CTM 960
+
+AUTRE
+
+CTM 480
+
+AUTRES TRAITEMENTS
+
+Compriméa RHZE
+
+Quotidiennement (6 mois)
+
+Perdu
+
+Transféré
+
+Traitement terminé
+
+Echec
+
+Décision à l'arrêt du Traitement
+
+Décédé
+
+Guéri
+
+Date de l'arrêt du Traitement
+
+- Marquer d'un X le jour de la prise supervisée des médicaments ou la date de recueil des médicaments
+
+- Lorsque les médicaments sont remis aux malades sous auto-médiation, tirer une ligne horizontale ( ) pour indiquer le nombre de jours de traitement auxquels la provision de médicaments correspond : terminer par un point
+
+Mois
+
+Jour
+
+Inscrire le régime et le dosage prescrits (indiquer le nombre de comprimés par dose)
+
+II - PHASE DE CONTINUATION cf. Directives
+
+ANNExE 8 : AFFICHE POUR LA RECHERCHE ACTIVE DE LA TUBERCULOSE CHEZ LES PVVIH
+
+Recherche active de la TB chez les PVVIH questionnement
+
+- Patient a-t-il une toux actuelle ?
+
+- Patient a-t-il des sueurs nocturnes depuis plus de 2 semaines ?
+
+- Patient a-t-il perdu 3 kg ou plus ces 4 dernières semaines ?
+
+- Patient a-t-il de la fièvre depuis plus de 2 semaines ?
+
+- Patient a-t-il eu un contact étroit avec un patient tuberculeux ?
+
+- Patient a-t-il une poly adénopathie ?
+
+Tuberculose suspectée :
+
+Si un seul signe = oui
+
+- Faire crachets BARR
+
+- Si négatif faire RX poumons
+
+- GenXpert
+
+- Rechercher TEP
+
+N
+
+O
+
+N
+
+Répéter au prochain RV
+
+République du Sénégal
+
+Ministère de la Santé et de l'Action Sociale
+
+RéFéRENCES BIBLIOGRAPHIqUES :
+
+Guidance for national tuberculosis programs on the management of tuberculosis in children. Genève, Organisation mondiale de la Santé, 2006 (WHO/HTM/TB/2006.371;
+
+WHO/FCH/CAH/2006.7;
+
+disponible sur le site suivant:
+
+http://www.who.int/tb/publications/2006/en/).
+
+Normes internationales pour les soins de la tuberculose. La Haie, Coalition antituberculeuse pour l'assistance technique (TBCTA), 2006 (disponible sur le site suivant:
+
+http://www.who.int/tb/publications/2006/en/).
+
+Rapid advice: treatment of tuberculosis in children WHO/HTM/TB/2010.13
+
+Childhood tuberculosis: ending the neglect. Int J Tuberc Lung Dis 2002; 6 (5) 375-377.]
+
+Guide de prise en charge de l'infection à VIH au Sénégal. Version 2009. Ministère de la santé, de l'Hygiène et de la prévention
+
+Programme National de lutte Contre la Tuberculose
+
+WƌŽŐƌĂŵŵĞEĂƟŽŶĂůĚĞůƵƩĞŽŶƚƌĞůĂdƵďĞƌĐƵůŽƐĞ
+
+Wƌ
+
+ŽŐƌĂŵŵĞEĂƟŽŶĂůĚĞůƵƩĞŽŶƚƌĞůĂdƵďĞƌĐƵůŽƐĞ
+
+2, rue Aimée Césair
+
+Césairee BP 5899 FANN
+
+FANN
+
+Tél.
+
+Fax
+
+Email : pntsenegal@yahoo.fr pntsenegal@yahoo.fr
+
+Dakar Sénég al
+
+Dakar
+
+Sénégal

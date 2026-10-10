@@ -1,0 +1,78 @@
+# À chaque push sur main : tests, puis mise en ligne sur le serveur AWS Lightsail.
+# Secrets à créer dans GitHub (Settings → Secrets and variables → Actions) :
+#   SERVER_HOST  IP fixe du serveur Lightsail (ex. 15.188.10.20)
+#   SSH_KEY      contenu de la clé LightsailDefaultKey-eu-west-3.pem
+#   DOMAIN       domaine du bot (ex. 15.188.10.20.sslip.io)
+name: Tests et déploiement
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: deploiement
+  cancel-in-progress: false
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.32"
+          python-version: "3.12"
+
+      - name: Installer les dépendances (PyTorch CPU, plus léger)
+        run: |
+          uv venv
+          uv export --frozen --no-hashes --no-emit-project -o req.txt
+          TORCH_VERSION=$(sed -n 's/^torch==\([^ ;]*\).*/\1/p' req.txt)
+          grep -vE '^(torch|triton|nvidia-|cuda-)' req.txt > req-sans-torch.txt
+          uv pip install --index-url https://download.pytorch.org/whl/cpu "torch==$TORCH_VERSION"
+          uv pip install -r req-sans-torch.txt
+
+      - name: Vérifier le style
+        run: uv run --no-sync ruff check src tests
+
+      - name: Lancer les tests
+        run: uv run --no-sync pytest -q
+        env:
+          PYTHONPATH: src
+
+  deploy:
+    needs: tests
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Préparer la connexion SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_KEY }}" > ~/.ssh/sunuchat.pem
+          chmod 600 ~/.ssh/sunuchat.pem
+          ssh-keyscan -H "${{ secrets.SERVER_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Envoyer le code (data/ et .env du serveur ne sont jamais touchés)
+        run: |
+          rsync -az --delete -e "ssh -i ~/.ssh/sunuchat.pem" \
+            src assets deploy Dockerfile .dockerignore docker-compose.yml pyproject.toml uv.lock \
+            "ubuntu@${{ secrets.SERVER_HOST }}:~/sunuchat/"
+
+      - name: Reconstruire et redémarrer
+        run: |
+          ssh -i ~/.ssh/sunuchat.pem "ubuntu@${{ secrets.SERVER_HOST }}" \
+            "cd ~/sunuchat && docker compose up -d --build && docker image prune -f"
+
+      - name: Vérifier que le bot répond
+        run: |
+          for i in $(seq 1 30); do
+            curl -fsS "https://${{ secrets.DOMAIN }}/health" && exit 0
+            sleep 10
+          done
+          echo "Le serveur ne répond pas : regarde « docker compose logs app » sur le serveur"
+          exit 1

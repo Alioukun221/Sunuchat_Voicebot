@@ -1,0 +1,41 @@
+# Production : SunuChat derrière Caddy (HTTPS automatique avec Let's Encrypt).
+#   DOMAIN=sunuchat.exemple.com docker compose up -d --build
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      # Chemins du serveur (le .env du Mac contient des chemins /Users/...).
+      KB_DIR: /app/data/kb
+      EMBEDDING_DEVICE: cpu
+    volumes:
+      - ./data:/app/data # bases SQLite, index ChromaDB, corpus : gardés entre les mises à jour
+      - ./assets:/app/assets # images : modifiables sans reconstruire l'image
+      - hf-cache:/app/.cache/huggingface # modèle bge-m3 (2,3 Go), téléchargé une seule fois
+    expose:
+      - "8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 5s
+      start_period: 5m
+      retries: 3
+
+  caddy:
+    image: public.ecr.aws/docker/library/caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      DOMAIN: ${DOMAIN:?Indique le domaine, par exemple DOMAIN=13.37.1.2.sslip.io}
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+    depends_on:
+      - app
+
+volumes:
+  hf-cache:
+  caddy-data:
