@@ -252,3 +252,24 @@ def test_web_search_failure_does_not_break_answer(monkeypatch):
     req = SimpleNamespace(model="a", contents=[], config=types.GenerateContentConfig())
     r = asyncio.run(agent.web_fallback(None, req, RuntimeError("429")))
     assert "indisponible" in r.content.parts[0].text
+
+
+def test_gemini_embeddings_are_normalized(monkeypatch):
+    from types import SimpleNamespace
+
+    from sunuchat import knowledge
+
+    calls = []
+
+    def embed_content(model, contents, config):
+        calls.append((model, len(contents), config.task_type))
+        return SimpleNamespace(embeddings=[SimpleNamespace(values=[3.0, 4.0]) for _ in contents])
+
+    client = SimpleNamespace(models=SimpleNamespace(embed_content=embed_content))
+    monkeypatch.setattr(knowledge, "_genai_client", lambda: client)
+    monkeypatch.setattr(knowledge.get_settings(), "embedding_model", "gemini-embedding-001")
+    vectors = knowledge.embed_texts(["a"] * 150)
+    assert len(vectors) == 150 and vectors[0] == [0.6, 0.8]
+    assert [c[1] for c in calls] == [100, 50]
+    knowledge.embed_texts(["question"], query=True)
+    assert calls[-1][2] == "RETRIEVAL_QUERY"

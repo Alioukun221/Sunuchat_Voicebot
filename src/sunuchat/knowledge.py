@@ -16,9 +16,11 @@ Les documents viennent de trois endroits :
 
 import argparse
 import asyncio
+import functools
 import hashlib
 import json
 import logging
+import math
 import re
 import unicodedata
 from collections import Counter
@@ -270,10 +272,12 @@ async def collect_passages(kb_dir: Path, web: bool = True) -> list[Passage]:
     return unique
 
 
-# ---------- Embeddings (modèle local) et base vectorielle ChromaDB ----------
+# ---------- Embeddings et base vectorielle ChromaDB ----------
 #
 # Le modèle est téléchargé
-# une seule fois depuis Hugging Face (environ 2,3 Go) puis gardé en cache.
+# une seule fois depuis Hugging Face (environ 2,3 Go) puis gardé en cache. Avec
+# EMBEDDING_MODEL=gemini-embedding-001, les embeddings passent par l'API Gemini : presque pas
+# de mémoire, pour un petit serveur (1 Go). Changer de modèle demande `build --reset`.
 # Les passages et leurs vecteurs sont stockés dans ChromaDB (data/chroma/).
 
 COLLECTION = "sources_officielles"
@@ -305,7 +309,44 @@ def collection():
     return _collection
 
 
-def embed_texts(texts: list[str]) -> list[list[float]]:
+GEMINI_DIMENSIONS = 768
+
+
+def _uses_gemini() -> bool:
+    return get_settings().embedding_model.startswith("gemini")
+
+
+@functools.cache
+def _genai_client():
+    from google import genai
+
+    return genai.Client(api_key=get_settings().google_api_key or None)
+
+
+def _embed_gemini(texts: list[str], query: bool) -> list[list[float]]:
+    from google.genai import types
+
+    config = types.EmbedContentConfig(
+        task_type="RETRIEVAL_QUERY" if query else "RETRIEVAL_DOCUMENT",
+        output_dimensionality=GEMINI_DIMENSIONS,
+    )
+    vectors = []
+    for start in range(0, len(texts), 100):  # 100 textes au plus par requête
+        r = _genai_client().models.embed_content(
+            model=get_settings().embedding_model,
+            contents=texts[start : start + 100],
+            config=config,
+        )
+        for e in r.embeddings:
+            # Sous 3072 dimensions, Gemini ne normalise pas : on le fait pour le cosinus.
+            norm = math.sqrt(sum(x * x for x in e.values)) or 1.0
+            vectors.append([x / norm for x in e.values])
+    return vectors
+
+
+def embed_texts(texts: list[str], query: bool = False) -> list[list[float]]:
+    if _uses_gemini():
+        return _embed_gemini(texts, query)
     vectors = embedding_model().encode(
         texts,
         batch_size=16,
@@ -368,7 +409,8 @@ def load_index() -> bool:
     if n == 0:
         log.warning("Index RAG vide : lance `uv run python -m sunuchat.knowledge build`")
         return False
-    embedding_model()
+    if not _uses_gemini():
+        embedding_model()
     log.info("Index RAG prêt : %d passages", n)
     return True
 
@@ -378,7 +420,7 @@ def search(query: str, k: int = 4, max_distance: float = 0.6) -> list[Passage]:
     if col.count() == 0:
         return []
     res = col.query(
-        query_embeddings=embed_texts([query]),
+        query_embeddings=embed_texts([query], query=True),
         n_results=k,
         include=["documents", "metadatas", "distances"],
     )

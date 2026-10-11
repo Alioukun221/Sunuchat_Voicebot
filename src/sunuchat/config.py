@@ -34,7 +34,8 @@ class Settings(BaseSettings):
     # Modèles de secours, essayés dans l'ordre quand un modèle refuse (quota gratuit épuisé,
     # surcharge…) : chaque modèle a son propre quota, séparés par des virgules.
     fallback_models: str = "gemini-3.5-flash-lite,gemini-3.1-flash-lite,gemini-flash-lite-latest"
-    # Modèle d'embeddings local (sentence-transformers) pour le RAG.
+    # Embeddings du RAG : modèle local (sentence-transformers, ~3 Go de mémoire) ou
+    # « gemini-embedding-001 » (API Gemini, pour un serveur à 1 Go). Changer : build --reset.
     embedding_model: str = "BAAI/bge-m3"
     # "mps" (GPU du Mac), "cpu" ou "cuda". Vide : choix automatique.
     embedding_device: str = ""
