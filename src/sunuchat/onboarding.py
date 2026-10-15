@@ -6,7 +6,7 @@ textes.py.
 
 import logging
 
-from sunuchat import campaigns, speech, textes, whatsapp
+from sunuchat import campaigns, memory, speech, textes, whatsapp
 from sunuchat.config import get_settings
 
 log = logging.getLogger(__name__)
@@ -17,6 +17,16 @@ _COMMANDS = {
     "arrêt": "stop",
     "alerte": "alerte",
     "alertes": "alerte",
+    # Changer de langue : le nom de la langue, dit ou écrit seul.
+    "wolof": "langue:wolof",
+    "pulaar": "langue:pulaar",
+    "peul": "langue:pulaar",
+    "seereer": "langue:serer",
+    "sereer": "langue:serer",
+    "serer": "langue:serer",
+    "sérère": "langue:serer",
+    "sérèr": "langue:serer",
+    "sérer": "langue:serer",
 }
 _voice_cache: dict[str, bytes] = {}
 
@@ -42,6 +52,11 @@ async def say(user: str, text: str, langue: str) -> None:
     await whatsapp.send_text(user, text)
 
 
+async def say_fixed(user: str, texts: dict[str, str], langue: str) -> None:
+    """Message fixe de textes.py, en wolof si la langue n'a pas encore sa version."""
+    await say(user, *textes.texte(texts, langue))
+
+
 async def send_samu_contact(user: str) -> None:
     await whatsapp.send_contact(user, "SAMU", get_settings().samu_number)
 
@@ -49,7 +64,11 @@ async def send_samu_contact(user: str) -> None:
 async def run_command(user: str, cmd: str, langue: str) -> None:
     if cmd == "stop":
         campaigns.unsubscribe(user)
-        await say(user, textes.DESINSCRIT[langue], langue)
+        await say_fixed(user, textes.DESINSCRIT, langue)
     elif cmd == "alerte":
         campaigns.subscribe(user, langue)
-        await say(user, textes.REINSCRIT[langue], langue)
+        await say_fixed(user, textes.REINSCRIT, langue)
+    elif cmd.startswith("langue:"):
+        langue = cmd.removeprefix("langue:")
+        await memory.update_profile(user, langue=langue)
+        await say_fixed(user, textes.LANGUE_CHOISIE, langue)

@@ -2,7 +2,7 @@
 
 # 🩺 SunuChat
 
-**L'assistant santé vocal sur WhatsApp, en wolof et en pulaar, pour celles et ceux qui ne savent pas lire.**
+**L'assistant santé vocal sur WhatsApp, en wolof, en pulaar et en sérère, pour celles et ceux qui ne savent pas lire.**
 
 *On parle, il écoute. Il répond en vocal, dans notre langue.*
 
@@ -19,7 +19,7 @@
 
 <a href="https://wa.me/221769329923"><img src="assets/qr_whatsapp.png" width="220" alt="QR code SunuChat sur WhatsApp"/></a>
 
-*Scanne le QR code ou clique sur le bouton, puis envoie un vocal en wolof ou en pulaar.*
+*Scanne le QR code ou clique sur le bouton, puis envoie un vocal en wolof, en pulaar ou en sérère.*
 
 </div>
 
@@ -66,6 +66,9 @@ Mais presque tout le monde a **WhatsApp** et envoie des **messages vocaux** tous
 
 - **100 % vocal** : aucune lecture nécessaire, ni menu ni bouton à lire.
 - **Wolof et pulaar** (Fuuta) : la langue est reconnue automatiquement.
+- **Sérère** : on dit « seereer » pour passer en sérère. Gemini ne parlant pas cette langue, le
+  bot s'appuie sur un dictionnaire de santé (Crétois) et ne dit en sérère que ce qu'il peut dire
+  sans inventer ; sinon, il répond en wolof.
 - **Fiable** : les réponses s'appuient d'abord sur les documents officiels (Ministère de la
   Santé, PNLP, OMS, UNICEF), puis sur une recherche web pour les autres sujets.
 - **Utile pour de vrai** : le bot aide au maximum (gestes, remèdes sûrs, médicaments sans
@@ -75,7 +78,8 @@ Mais presque tout le monde a **WhatsApp** et envoie des **messages vocaux** tous
 
 | | Fonctionnalité | Description |
 |---|---|---|
-| 🎙️ | **Conversation vocale** | Vocal en entrée, vocal en sortie, en wolof ou en pulaar. |
+| 🎙️ | **Conversation vocale** | Vocal en entrée, vocal en sortie, en wolof, en pulaar ou en sérère. |
+| 📖 | **Sérère par dictionnaire** | 469 mots de santé tirés du dictionnaire de Crétois ; chaque réponse sérère est vérifiée mot à mot puis retraduite avant de partir (voir [assets/serer](assets/serer/README.md)). |
 | 📚 | **RAG sur sources officielles** | 47 documents officiels, 2 303 passages indexés : paludisme, dengue, vaccination (PEV), nutrition… |
 | 🌍 | **Toutes les maladies** | Recherche Google intégrée pour le reste : cancer, diabète, hypertension, Octobre rose, épidémies en cours. |
 | 📄 | **Lecture d'ordonnance** | Photo ou PDF d'une ordonnance → médicaments, doses, prises et durée expliqués en vocal. |
@@ -129,7 +133,7 @@ flowchart LR
     AGENT --> RAG
     AGENT --> DB
     SCHED --> DB
-    API <--> KIRIKU["🔊 Kiriku<br/>STT / TTS wolof · pulaar"]
+    API <--> KIRIKU["🔊 Kiriku<br/>STT wolof · pulaar · sérère<br/>TTS wolof · pulaar"]
     AGENT <--> GEMINI["✨ Gemini<br/>raisonnement · traduction · vision"]
     AGENT --> OSM["🗺️ OpenStreetMap<br/>postes de santé"]
     SCHED --> META
@@ -144,7 +148,7 @@ français, et la traduction finale est confiée au meilleur modèle disponible.
 
 ```mermaid
 flowchart TB
-    IN["🎙️ Vocal ou texte<br/>wolof / pulaar"] --> STT["Transcription<br/>Kiriku STT"]
+    IN["🎙️ Vocal ou texte<br/>wolof / pulaar / sérère"] --> STT["Transcription<br/>Kiriku STT"]
     IMG["📷 Photo d'ordonnance"] --> VISION["Lecture d'ordonnance<br/>Gemini vision · sortie structurée"]
     STT --> C
     VISION --> S
@@ -154,7 +158,7 @@ flowchart TB
         C["1 · Compréhension<br/>détecte la langue, traduit en français"]
         R{{"Règles de gravité<br/>rules.py"}}
         S["2 · Santé<br/>raisonne en français avec ses outils"]
-        T["3 · Traduction<br/>français → wolof / pulaar"]
+        T["3 · Traduction<br/>français → wolof / pulaar<br/>(sérère : dictionnaire + vérification)"]
         C --> R --> S --> T
     end
 
@@ -206,7 +210,7 @@ flowchart LR
 | **Canal** | WhatsApp Cloud API (Meta) : vocaux, vidéos, fiches contact, positions |
 | **Backend** | Python 3.12, FastAPI, Uvicorn, httpx, Pydantic Settings |
 | **IA et agents** | Google ADK (agent séquentiel, outils, mémoire, compression du contexte), Google Gemini (texte, vision, recherche Google intégrée) |
-| **Voix** | API Kiriku : reconnaissance et synthèse vocale en wolof et en pulaar |
+| **Voix** | API Kiriku : reconnaissance vocale en wolof, pulaar et sérère ; synthèse en wolof et en pulaar (le sérère est lu par la voix pulaar) |
 | **RAG** | ChromaDB, sentence-transformers, `BAAI/bge-m3`, pypdf, BeautifulSoup |
 | **Données** | SQLite (sessions ADK, mémoire longue, rappels), SQLAlchemy |
 | **Planification** | APScheduler (rappels de médicaments, vaccins, campagnes) |
@@ -398,10 +402,12 @@ src/sunuchat/
 ├── places.py       Postes de santé proches (OpenStreetMap)
 ├── memory.py       Sessions et mémoire longue par numéro
 ├── onboarding.py   Messages fixes en vocal, commandes « stop » / « alerte », fiche SAMU
+├── serer.py        Sérère : dictionnaire de Crétois, vérification des réponses, voix
 ├── textes.py       Textes fixes en wolof et en pulaar
 ├── images.py       Visuels envoyés une fois à Meta puis réutilisés
 └── config.py       Configuration (.env)
 assets/animations/  Animations des rappels (médicament, vaccin)
+assets/serer/       Dictionnaire sérère (lexique de Crétois, phrases attestées et à traduire)
 data/kb/            Corpus officiel nettoyé
 deploy/             Caddyfile, script d'installation du serveur
 tests/              55 tests (pytest)

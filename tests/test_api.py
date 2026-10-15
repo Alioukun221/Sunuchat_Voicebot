@@ -309,3 +309,38 @@ def test_red_flag_sends_samu_contact(client, monkeypatch, sent):
     agent = _set_answer(monkeypatch, fake_answer)
     _post(client, _text_payload("Sama doom dafay tiit", "wamid.samu"))
     assert sent == [("vocal", "wolof:Demal léegi lopitaal bi."), ("fiche", "1515")]
+
+
+# Sérère : transcription en sérère, réponse lue par la voix pulaar, messages fixes en wolof.
+def test_serer_voice_message(client, monkeypatch, sent):
+    async def serer_user(user):
+        return {"accueilli": True, "langue": "serer"}
+
+    heard = []
+
+    async def fake_transcribe(audio, language=None):
+        heard.append(language)
+        return "O fud-es ka kulin."
+
+    async def fake_answer(user, text):
+        return "Maa yega o ɗomel nu cer-of ?", "serer"
+
+    monkeypatch.setattr(main, "_profile", serer_user)
+    monkeypatch.setattr(main.speech, "transcribe", fake_transcribe)
+    _set_answer(monkeypatch, fake_answer)
+    _post(client, _media_payload("wamid.srr", "audio", {"id": "media.srr"}))
+    assert heard == ["serer"]  # Kiriku transcrit en sérère
+    assert sent == [("vocal", "serer:Maa yega o ɗomel nu cer-of ?")]
+
+
+def test_serer_user_error_message_in_wolof(client, monkeypatch, sent):
+    async def serer_user(user):
+        return {"accueilli": True, "langue": "serer"}
+
+    async def broken_answer(user, text):
+        raise RuntimeError("quota")
+
+    monkeypatch.setattr(main, "_profile", serer_user)
+    _set_answer(monkeypatch, broken_answer)
+    _post(client, _text_payload("Na fio xani ?", "wamid.srr2"))
+    assert sent == [("vocal", "wolof:" + main.textes.ERREUR["wolof"])]

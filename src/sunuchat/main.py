@@ -2,8 +2,9 @@
 
 Chemin d'un message (vocal, texte, position ou photo d'ordonnance) :
   Meta → POST /webhook → (vocal ? speech.transcribe ; photo ? ordonnance.read) → agent.answer
-  → réponse toujours en vocal, en wolof ou en pulaar (les utilisateurs ne savent souvent pas
-  lire), puis la carte du poste de santé, le bouton de partage de position ou la fiche SAMU.
+  → réponse toujours en vocal, en wolof, en pulaar ou en sérère (les utilisateurs ne savent
+  souvent pas lire), puis la carte du poste de santé, le bouton de partage de position ou la
+  fiche SAMU.
 
 Lancer :  uv run sunuchat   (ou  uv run uvicorn sunuchat.main:app --reload --port 8000)
 """
@@ -123,7 +124,7 @@ async def _read_prescription(user: str, message: dict, langue: str) -> str | Non
     data = await whatsapp.download_media(media["id"])
     result = await ordonnance.read(data, media.get("mime_type", "image/jpeg"))
     if not (result.est_ordonnance and result.lisible and result.medicaments):
-        await onboarding.say(user, textes.ORDONNANCE_ILLISIBLE[langue], langue)
+        await onboarding.say_fixed(user, textes.ORDONNANCE_ILLISIBLE, langue)
         return None
     return ordonnance.as_text(result)
 
@@ -172,12 +173,15 @@ async def handle_message(message: dict) -> None:
         elif msg_type == "audio":
             try:
                 audio = await whatsapp.download_media(message["audio"]["id"])
-                text = await speech.transcribe(audio)
+                if langue == "serer":  # Kiriku transcrit mieux le sérère quand on le lui dit
+                    text = await speech.transcribe(audio, "serer")
+                else:
+                    text = await speech.transcribe(audio)
             except Exception:
                 log.exception("Vocal non transcrit")
                 text = ""
             if not text:
-                await onboarding.say(user, textes.VOCAL_KO[langue], langue)
+                await onboarding.say_fixed(user, textes.VOCAL_KO, langue)
                 return
             log.info("Transcription : %s", text)
             if cmd := onboarding.command(text):  # « stop » ou « alerte » dit à voix haute
@@ -188,13 +192,13 @@ async def handle_message(message: dict) -> None:
                 text = await _read_prescription(user, message, langue)
             except Exception:
                 log.exception("Ordonnance non lue")
-                await onboarding.say(user, textes.ORDONNANCE_ILLISIBLE[langue], langue)
+                await onboarding.say_fixed(user, textes.ORDONNANCE_ILLISIBLE, langue)
                 return
             if not text:
                 return
             options["keep_language"] = True
         else:
-            await onboarding.say(user, textes.TYPE_NON_GERE[langue], langue)
+            await onboarding.say_fixed(user, textes.TYPE_NON_GERE, langue)
             return
 
         if not profile.get("accueilli"):
@@ -206,7 +210,7 @@ async def handle_message(message: dict) -> None:
             reply, langue = await agent.answer(user, text, **options)
         except Exception:
             log.exception("Erreur de l'agent")
-            await onboarding.say(user, textes.ERREUR[langue], langue)
+            await onboarding.say_fixed(user, textes.ERREUR, langue)
             return
 
         await _send_reply(user, reply, langue)
@@ -233,8 +237,8 @@ PRIVACY_HTML = """<!doctype html>
 line-height:1.6;color:#222}h1{font-size:1.6rem}h2{font-size:1.15rem;margin-top:1.6rem}</style>
 </head><body>
 <h1>SunuChat - Politique de confidentialité</h1>
-<p>SunuChat est un assistant santé vocal sur WhatsApp, en wolof et en pulaar, réalisé dans le
-cadre d'un hackathon. Il donne des informations générales de santé (paludisme, dengue,
+<p>SunuChat est un assistant santé vocal sur WhatsApp, en wolof, en pulaar et en sérère, réalisé
+dans le cadre d'un hackathon. Il donne des informations générales de santé (paludisme, dengue,
 vaccination des enfants et autres maladies), à partir de sources officielles et de recherches
 sur le web, et explique les ordonnances. Il ne remplace pas un avis médical.</p>
 <h2>Données collectées</h2>
