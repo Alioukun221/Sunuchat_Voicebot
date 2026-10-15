@@ -1,4 +1,4 @@
-# À chaque push sur main : tests, puis mise en ligne sur le serveur AWS Lightsail.
+# À chaque push sur master : tests, puis mise en ligne sur le serveur AWS Lightsail.
 # Secrets à créer dans GitHub (Settings → Secrets and variables → Actions) :
 #   SERVER_HOST  IP fixe du serveur Lightsail (ex. 15.188.10.20)
 #   SSH_KEY      contenu de la clé LightsailDefaultKey-eu-west-3.pem
@@ -45,7 +45,7 @@ jobs:
 
   deploy:
     needs: tests
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
