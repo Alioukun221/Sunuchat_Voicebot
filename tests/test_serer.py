@@ -167,10 +167,13 @@ def test_serer_translation_prompt_uses_dictionary():
     assert FIEVRE_FR in prompt
 
 
-def _meaning(fidele: bool, manque: list[str] | None = None):
+def _meaning(essentiel=(), contresens=(), details=()):
     async def fake_check_meaning(reponse_fr, texte):
         return agent.Fidelite(
-            retraduction="L'enfant a la fièvre.", fidele=fidele, consignes_manquantes=manque or []
+            retraduction="L'enfant a la fièvre.",
+            consignes_essentielles_perdues=list(essentiel),
+            contresens=list(contresens),
+            details_perdus=list(details),
         )
 
     return fake_check_meaning
@@ -178,7 +181,8 @@ def _meaning(fidele: bool, manque: list[str] | None = None):
 
 def test_accepted_serer_reply(monkeypatch, tmp_path):
     monkeypatch.setattr(agent.get_settings(), "data_dir", tmp_path)
-    monkeypatch.setattr(agent, "check_meaning", _meaning(True))
+    # Un détail perdu (« propre ») ne bloque pas la réponse sérère.
+    monkeypatch.setattr(agent, "check_meaning", _meaning(details=["eau propre"]))
 
     async def fake_translate(texte_fr, langue):
         return "Sa doom am na yaram."
@@ -219,7 +223,7 @@ def test_rejected_serer_reply_goes_out_in_wolof(monkeypatch, tmp_path):
 def test_serer_reply_that_loses_advice_goes_out_in_wolof(monkeypatch, tmp_path):
     # Tous les mots sont dans le dictionnaire, mais la retraduction a perdu un conseil.
     monkeypatch.setattr(agent.get_settings(), "data_dir", tmp_path)
-    monkeypatch.setattr(agent, "check_meaning", _meaning(False, ["donner de l'eau"]))
+    monkeypatch.setattr(agent, "check_meaning", _meaning(essentiel=["donner de l'eau"]))
 
     async def fake_translate(texte_fr, langue):
         return "Sa doom am na yaram."
@@ -236,6 +240,26 @@ def test_serer_reply_that_loses_advice_goes_out_in_wolof(monkeypatch, tmp_path):
     assert ctx.state["langue_reponse"] == "wolof"
     log = (tmp_path / "serer_relecture.jsonl").read_text(encoding="utf-8")
     assert "donner de l'eau" in log and '"accepte": false' in log
+
+
+def test_serer_reply_with_a_contresens_goes_out_in_wolof(monkeypatch, tmp_path):
+    monkeypatch.setattr(agent.get_settings(), "data_dir", tmp_path)
+    contresens = ["« je t'entends » au lieu de « je n'ai pas compris »"]
+    monkeypatch.setattr(agent, "check_meaning", _meaning(contresens=contresens))
+
+    async def fake_translate(texte_fr, langue):
+        return "Baal ma, déggumaa la."
+
+    monkeypatch.setattr(agent, "translate", fake_translate)
+    ctx = _ctx(
+        **{
+            "user:langue": "serer",
+            "reponse_fr": "Je n'ai pas bien compris ton message.",
+            "reponse_finale": "Nana-xong.",
+        }
+    )
+    asyncio.run(agent.after_traduction(ctx))
+    assert ctx.state["langue_reponse"] == "wolof"
 
 
 def test_urgency_never_in_unreviewed_serer():

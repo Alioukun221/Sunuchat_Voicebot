@@ -11,8 +11,8 @@ ses réponses partent en vocal.
    message d'urgence, quoi que réponde le modèle.
 3. traduction : traduit la réponse en wolof ou en pulaar. Gemini ne parle pas sérère : pour
    le sérère, il compose la réponse avec le seul dictionnaire de serer.py ; un callback
-   vérifie qu'aucun mot n'est inventé puis, par retraduction, qu'aucune consigne n'est
-   perdue (sinon, la réponse part en wolof).
+   vérifie qu'aucun mot n'est inventé puis, par retraduction, qu'aucune consigne essentielle
+   n'est perdue ni déformée (sinon, la réponse part en wolof).
 """
 
 import asyncio
@@ -701,10 +701,20 @@ async def translate(reponse_fr: str, langue: str) -> str:
 
 class Fidelite(BaseModel):
     retraduction: str = Field(description="Le texte sérère retraduit en français, mot à mot.")
-    fidele: bool = Field(description="Toutes les consignes du message d'origine sont présentes.")
-    consignes_manquantes: list[str] = Field(
-        description="Consignes du message d'origine absentes ou déformées dans le texte sérère."
+    consignes_essentielles_perdues: list[str] = Field(
+        description="Consignes essentielles du message d'origine absentes ou déformées."
     )
+    contresens: list[str] = Field(
+        description="Passages du texte sérère qui disent autre chose que le message d'origine."
+    )
+    details_perdus: list[str] = Field(
+        description="Détails secondaires absents : politesse, précision, conseil général, relance."
+    )
+
+    @property
+    def fidele(self) -> bool:
+        """Un détail perdu ne bloque pas : seuls l'essentiel et les contresens comptent."""
+        return not (self.consignes_essentielles_perdues or self.contresens)
 
 
 FIDELITE_PROMPT = """Un texte sérère a été composé, mot par mot, avec un dictionnaire, pour dire un
@@ -712,11 +722,17 @@ message de santé en français. Vérifie qu'il dit bien la même chose.
 1. Retraduis le texte sérère en français, mot à mot, à l'aide du sens des mots ci-dessous et
    des phrases attestées. Ne devine pas : ce que le glossaire ne permet pas de comprendre
    n'est pas dit.
-2. Compare avec le message d'origine. Le texte est fidèle seulement si chaque consigne de
-   santé y est, avec le même sens : ce qu'il faut faire ou ne pas faire, quand aller au poste
-   de santé ou à l'hôpital, les signes qui doivent inquiéter, les doses et les durées. Une
-   formule de politesse qui remplace une consigne, ou une consigne déformée, rend le texte
-   non fidèle. Les formules de politesse du message d'origine peuvent manquer.
+2. Compare avec le message d'origine et range chaque écart dans une seule liste :
+   - consignes essentielles perdues : une consigne absente ou déformée parmi ce qu'il faut
+     faire ou ne pas faire face au problème de santé, quand et pourquoi aller au poste de
+     santé ou à l'hôpital, les signes qui doivent inquiéter, les médicaments, les doses et
+     les durées ;
+   - contresens : le texte sérère dit autre chose que le message, ou le contraire (par
+     exemple « je t'entends » à la place de « je n'ai pas compris ») ;
+   - détails perdus : ce qui peut manquer sans tromper la personne : formule de politesse,
+     précision secondaire (« propre », « tiède »), conseil général de prévention, question de
+     relance.
+   Laisse une liste vide quand il n'y a rien à y mettre.
 
 Phrases attestées (français → sérère) :
 {phrases}
@@ -751,8 +767,8 @@ async def check_meaning(reponse_fr: str, texte: str) -> Fidelite:
 
 async def after_traduction(callback_context: CallbackContext) -> None:
     """Sérère : la réponse ne part que si chaque mot vient du dictionnaire et si, retraduite,
-    elle garde toutes les consignes ; sinon, elle part en wolof (mieux vaut un wolof juste
-    qu'un sérère inventé ou qui perd un conseil)."""
+    elle garde les consignes essentielles sans contresens ; sinon, elle part en wolof (mieux
+    vaut un wolof juste qu'un sérère inventé ou trompeur). Un détail perdu ne bloque pas."""
     state = callback_context.state
     if user_language(state) != "serer":
         return
@@ -775,6 +791,8 @@ async def after_traduction(callback_context: CallbackContext) -> None:
     serer.log_attempt(reponse_fr, texte, verdict, fidelite)
     if fidelite and fidelite.fidele:
         wolof.cancel()
+        if fidelite.details_perdus:
+            log.info("Sérère envoyé, détails perdus : %s", " ; ".join(fidelite.details_perdus))
         state["langue_reponse"] = "serer"
         return
     if not verdict.ok:
@@ -785,8 +803,9 @@ async def after_traduction(callback_context: CallbackContext) -> None:
         )
     elif fidelite:
         log.warning(
-            "Sérère refusé (consignes perdues : %s) : réponse en wolof",
-            " ; ".join(fidelite.consignes_manquantes) or "non précisé",
+            "Sérère refusé (consignes perdues : %s ; contresens : %s) : réponse en wolof",
+            " ; ".join(fidelite.consignes_essentielles_perdues) or "aucune",
+            " ; ".join(fidelite.contresens) or "aucun",
         )
     try:
         state["reponse_finale"] = await wolof
