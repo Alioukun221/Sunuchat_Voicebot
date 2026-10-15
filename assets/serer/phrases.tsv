@@ -1,0 +1,57 @@
+id	francais	sereer	statut	source
+salut_comment_vas_tu	Comment vas-tu aujourd'hui ?	Na fio xani ?	atteste	Crétois 1993, p. 32
+salut_ca_va_mieux	Ça va mieux.	Moyanam.	atteste	Crétois 1993, p. 32
+salut_que_ca_continue	Que cela continue !	Yaasam te jof a paam !	atteste	Crétois 1993, p. 32
+salut_dieu_merci	Cela va mieux, Dieu merci.	A moyana, gidmam taaga Roog.	atteste	Crétois 1993, p. 48
+salut_au_revoir	Au revoir.	Na jam.	atteste	Crétois 1993, p. 30
+salut_reponse_au_revoir	Au revoir à toi aussi.	Jam fa jam.	atteste	Crétois 1993, p. 30
+salut_va_en_paix	Va en paix.	Reti fa jam.	atteste	Crétois 1993, p. 30
+salut_reste_en_paix	Reste en paix.	Yoqi fa jam.	atteste	Crétois 1993, p. 30
+salut_bonne_journee	Passe la journée en paix.	Yongi fa jam.	atteste	Crétois 1993, p. 30
+sante_comment_va_ta_sante	Comment va ta santé ?	Naa cerof a mbiu ?	atteste	Crétois 1993, p. 9
+sante_comment_va_le_malade	Comment va le malade ?	Na cir oxe fiu ?	atteste	Crétois 1993, p. 10
+sante_ou_as_tu_mal	Où as-tu mal ?	Maa yega o ɗomel nu cer-of ?	atteste	Crétois 1993, p. 15
+sante_quas_tu	Qu'as-tu ?	Xa damong ?	atteste	Crétois 1993, p. 11
+sante_que_t_est_il_arrive	Que t'est-il arrivé ?	Xa daamong ?	atteste	Crétois 1993, p. 11
+sante_gueri_salut	Bon rétablissement, content de te voir guéri.	Jook jook o feedel.	atteste	Crétois 1993, p. 33
+sante_echappe_au_danger	Félicitations, tu t'en es sorti.	Dok o ñis-of !	atteste	Crétois 1993, p. 68
+sante_maladie_grave	Sa maladie est très grave.	Jirum a ɗoma ɗom.	atteste	Crétois 1993, p. 15
+sante_reste_ici	Assieds-toi ici, reste ici.	Moofi meen.	atteste	Crétois 1993, p. 48
+comprendre_comprends_tu	Comprends-tu ?	Nana ndi ?	atteste	Crétois 1993, p. 53
+comprendre_m_entends_tu	M'entends-tu ?	Nana-xam o ndi ?	atteste	Crétois 1993, p. 53
+comprendre_je_t_entends	Je t'entends.	Nana-xong.	atteste	Crétois 1993, p. 53
+comprendre_je_comprends_le_sereer	Je comprends le sérère.	Nanam a sereer.	atteste	Crétois 1993, p. 53
+remede_convient	Ce remède me convient.	Teex nene a jiga-xam.	atteste	Crétois 1993, p. 31
+remede_ne_convient_pas	Ce remède ne me convient pas.	Teex ne maler-am.	atteste	Crétois 1993, p. 45
+urgence_va_poste_maintenant	Va tout de suite au poste de santé, sans attendre.		a_traduire	SunuChat : message d'urgence
+urgence_appelle_samu	Appelle le SAMU au 1515.		a_traduire	SunuChat : message d'urgence
+urgence_signe_gravite	C'est un signe de gravité.		a_traduire	SunuChat : message d'urgence
+urgence_enfant_hopital	Emmène l'enfant à l'hôpital maintenant.		a_traduire	SunuChat : message d'urgence
+palu_test_gratuit	Le test du paludisme est gratuit au poste de santé.		a_traduire	SunuChat : paludisme
+palu_moustiquaire	Dors sous la moustiquaire chaque nuit.		a_traduire	SunuChat : paludisme
+palu_traitement_apres_test	Le traitement se prend après le test, le jour même.		a_traduire	SunuChat : paludisme
+fievre_paracetamol	Contre la fièvre, prends du paracétamol.		a_traduire	SunuChat : fièvre
+fievre_linge_mouille	Mets un linge mouillé tiède sur son corps.		a_traduire	SunuChat : fièvre
+boire_beaucoup	Bois beaucoup d'eau.		a_traduire	SunuChat : soins à la maison
+repos	Repose-toi.		a_traduire	SunuChat : soins à la maison
+diarrhee_sro	Pour la diarrhée, donne du SRO et du zinc.		a_traduire	SunuChat : diarrhée
+diarrhee_continuer_manger	Continue à le faire manger et boire.		a_traduire	SunuChat : diarrhée
+mieux_deux_jours	Si ça ne va pas mieux dans 2 jours, va au poste de santé.		a_traduire	SunuChat : orientation
+vaccin_rendez_vous	Ton enfant a un rendez-vous de vaccin demain.		a_traduire	SunuChat : rappel de vaccin
+vaccin_carnet	Apporte le carnet de vaccination.		a_traduire	SunuChat : rappel de vaccin
+medicament_heure	C'est l'heure de ton médicament.		a_traduire	SunuChat : rappel de médicament
+medicament_dose	Prends 1 comprimé le matin et 1 le soir.		a_traduire	SunuChat : ordonnance
+medicament_pharmacien	Demande au pharmacien.		a_traduire	SunuChat : ordonnance
+poste_le_plus_proche	Le poste de santé le plus proche est à 2 kilomètres.		a_traduire	SunuChat : poste de santé
+poste_bouton_position	Appuie sur le bouton en dessous pour partager ta position.		a_traduire	SunuChat : poste de santé
+bot_presentation	Je suis SunuChat. Je t'aide pour la santé de ta famille.		a_traduire	SunuChat : présentation
+bot_parle_micro	Appuie sur le micro et parle-moi dans ta langue.		a_traduire	SunuChat : présentation
+bot_je_comprends	Je comprends, ça doit être fatigant.		a_traduire	SunuChat : ton
+bot_courage	Courage, ça va aller.		a_traduire	SunuChat : ton
+erreur_reessaie	Pardon, je ne peux pas te répondre maintenant. Réessaie dans quelques minutes.		a_traduire	SunuChat : message fixe ERREUR
+erreur_vocal	Pardon, je n'ai pas compris ton vocal. Renvoie-le en parlant lentement.		a_traduire	SunuChat : message fixe VOCAL_KO
+erreur_type	Envoie-moi un vocal, ou une photo de ton ordonnance. Je vais t'aider.		a_traduire	SunuChat : message fixe TYPE_NON_GERE
+erreur_ordonnance	Pardon, je n'arrive pas à lire l'ordonnance. Reprends la photo dans un endroit éclairé, ou demande au pharmacien.		a_traduire	SunuChat : message fixe ORDONNANCE_ILLISIBLE
+alertes_stop	D'accord. Tu ne recevras plus les alertes. Dis « alerte » pour les recevoir de nouveau.		a_traduire	SunuChat : message fixe DESINSCRIT
+alertes_reinscrit	D'accord. Tu recevras les alertes pendant l'hivernage.		a_traduire	SunuChat : message fixe REINSCRIT
+langue_choisie	D'accord, je te parle en sérère maintenant.		a_traduire	SunuChat : message fixe LANGUE_CHOISIE

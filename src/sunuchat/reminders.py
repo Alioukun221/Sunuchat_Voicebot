@@ -55,7 +55,8 @@ async def send_voice_reminder(to: str, texts: dict[str, str], animation: str, **
     except Exception:
         log.exception("Profil illisible : rappel en wolof")
         langue = "wolof"
-    wav = await speech.synthesize(texts[langue].format(**params), langue)
+    texte, voix = textes.texte(texts, langue)
+    wav = await speech.synthesize(texte.format(**params), voix)
     path = ANIMATIONS_DIR / f"{animation}.mp4"
     if path.exists():
         try:
