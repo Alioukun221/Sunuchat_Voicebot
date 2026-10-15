@@ -298,7 +298,8 @@ def _alertes_sanitaires() -> str:
         "Alertes sanitaires officielles récentes (cite toujours la source et invite à vérifier "
         "auprès du poste de santé) :\n" + alertes + "\n"
     )
-=========
+
+
 SANTE_SERER = """
 IMPORTANT : ta réponse sera dite en sérère, et la traduction ne dispose que d'un dictionnaire
 de santé. Écris donc un français très simple : 3 ou 4 phrases courtes, une idée par phrase,
