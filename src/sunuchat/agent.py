@@ -266,7 +266,7 @@ Règles :
 {maps}{serer}
 Date du jour : {date}
 Profil de l'utilisateur : {profil}
-{alerte}{demande_position}
+{alertes_sanitaires}{alerte}{demande_position}
 Message de l'utilisateur (traduit en français) : {texte_fr}
 
 Passages des sources officielles :
@@ -280,6 +280,24 @@ le bouton qui arrive juste en dessous de ton message, pour que tu voies où il s
 que tu lui indiques le poste de santé le plus proche. Ne cite pas le texte du bouton (pas de
 « Envoyer la position ») : parle naturellement, comme à l'oral. Il peut aussi te dire le nom
 de son quartier ou de son village. La réponse est souvent écoutée en vocal : sois très concret."""
+
+
+def _alertes_sanitaires() -> str:
+    """Alertes officielles récentes de la veille : l'agent peut en parler si on lui demande
+    « qu'est-ce qui se passe en ce moment ? »."""
+    from sunuchat import veille
+
+    try:
+        alertes = veille.alertes_en_cours()
+    except Exception:
+        log.exception("Alertes de la veille illisibles")
+        return ""
+    if not alertes:
+        return ""
+    return (
+        "Alertes sanitaires officielles récentes (cite toujours la source et invite à vérifier "
+        "auprès du poste de santé) :\n" + alertes + "\n"
+    )
 
 
 SANTE_SERER = """
@@ -324,6 +342,7 @@ def sante_instruction(ctx: ReadonlyContext) -> str:
         .replace("{serer}", serer_rules)
         .replace("{date}", date.today().strftime("%d/%m/%Y"))
         .replace("{profil}", str(profil or "inconnu"))
+        .replace("{alertes_sanitaires}", _alertes_sanitaires())
         .replace("{alerte}", alerte)
         .replace("{demande_position}", DEMANDE_POSITION if state.get("demander_position") else "")
         .replace("{texte_fr}", state.get("texte_fr", ""))
@@ -683,6 +702,7 @@ async def translation_fallback(
 
 async def translate(reponse_fr: str, langue: str) -> str:
     """Traduction hors pipeline (réponse sérère refusée → wolof), avec les modèles de secours."""
+    _setup_env()  # la veille l'appelle aussi hors de l'agent (ligne de commande)
     s = get_settings()
     model = s.translation_model or s.fast_model
     prompt = traduction_prompt(langue, reponse_fr)

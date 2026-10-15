@@ -65,6 +65,33 @@ async def geocode(place: str) -> tuple[float, float] | None:
     return float(results[0]["lat"]), float(results[0]["lon"])
 
 
+async def region_of(place: str) -> str | None:
+    """Région administrative d'une localité du Sénégal (« Kédougou » pour « Saraya »), ou
+    None. Sert à n'envoyer une alerte régionale qu'aux personnes concernées."""
+    params = {
+        "q": place,
+        "format": "jsonv2",
+        "limit": 1,
+        "countrycodes": "sn",
+        "addressdetails": 1,
+    }
+    try:
+        async with httpx.AsyncClient(timeout=15, headers=HEADERS) as client:
+            r = await client.get(NOMINATIM_URL, params=params)
+        r.raise_for_status()
+        results = r.json()
+    except (httpx.HTTPError, ValueError) as e:
+        log.warning("Région introuvable (%s) : %s", place, e)
+        return None
+    if not results:
+        return None
+    address = results[0].get("address", {})
+    region = address.get("state") or address.get("region")
+    if not region:
+        return None
+    return region.removeprefix("Région de ").removeprefix("Région du ").strip()
+
+
 def _query(lat: float, lon: float, radius: int) -> str:
     around = f"(around:{radius},{lat},{lon})"
     return (

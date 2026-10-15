@@ -60,7 +60,19 @@ class Settings(BaseSettings):
     # écrire hors de la fenêtre de 24 h. Vides : rappels en texte simple, pas d'alertes.
     template_rappel_vaccin: str = ""  # corps avec 3 variables : âge, date, vaccins
     template_alerte_saison: str = ""  # sans variable, en-tête image facultatif
+    # Alerte de la veille sanitaire : {{1}} sujet, {{2}} source, bouton de réponse « Écouter ».
+    template_alerte_sante: str = ""
     template_language: str = "fr"
+
+    # Veille sanitaire (veille.py) : sources fiables lues toutes les N minutes, alertes et
+    # conseils envoyés d'eux-mêmes aux inscrits. 360 = 6 h ; 5 pour les essais.
+    # Désactivée par défaut : rien ne part tant que VEILLE_ACTIVE=true n'est pas dans le .env.
+    veille_active: bool = False
+    veille_intervalle_min: int = 360
+    # Alertes par personne et par semaine (hors gravité 3, qui passe toujours).
+    veille_max_par_semaine: int = 3
+    # Numéros séparés par des virgules : si rempli, les alertes ne partent qu'à eux (essais).
+    veille_test_numeros: str = ""
 
     def models_after(self, model: str) -> list[str]:
         """Modèles de secours à essayer quand `model` refuse."""

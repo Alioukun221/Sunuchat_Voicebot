@@ -25,6 +25,7 @@ from sunuchat import (
     reminders,
     speech,
     textes,
+    veille,
     whatsapp,
 )
 from sunuchat.config import get_settings
@@ -46,6 +47,7 @@ async def lifespan(app: FastAPI):
     # Index RAG chargé une fois pour toutes (et non à chaque message).
     await asyncio.to_thread(knowledge.load_index)
     campaigns.schedule_seasonal_alerts()
+    veille.schedule()
     reminders.start()
     yield
     reminders.shutdown()
@@ -151,6 +153,7 @@ async def handle_message(message: dict) -> None:
     try:
         profile = await _profile(user)
         langue = onboarding.language_of(profile)
+        campaigns.touch(user)  # fenêtre de 24 h ouverte : les alertes peuvent partir en vocal
         options: dict = {}
         mime = (message.get("document") or {}).get("mime_type", "")
         if msg_type == "text":
@@ -158,6 +161,11 @@ async def handle_message(message: dict) -> None:
             if cmd := onboarding.command(text):
                 await onboarding.run_command(user, cmd, langue)
                 return
+        elif msg_type == "button":
+            # Bouton « Écouter » du modèle d'alerte : l'alerte en attente part en vocal.
+            if not await veille.deliver_pending(user, langue):
+                await onboarding.say(user, textes.TYPE_NON_GERE[langue], langue)
+            return
         elif msg_type == "location":
             loc = message["location"]
             options["position"] = {"lat": loc["latitude"], "lon": loc["longitude"]}
@@ -208,6 +216,11 @@ async def handle_message(message: dict) -> None:
         await _send_reply(user, reply, langue)
         # Après la réponse, pour que « appuie sur le bouton en dessous » ait du sens.
         await _send_actions(user, agent.pop_actions(user))
+        # Alertes de la veille qui attendaient que la fenêtre de 24 h se rouvre.
+        try:
+            await veille.deliver_pending(user, langue)
+        except Exception:
+            log.exception("Alertes en attente non envoyées")
     except Exception:
         log.exception("Erreur inattendue")
     finally:
