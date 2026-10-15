@@ -29,7 +29,9 @@ def test_lexicon_entries_are_sourced():
     assert len(entries) > 400
     for e in entries:
         assert e.francais, e
-        assert e.page.isdigit() and 1 <= int(e.page) <= 104, e  # pages du lexique de Crétois
+        assert e.source in ("Crétois 1993", "WAXAL (Google, GalsenAI)"), e
+        if e.source == "Crétois 1993":
+            assert e.page.isdigit() and 1 <= int(e.page) <= 104, e  # pages du lexique
 
 
 def test_phrases_are_well_formed():
@@ -101,6 +103,8 @@ def test_voice_letters_and_params(monkeypatch):
     assert sent[0]["voice"] == "pulaar"
     assert {k: sent[0][k] for k in ("speed", "pitch")} == speech.VOICE_PARAMS["pulaar"]
     assert sent[0]["input"] == "ha damong? Yoki fa jam, deux fois."
+    # ƥ et ƭ (cinq, sept) : sans elles, la voix sauterait des lettres sans rien dire.
+    assert serer.for_voice("Ƥetik, ƥetaa-ƭaq.") == "Petik, petaa-tak."
 
 
 # ---------- Textes fixes et changement de langue ----------

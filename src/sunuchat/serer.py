@@ -3,7 +3,9 @@ dictionnaire.
 
 - Le lexique (assets/serer/lexique.tsv) est tiré du « Vocabulaire sereer du corps et de la
   santé » du Père Léonce Crétois (CLAD, éd. Ch. Becker et G. Faye, 1993), relu page par page
-  sur le scan de l'IRD. Le numéro de page de chaque entrée renvoie à ce document.
+  sur le scan de l'IRD : le numéro de page renvoie à ce document. S'y ajoutent les mots-clés
+  sérères du jeu de données WAXAL (Google, publié par GalsenAI), enregistrés par des
+  locuteurs : chiffres, oui, non, directions.
 - Les phrases (assets/serer/phrases.tsv) : celles que Crétois cite (statut « atteste »), celles
   qu'un locuteur a relues (« valide ») et celles que SunuChat attend encore d'un locuteur
   (« a_traduire », sans traduction).
@@ -18,6 +20,7 @@ et enrichisse phrases.tsv.
 
 Voix : celle du pulaar, langue proche, avec ses réglages (speech.py). Elle n'a jamais appris
 « q » ni « x », que le pulaar n'écrit pas : `for_voice` les remplace par le son le plus proche.
+« ƥ » et « ƭ », absentes de son alphabet, seraient sautées sans un mot : elles deviennent p, t.
 """
 
 import csv
@@ -40,7 +43,7 @@ VALIDATED = ("atteste", "valide")
 MAX_UNKNOWN = 0.1
 MIN_SERER = 0.5
 # Lettres sérères absentes de l'alphabet pulaar sur lequel la voix a appris.
-VOICE_LETTERS = {"x": "h", "q": "k"}
+VOICE_LETTERS = {"x": "h", "q": "k", "ƥ": "p", "ƭ": "t", "Ƥ": "P", "Ƭ": "T"}
 GLOSSARY_SIZE = 60
 
 _WORD = re.compile(r"[^\W\d_]+(?:'[^\W\d_]+)*")
@@ -60,6 +63,7 @@ class Entry:
     francais: str
     page: str
     remarque: str
+    source: str
 
 
 @dataclass(frozen=True)
