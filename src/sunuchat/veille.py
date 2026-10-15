@@ -679,7 +679,7 @@ async def spoken_text(alerte: dict, langue: str) -> str:
     if row:
         traduit = row[0]
     else:
-        traduit = await agent.traduire(alerte["message_fr"], langue)
+        traduit = await agent.translate(alerte["message_fr"], langue)
         con.execute(
             "INSERT OR REPLACE INTO traductions VALUES (?, ?, ?)", (alerte["url"], langue, traduit)
         )
@@ -705,11 +705,18 @@ def source_note(alerte: dict) -> str:
 _voice_cache: dict[tuple[str, str], bytes] = {}
 
 
+def langue_alerte(langue: str) -> str:
+    """Wolof ou pulaar. Une alerte sans relecture humaine ne part jamais dans un sérère que
+    personne n'a relu (comme les consignes d'urgence de l'agent) : elle part en wolof."""
+    return langue if langue in ("wolof", "pulaar") else "wolof"
+
+
 async def send_alert(numero: str, alerte: dict, langue: str) -> None:
     """Vocal dans la langue de la personne, puis la source en texte. La fenêtre de 24 h doit
     être ouverte."""
     from sunuchat import speech, whatsapp
 
+    langue = langue_alerte(langue)
     key = (alerte["url"], langue)
     if key not in _voice_cache:
         _voice_cache[key] = await speech.text_to_voice_note(

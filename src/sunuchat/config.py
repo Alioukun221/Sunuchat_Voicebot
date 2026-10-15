@@ -66,7 +66,8 @@ class Settings(BaseSettings):
 
     # Veille sanitaire (veille.py) : sources fiables lues toutes les N minutes, alertes et
     # conseils envoyés d'eux-mêmes aux inscrits. 360 = 6 h ; 5 pour les essais.
-    veille_active: bool = True
+    # Désactivée par défaut : rien ne part tant que VEILLE_ACTIVE=true n'est pas dans le .env.
+    veille_active: bool = False
     veille_intervalle_min: int = 360
     # Alertes par personne et par semaine (hors gravité 3, qui passe toujours).
     veille_max_par_semaine: int = 3

@@ -62,7 +62,7 @@ def env(monkeypatch, tmp_path):
     monkeypatch.setattr(whatsapp, "send_audio", fake_audio)
     monkeypatch.setattr(whatsapp, "send_text", fake_text)
     monkeypatch.setattr(whatsapp, "send_template", fake_template)
-    monkeypatch.setattr(agent, "traduire", fake_traduire)
+    monkeypatch.setattr(agent, "translate", fake_traduire)
     monkeypatch.setattr(places, "region_of", no_region)
     monkeypatch.setattr(veille.asyncio, "sleep", _no_sleep)
     return sent, profiles
@@ -328,3 +328,11 @@ def test_old_database_gets_type_column(monkeypatch, tmp_path):
     con.close()
     with veille._db() as con:
         assert con.execute("SELECT type FROM publications").fetchone() == ("alerte",)
+
+
+def test_serer_speakers_get_alerts_in_wolof(env):
+    sent, _ = env
+    asyncio.run(veille.send_alert("221", _alerte(), "serer"))
+    voix = sent[0]
+    assert voix[:2] == ("voix", "wolof")
+    assert voix[2].startswith(textes.ALERTE_DEBUT["wolof"])
