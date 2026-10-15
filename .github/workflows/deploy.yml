@@ -51,11 +51,24 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Préparer la connexion SSH
+        env:
+          SERVER_HOST: ${{ secrets.SERVER_HOST }}
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+          DOMAIN: ${{ secrets.DOMAIN }}
         run: |
+          for nom in SERVER_HOST SSH_KEY DOMAIN; do
+            if [ -z "${!nom}" ]; then
+              echo "::error::Le secret $nom est vide ou absent (Settings → Secrets and variables → Actions → Repository secrets)"
+              exit 1
+            fi
+          done
           mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_KEY }}" > ~/.ssh/sunuchat.pem
+          echo "$SSH_KEY" > ~/.ssh/sunuchat.pem
           chmod 600 ~/.ssh/sunuchat.pem
-          ssh-keyscan -H "${{ secrets.SERVER_HOST }}" >> ~/.ssh/known_hosts
+          if ! ssh-keyscan -T 15 -H "$SERVER_HOST" >> ~/.ssh/known_hosts; then
+            echo "::error::Impossible de joindre $SERVER_HOST en SSH (port 22) : vérifie l'IP et le pare-feu Lightsail"
+            exit 1
+          fi
 
       - name: Envoyer le code (data/ et .env du serveur ne sont jamais touchés)
         run: |
