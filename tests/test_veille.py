@@ -262,3 +262,69 @@ def test_broken_source_does_not_stop_the_others(env, monkeypatch):
     monkeypatch.setattr(veille, "COLLECTORS", (broken, ok))
     pubs = asyncio.run(veille.collect_all(None))
     assert [p.url for p in pubs] == ["u1"]
+
+
+def test_advice_is_sent_and_announced_as_advice(env, monkeypatch):
+    sent, _ = env
+    campaigns.subscribe("221", "wolof")
+    pub = {"source": "APS", "titre": "Octobre rose", "url": "u1", "complet": True}
+    _fake_sources(monkeypatch, [{**pub, "date": datetime.now(UTC)}])
+
+    async def analyse(p):
+        return veille.Analyse(
+            utile=True,
+            type="conseil",
+            gravite=1,
+            sujet="Dépistage du cancer du sein",
+            message_fr="Selon l'Agence de presse sénégalaise, le dépistage est gratuit.",
+        )
+
+    monkeypatch.setattr(veille, "analyse", analyse)
+    results = asyncio.run(veille.run_once(tout=True))
+    assert results[0]["envoyes"] == 1  # un conseil (gravité 1) part aussi
+    voix = next(x for x in sent if x[0] == "voix")
+    assert voix[2].startswith(textes.CONSEIL_DEBUT["wolof"])
+    note = next(x for x in sent if x[0] == "texte")
+    assert note[2].startswith("💡 Info santé SunuChat : Dépistage du cancer du sein")
+
+
+def test_test_mode_skips_silent_first_pass(env, monkeypatch):
+    sent, _ = env
+    monkeypatch.setattr(get_settings(), "veille_test_numeros", "221test")
+    pub = {"source": "APS", "titre": "Vaccination", "url": "u1", "complet": True}
+    _fake_sources(monkeypatch, [{**pub, "date": datetime.now(UTC)}])
+    _fake_analyse(monkeypatch)
+    results = asyncio.run(veille.run_once())
+    assert results[0]["envoyes"] == 1
+    assert {x[1] for x in sent if x[0] == "audio"} == {"221test"}
+    # Au passage suivant, la publication est déjà vue : pas de doublon.
+    assert asyncio.run(veille.run_once()) == []
+
+
+def test_rss_categories_for_le_soleil():
+    xml = """<rss><channel>
+    <item><title>Don de sang</title><link>https://lesoleil.sn/actualites/sante/don</link>
+    <category><![CDATA[Santé]]></category></item>
+    <item><title>Match</title><link>https://lesoleil.sn/sport/match</link>
+    <category><![CDATA[Sports]]></category></item>
+    </channel></rss>"""
+    items = veille._rss_items(xml)
+    assert items[0]["categories"] == ["Santé"]
+    assert [veille.norm(c) for c in items[0]["categories"]] == ["sante"]
+
+
+def test_old_database_gets_type_column(monkeypatch, tmp_path):
+    import sqlite3
+
+    monkeypatch.setattr(get_settings(), "data_dir", tmp_path)
+    con = sqlite3.connect(tmp_path / "veille.db")
+    con.execute(
+        "CREATE TABLE publications (url TEXT PRIMARY KEY, source TEXT, titre TEXT, "
+        "publie_le TEXT, vue_le TEXT, utile INTEGER, gravite INTEGER, sujet TEXT, "
+        "regions TEXT, message_fr TEXT, diffusee_le TEXT)"
+    )
+    con.execute("INSERT INTO publications (url, sujet) VALUES ('u1', 'FVR')")
+    con.commit()
+    con.close()
+    with veille._db() as con:
+        assert con.execute("SELECT type FROM publications").fetchone() == ("alerte",)

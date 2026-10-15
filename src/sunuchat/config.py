@@ -64,10 +64,10 @@ class Settings(BaseSettings):
     template_alerte_sante: str = ""
     template_language: str = "fr"
 
-    # Veille sanitaire (veille.py) : publications officielles lues toutes les N heures et
-    # envoyées d'elles-mêmes aux inscrits.
+    # Veille sanitaire (veille.py) : sources fiables lues toutes les N minutes, alertes et
+    # conseils envoyés d'eux-mêmes aux inscrits. 360 = 6 h ; 5 pour les essais.
     veille_active: bool = True
-    veille_intervalle_h: int = 6
+    veille_intervalle_min: int = 360
     # Alertes par personne et par semaine (hors gravité 3, qui passe toujours).
     veille_max_par_semaine: int = 3
     # Numéros séparés par des virgules : si rempli, les alertes ne partent qu'à eux (essais).

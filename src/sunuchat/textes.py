@@ -53,6 +53,10 @@ ALERTE_DEBUT = {
     "wolof": "Xibaar bu am solo ci wàllu wér gi.",
     "pulaar": "Kabaaru jojjuɗo e cellal.",
 }
+CONSEIL_DEBUT = {
+    "wolof": "Ndigal ci wàllu wér gi.",
+    "pulaar": "Waajuure e cellal.",
+}
 ALERTE_VERIFIER = {
     "wolof": (
         "Xibaar bii, {source} moo ko génne. Wóorlul ko ci sa poste de santé walla ci benn "

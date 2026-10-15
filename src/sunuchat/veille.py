@@ -1,20 +1,24 @@
 """Veille sanitaire : SunuChat prend l'initiative, sans attendre qu'on lui écrive.
 
-Toutes les VEILLE_INTERVALLE_H heures, le bot lit les publications officielles (Ministère de
-la Santé : actualités et communiqués ; ANACIM : alertes météo ; OMS : épidémies au Sénégal
-et chez ses voisins). Gemini garde celles qui demandent à la population d'agir (épidémie,
-campagne de vaccination, canicule, inondation…) et rédige un message court, en français, à
-partir des seuls faits publiés. Le message est traduit et part en vocal, dans la langue de
-chaque inscrit. Il cite toujours sa source et demande toujours de vérifier auprès du poste
-de santé : ces deux phrases sont ajoutées par le code (textes.py), jamais par le modèle. Le
-lien de la publication suit en texte, pour un proche qui sait lire.
+Toutes les VEILLE_INTERVALLE_MIN minutes, le bot lit des sources fiables : Ministère de la
+Santé (actualités et communiqués), ANACIM (alertes météo), OMS (épidémies au Sénégal et chez
+ses voisins), APS (rubrique santé de l'agence de presse officielle) et Le Soleil (rubrique
+santé du quotidien national). Gemini garde ce qui est utile à la population et rédige un
+message court, en français, à partir des seuls faits publiés :
+- « alerte » : danger à éviter (épidémie, canicule, inondation, médicament retiré…) ;
+- « conseil » : information ou recommandation utile (campagne de vaccination ou de
+  dépistage, journée mondiale, conseil de prévention, nouveau service de santé…).
+Le message est traduit et part en vocal, dans la langue de chaque inscrit. Il cite toujours
+sa source et demande toujours de vérifier auprès du poste de santé : ces deux phrases sont
+ajoutées par le code (textes.py), jamais par le modèle. Le lien de la publication suit en
+texte, pour un proche qui sait lire.
 
 Garde-fous (il n'y a pas de validation humaine) :
-- sources officielles seulement ;
-- au premier passage sur une source, ce qui est déjà en ligne est noté comme vu, sans envoi ;
+- sources officielles et presse de référence seulement ;
+- au premier passage sur une source, ce qui est déjà en ligne est noté comme vu, sans envoi
+  (sauf en mode essai, VEILLE_TEST_NUMEROS rempli : les essais partent tout de suite) ;
 - publications de plus de MAX_AGE_DAYS jours ignorées ;
-- seulement la gravité 2 ou 3, et jamais deux fois le même sujet sur les mêmes régions en
-  COOLDOWN_DAYS jours ;
+- jamais deux fois le même sujet sur les mêmes régions en COOLDOWN_DAYS jours ;
 - VEILLE_MAX_PAR_SEMAINE alertes par personne et par semaine (la gravité 3 passe toujours) ;
 - alerte régionale : seulement aux habitants de ces régions et à ceux dont on ne connaît pas
   la région ;
@@ -40,10 +44,12 @@ import logging
 import re
 import sqlite3
 import ssl
+import sys
 import unicodedata
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
 from datetime import UTC, datetime, timedelta
+from typing import Literal
 from urllib.parse import urljoin
 
 import certifi
@@ -61,6 +67,16 @@ log = logging.getLogger(__name__)
 MINISTERE = "Ministère de la Santé"
 ANACIM = "ANACIM"
 OMS = "OMS"
+APS = "APS"
+SOLEIL = "Le Soleil"
+# Dans une phrase : « Selon le Ministère de la Santé, … ».
+AVEC_ARTICLE = {
+    MINISTERE: "le Ministère de la Santé",
+    ANACIM: "l'ANACIM",
+    OMS: "l'OMS",
+    APS: "l'Agence de presse sénégalaise",
+    SOLEIL: "le quotidien Le Soleil",
+}
 
 MINISTERE_RSS = "https://www.sante.gouv.sn/rss.xml"
 MINISTERE_COMMUNIQUES = "https://www.sante.gouv.sn/communiques"
@@ -70,6 +86,8 @@ OMS_API = (
     "&$top=20&$select=Title,PublicationDateAndTime,UrlName,Summary"
 )
 OMS_ITEM = "https://www.who.int/emergencies/disease-outbreak-news/item/"
+APS_RSS = "https://aps.sn/category/actualites/sante-actualites/feed/"
+SOLEIL_RSS = "https://lesoleil.sn/feed/"
 # Le serveur de l'ANACIM n'envoie pas son certificat intermédiaire (les navigateurs vont le
 # chercher seuls, Python non) : on le fournit. Il est signé par la racine Sectigo R46.
 CERTS = (ROOT / "assets" / "certs" / "sectigo_dv_r36.pem",)
@@ -133,12 +151,17 @@ class Publication:
 
 class Analyse(BaseModel):
     utile: bool = Field(
-        description="Vrai seulement si la population doit connaître cette information "
-        "maintenant pour se protéger ou agir."
+        description="Vrai si l'information aide concrètement des familles du Sénégal à "
+        "protéger leur santé ou à se soigner."
+    )
+    type: Literal["alerte", "conseil"] = Field(
+        "alerte",
+        description="alerte : un danger à éviter ; conseil : une information ou une "
+        "recommandation utile.",
     )
     gravite: int = Field(
-        description="3 = danger immédiat au Sénégal ; 2 = à savoir et à faire cette semaine ; "
-        "1 = information générale."
+        description="3 = danger immédiat au Sénégal ; 2 = important, à faire cette semaine ; "
+        "1 = bon à savoir."
     )
     sujet: str = Field(description="Sujet en 2 à 5 mots, en français (ex. Diphtérie).")
     regions: list[str] = Field(
@@ -150,24 +173,33 @@ class Analyse(BaseModel):
 
 ANALYSE_PROMPT = """Tu fais la veille sanitaire de SunuChat, un assistant santé vocal en wolof et en
 pulaar pour des familles du Sénégal qui, souvent, ne savent pas lire. Voici une publication
-officielle de {source}, du {date}.
+publiée par {source} le {date}.
 
-1. utile : vrai seulement si elle contient une information que la population doit connaître
-   maintenant pour se protéger ou agir : épidémie ou cas d'une maladie au Sénégal ou dans un
-   pays voisin, campagne de vaccination, de dépistage ou de distribution gratuite, vague de
-   chaleur, fortes pluies, inondations, poussière, médicament ou aliment retiré, eau non
-   potable. Faux pour la vie de l'administration (nominations, réunions, partenariats,
-   inaugurations, formations, appels d'offres, rapports généraux), pour la météo ordinaire et
-   pour ce qui se passe loin du Sénégal sans risque pour lui.
-2. gravite : 3, 2 ou 1 (voir le schéma).
-3. sujet et regions (régions administratives du Sénégal : Dakar, Thiès, Diourbel, Fatick,
+1. utile : vrai si elle aide concrètement des familles du Sénégal à protéger leur santé ou à
+   se soigner :
+   - un danger à éviter : épidémie ou cas d'une maladie au Sénégal ou dans un pays voisin,
+     vague de chaleur, fortes pluies, inondations, poussière, médicament ou aliment retiré ou
+     contrefait, eau non potable ;
+   - une information ou une recommandation utile : campagne de vaccination, de dépistage,
+     de consultations ou de distribution gratuite, journée ou mois de sensibilisation
+     (Octobre rose, paludisme, diabète…), conseil de prévention ou d'hygiène, nouveau
+     service de santé ouvert à la population.
+   Faux pour la vie de l'administration (nominations, réunions, visites, partenariats,
+   inaugurations sans service nouveau, formations, prix, appels d'offres, rapports), pour la
+   météo ordinaire, pour la politique, et pour ce qui se passe loin du Sénégal sans risque
+   pour lui.
+2. type : « alerte » pour un danger à éviter, « conseil » pour une information ou une
+   recommandation utile.
+3. gravite : 3, 2 ou 1 (voir le schéma).
+4. sujet et regions (régions administratives du Sénégal : Dakar, Thiès, Diourbel, Fatick,
    Kaolack, Kaffrine, Kolda, Sédhiou, Ziguinchor, Tambacounda, Kédougou, Matam, Louga,
    Saint-Louis). Liste vide si tout le pays est concerné ou si ce n'est pas précisé.
-4. message_fr, seulement si utile : 3 à 5 phrases courtes, en français simple, lues à voix
+5. message_fr, seulement si utile : 3 à 5 phrases courtes, en français simple, lues à voix
    haute. Commence par « Selon {source}, ». Dis ce qui se passe et où, puis 2 ou 3 gestes
-   concrets pour se protéger, et quand aller au poste de santé. Uniquement les faits de la
-   publication et des conseils de prévention reconnus : aucun chiffre, lieu ou traitement
-   inventé. Pas de liste, pas d'abréviation, pas de lien, pas de parenthèses.
+   concrets (se protéger, en profiter, se faire dépister…), et quand aller au poste
+   de santé. Uniquement les faits de la publication et des conseils de prévention
+   reconnus : aucun chiffre, lieu ou traitement inventé. Pas de liste, pas d'abréviation,
+   pas de lien, pas de parenthèses.
 
 Titre : {titre}
 Texte :
@@ -194,6 +226,9 @@ def _db() -> sqlite3.Connection:
         );
         """
     )
+    columns = [r[1] for r in con.execute("PRAGMA table_info(publications)")]
+    if "type" not in columns:  # bases créées avant les conseils
+        con.execute("ALTER TABLE publications ADD COLUMN type TEXT DEFAULT 'alerte'")
     return con
 
 
@@ -238,6 +273,7 @@ def _rss_items(xml: str) -> list[dict]:
                 "url": (item.findtext("link") or "").strip(),
                 "date": when,
                 "texte": _html_text(item.findtext("description") or ""),
+                "categories": [(c.text or "").strip() for c in item.findall("category")],
             }
         )
     return items
@@ -327,6 +363,26 @@ async def collect_oms(client: httpx.AsyncClient) -> list[Publication]:
     return pubs
 
 
+async def collect_aps(client: httpx.AsyncClient) -> list[Publication]:
+    """Rubrique santé de l'Agence de presse sénégalaise (agence officielle)."""
+    r = await client.get(APS_RSS)
+    r.raise_for_status()
+    return [
+        Publication(APS, i["titre"], i["url"], i["date"], i["texte"]) for i in _rss_items(r.text)
+    ]
+
+
+async def collect_soleil(client: httpx.AsyncClient) -> list[Publication]:
+    """Le Soleil (quotidien national) : seulement les articles de la rubrique Santé."""
+    r = await client.get(SOLEIL_RSS)
+    r.raise_for_status()
+    return [
+        Publication(SOLEIL, i["titre"], i["url"], i["date"], i["texte"])
+        for i in _rss_items(r.text)
+        if any(norm(c) == "sante" for c in i["categories"]) or "/sante/" in i["url"]
+    ]
+
+
 def _ssl_context() -> ssl.SSLContext:
     ctx = ssl.create_default_context(cafile=certifi.where())
     for cert in CERTS:
@@ -341,7 +397,14 @@ def http_client() -> httpx.AsyncClient:
     )
 
 
-COLLECTORS = (collect_ministere_rss, collect_ministere_communiques, collect_anacim, collect_oms)
+COLLECTORS = (
+    collect_ministere_rss,
+    collect_ministere_communiques,
+    collect_anacim,
+    collect_oms,
+    collect_aps,
+    collect_soleil,
+)
 
 
 async def collect_all(client: httpx.AsyncClient) -> list[Publication]:
@@ -409,7 +472,7 @@ def _client() -> genai.Client:
 async def analyse(pub: Publication) -> Analyse:
     s = get_settings()
     prompt = (
-        ANALYSE_PROMPT.replace("{source}", pub.source)
+        ANALYSE_PROMPT.replace("{source}", AVEC_ARTICLE.get(pub.source, pub.source))
         .replace("{date}", pub.date.strftime("%d/%m/%Y") if pub.date else "date inconnue")
         .replace("{titre}", pub.titre)
         .replace("{texte}", pub.texte[:MAX_TEXT] or "(pas de texte)")
@@ -461,6 +524,8 @@ async def run_once(
     `numeros` : n'envoie qu'à ces numéros (sans ciblage ni plafond), pour essayer.
     `dry_run` : n'écrit rien et n'envoie rien.
     `tout` : relit aussi les publications déjà vues (et ignore le premier passage muet).
+    En mode essai (VEILLE_TEST_NUMEROS), le premier passage n'est pas muet non plus : seuls
+    les numéros d'essai reçoivent, et ce qui leur est envoyé ne repartira pas à tous ensuite.
     """
     con = _db()
     async with http_client() as client:
@@ -469,7 +534,7 @@ async def run_once(
         seen = {r[0] for r in con.execute("SELECT url FROM publications")}
         now_iso = _iso(_now())
 
-        if not tout:
+        if not (tout or _test_numbers()):
             # Premier passage sur une source : tout ce qui est déjà en ligne est « vu ».
             fresh_sources = {p.source for p in pubs} - known
             for p in pubs:
@@ -481,7 +546,9 @@ async def run_once(
                     )
             if fresh_sources:
                 log.info("Veille : premier passage sur %s, rien n'est envoyé", fresh_sources)
-            pubs = [p for p in pubs if p.source not in fresh_sources and p.url not in seen]
+            pubs = [p for p in pubs if p.source not in fresh_sources]
+        if not tout:
+            pubs = [p for p in pubs if p.url not in seen]
         con.commit()
 
         results = []
@@ -514,13 +581,14 @@ async def run_once(
             }
             results.append(entry)
             log.info(
-                "Veille : %s · utile=%s gravité=%s · %s",
+                "Veille : %s · utile=%s %s gravité=%s · %s",
                 pub.source,
                 result.utile,
+                result.type,
                 result.gravite,
                 pub.titre[:80],
             )
-            if not result.utile or result.gravite < 2 or not result.message_fr:
+            if not result.utile or not result.message_fr:
                 continue
             if not numeros and _is_duplicate(con, result.sujet, result.regions):
                 log.info("Veille : « %s » déjà diffusé récemment", result.sujet)
@@ -544,10 +612,11 @@ def _mark_seen(
     # Jamais de REPLACE : diffusee_le doit survivre (anti-doublon).
     con.execute(
         "INSERT INTO publications (url, source, titre, publie_le, vue_le, utile, gravite, "
-        "sujet, regions, message_fr) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) "
+        "sujet, regions, message_fr, type) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) "
         "ON CONFLICT(url) DO UPDATE SET publie_le = excluded.publie_le, "
         "vue_le = excluded.vue_le, utile = excluded.utile, gravite = excluded.gravite, "
-        "sujet = excluded.sujet, regions = excluded.regions, message_fr = excluded.message_fr",
+        "sujet = excluded.sujet, regions = excluded.regions, message_fr = excluded.message_fr, "
+        "type = excluded.type",
         (
             pub.url,
             pub.source,
@@ -559,6 +628,7 @@ def _mark_seen(
             result.sujet if result else None,
             json.dumps(result.regions if result else [], ensure_ascii=False),
             result.message_fr if result else None,
+            result.type if result else None,
         ),
     )
     con.commit()
@@ -616,14 +686,17 @@ async def spoken_text(alerte: dict, langue: str) -> str:
         con.commit()
     con.close()
     fin = textes.ALERTE_VERIFIER[langue].format(source=alerte["source"])
-    return f"{textes.ALERTE_DEBUT[langue]} {traduit} {fin}"
+    debut = textes.CONSEIL_DEBUT if alerte.get("type") == "conseil" else textes.ALERTE_DEBUT
+    return f"{debut[langue]} {traduit} {fin}"
 
 
 def source_note(alerte: dict) -> str:
     """Texte écrit qui suit le vocal : la source et son lien, pour vérifier."""
     quand = f", {alerte['date']}" if alerte.get("date") else ""
+    conseil = alerte.get("type") == "conseil"
+    titre = "💡 Info santé SunuChat" if conseil else "📢 Alerte santé SunuChat"
     return (
-        f"📢 Alerte santé SunuChat : {alerte['sujet']}\n"
+        f"{titre} : {alerte['sujet']}\n"
         f"Source : {alerte['source']}{quand}\n{alerte['url']}\n"
         "⚠️ Vérifie toujours cette information auprès de ton poste de santé."
     )
@@ -663,7 +736,7 @@ async def diffuse(alerte: dict, numeros: list[str] | None = None) -> int:
     # Les alertes en attente (deliver_pending) sont relues depuis cette table.
     con.execute(
         "INSERT OR IGNORE INTO publications (url, source, titre, publie_le, vue_le, utile, "
-        "gravite, sujet, regions, message_fr) VALUES (?, ?, ?, ?, ?, 1, ?, ?, ?, ?)",
+        "gravite, sujet, regions, message_fr, type) VALUES (?, ?, ?, ?, ?, 1, ?, ?, ?, ?, ?)",
         (
             alerte["url"],
             alerte["source"],
@@ -674,6 +747,7 @@ async def diffuse(alerte: dict, numeros: list[str] | None = None) -> int:
             alerte["sujet"],
             json.dumps(alerte["regions"], ensure_ascii=False),
             alerte["message_fr"],
+            alerte.get("type", "alerte"),
         ),
     )
     con.commit()  # sinon la base reste verrouillée pendant les envois (traductions)
@@ -693,7 +767,8 @@ async def diffuse(alerte: dict, numeros: list[str] | None = None) -> int:
                 continue
         statut = "en_attente"
         try:
-            if campaigns.window_open(numero) or forced:
+            # Essai sans modèle Meta configuré : on tente quand même le vocal.
+            if campaigns.window_open(numero) or (forced and not s.template_alerte_sante):
                 await send_alert(numero, alerte, langue)
                 statut = "envoye"
             elif s.template_alerte_sante:
@@ -721,7 +796,7 @@ async def diffuse(alerte: dict, numeros: list[str] | None = None) -> int:
 
 
 def _alert_from_row(row: tuple) -> dict:
-    url, source, titre, publie_le, sujet, regions, message_fr, gravite = row
+    url, source, titre, publie_le, sujet, regions, message_fr, gravite, type_ = row
     return {
         "url": url,
         "source": source,
@@ -731,6 +806,7 @@ def _alert_from_row(row: tuple) -> dict:
         "regions": json.loads(regions or "[]"),
         "message_fr": message_fr,
         "gravite": gravite,
+        "type": type_ or "alerte",
     }
 
 
@@ -743,7 +819,7 @@ def date_fr_short(text: str) -> datetime | None:
 
 
 _ALERT_COLUMNS = (
-    "p.url, p.source, p.titre, p.publie_le, p.sujet, p.regions, p.message_fr, p.gravite"
+    "p.url, p.source, p.titre, p.publie_le, p.sujet, p.regions, p.message_fr, p.gravite, p.type"
 )
 
 
@@ -814,7 +890,7 @@ def schedule() -> None:
     reminders.scheduler().add_job(
         run_scheduled,
         "interval",
-        hours=s.veille_intervalle_h,
+        minutes=max(1, s.veille_intervalle_min),
         next_run_time=datetime.now() + timedelta(minutes=2),
         id="veille-sanitaire",
         replace_existing=True,
@@ -832,11 +908,13 @@ def _main() -> None:
         parser.error("--tout seulement avec --dry-run ou --a (sinon tout repart à tous)")
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s : %(message)s")
     results = asyncio.run(run_once(args.a, args.dry_run, args.jours, args.tout))
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")  # emojis dans un terminal Windows
     for r in results:
-        marque = "📢" if r["utile"] and r["gravite"] >= 2 else "  "
+        marque = ("💡" if r["type"] == "conseil" else "📢") if r["utile"] else "  "
         print(f"\n{marque} [{r['source']} {r['date']}] {r['titre']}")
         print(
-            f"   utile={r['utile']} gravité={r['gravite']} sujet={r['sujet']!r} "
+            f"   utile={r['utile']} type={r['type']} gravité={r['gravite']} "
+            f"sujet={r['sujet']!r} "
             f"régions={r['regions']}"
         )
         if r["message_fr"]:
