@@ -241,7 +241,7 @@ Règles :
 {maps}
 Date du jour : {date}
 Profil de l'utilisateur : {profil}
-{alerte}{demande_position}
+{alertes_sanitaires}{alerte}{demande_position}
 Message de l'utilisateur (traduit en français) : {texte_fr}
 
 Passages des sources officielles :
@@ -255,6 +255,24 @@ le bouton qui arrive juste en dessous de ton message, pour que tu voies où il s
 que tu lui indiques le poste de santé le plus proche. Ne cite pas le texte du bouton (pas de
 « Envoyer la position ») : parle naturellement, comme à l'oral. Il peut aussi te dire le nom
 de son quartier ou de son village. La réponse est souvent écoutée en vocal : sois très concret."""
+
+
+def _alertes_sanitaires() -> str:
+    """Alertes officielles récentes de la veille : l'agent peut en parler si on lui demande
+    « qu'est-ce qui se passe en ce moment ? »."""
+    from sunuchat import veille
+
+    try:
+        alertes = veille.alertes_en_cours()
+    except Exception:
+        log.exception("Alertes de la veille illisibles")
+        return ""
+    if not alertes:
+        return ""
+    return (
+        "Alertes sanitaires officielles récentes (cite toujours la source et invite à vérifier "
+        "auprès du poste de santé) :\n" + alertes + "\n"
+    )
 
 
 def sante_instruction(ctx: ReadonlyContext) -> str:
@@ -283,6 +301,7 @@ def sante_instruction(ctx: ReadonlyContext) -> str:
         .replace("{maps}", maps)
         .replace("{date}", date.today().strftime("%d/%m/%Y"))
         .replace("{profil}", str(profil or "inconnu"))
+        .replace("{alertes_sanitaires}", _alertes_sanitaires())
         .replace("{alerte}", alerte)
         .replace("{demande_position}", DEMANDE_POSITION if state.get("demander_position") else "")
         .replace("{texte_fr}", state.get("texte_fr", ""))
@@ -500,23 +519,26 @@ tirets ni de guillemets. Relis-toi avant de répondre : chaque mot doit être bi
 """
 
 
-def traduction_instruction(ctx: ReadonlyContext) -> str:
-    langue = user_language(ctx.state)
-    alphabet = (
-        "Écris en pulaar du Fuuta Tooro, tel qu'on le parle au Sénégal (vallée du fleuve : "
-        "Podor, Matam, Kanel…), avec ses salutations (« No mbaɗ-ɗaa ? », « Jam tan »). "
-        "Pas le fulfulde du Niger, du Nigeria ou du Cameroun, ni le pular du Fouta-Djalon "
-        "guinéen. Garde les mots français que les Haalpulaar'en utilisent couramment "
-        "(poste de santé, moustiquaire, vaccin). Utilise l'orthographe pulaar officielle du "
-        "Sénégal avec ses lettres ɓ ɗ ƴ ŋ.\n"
-        if langue == "pulaar"
-        else WOLOF_GUIDE
-    )
+PULAAR_GUIDE = (
+    "Écris en pulaar du Fuuta Tooro, tel qu'on le parle au Sénégal (vallée du fleuve : "
+    "Podor, Matam, Kanel…), avec ses salutations (« No mbaɗ-ɗaa ? », « Jam tan »). "
+    "Pas le fulfulde du Niger, du Nigeria ou du Cameroun, ni le pular du Fouta-Djalon "
+    "guinéen. Garde les mots français que les Haalpulaar'en utilisent couramment "
+    "(poste de santé, moustiquaire, vaccin). Utilise l'orthographe pulaar officielle du "
+    "Sénégal avec ses lettres ɓ ɗ ƴ ŋ.\n"
+)
+
+
+def translation_prompt(texte_fr: str, langue: str) -> str:
     return (
         TRADUCTION_PROMPT.replace("{langue}", langue)
-        .replace("{alphabet}", alphabet)
-        .replace("{reponse_fr}", ctx.state.get("reponse_fr", ""))
+        .replace("{alphabet}", PULAAR_GUIDE if langue == "pulaar" else WOLOF_GUIDE)
+        .replace("{reponse_fr}", texte_fr)
     )
+
+
+def traduction_instruction(ctx: ReadonlyContext) -> str:
+    return translation_prompt(ctx.state.get("reponse_fr", ""), user_language(ctx.state))
 
 
 def _translation_config(s) -> types.GenerateContentConfig:
@@ -592,6 +614,28 @@ async def translation_fallback(
         traduction_instruction(callback_context),
         types.GenerateContentConfig(temperature=0.2),
     )
+
+
+async def traduire(texte_fr: str, langue: str) -> str:
+    """Traduit un texte français en wolof ou en pulaar, hors de l'agent (alertes de la veille
+    sanitaire), avec les mêmes consignes et les mêmes modèles de secours."""
+    _setup_env()
+    s = get_settings()
+    model = s.translation_model or s.fast_model
+    prompt = translation_prompt(texte_fr, langue)
+    try:
+        r = await _genai_client().aio.models.generate_content(
+            model=model, contents=prompt, config=_translation_config(s)
+        )
+        text = r.text or ""
+    except Exception as e:
+        r = await _generate_with_fallback(
+            model, e, prompt, types.GenerateContentConfig(temperature=0.2)
+        )
+        text = "".join(p.text or "" for p in (r.content.parts if r.content else []))
+    if not text.strip():
+        raise RuntimeError(f"Traduction en {langue} vide")
+    return text.strip()
 
 
 # ---------- Assemblage ----------

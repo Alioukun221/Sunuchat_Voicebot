@@ -14,7 +14,7 @@ import asyncio
 import logging
 import sqlite3
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from sunuchat.config import get_settings
 
@@ -22,6 +22,8 @@ log = logging.getLogger(__name__)
 
 # (mois, jour) des envois automatiques.
 SEASONAL_DATES = [(7, 15), (9, 15)]
+# Fenêtre de WhatsApp pour écrire librement (vocal compris) : 24 h, avec une marge.
+WINDOW = timedelta(hours=23)
 
 
 def _db() -> sqlite3.Connection:
@@ -30,15 +32,39 @@ def _db() -> sqlite3.Connection:
         "CREATE TABLE IF NOT EXISTS abonnes (numero TEXT PRIMARY KEY, langue TEXT, "
         "inscrit_le TEXT, actif INTEGER NOT NULL DEFAULT 1)"
     )
+    columns = [r[1] for r in con.execute("PRAGMA table_info(abonnes)")]
+    if "derniere_activite" not in columns:  # bases créées avant la veille sanitaire
+        con.execute("ALTER TABLE abonnes ADD COLUMN derniere_activite TEXT")
     return con
+
+
+def touch(numero: str) -> None:
+    """Note l'heure du dernier message reçu : la fenêtre de 24 h est alors ouverte."""
+    with _db() as con:
+        con.execute(
+            "UPDATE abonnes SET derniere_activite = ? WHERE numero = ?",
+            (datetime.now().isoformat(timespec="seconds"), numero),
+        )
+
+
+def window_open(numero: str, now: datetime | None = None) -> bool:
+    """Vrai si la personne a écrit il y a moins de 23 h (vocal libre accepté par WhatsApp)."""
+    with _db() as con:
+        row = con.execute(
+            "SELECT derniere_activite FROM abonnes WHERE numero = ?", (numero,)
+        ).fetchone()
+    if not row or not row[0]:
+        return False
+    return (now or datetime.now()) - datetime.fromisoformat(row[0]) < WINDOW
 
 
 def subscribe(numero: str, langue: str) -> None:
     with _db() as con:
         con.execute(
-            "INSERT INTO abonnes (numero, langue, inscrit_le, actif) VALUES (?, ?, ?, 1) "
+            "INSERT INTO abonnes (numero, langue, inscrit_le, actif, derniere_activite) "
+            "VALUES (?, ?, ?, 1, ?) "
             "ON CONFLICT(numero) DO UPDATE SET langue = excluded.langue, actif = 1",
-            (numero, langue, datetime.now().isoformat(timespec="seconds")),
+            (numero, langue, *[datetime.now().isoformat(timespec="seconds")] * 2),
         )
 
 

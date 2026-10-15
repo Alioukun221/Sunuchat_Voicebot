@@ -47,6 +47,23 @@ RAPPEL_VACCIN = {
     ),
 }
 
+# Alertes de la veille sanitaire (veille.py) : début et fin de chaque alerte, toujours ajoutés
+# par le code, pour que la source et l'appel à vérifier ne manquent jamais.
+ALERTE_DEBUT = {
+    "wolof": "Xibaar bu am solo ci wàllu wér gi.",
+    "pulaar": "Kabaaru jojjuɗo e cellal.",
+}
+ALERTE_VERIFIER = {
+    "wolof": (
+        "Xibaar bii, {source} moo ko génne. Wóorlul ko ci sa poste de santé walla ci benn "
+        "agent de santé, balaa ngay jëf. Wax « stop » ngir dootuloo jot alerte yi."
+    ),
+    "pulaar": (
+        "Kabaaru oo, ko {source} yaltini ɗum. Ƴeewto ɗum e poste de santé maa walla e "
+        "agent de santé, hade maa huutoraade ɗum. Wiy « stop » ngam haɗde alerte ɗee."
+    ),
+}
+
 DESINSCRIT = {
     "wolof": "Baax na. Dootuloo jot alerte yi. Wax « alerte » ngir dellu ci.",
     "pulaar": "Ɗum moƴƴii. A heɓataa alerte kadi. Wiy « alerte » ngam artaade.",

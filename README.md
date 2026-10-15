@@ -84,6 +84,7 @@ Mais presque tout le monde a **WhatsApp** et envoie des **messages vocaux** tous
 | 🚑 | **Détection d'urgence** | Règles fixes sur les signes de gravité → message d'urgence + fiche contact **SAMU 1515** en un appui. |
 | 📍 | **Poste de santé le plus proche** | À partir de la position WhatsApp ou du nom du quartier (OpenStreetMap). |
 | 🌧️ | **Alertes d'hivernage** | Campagnes de prévention paludisme / dengue envoyées aux inscrits. |
+| 📢 | **Veille sanitaire proactive** | Le bot lit les publications officielles (Ministère de la Santé, ANACIM, OMS) et prévient de lui-même, en vocal, les personnes concernées : épidémie, campagne de vaccination, canicule… Source toujours citée, invitation à vérifier. |
 | 🧠 | **Mémoire** | Se souvient de la langue, de la localité et des enfants d'une conversation à l'autre. |
 
 ## 🎬 Démo : ce que vit l'utilisateur
@@ -304,6 +305,45 @@ approuvés, sans vocal. Le rappel de vaccin passe alors par un modèle texte + i
 Images d'en-tête à déposer dans `assets/images/` (`vaccins`, `hivernage`, carré 1080 × 1080).
 </details>
 
+## 📢 Veille sanitaire proactive
+
+SunuChat n'attend pas qu'on lui écrive. Toutes les 6 h (`VEILLE_INTERVALLE_H`), il lit :
+
+| Source | Contenu |
+|---|---|
+| Ministère de la Santé | Flux RSS des actualités, communiqués et leurs PDF (points de situation) |
+| ANACIM | Flux RSS, filtré sur les alertes (chaleur, fortes pluies, poussière…) |
+| OMS | Disease Outbreak News : le Sénégal et ses voisins |
+
+```mermaid
+flowchart LR
+    SRC["Sources officielles"] --> COL["Collecte<br/>RSS · HTML · PDF"]
+    COL --> NEW{"Nouvelle et<br/>de moins de 7 jours ?"}
+    NEW --> GEM["Gemini<br/>utile ? gravité ? régions ?<br/>message en français"]
+    GEM --> GARDE{"Gravité ≥ 2<br/>pas déjà diffusée"}
+    GARDE --> CIBLE["Ciblage<br/>région · plafond hebdo"]
+    CIBLE --> WIN{"Fenêtre de<br/>24 h ouverte ?"}
+    WIN -- oui --> VOC["🔊 Vocal wolof / pulaar<br/>+ source et lien en texte"]
+    WIN -- non --> TPL["Modèle Meta « Écouter »"] --> VOC
+```
+
+- **Source toujours citée, vérification toujours demandée** : ces phrases sont ajoutées par le
+  code (`textes.ALERTE_VERIFIER`), pas par le modèle. Le lien de la publication suit en texte.
+- **Garde-fous** : sources officielles uniquement ; premier passage muet (rien de l'historique
+  n'est envoyé) ; pas deux alertes sur le même sujet en 7 jours ; 3 alertes par semaine au plus
+  (`VEILLE_MAX_PAR_SEMAINE`, la gravité 3 passe toujours) ; alerte régionale envoyée seulement
+  aux habitants de la région (déduite de la localité).
+- **Hors des 24 h** : modèle Meta `TEMPLATE_ALERTE_SANTE` (« 📢 Alerte santé : {{1}}. Source :
+  {{2}}. Appuie sur Écouter… », bouton de réponse rapide « Écouter »). L'alerte part en vocal
+  quand la personne appuie, ou dès qu'elle écrit au bot.
+- **L'agent connaît les alertes en cours** : « qu'est-ce qui se passe en ce moment ? » trouve
+  une réponse sourcée.
+
+```bash
+uv run python -m sunuchat.veille --dry-run --tout --jours 60   # analyser sans rien envoyer
+uv run python -m sunuchat.veille --a 22177xxxxxxx --tout       # essai sur son numéro
+```
+
 ## 🚀 Déploiement
 
 ```mermaid
@@ -343,7 +383,8 @@ src/sunuchat/
 ├── speech.py       Voix Kiriku (STT / TTS), conversion audio, vidéo de rappel
 ├── whatsapp.py     Envoi de vocaux, vidéos, fiches contact ; téléchargement des médias
 ├── reminders.py    Rappels vocaux de médicaments et de vaccins
-├── campaigns.py    Inscriptions et alertes d'hivernage
+├── campaigns.py    Inscriptions, alertes d'hivernage, fenêtre de 24 h
+├── veille.py       Veille sanitaire : collecte, analyse Gemini, alertes ciblées
 ├── places.py       Postes de santé proches (OpenStreetMap)
 ├── memory.py       Sessions et mémoire longue par numéro
 ├── onboarding.py   Messages fixes en vocal, commandes « stop » / « alerte », fiche SAMU
