@@ -55,3 +55,14 @@ erreur_ordonnance	Pardon, je n'arrive pas à lire l'ordonnance. Reprends la phot
 alertes_stop	D'accord. Tu ne recevras plus les alertes. Dis « alerte » pour les recevoir de nouveau.		a_traduire	SunuChat : message fixe DESINSCRIT
 alertes_reinscrit	D'accord. Tu recevras les alertes pendant l'hivernage.		a_traduire	SunuChat : message fixe REINSCRIT
 langue_choisie	D'accord, je te parle en sérère maintenant.		a_traduire	SunuChat : message fixe LANGUE_CHOISIE
+quotidien_bois_eau	Bois de l'eau.		a_traduire	SunuChat : verbes du quotidien
+quotidien_donne_a_boire	Donne-lui à boire.		a_traduire	SunuChat : verbes du quotidien
+quotidien_mange	Mange un peu.		a_traduire	SunuChat : verbes du quotidien
+quotidien_prends_medicament	Prends ce médicament.		a_traduire	SunuChat : verbes du quotidien
+quotidien_va_poste	Va au poste de santé.		a_traduire	SunuChat : verbes du quotidien
+quotidien_lave_mains	Lave-toi les mains avec du savon.		a_traduire	SunuChat : verbes du quotidien
+quotidien_dors	Dors bien cette nuit.		a_traduire	SunuChat : verbes du quotidien
+quotidien_appelle_moi	Reviens me parler demain.		a_traduire	SunuChat : verbes du quotidien
+comprendre_pas_compris	Je n'ai pas bien compris ton message.		a_traduire	SunuChat : compréhension
+comprendre_repete	Répète, s'il te plaît.		a_traduire	SunuChat : compréhension
+comprendre_quelqu_un_malade	Est-ce que quelqu'un est malade à la maison ?		a_traduire	SunuChat : compréhension

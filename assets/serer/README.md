@@ -29,7 +29,10 @@ SIN (Sine). Quelques lectures du scan sont incertaines (`nq` ou `ng`) : la remar
 3. **Vérifications** (`serer.check` puis `agent.check_meaning`) :
    - chaque mot doit venir du dictionnaire (ou être un mot français repris tel quel, comme
      « poste de santé »), et au moins la moitié des mots doivent être sérères ;
-   - retraduit en français, le texte doit garder toutes les consignes de santé.
+   - retraduit en français, le texte doit garder les consignes essentielles (que faire, quand
+     aller au poste de santé, signes d'alerte, médicaments et doses) et ne faire aucun
+     contresens. Un détail secondaire perdu (« propre », une question de relance) ne bloque
+     pas : il est noté pour la relecture.
 4. Si une vérification échoue, la réponse part **en wolof**, que la plupart des Sereer
    comprennent. Les consignes d'urgence partent toujours en wolof tant qu'aucune phrase
    `urgence_…` n'est validée.

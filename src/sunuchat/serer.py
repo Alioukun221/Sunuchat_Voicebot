@@ -257,7 +257,9 @@ def log_attempt(texte_fr: str, texte_sereer: str, verdict: Verdict, fidelite=Non
             }
             if fidelite is not None:  # retraduction par Gemini (agent.check_meaning)
                 record["retraduction"] = fidelite.retraduction
-                record["consignes_manquantes"] = fidelite.consignes_manquantes
+                record["consignes_essentielles_perdues"] = fidelite.consignes_essentielles_perdues
+                record["contresens"] = fidelite.contresens
+                record["details_perdus"] = fidelite.details_perdus
             f.write(json.dumps(record, ensure_ascii=False) + "\n")
     except OSError:
         log.exception("Essai sérère non enregistré")
