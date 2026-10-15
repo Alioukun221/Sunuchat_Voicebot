@@ -340,7 +340,10 @@ flowchart LR
 - **Source toujours citée, vérification toujours demandée** : ces phrases sont ajoutées par le
   code (`textes.ALERTE_VERIFIER`), pas par le modèle. Le lien de la publication suit en texte.
 - **Garde-fous** : sources officielles et presse de référence uniquement ; premier passage
-  muet (rien de l'historique n'est envoyé) ; pas deux alertes sur le même sujet en 7 jours ; 3 alertes par semaine au plus
+  muet (rien de l'historique n'est envoyé) ; **une seule publication par passage** (la plus
+  grave d'abord, les autres attendent) ; avant chaque envoi, Gemini la compare à ce qui est
+  déjà parti : la même information venue d'une autre source ou reformulée est écartée ;
+  3 alertes par semaine au plus
   (`VEILLE_MAX_PAR_SEMAINE`, la gravité 3 passe toujours) ; alerte régionale envoyée seulement
   aux habitants de la région (déduite de la localité).
 - **Hors des 24 h** : modèle Meta `TEMPLATE_ALERTE_SANTE` (« 📢 Alerte santé : {{1}}. Source :

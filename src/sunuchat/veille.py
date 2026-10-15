@@ -18,7 +18,10 @@ Garde-fous (il n'y a pas de validation humaine) :
 - au premier passage sur une source, ce qui est déjà en ligne est noté comme vu, sans envoi
   (sauf en mode essai, VEILLE_TEST_NUMEROS rempli : les essais partent tout de suite) ;
 - publications de plus de MAX_AGE_DAYS jours ignorées ;
-- jamais deux fois le même sujet sur les mêmes régions en COOLDOWN_DAYS jours ;
+- une seule publication envoyée par passage : la plus grave, les alertes avant les conseils,
+  puis la plus récente ; les autres attendent les passages suivants ;
+- avant chaque envoi, Gemini la compare à ce qui est parti ces COOLDOWN_DAYS derniers jours :
+  même événement ou même conseil (même venant d'une autre source) → écartée pour de bon ;
 - VEILLE_MAX_PAR_SEMAINE alertes par personne et par semaine (la gravité 3 passe toujours) ;
 - alerte régionale : seulement aux habitants de ces régions et à ceux dont on ne connaît pas
   la région ;
@@ -229,6 +232,8 @@ def _db() -> sqlite3.Connection:
     columns = [r[1] for r in con.execute("PRAGMA table_info(publications)")]
     if "type" not in columns:  # bases créées avant les conseils
         con.execute("ALTER TABLE publications ADD COLUMN type TEXT DEFAULT 'alerte'")
+    if "ecartee_le" not in columns:  # publication jugée redite : jamais envoyée
+        con.execute("ALTER TABLE publications ADD COLUMN ecartee_le TEXT")
     return con
 
 
@@ -469,16 +474,11 @@ def _client() -> genai.Client:
     return genai.Client(api_key=get_settings().google_api_key or None)
 
 
-async def analyse(pub: Publication) -> Analyse:
+async def _generate_json(prompt: str, schema: type[BaseModel]):
+    """Réponse structurée de Gemini, avec les modèles de secours."""
     s = get_settings()
-    prompt = (
-        ANALYSE_PROMPT.replace("{source}", AVEC_ARTICLE.get(pub.source, pub.source))
-        .replace("{date}", pub.date.strftime("%d/%m/%Y") if pub.date else "date inconnue")
-        .replace("{titre}", pub.titre)
-        .replace("{texte}", pub.texte[:MAX_TEXT] or "(pas de texte)")
-    )
     config = types.GenerateContentConfig(
-        temperature=0, response_mime_type="application/json", response_schema=Analyse
+        temperature=0, response_mime_type="application/json", response_schema=schema
     )
     models = [s.agent_model, *s.models_after(s.agent_model)]
     for i, m in enumerate(models):
@@ -489,9 +489,73 @@ async def analyse(pub: Publication) -> Analyse:
             if i == len(models) - 1:
                 raise
             log.warning("%s indisponible pour la veille : modèle suivant", m)
-    result = r.parsed if isinstance(r.parsed, Analyse) else Analyse.model_validate_json(r.text)
+    return r.parsed if isinstance(r.parsed, schema) else schema.model_validate_json(r.text)
+
+
+async def analyse(pub: Publication) -> Analyse:
+    prompt = (
+        ANALYSE_PROMPT.replace("{source}", AVEC_ARTICLE.get(pub.source, pub.source))
+        .replace("{date}", pub.date.strftime("%d/%m/%Y") if pub.date else "date inconnue")
+        .replace("{titre}", pub.titre)
+        .replace("{texte}", pub.texte[:MAX_TEXT] or "(pas de texte)")
+    )
+    result = await _generate_json(prompt, Analyse)
     result.gravite = min(3, max(1, result.gravite))
     return result
+
+
+class Redite(BaseModel):
+    deja_dit: bool = Field(
+        description="Vrai si quelqu'un qui a entendu les messages déjà envoyés n'apprendrait "
+        "rien de nouveau et d'utile avec celui-ci."
+    )
+    raison: str = Field("", description="En une phrase, pourquoi.")
+
+
+REDITE_PROMPT = """Tu évites à SunuChat de répéter une information aux familles qu'il prévient.
+Voici un message prêt à partir, puis les messages déjà envoyés ces derniers jours.
+
+deja_dit est vrai si une personne qui a entendu les messages déjà envoyés n'apprendrait rien
+de nouveau et d'utile avec celui-ci : même événement (même si la source, la date ou les mots
+changent), ou même conseil sans fait nouveau. Il est faux si le message apporte un fait qui
+change ce qu'il faut faire : autre région, autre maladie, aggravation, nouvelle campagne
+gratuite avec un lieu ou une date.
+
+Message prêt à partir ({sujet} ; régions : {regions}) :
+{message}
+
+Messages déjà envoyés :
+{deja}"""
+
+
+async def juge_redite(alerte: dict, recentes: list[dict]) -> Redite:
+    deja = "\n".join(
+        f"- {r['sujet']} ({', '.join(r['regions']) or 'tout le Sénégal'}) : {r['message_fr']}"
+        for r in recentes
+    )
+    prompt = (
+        REDITE_PROMPT.replace("{sujet}", alerte["sujet"])
+        .replace("{regions}", ", ".join(alerte["regions"]) or "tout le Sénégal")
+        .replace("{message}", alerte["message_fr"])
+        .replace("{deja}", deja)
+    )
+    return await _generate_json(prompt, Redite)
+
+
+async def deja_dit(alerte: dict, recentes: list[dict]) -> bool:
+    """La publication répète-t-elle ce qui est déjà parti ? Même sujet sur une même région :
+    oui, sans appel au modèle. Sinon, Gemini compare le sens."""
+    if not recentes:
+        return False
+    sujet, regions = norm(alerte["sujet"]), {norm(r) for r in alerte["regions"]}
+    for r in recentes:
+        autres = {norm(x) for x in r["regions"]}
+        if norm(r["sujet"]) == sujet and (not regions or not autres or regions & autres):
+            return True
+    verdict = await juge_redite(alerte, recentes)
+    if verdict.deja_dit:
+        log.info("Veille : « %s » déjà dit (%s)", alerte["sujet"], verdict.raison)
+    return verdict.deja_dit
 
 
 # ---------- Un passage de veille ----------
@@ -501,16 +565,61 @@ def _known_sources(con: sqlite3.Connection) -> set[str]:
     return {r[0] for r in con.execute("SELECT DISTINCT source FROM publications")}
 
 
-def _is_duplicate(con: sqlite3.Connection, sujet: str, regions: list[str]) -> bool:
-    """Même sujet, mêmes régions, déjà diffusé il y a moins de COOLDOWN_DAYS jours."""
+def _recently_sent(con: sqlite3.Connection) -> list[dict]:
     since = _iso(_now() - timedelta(days=COOLDOWN_DAYS))
-    key = (norm(sujet), sorted(norm(r) for r in regions))
-    for s, regs in con.execute(
-        "SELECT sujet, regions FROM publications WHERE diffusee_le >= ?", (since,)
-    ):
-        if (norm(s), sorted(norm(r) for r in json.loads(regs or "[]"))) == key:
-            return True
-    return False
+    rows = con.execute(
+        f"SELECT {_ALERT_COLUMNS} FROM publications p WHERE p.diffusee_le >= ?", (since,)
+    ).fetchall()
+    return [_alert_from_row(r) for r in rows]
+
+
+def _waiting(con: sqlite3.Connection, oldest: datetime) -> list[dict]:
+    """File d'attente : utiles, ni envoyées ni écartées, encore récentes. La plus grave
+    d'abord, les alertes avant les conseils, puis la plus récente."""
+    rows = con.execute(
+        f"SELECT {_ALERT_COLUMNS} FROM publications p WHERE p.utile = 1 "
+        "AND p.message_fr IS NOT NULL AND p.diffusee_le IS NULL AND p.ecartee_le IS NULL "
+        "AND COALESCE(p.publie_le, p.vue_le) >= ? "
+        "ORDER BY p.gravite DESC, p.type = 'conseil', COALESCE(p.publie_le, p.vue_le) DESC",
+        (_iso(oldest),),
+    ).fetchall()
+    return [_alert_from_row(r) for r in rows]
+
+
+async def send_next(
+    con: sqlite3.Connection,
+    file: list[dict],
+    numeros: list[str] | None = None,
+    dry_run: bool = False,
+) -> dict | None:
+    """Envoie la première publication de la file qui n'est pas une redite (une seule par
+    passage). Les redites sont écartées pour de bon."""
+    recentes = _recently_sent(con)
+    for alerte in file:
+        try:
+            redite = await deja_dit(alerte, recentes)
+        except Exception:
+            log.exception("Comparaison impossible : on réessaiera au prochain passage")
+            return None
+        if redite:
+            if not dry_run:
+                con.execute(
+                    "UPDATE publications SET ecartee_le = ? WHERE url = ?",
+                    (_iso(_now()), alerte["url"]),
+                )
+                con.commit()
+            alerte["ecartee"] = True
+            continue
+        if not dry_run:
+            alerte["envoyes"] = await diffuse(alerte, numeros)
+            con.execute(
+                "UPDATE publications SET diffusee_le = ? WHERE url = ?",
+                (_iso(_now()), alerte["url"]),
+            )
+            con.commit()
+        alerte["choisie"] = True
+        return alerte
+    return None
 
 
 async def run_once(
@@ -519,7 +628,9 @@ async def run_once(
     max_age_days: int = MAX_AGE_DAYS,
     tout: bool = False,
 ) -> list[dict]:
-    """Collecte, analyse et diffuse. Renvoie les publications analysées.
+    """Collecte et analyse les nouvelles publications, puis en envoie une seule (la première
+    de la file d'attente qui n'est pas une redite). Renvoie les publications analysées, et la
+    publication envoyée si elle date d'un passage précédent.
 
     `numeros` : n'envoie qu'à ces numéros (sans ciblage ni plafond), pour essayer.
     `dry_run` : n'écrit rien et n'envoie rien.
@@ -588,19 +699,21 @@ async def run_once(
                 result.gravite,
                 pub.titre[:80],
             )
-            if not result.utile or not result.message_fr:
-                continue
-            if not numeros and _is_duplicate(con, result.sujet, result.regions):
-                log.info("Veille : « %s » déjà diffusé récemment", result.sujet)
-                continue
-            if dry_run:
-                continue
-            entry["envoyes"] = await diffuse(entry, numeros)
-            con.execute(
-                "UPDATE publications SET diffusee_le = ? WHERE url = ?", (_iso(_now()), pub.url)
-            )
-            con.commit()
+
+        file = _waiting(con, oldest)
+        if dry_run:  # rien n'est écrit : les nouvelles publications rejoignent la file ici
+            nouvelles = [r for r in results if r["utile"] and r["message_fr"]]
+            nouvelles.sort(key=lambda r: (-r["gravite"], r["type"] == "conseil"))
+            file = nouvelles + [a for a in file if a["url"] not in {r["url"] for r in results}]
+        log.info("Veille : %d publication(s) en attente d'envoi", len(file))
+        choisie = await send_next(con, file, numeros, dry_run)
     con.close()
+    by_url = {r["url"]: r for r in results}
+    for a in file:
+        if a["url"] in by_url:
+            by_url[a["url"]].update({k: a[k] for k in ("choisie", "ecartee", "envoyes") if k in a})
+    if choisie and choisie["url"] not in by_url:
+        results.append(choisie)
     return results
 
 
@@ -814,6 +927,7 @@ def _alert_from_row(row: tuple) -> dict:
         "message_fr": message_fr,
         "gravite": gravite,
         "type": type_ or "alerte",
+        "utile": True,  # seules les publications utiles sont relues ainsi
     }
 
 
@@ -926,8 +1040,11 @@ def _main() -> None:
         )
         if r["message_fr"]:
             print(f"   → {r['message_fr']}")
-        if "envoyes" in r:
-            print(f"   envoyée à {r['envoyes']} personne(s)")
+        if r.get("ecartee"):
+            print("   ✗ écartée : redit une information déjà envoyée")
+        if r.get("choisie"):
+            dest = f"envoyée à {r['envoyes']} personne(s)" if "envoyes" in r else "serait envoyée"
+            print(f"   ➜ CHOISIE pour ce passage : {dest}")
     print(f"\n{len(results)} publication(s) analysée(s).")
 
 

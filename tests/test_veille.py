@@ -65,6 +65,11 @@ def env(monkeypatch, tmp_path):
     monkeypatch.setattr(agent, "translate", fake_traduire)
     monkeypatch.setattr(places, "region_of", no_region)
     monkeypatch.setattr(veille.asyncio, "sleep", _no_sleep)
+
+    async def jamais_redite(alerte, recentes):  # pas d'appel à Gemini dans les tests
+        return veille.Redite(deja_dit=False)
+
+    monkeypatch.setattr(veille, "juge_redite", jamais_redite)
     return sent, profiles
 
 
@@ -336,3 +341,86 @@ def test_serer_speakers_get_alerts_in_wolof(env):
     voix = sent[0]
     assert voix[:2] == ("voix", "wolof")
     assert voix[2].startswith(textes.ALERTE_DEBUT["wolof"])
+
+
+def _analyses_par_url(monkeypatch, par_url: dict):
+    async def analyse(pub):
+        gravite, type_, sujet = par_url[pub.url]
+        return veille.Analyse(
+            utile=True, type=type_, gravite=gravite, sujet=sujet, message_fr=f"Selon X, {sujet}."
+        )
+
+    monkeypatch.setattr(veille, "analyse", analyse)
+
+
+def _pubs(*urls):
+    now = datetime.now(UTC)
+    return [{"source": "APS", "titre": u, "url": u, "date": now, "complet": True} for u in urls]
+
+
+def test_one_publication_per_pass_most_serious_first(env, monkeypatch):
+    sent, _ = env
+    monkeypatch.setattr(get_settings(), "veille_test_numeros", "221test")
+    _fake_sources(monkeypatch, _pubs("conseil", "alerte"))
+    _analyses_par_url(
+        monkeypatch,
+        {"conseil": (1, "conseil", "Octobre rose"), "alerte": (3, "alerte", "Choléra")},
+    )
+    results = asyncio.run(veille.run_once())
+    choisies = [r["url"] for r in results if r.get("choisie")]
+    assert choisies == ["alerte"]  # une seule, la plus grave
+    assert sum(1 for x in sent if x[0] == "audio") == 1
+
+    # Passage suivant, rien de nouveau : le conseil qui attendait part à son tour.
+    results = asyncio.run(veille.run_once())
+    assert [r["url"] for r in results if r.get("choisie")] == ["conseil"]
+    assert sum(1 for x in sent if x[0] == "audio") == 2
+    # Puis plus rien : jamais deux fois la même.
+    assert asyncio.run(veille.run_once()) == []
+    assert sum(1 for x in sent if x[0] == "audio") == 2
+
+
+def test_rephrased_repeat_is_dropped_for_good(env, monkeypatch):
+    sent, _ = env
+    monkeypatch.setattr(get_settings(), "veille_test_numeros", "221test")
+    _fake_sources(monkeypatch, _pubs("aps"))
+    _analyses_par_url(monkeypatch, {"aps": (2, "conseil", "Dépistage du cancer du sein")})
+    asyncio.run(veille.run_once())
+
+    # Le Soleil raconte la même chose avec d'autres mots : Gemini la juge redite.
+    async def redite(alerte, recentes):
+        return veille.Redite(deja_dit=True, raison="même campagne")
+
+    monkeypatch.setattr(veille, "juge_redite", redite)
+    _fake_sources(monkeypatch, _pubs("aps", "soleil"))
+    _analyses_par_url(monkeypatch, {"soleil": (2, "conseil", "Octobre rose : se faire dépister")})
+    results = asyncio.run(veille.run_once())
+    assert results[0]["url"] == "soleil" and results[0].get("ecartee")
+    assert sum(1 for x in sent if x[0] == "audio") == 1
+    with veille._db() as con:
+        assert veille._waiting(con, datetime.now(UTC) - timedelta(days=7)) == []
+
+
+def test_comparison_failure_retries_next_pass(env, monkeypatch):
+    sent, _ = env
+    monkeypatch.setattr(get_settings(), "veille_test_numeros", "221test")
+    _fake_sources(monkeypatch, _pubs("a"))
+    _analyses_par_url(monkeypatch, {"a": (2, "alerte", "Dengue")})
+    asyncio.run(veille.run_once())  # « Dengue » part
+
+    async def panne(alerte, recentes):
+        raise RuntimeError("quota Gemini")
+
+    monkeypatch.setattr(veille, "juge_redite", panne)
+    _fake_sources(monkeypatch, _pubs("a", "b"))
+    _analyses_par_url(monkeypatch, {"b": (2, "alerte", "Canicule")})
+    asyncio.run(veille.run_once())
+    assert sum(1 for x in sent if x[0] == "audio") == 1  # rien n'est parti à l'aveugle
+
+    async def jamais(alerte, recentes):
+        return veille.Redite(deja_dit=False)
+
+    monkeypatch.setattr(veille, "juge_redite", jamais)
+    _fake_sources(monkeypatch, _pubs("a", "b"))
+    results = asyncio.run(veille.run_once())
+    assert [r["url"] for r in results if r.get("choisie")] == ["b"]
