@@ -1,4 +1,5 @@
-"""Voix wolof / pulaar via l'API Kiriku : transcription (STT) et synthèse vocale (TTS).
+"""Voix wolof / pulaar / sérère via l'API Kiriku : transcription (STT) et synthèse vocale (TTS).
+Kiriku n'a pas de voix sérère : le sérère est lu par la voix pulaar (voir serer.py).
 
 Kiriku renvoie du WAV, que WhatsApp refuse : on le convertit en OGG/Opus avec le
 ffmpeg fourni par le paquet imageio-ffmpeg (rien à installer en plus).
@@ -18,19 +19,23 @@ from pathlib import Path
 import httpx
 import imageio_ffmpeg
 
+from sunuchat import serer
 from sunuchat.config import get_settings
 
 log = logging.getLogger(__name__)
 
 TTS_MODEL = "kiriku-tts"
 STT_MODEL = "m-kiriku-asr"
-TTS_VOICES = {"wolof", "pulaar"}  # pas de voix française
+# Langue → voix Kiriku. Pas de voix française, ni sérère : le pulaar est la langue la plus
+# proche du sérère (mêmes lettres ɓ ɗ ƴ ŋ, consonnes prénasalisées).
+TTS_VOICES = {"wolof": "wolof", "pulaar": "pulaar", "serer": "pulaar"}
 MAX_TTS_CHARS = 500  # l'API accepte 512 caractères par requête
 # Réglages de voix validés à l'écoute.
 VOICE_PARAMS = {
     "wolof": {"speed": 1.1, "pitch": 0.0},
     "pulaar": {"speed": 0.8, "pitch": 0.0},
 }
+VOICE_PARAMS["serer"] = VOICE_PARAMS["pulaar"]  # mêmes réglages que la voix utilisée
 # Pauses : la réponse est lue d'un seul tenant (une seule requête), et ce sont les signes
 # de ponctuation (virgule, point, point d'interrogation…) qui font respirer la voix. On ne
 # coupe que le silence du début et de la fin, et les silences anormaux de plus de
@@ -43,6 +48,7 @@ MAX_PAUSE_S = 0.8
 PRONUNCIATION: dict[str, dict[str, str]] = {
     "wolof": {},
     "pulaar": {},
+    "serer": {},
 }
 
 
@@ -222,6 +228,9 @@ def clean_for_speech(text: str, language: str | None = None) -> str:
         text,
     )
     text = re.sub(r"\s+([.!?:;,])", r"\1", text)
+    if language == "serer":
+        # Avant les nombres : « six », « dix » écrits en lettres françaises gardent leur x.
+        text = serer.for_voice(text)
     text = spell_numbers(text)
     text = apply_pronunciation(text, language)
     text = re.sub(r"\s+", " ", text).strip()
@@ -318,7 +327,7 @@ async def synthesize(text: str, language: str) -> bytes:
                     "/audio/speech",
                     json={
                         "model": TTS_MODEL,
-                        "voice": language,
+                        "voice": TTS_VOICES[language],
                         "input": chunk,
                         **VOICE_PARAMS[language],
                     },

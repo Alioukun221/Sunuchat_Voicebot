@@ -1,15 +1,18 @@
 """Agent Google ADK : un SequentialAgent en trois étapes, avec le français comme langue pivot.
-SunuChat parle seulement wolof et pulaar : ses utilisateurs ne savent souvent pas lire, toutes
+SunuChat parle wolof, pulaar et sérère : ses utilisateurs ne savent souvent pas lire, toutes
 ses réponses partent en vocal.
 
-1. comprehension : détecte la langue (wolof ou pulaar) et traduit en français
+1. comprehension : détecte la langue (wolof, pulaar ou sérère) et traduit en français
    (sortie structurée). Un callback mémorise la langue, lance les règles de gravité sur le
    texte français et cherche tout de suite les passages des sources officielles (RAG).
 2. sante : raisonne en français. Prompt dynamique construit à chaque tour (profil, alertes,
    passages). Outils : recherche RAG, calendrier PEV, profil, rappels, mémoire longue, et le
    MCP Google Maps si la clé est présente. En cas d'alerte, un callback ajoute toujours le
    message d'urgence, quoi que réponde le modèle.
-3. traduction : traduit la réponse en wolof ou en pulaar.
+3. traduction : traduit la réponse en wolof ou en pulaar. Gemini ne parle pas sérère : pour
+   le sérère, il compose la réponse avec le seul dictionnaire de serer.py ; un callback
+   vérifie qu'aucun mot n'est inventé puis, par retraduction, qu'aucune consigne n'est
+   perdue (sinon, la réponse part en wolof).
 """
 
 import asyncio
@@ -33,16 +36,16 @@ from google.adk.tools import ToolContext, preload_memory
 from google.genai import types
 from pydantic import BaseModel, Field
 
-from sunuchat import knowledge, memory, places, reminders, rules
+from sunuchat import knowledge, memory, places, reminders, rules, serer
 from sunuchat.config import get_settings
 
 log = logging.getLogger(__name__)
 
-LANGUES = ("wolof", "pulaar")
+LANGUES = ("wolof", "pulaar", "serer")
 
 
 def user_language(state) -> str:
-    """Langue de l'utilisateur, toujours wolof ou pulaar (un ancien profil peut dire
+    """Langue de l'utilisateur, toujours wolof, pulaar ou sérère (un ancien profil peut dire
     « francais » : SunuChat ne répond plus en français)."""
     langue = state.get("user:langue") or get_settings().default_language
     return langue if langue in LANGUES else "wolof"
@@ -111,22 +114,41 @@ def _config(
 
 
 class Comprehension(BaseModel):
-    langue: Literal["wolof", "pulaar"] = Field(description="Langue du message de l'utilisateur.")
+    langue: Literal["wolof", "pulaar", "serer"] = Field(
+        description="Langue du message de l'utilisateur."
+    )
     texte_fr: str = Field(description="Traduction fidèle du message en français.")
 
 
 COMPREHENSION_PROMPT = """Tu reçois le message d'un utilisateur WhatsApp au Sénégal. Il peut être en
 wolof, en pulaar (peul), en français, ou un mélange (beaucoup de mots français en wolof).
 Il peut venir d'une transcription vocale imparfaite.
-1. Détermine la langue de réponse : "wolof" ou "pulaar" (SunuChat ne parle que ces deux
-   langues). Indices pulaar : ɓ ɗ ƴ ŋ, "no mbaɗ-ɗaa", "jam tan", "mi", "ko". Indices wolof :
-   "na nga def", "dama", "dafa", "lan", "ndax", "yaangi". Si le message est en français, dans
+1. Détermine la langue de réponse : "wolof", "pulaar" ou "serer" (SunuChat ne parle que ces
+   trois langues). Indices pulaar : ɓ ɗ ƴ ŋ, "no mbaɗ-ɗaa", "jam tan", "mi", "ko". Indices
+   wolof : "na nga def", "dama", "dafa", "lan", "ndax", "yaangi". Choisis "serer" seulement si
+   la personne demande qu'on lui parle sérère (seereer). Si le message est en français, dans
    une autre langue, ou si tu hésites, choisis {langue}.
-2. Traduis fidèlement le message en français, sans rien ajouter ni répondre."""
+2. Traduis fidèlement le message en français, sans rien ajouter ni répondre.{serer}"""
+
+
+COMPREHENSION_SERER = """
+
+La personne parle sérère (seereer) : le message vient d'une transcription automatique en
+sérère, une langue que tu connais mal. Comprends-le avec le sens des mots que le dictionnaire
+sérère reconnaît (ci-dessous), avec les mots français ou wolof qu'il contient, et avec le
+contexte de la conversation. Traduis prudemment, sans inventer de détail. Si tu ne comprends
+pas le message, écris en français : « Message en sérère non compris. »
+Mots reconnus par le dictionnaire sérère :
+{glossaire}"""
 
 
 def comprehension_instruction(ctx: ReadonlyContext) -> str:
-    return COMPREHENSION_PROMPT.replace("{langue}", user_language(ctx.state))
+    langue = user_language(ctx.state)
+    extra = ""
+    if langue == "serer":
+        glossaire = ctx.state.get("glossaire_sereer") or "(aucun mot reconnu)"
+        extra = COMPREHENSION_SERER.replace("{glossaire}", glossaire)
+    return COMPREHENSION_PROMPT.replace("{langue}", langue).replace("{serer}", extra)
 
 
 async def after_comprehension(callback_context: CallbackContext) -> None:
@@ -136,11 +158,13 @@ async def after_comprehension(callback_context: CallbackContext) -> None:
         result = Comprehension.model_validate_json(result).model_dump()
     langue = result.get("langue") if result.get("langue") in LANGUES else None
     texte_fr = result.get("texte_fr", "")
+    current = user_language(state)
     # Une position ou une ordonnance n'a pas de langue : on garde celle de l'utilisateur.
-    if langue and not state.get("langue_connue"):
+    # Gemini reconnaît mal le sérère : on ne le quitte que sur demande (« wolof », « pulaar »).
+    if langue and not state.get("langue_connue") and not (current == "serer" != langue):
         state["user:langue"] = langue
     else:
-        state["user:langue"] = user_language(state)
+        state["user:langue"] = current
     state["texte_fr"] = texte_fr
     # Poste de santé demandé sans position ni localité : il faut le bouton de partage.
     state["demander_position"] = (
@@ -161,9 +185,9 @@ async def after_comprehension(callback_context: CallbackContext) -> None:
 # ---------- Étape 2 : agent santé ----------
 
 SANTE_PROMPT = """Tu es SunuChat, l'assistant santé des familles du Sénégal sur WhatsApp. Tu parles
-uniquement wolof et pulaar : beaucoup de tes utilisateurs ne savent pas lire, alors toutes tes
-réponses partent en vocal. Tu réponds en français simple : ta réponse sera traduite en {langue}
-puis lue à voix haute.
+uniquement wolof, pulaar et sérère : beaucoup de tes utilisateurs ne savent pas lire, alors
+toutes tes réponses partent en vocal. Tu réponds en français simple : ta réponse sera traduite
+en {langue} puis lue à voix haute.
 
 Qui tu es : un agent de santé communautaire bienveillant, patient, qui parle simplement, comme
 à quelqu'un de sa famille. Tu ne juges jamais, tu rassures, tu encourages, et tu fais tout
@@ -180,8 +204,9 @@ demande qui tu es ou ce que tu sais faire, en 3 ou 4 phrases et sans liste) :
 - trouver le poste de santé le plus proche ;
 - en cas d'urgence, lui donner le numéro du SAMU, le 1515.
 On te parle en vocal : invite la personne à appuyer sur le micro et à te parler dans sa langue.
-Si on te demande quelles langues tu parles : wolof et pulaar, rien d'autre. Si on t'écrit en
-français, tu réponds quand même en wolof ou en pulaar.
+Si on te demande quelles langues tu parles : wolof, pulaar et sérère, rien d'autre. Pour changer
+de langue, il suffit de dire son nom (« wolof », « pulaar » ou « seereer »). Si on t'écrit en
+français, tu réponds quand même dans la langue de la personne.
 
 Règles :
 - Paludisme, dengue et vaccins : appuie-toi sur les passages des sources officielles ci-dessous
@@ -238,7 +263,7 @@ Règles :
   naissance est enregistrée, un rappel vocal part automatiquement la veille de chaque vaccin :
   dis-le. Si l'utilisateur veut des rappels sans avoir donné la date, demande-la.
 - Pour un rappel de médicament, utilise programmer_rappel : le rappel arrive en vocal.
-{maps}
+{maps}{serer}
 Date du jour : {date}
 Profil de l'utilisateur : {profil}
 {alerte}{demande_position}
@@ -255,6 +280,17 @@ le bouton qui arrive juste en dessous de ton message, pour que tu voies où il s
 que tu lui indiques le poste de santé le plus proche. Ne cite pas le texte du bouton (pas de
 « Envoyer la position ») : parle naturellement, comme à l'oral. Il peut aussi te dire le nom
 de son quartier ou de son village. La réponse est souvent écoutée en vocal : sois très concret."""
+
+
+SANTE_SERER = """
+IMPORTANT : ta réponse sera dite en sérère, et la traduction ne dispose que d'un dictionnaire
+de santé. Écris donc un français très simple : 3 ou 4 phrases courtes, une idée par phrase,
+avec des mots concrets (fièvre, ventre, tête, sang, remède, malade, guérir, enfant, eau,
+hôpital, poste de santé). Pas d'expression imagée ni de mot rare. Ces phrases ont une
+traduction sûre : reprends-les telles quelles quand elles disent exactement ce que tu veux
+dire, jamais pour le plaisir de les placer (« Cela va mieux, Dieu merci » ne se dit que si la
+personne va mieux) :
+{phrases}"""
 
 
 def sante_instruction(ctx: ReadonlyContext) -> str:
@@ -278,9 +314,14 @@ def sante_instruction(ctx: ReadonlyContext) -> str:
         if get_settings().google_maps_api_key
         else ""
     )
+    langue = user_language(state)
+    serer_rules = (
+        SANTE_SERER.replace("{phrases}", serer.format_phrases()) if langue == "serer" else ""
+    )
     return (
-        SANTE_PROMPT.replace("{langue}", user_language(state))
+        SANTE_PROMPT.replace("{langue}", langue)
         .replace("{maps}", maps)
+        .replace("{serer}", serer_rules)
         .replace("{date}", date.today().strftime("%d/%m/%Y"))
         .replace("{profil}", str(profil or "inconnu"))
         .replace("{alerte}", alerte)
@@ -500,8 +541,41 @@ tirets ni de guillemets. Relis-toi avant de répondre : chaque mot doit être bi
 """
 
 
-def traduction_instruction(ctx: ReadonlyContext) -> str:
-    langue = user_language(ctx.state)
+SERER_PROMPT = """Rends ce message en sérère du Sénégal (seereer-siin), pour qu'il soit lu à voix
+haute à quelqu'un qui ne sait pas lire. Tu connais mal le sérère : tu ne dois employer QUE les
+mots et les tournures des phrases attestées et du glossaire ci-dessous, tirés du dictionnaire
+sérère-français du Père Crétois. N'invente jamais un mot sérère : un mot absent de ces listes
+fait refuser toute ta réponse.
+- Quand une phrase du message a le sens d'une phrase attestée, recopie sa traduction telle quelle.
+- Emploie les mots du glossaire tels qu'ils sont écrits. La colonne entre parenthèses donne
+  la classe du nom : « o...ox » se dit « o cir ox » (le malade), « a...al » se dit
+  « a jir al » ; les exemples après le point-virgule montrent des phrases réelles.
+- Pour une idée que le glossaire ne couvre pas, garde les mots français que tout le monde
+  emploie au Sénégal (poste de santé, médicament, comprimé, vaccin, moustiquaire, SAMU), ou
+  dis l'idée plus simplement avec les mots du glossaire. Au moins la moitié des mots doivent
+  être sérères.
+- Garde le sens exact des consignes d'urgence, et les nombres en chiffres.
+- Phrases très courtes, chacune terminée par un point.
+Réponds uniquement avec le texte sérère.
+
+Phrases attestées (français → sérère) :
+{phrases}
+
+Glossaire (français → sérère) :
+{glossaire}
+
+Message :
+{reponse_fr}"""
+
+
+def traduction_prompt(langue: str, reponse_fr: str) -> str:
+    if langue == "serer":
+        glossaire = serer.format_glossary(serer.glossary(reponse_fr))
+        return (
+            SERER_PROMPT.replace("{phrases}", serer.format_phrases())
+            .replace("{glossaire}", glossaire)
+            .replace("{reponse_fr}", reponse_fr)
+        )
     alphabet = (
         "Écris en pulaar du Fuuta Tooro, tel qu'on le parle au Sénégal (vallée du fleuve : "
         "Podor, Matam, Kanel…), avec ses salutations (« No mbaɗ-ɗaa ? », « Jam tan »). "
@@ -515,8 +589,21 @@ def traduction_instruction(ctx: ReadonlyContext) -> str:
     return (
         TRADUCTION_PROMPT.replace("{langue}", langue)
         .replace("{alphabet}", alphabet)
-        .replace("{reponse_fr}", ctx.state.get("reponse_fr", ""))
+        .replace("{reponse_fr}", reponse_fr)
     )
+
+
+def translation_language(state) -> str:
+    """Langue de la réponse. Une consigne d'urgence ne part jamais dans un sérère que personne
+    n'a relu : elle part en wolof, tant que phrases.tsv n'a pas de phrases d'urgence validées."""
+    langue = user_language(state)
+    if langue == "serer" and state.get("alertes") and not serer.has_urgent_phrases():
+        return "wolof"
+    return langue
+
+
+def traduction_instruction(ctx: ReadonlyContext) -> str:
+    return traduction_prompt(translation_language(ctx.state), ctx.state.get("reponse_fr", ""))
 
 
 def _translation_config(s) -> types.GenerateContentConfig:
@@ -594,6 +681,121 @@ async def translation_fallback(
     )
 
 
+async def translate(reponse_fr: str, langue: str) -> str:
+    """Traduction hors pipeline (réponse sérère refusée → wolof), avec les modèles de secours."""
+    s = get_settings()
+    model = s.translation_model or s.fast_model
+    prompt = traduction_prompt(langue, reponse_fr)
+    try:
+        r = await _genai_client().aio.models.generate_content(
+            model=model, contents=prompt, config=_translation_config(s)
+        )
+        text = r.text or ""
+    except Exception as e:
+        r = await _generate_with_fallback(
+            model, e, prompt, types.GenerateContentConfig(temperature=0.2)
+        )
+        text = "".join(p.text or "" for p in (r.content.parts if r.content else []))
+    return text.strip()
+
+
+class Fidelite(BaseModel):
+    retraduction: str = Field(description="Le texte sérère retraduit en français, mot à mot.")
+    fidele: bool = Field(description="Toutes les consignes du message d'origine sont présentes.")
+    consignes_manquantes: list[str] = Field(
+        description="Consignes du message d'origine absentes ou déformées dans le texte sérère."
+    )
+
+
+FIDELITE_PROMPT = """Un texte sérère a été composé, mot par mot, avec un dictionnaire, pour dire un
+message de santé en français. Vérifie qu'il dit bien la même chose.
+1. Retraduis le texte sérère en français, mot à mot, à l'aide du sens des mots ci-dessous et
+   des phrases attestées. Ne devine pas : ce que le glossaire ne permet pas de comprendre
+   n'est pas dit.
+2. Compare avec le message d'origine. Le texte est fidèle seulement si chaque consigne de
+   santé y est, avec le même sens : ce qu'il faut faire ou ne pas faire, quand aller au poste
+   de santé ou à l'hôpital, les signes qui doivent inquiéter, les doses et les durées. Une
+   formule de politesse qui remplace une consigne, ou une consigne déformée, rend le texte
+   non fidèle. Les formules de politesse du message d'origine peuvent manquer.
+
+Phrases attestées (français → sérère) :
+{phrases}
+
+Sens des mots du texte sérère :
+{glossaire}
+
+Message d'origine :
+{reponse_fr}
+
+Texte sérère :
+{texte}"""
+
+
+async def check_meaning(reponse_fr: str, texte: str) -> Fidelite:
+    """Retraduction du sérère composé : les consignes de santé sont-elles toutes là ?"""
+    s = get_settings()
+    prompt = (
+        FIDELITE_PROMPT.replace("{phrases}", serer.format_phrases())
+        .replace("{glossaire}", serer.gloss(texte) or "(aucun mot reconnu)")
+        .replace("{reponse_fr}", reponse_fr)
+        .replace("{texte}", texte)
+    )
+    config = _config(s.translation_model or s.fast_model, temperature=0)
+    config.response_mime_type = "application/json"
+    config.response_schema = Fidelite
+    r = await _genai_client().aio.models.generate_content(
+        model=s.translation_model or s.fast_model, contents=prompt, config=config
+    )
+    return Fidelite.model_validate_json(r.text or "{}")
+
+
+async def after_traduction(callback_context: CallbackContext) -> None:
+    """Sérère : la réponse ne part que si chaque mot vient du dictionnaire et si, retraduite,
+    elle garde toutes les consignes ; sinon, elle part en wolof (mieux vaut un wolof juste
+    qu'un sérère inventé ou qui perd un conseil)."""
+    state = callback_context.state
+    if user_language(state) != "serer":
+        return
+    if translation_language(state) != "serer":
+        log.info("Urgence : réponse en wolof plutôt qu'en sérère non relu")
+        state["langue_reponse"] = translation_language(state)
+        return
+    reponse_fr = state.get("reponse_fr", "")
+    texte = state.get("reponse_finale", "")
+    verdict = serer.check(texte, reponse_fr)
+    # La version wolof se prépare pendant la vérification du sens : si le sérère est refusé,
+    # la personne n'attend pas une traduction de plus.
+    wolof = asyncio.create_task(translate(reponse_fr, "wolof"))
+    fidelite = None
+    if verdict.ok:
+        try:
+            fidelite = await check_meaning(reponse_fr, texte)
+        except Exception:
+            log.exception("Vérification du sens impossible : réponse en wolof")
+    serer.log_attempt(reponse_fr, texte, verdict, fidelite)
+    if fidelite and fidelite.fidele:
+        wolof.cancel()
+        state["langue_reponse"] = "serer"
+        return
+    if not verdict.ok:
+        log.warning(
+            "Sérère refusé (mots inconnus : %s ; part de sérère : %.0f %%) : réponse en wolof",
+            ", ".join(verdict.unknown[:10]) or "aucun",
+            verdict.serer_share * 100,
+        )
+    elif fidelite:
+        log.warning(
+            "Sérère refusé (consignes perdues : %s) : réponse en wolof",
+            " ; ".join(fidelite.consignes_manquantes) or "non précisé",
+        )
+    try:
+        state["reponse_finale"] = await wolof
+    except Exception:
+        log.exception("Traduction wolof impossible")
+        state["reponse_finale"] = ""  # main.py envoie alors le message d'excuse
+    state["langue_reponse"] = "wolof"
+
+
 # ---------- Assemblage ----------
 
 
@@ -638,6 +840,7 @@ def build_app() -> App:
         include_contents="none",
         output_key="reponse_finale",
         generate_content_config=_translation_config(s),
+        after_agent_callback=after_traduction,
         on_model_error_callback=translation_fallback,
     )
     pipeline = SequentialAgent(name="sunuchat", sub_agents=[comprehension, sante, traduction])
@@ -669,7 +872,8 @@ def runner() -> Runner:
 async def answer(
     user_id: str, text: str, position: dict | None = None, keep_language: bool = False
 ) -> tuple[str, str]:
-    """Fait tourner l'agent sur un message. Renvoie (réponse, langue de l'utilisateur).
+    """Fait tourner l'agent sur un message. Renvoie (réponse, langue de la voix) : la langue
+    de l'utilisateur, ou le wolof quand une réponse sérère n'a pas passé la vérification.
 
     `position` : {"lat", "lon"} quand l'utilisateur vient de partager sa position WhatsApp.
     `keep_language` : le texte n'est pas de l'utilisateur (lecture d'une ordonnance) : on
@@ -680,6 +884,10 @@ async def answer(
     message = types.Content(role="user", parts=[types.Part(text=text)])
     delta = {"reponse_fr": "", "reponse_finale": "", "alertes": [], "passages": ""}
     delta["langue_connue"] = bool(position) or keep_language
+    delta["langue_reponse"] = ""
+    # Sérère : le sens des mots reconnus par le dictionnaire, pour l'étape de compréhension.
+    sereer = user_language(session.state) == "serer" and not delta["langue_connue"]
+    delta["glossaire_sereer"] = serer.gloss(text) if sereer else ""
     if position:
         delta["user:position"] = position
     # Jamais d'attente infinie (modèle bloqué) : au-delà, main.py envoie un message d'excuse.
@@ -698,13 +906,15 @@ async def answer(
         app_name=memory.APP_NAME, user_id=user_id, session_id=session.id
     )
     state = session.state
+    if state.get("langue_reponse") and not state.get("reponse_finale"):
+        raise RuntimeError("Réponse sérère refusée et traduction wolof impossible")
     reply = (state.get("reponse_finale") or state.get("reponse_fr") or "").strip()
     if not reply:
         raise RuntimeError("L'agent n'a pas produit de réponse")
     if state.get("alertes"):
         # Le numéro reste en chiffres en fin de message, quelle que soit la langue.
         reply += f"\n\n🚑 SAMU : {get_settings().samu_number}"
-    langue = user_language(state)
+    langue = state.get("langue_reponse") or user_language(state)
     actions = _pending_actions.setdefault(user_id, [])
     if not actions and state.get("demander_position"):
         actions.append({"type": "location_request"})

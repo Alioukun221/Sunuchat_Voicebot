@@ -19,6 +19,7 @@ data/index/
 data/cache/
 data/raw/sources/
 data/chroma/
+data/serer_relecture.jsonl
 
 .DS_Store
 

@@ -38,8 +38,9 @@ def test_buttons_list_contact_template_payloads(monkeypatch):
     assert template["template"]["components"][1]["parameters"][0]["text"] == "6 semaines"
 
 
-def test_texts_only_in_wolof_and_pulaar():
-    assert textes.LANGUES == ("wolof", "pulaar")
+def test_texts_in_wolof_and_pulaar():
+    # Le sérère n'a pas encore ses textes fixes : textes.texte donne alors le wolof.
+    assert textes.LANGUES == ("wolof", "pulaar", "serer")
     for nom in (
         "ERREUR",
         "VOCAL_KO",
@@ -51,7 +52,7 @@ def test_texts_only_in_wolof_and_pulaar():
         "REINSCRIT",
     ):
         assert set(getattr(textes, nom)) == {"wolof", "pulaar"}, nom
-    for langue in textes.LANGUES:
+    for langue in ("wolof", "pulaar"):
         assert "{medicament}" in textes.RAPPEL_MEDICAMENT[langue]
         assert "{jour}" in textes.RAPPEL_VACCIN[langue]
 
